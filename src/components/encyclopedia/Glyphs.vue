@@ -29,11 +29,5 @@
       reconocer estas incluso si no los dominan. Fragmo Vok Otneg Tebor Raíz de transmutación Raíz
       de invocación Código de colores
     </p>
-
-    <p>
-      ____________________________________________________________________________________________________________________________________________________________________________________________
-      Estos son los colores que identifican diversos conceptos del mundo de Lytflos. Folia: #ff0114
-      Rama: #bc54ee Rama: #bc54ee Rama: #bc54ee Rama: #bc54ee
-    </p>
   </section>
 </template>

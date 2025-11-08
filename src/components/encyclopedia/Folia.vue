@@ -1,6 +1,10 @@
+<script setup>
+const name = '☘ Folia ☘';
+</script>
+
 <template>
-  <section id="folia">
-    <h1 id="folia-heading">Folia ☘</h1>
+  <section>
+    <h1 id="folia" :name="name">{{ name }}</h1>
     <hr />
     <p>
       La característica principal de estas criaturas es su capacidad de manipular
@@ -158,10 +162,10 @@
     </p>
     <p>
       Cada expresión tiene ciertas ventajas y desventajas con respecto a las otras, creando un juego
-      de piedra, papel, y tijeras: los <span class="style-elements">elementos</span> naturales
-      superan el <span class="style-pollen">polen estelar</span>, el
-      <span class="style-pollen">polen</span> no puede ser mutado por
-      <span class="style-dendrites">dendritas</span>, y las
+      de piedra, papel, y tijeras: los
+      <span class="style-elements">elementos naturales</span> superan el
+      <span class="style-pollen">polen estelar</span>, el <span class="style-pollen">polen</span> no
+      puede ser mutado por <span class="style-dendrites">dendritas</span>, y las
       <span class="style-dendrites">dendritas</span> afectan los
       <span class="style-elements">elementos</span>.
     </p>

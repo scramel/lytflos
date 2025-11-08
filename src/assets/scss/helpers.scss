@@ -1,0 +1,73 @@
+/* color variables for lore concepts */
+:root {
+  /* general concepts */
+  --color-folia: #ff8114;
+  --color-startrail: #ff8114;
+  --color-roots: #ff8114;
+  --color-nodes: #23aecc;
+  /* folia branches */
+  --color-branches: #bc54ee;
+  --color-caudate: #ff035e;
+  --color-flowering: #04f49e;
+  --color-winged: #0193ff;
+  /* branch roots */
+  --color-pollen: #ffb23b;
+  --color-dendrites: #ff035e;
+  --color-elements: #00ffff;
+  /* creatures */
+  --color-lucero: #04f49e;
+  --color-umbria: #ff035e;
+  --color-natur: #04f49e;
+  --color-negativity: #ff035e;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-folia: #ff4d46;
+    --color-branches: #a132db;
+  }
+}
+
+/* lore concept helper classes - use CSS variables defined above */
+.lore {
+  font-weight: 600;
+}
+.style-folia {
+  color: var(--color-folia);
+}
+.style-branches {
+  color: var(--color-branches);
+}
+.style-caudate {
+  color: var(--color-caudate);
+}
+.style-flowering {
+  color: var(--color-flowering);
+}
+.style-winged {
+  color: var(--color-winged);
+}
+.style-pollen {
+  color: var(--color-pollen);
+}
+.style-dendrites {
+  color: var(--color-dendrites);
+}
+.style-elements {
+  color: var(--color-elements);
+}
+.style-startrail {
+  color: var(--color-startrail);
+}
+.style-roots {
+  color: var(--color-roots);
+}
+.style-natur {
+  color: var(--color-natur);
+}
+.style-negativity {
+  color: var(--color-negativity);
+}
+.style-nodes {
+  color: var(--color-nodes);
+}

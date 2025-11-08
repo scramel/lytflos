@@ -1,0 +1,49 @@
+@use './base.scss';
+@use './helpers.scss';
+@use './fonts.scss';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 3rem;
+  font-weight: normal;
+  transition: 0.2s;
+  * {
+    transition: 0.2s;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Rosemary;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: var(--vt-c-text-dark-2);
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #app {
+    padding: 1.5rem;
+  }
+}

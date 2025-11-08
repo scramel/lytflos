@@ -135,61 +135,166 @@
       hasta el final de la escena a menos que se indique lo contrario.
     </p>
 
-    <p>
-      - Accel Acelera el crecimiento de un organismo. Es posible de utilizar en criaturas incluyendo
-      folia, pero les acorta la vida. Excluye estelar accel. - Ad Copia temporalmente una aptitud
-      que esté siendo usada por el blanco, por ejemplo la capacidad de manejar cierto dispositivo u
-      arma. - Afinidad estelar Permite percibir estela como un sexto sentido, incluyendo núcleos, y
-      también permite comparar fragmentos de iris cual huellas dactilares. - Afinidad espiritual
-      Permite percibir el ánimo como un sexto sentido, incluyendo en criaturas y objetos, así como
-      identificar negatividad en las personas. - Aptitud intuitiva Otorga temporalmente toda
-      información sobre el funcionamiento y composición atómica de un objeto. Es posible replicarlo
-      después con polen estelar. - Alas solares La materialización de alas o aletas en el espaldar
-      de un folia. Los alados normalmente aprenden este nodo instintivamente. - Aquiles Maximiza una
-      característica del usuario (capacidad, resistencia, etc.) a elección, pero minimiza otra al
-      azar. - Capullo Por un día, bloquea el uso de la antesis de un folia, o bloquea el uso de un
-      espírio. En cualquier caso, el usuario también bloquea el suyo de tenerlo. - Comando natural
-      Al accionarse, náturs cercanos sienten afinidad inicial por el usuario, y estarán
-      predispuestos a obedecer este al menos una vez. - Corazón abierto El usuario transmite sus
-      sentimientos a quien toca, y a cambio recibe los del objetivo. Ninguna emoción es reemplazada
-      o restada, solo sumadas. - Espejo Copia y utiliza cualquier nodo y glifo activo en el blanco
-      al momento de accionarse. - Floración Libera la antesis del objetivo asumiendo que este tiene
-      estela suficiente para hacerlo. Ignora capullo. - Forja de espírios La capacidad de sellar el
-      ánimo impregnado en un objeto en el mismo, creando un espírio. El nodo del espírio suele ser
-      impredecible. - Fusión Luego que un folia se une a un nátur, este nodo permite al segundo
-      desunirse sin dañarse. - Glifos Un lenguaje escrito y/o verbal que acciona mutaciones pequeñas
-      y sencillas, como hacer levitar objetos. Véase Glifos ⊙. - Invocación Crea una forma de vida a
-      base de estela, y le otorga una raíz y nodo del usuario. Desaparece después de usar todas sus
-      energías. - Inyección Estelar Transfiere forzosamente una cantidad arbitraria de estela del
-      usuario a un objetivo. A diferencia de la inyección estelar común, no requiere contacto
-      físico. - Luz Cuando el crisalismo del usuario llega a su punto de quiebre, este nodo
-      automáticamente extiende su vida hasta un daño más. Esencialmente protege de antesises. -
-      Personalización Reemplaza los sentimientos del objetivo por una emoción al azar (o a elección
-      si el usuario es nivel 3). Puede usarse para cancelar el nodo de un espírio. - Spray auxiliar
-      Limpia estela, nodos, y glifos en una superficie, y sirve de antiséptico. Prácticamente
-      cancela toda magia excepto ánimo, antesises, y raíces. - Teleportación Hace aparecer al
-      usuario en una localización arbitraria dentro de su capacidad. Las plataformas transmutadoras
-      usan un principio parecido. - Tentempié auxiliar Limpia al usuario de nodos y glifos
-      (incluídos los que haya usado en sí mismo), además de bacterias e infecciones internas que
-      podría tener. - Píldora de la suerte Maximiza una estadística al azar o multiplica x2 dos
-      estadísticas al azar. De estas dos posibilidades, una es elegida también al azar. -
-      Manipulación climática En niveles menores a 3, el resultado es al azar excepto si un nátur u
-      otro alado está de apoyo. Posibilidades: lluvia, tormenta, ventisca, tornado, granizo, nieve.
-      - Mutación Utilizando una muestra de ADN del objetivo, el usuario puede imitar su apariencia y
-      obtener algunas de sus aptitudes, pero perdiendo algunas de su rama. - Natúreo Permite
-      entender y hablar el lenguaje de los náturs. Cuenta como efecto puesto que esta habilidad
-      funciona pasivamente y puede copiarse usando espejo. - Reflector Devuelve cualquier raíz al
-      doble de potencia y velocidad, asumiendo que el usuario usa una cantidad de energía
-      equivalente a la original. - Refuerzo Mejora la resistencia y eficiencia de un objeto, o
-      maximiza la resistencia de un folia si se usa en uno. Este nodo es permanente en objetos. -
-      Semilla Solar Absorbe las burbujas de estela cercanas si las hay. De ser exitoso, el objetivo
-      restaura la mitad de su estela, e impide a otros usar el mismo nodo. - Venganza Maximiza la
-      capacidad del usuario, pero le hace entrar en un estado de inestabilidad mental; querrá atacar
-      todo a su paso. Viene con Umbría. - Sensibilidad auditiva Percepción increíble del sonido sin
-      convertirlo en un problema, es decir que los ruidos no aturden al usuario. Nodo exclusivo de
-      mefrinos. - Accel Estelar Acelera el ciclo de vida de una raíz, cortándolo a la mitad pero
-      duplicando su eficiencia. Puede ser usado contra invocaciones. Excluye Accel.
-    </p>
+    <ul class="nodes-list">
+      <li>
+        <h3>- Accel</h3>
+        Acelera el crecimiento de un organismo. Es posible de utilizar en criaturas incluyendo
+        folia, pero les acorta la vida. Excluye estelar accel.
+      </li>
+      <li>
+        <h3>- Ad</h3>
+        Copia temporalmente una aptitud que esté siendo usada por el blanco, por ejemplo la
+        capacidad de manejar cierto dispositivo u arma.
+      </li>
+      <li>
+        <h3>- Afinidad estelar</h3>
+        Permite percibir estela como un sexto sentido, incluyendo núcleos, y también permite
+        comparar fragmentos de iris cual huellas dactilares.
+      </li>
+      <li>
+        <h3>- Afinidad espiritual</h3>
+        Permite percibir el ánimo como un sexto sentido, incluyendo en criaturas y objetos, así como
+        identificar negatividad en las personas.
+      </li>
+      <li>
+        <h3>- Aptitud intuitiva</h3>
+        Otorga temporalmente toda información sobre el funcionamiento y composición atómica de un
+        objeto. Es posible replicarlo después con polen estelar.
+      </li>
+      <li>
+        <h3>- Alas solares</h3>
+        La materialización de alas o aletas en el espaldar de un folia. Los alados normalmente
+        aprenden este nodo instintivamente.
+      </li>
+      <li>
+        <h3>- Aquiles</h3>
+        Maximiza una característica del usuario (capacidad, resistencia, etc.) a elección, pero
+        minimiza otra al azar.
+      </li>
+      <li>
+        <h3>- Capullo</h3>
+        Por un día, bloquea el uso de la antesis de un folia, o bloquea el uso de un espírio. En
+        cualquier caso, el usuario también bloquea el suyo de tenerlo.
+      </li>
+      <li>
+        <h3>- Comando natural</h3>
+        Al accionarse, náturs cercanos sienten afinidad inicial por el usuario, y estarán
+        predispuestos a obedecer este al menos una vez.
+      </li>
+      <li>
+        <h3>- Corazón abierto</h3>
+        El usuario transmite sus sentimientos a quien toca, y a cambio recibe los del objetivo.
+        Ninguna emoción es reemplazada o restada, solo sumadas.
+      </li>
+      <li>
+        <h3>- Espejo</h3>
+        Copia y utiliza cualquier nodo y glifo activo en el blanco al momento de accionarse.
+      </li>
+      <li>
+        <h3>- Floración</h3>
+        Libera la antesis del objetivo asumiendo que este tiene estela suficiente para hacerlo.
+        Ignora capullo.
+      </li>
+      <li>
+        <h3>- Forja de espírios</h3>
+        La capacidad de sellar el ánimo impregnado en un objeto en el mismo, creando un espírio. El
+        nodo del espírio suele ser impredecible.
+      </li>
+      <li>
+        <h3>- Fusión</h3>
+        Luego que un folia se une a un nátur, este nodo permite al segundo desunirse sin dañarse.
+      </li>
+      <li>
+        <h3>- Glifos</h3>
+        Un lenguaje escrito y/o verbal que acciona mutaciones pequeñas y sencillas, como hacer
+        levitar objetos. Véase Glifos ⊙.
+      </li>
+      <li>
+        <h3>- Invocación</h3>
+        Crea una forma de vida a base de estela, y le otorga una raíz y nodo del usuario. Desaparece
+        después de usar todas sus energías.
+      </li>
+      <li>
+        <h3>- Inyección Estelar</h3>
+        Transfiere forzosamente una cantidad arbitraria de estela del usuario a un objetivo. A
+        diferencia de la inyección estelar común, no requiere contacto físico.
+      </li>
+      <li>
+        <h3>- Luz</h3>
+        Cuando el crisalismo del usuario llega a su punto de quiebre, este nodo automáticamente
+        extiende su vida hasta un daño más. Esencialmente protege de antesises.
+      </li>
+      <li>
+        <h3>- Personalización</h3>
+        Reemplaza los sentimientos del objetivo por una emoción al azar (o a elección si el usuario
+        es nivel 3). Puede usarse para cancelar el nodo de un espírio.
+      </li>
+      <li>
+        <h3>- Spray auxiliar</h3>
+        Limpia estela, nodos, y glifos en una superficie, y sirve de antiséptico. Prácticamente
+        cancela toda magia excepto ánimo, antesises, y raíces.
+      </li>
+      <li>
+        <h3>- Teleportación</h3>
+        Hace aparecer al usuario en una localización arbitraria dentro de su capacidad. Las
+        plataformas transmutadoras usan un principio parecido.
+      </li>
+      <li>
+        <h3>- Tentempié auxiliar</h3>
+        Limpia al usuario de nodos y glifos (incluídos los que haya usado en sí mismo), además de
+        bacterias e infecciones internas que podría tener.
+      </li>
+      <li>
+        <h3>- Píldora de la suerte</h3>
+        Maximiza una estadística al azar o multiplica x2 dos estadísticas al azar. De estas dos
+        posibilidades, una es elegida también al azar.
+      </li>
+      <li>
+        <h3>- Manipulación climática</h3>
+        En niveles menores a 3, el resultado es al azar excepto si un nátur u otro alado está de
+        apoyo. Posibilidades: lluvia, tormenta, ventisca, tornado, granizo, nieve.
+      </li>
+      <li>
+        <h3>- Mutación</h3>
+        Utilizando una muestra de ADN del objetivo, el usuario puede imitar su apariencia y obtener
+        algunas de sus aptitudes, pero perdiendo algunas de su rama.
+      </li>
+      <li>
+        <h3>- Natúreo</h3>
+        Permite entender y hablar el lenguaje de los náturs. Cuenta como efecto puesto que esta
+        habilidad funciona pasivamente y puede copiarse usando espejo.
+      </li>
+      <li>
+        <h3>- Reflector</h3>
+        Devuelve cualquier raíz al doble de potencia y velocidad, asumiendo que el usuario usa una
+        cantidad de energía equivalente a la original.
+      </li>
+      <li>
+        <h3>- Refuerzo</h3>
+        Mejora la resistencia y eficiencia de un objeto, o maximiza la resistencia de un folia si se
+        usa en uno. Este nodo es permanente en objetos.
+      </li>
+      <li>
+        <h3>- Semilla Solar</h3>
+        Absorbe las burbujas de estela cercanas si las hay. De ser exitoso, el objetivo restaura la
+        mitad de su estela, e impide a otros usar el mismo nodo.
+      </li>
+      <li>
+        <h3>- Venganza</h3>
+        Maximiza la capacidad del usuario, pero le hace entrar en un estado de inestabilidad mental;
+        querrá atacar todo a su paso. Viene con Umbría.
+      </li>
+      <li>
+        <h3>- Sensibilidad auditiva</h3>
+        Percepción increíble del sonido sin convertirlo en un problema, es decir que los ruidos no
+        aturden al usuario. Nodo exclusivo de mefrinos.
+      </li>
+      <li>
+        <h3>- Accel Estelar</h3>
+        Acelera el ciclo de vida de una raíz, cortándolo a la mitad pero duplicando su eficiencia.
+        Puede ser usado contra invocaciones. Excluye Accel.
+      </li>
+    </ul>
 
     <h2>~ Fenómenos Estelares</h2>
     <p>

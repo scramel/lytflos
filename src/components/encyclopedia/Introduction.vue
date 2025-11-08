@@ -1,6 +1,10 @@
+<script setup>
+const name = '~ Introducción ~';
+</script>
+
 <template>
-  <section id="introduction">
-    <h1 id="introduction-heading">Introducción</h1>
+  <section>
+    <h1 id="introduction" :name="name">{{ name }}</h1>
     <hr />
     <p>
       En Lytflos, año 29XX, existe una normalmente pacífica civilización de adorables plantas
