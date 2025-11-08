@@ -7,7 +7,7 @@ import BackgroundImage from '@/components/BackgroundImage.vue';
   <BackgroundImage />
   <header>
     <!-- <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" /> -->
-    <img src="@/assets/images/folia-logo.png" alt="Folia logo" />
+    <img src="/images/folia-logo.png" alt="Folia logo" />
     <!-- <nav>
       <RouterLink to="/">Home</RouterLink>
       <RouterLink to="/about">About</RouterLink>

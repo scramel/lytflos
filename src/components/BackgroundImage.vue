@@ -1,5 +1,5 @@
 <template>
-  <img src="@/assets/images/background-image.jpg" alt="Background image" />
+  <img src="/images/background-image.jpg" alt="Background image" />
 </template>
 
 <style lang="scss" scoped>
