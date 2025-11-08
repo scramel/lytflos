@@ -13,4 +13,5 @@ export default defineConfig({
     },
   },
   publicPath: '/lytflos/',
+  base: '/lytflos/',
 });
