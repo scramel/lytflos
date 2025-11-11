@@ -39,113 +39,22 @@ const name = '☆ Estela ☆';
       relevante para el ciclo estelar y es usado para labores de investigación científica.
     </p>
 
-    <h2>~ Leyes</h2>
-    <ol>
-      <li>
-        <p>
-          <b>Lo que se hace siempre se deshace:</b> Las creaciones hechas con estela nunca son
-          permanentes y siempre se disolverán en fragmentos de iris.
-        </p>
-        <p>
-          <small>
-            Por otra parte, traslaciones y mutaciones sí permanecen después de hacerse.
-          </small>
-        </p>
-      </li>
-      <li>
-        <p>
-          <b>Lo que aparece debe mantenerse:</b> Las creaciones y traslaciones hechas con estela se
-          mantienen ocurriendo hasta que el suministro se interrumpe.
-        </p>
-        <p>
-          <small>
-            Las alteraciones hechas con <span class="style-dendrites">dendritas</span> se realizan
-            por shots y no requieren ser mantenidas, por lo que son permanentes. Los glifos, por
-            otra parte, generalmente son temporales.
-          </small>
-        </p>
-      </li>
-      <li>
-        <p>
-          <b>Lo que materialices va al aire libre:</b> Las creaciones hechas con estela no pueden
-          aparecer dentro de una masa.
-        </p>
-        <p>
-          <small>
-            Sí es posible inyectar estela a una masa o transferirla de una a otra. Hay reglas
-            adicionales para inyectar o transferir estela entre
-            <span class="style-folia">folia</span>.
-          </small>
-        </p>
-      </li>
-      <li>
-        <p>
-          <b>Lo que cedes nunca vuelve:</b> La estela que los <span class="style-folia">folia</span>
-          expulsan se vuelve fragmentos de iris, que no es absorbible por ellos hasta que dichos
-          fragmentos sean convertidos en burbujas de oro.
-        </p>
-        <p>
-          <small> Véase ciclo estelar. </small>
-        </p>
-      </li>
-      <li>
-        <p>
-          <b>Quienes mutan a otros no inmutan:</b> Es imposible usar estela para alterar o trasladar
-          un <span class="style-folia">folia</span> además de uno mismo, ni siquiera usando nodos,
-          <span class="style-dendrites">dendritas</span>, o
-          <span class="style-dendrites">glifos</span>, excepto si el
-          <span class="style-folia">folia</span> lo permite.
-        </p>
-      </li>
-    </ol>
-
-    <h2>~ Núcleo</h2>
-    <p>
-      Se refiere al espacio donde se almacena la estela, parecido a como las baterías almacenan sus
-      cargas eléctricas. Todo núcleo pertenece a una masa, pero no todas las masas poseen un núcleo.
-      A veces puede darse que un folia nazca ausente de núcleo sin razón aparente. Mientras mayor
-      rareza tenga la masa u recipiente del núcleo, mayores cantidades de estela puede almacenar. En
-      el caso de los folia, sus conocimientos cuentan como un aspecto que puede aumentar su rareza.
-      Es muy común, especialmente en caudados, portar piedras preciosas como medio de almacenamiento
-      de estela debido a la rareza y belleza de estas. Por lo general, dichas piedras se encuentran
-      en puntas de varitas, o incrustadas en báculos, aunque basta con llevarlas de accesorio. No es
-      posible alterar un folia con núcleos excepto si ellos voluntariamente realizan lo que es
-      llamado abrir sus núcleos, que es permitir fragmentos de iris ingresar en vez de solamente
-      burbujas de oro.
-    </p>
-
-    <h2>~ Fragmentos de iris y burbujas de oro</h2>
-    <p>
-      La estela pura puede tomar dos formas: fragmentos y burbujas. Cuando estela es expulsada de un
-      <span class="style-folia">folia</span>, automáticamente toma forma de partículas vidriosas y
-      brillantes (incluso en <span class="style-pollen">polen estelar</span>; sencillamente deja de
-      ser evidente), y estas partículas brillan de color del iris de quien provino, dando lugar al
-      nombre fragmentos de iris. Los fragmentos de iris solamente pueden ser absorbidos por plantas
-      distintas de los <span class="style-folia">folia</span>, y si a dichas plantas les sobra
-      estela, entonces expulsan el mismo en forma de partículas que asemejan luciérnagas, dando
-      lugar al nombre burbujas de oro. Estas burbujas sí pueden ser absorbidas por
-      <span class="style-folia">folia</span>, dando lugar a un ciclo. A este proceso cíclico se le
-      denomina ciclo estelar.
-    </p>
-
     <h2>~ Raíces</h2>
     <p>
       Cuando alguien logra especializar su uso de la estela en un campo específico, se dice que
       obtuvo una raíz. A veces el término incluye también especializaciones del ánimo. Un folia
       puede teóricamente aprender cuantos quiera, pero solo podrá evocar hasta tres al mismo tiempo,
       y necesitará descansar un rato si quiere usar una raíz distinta, o de lo contrario su estela
-      se volverá inestable. Una raíz, a diferencia de un nodo, tiene flexibilidad creativa debido a
-      que es posible moldear arbitrariamente su manifestación, mientras que el segundo siempre tiene
-      resultados fijos. Una rama puede aprender las raíces de otras, pero durante su primer nivel
-      está limitada a aprender de la suya o neutras. Los mefrinos son los únicos folia que pueden
-      aprender cualquier raíz desde el principio.
+      se volverá inestable.
     </p>
-
-    <h3>- Polen estelar</h3>
     <p>
-      Florecidos Facilidad en materializar átomos u ondas de características específicas a toda
-      velocidad. El folia se especializa en un material sólido, líquido, gaseoso, o plasmático, o en
-      ondas sea gravitatorias, calóricas, o sonoras.
+      Una raíz, a diferencia de un nodo, tiene flexibilidad creativa debido a que es posible moldear
+      arbitrariamente su manifestación, mientras que el segundo siempre tiene resultados fijos.
+    </p>
+    <p>
+      Una rama puede aprender las raíces de otras, pero durante su primer nivel está limitada a
+      aprender de la suya o neutras. Los mefrinos son los únicos folia que pueden aprender cualquier
+      raíz desde el principio.
     </p>
 
     <h3>- Manipulación elemental</h3>
@@ -164,31 +73,54 @@ const name = '☆ Estela ☆';
       (temperatura, gravedad, luz).
     </p>
 
-    <h2>~ Antesis</h2>
+    <h3>- Polen estelar</h3>
     <p>
-      Se considera la culminación de la especialización de una persona, representada en una
-      aplicación de estela, ánimo, o ambas, que es muy avanzada y personal. Bien podría asociarse al
-      “movimiento especial” de un personaje de videojuegos. Normalmente las antesises requieren al
-      menos la mitad de la estela almacenado en un folia para materializarse, pero el costo puede
-      variar dependiendo de la complejidad de la antesis.
+      Florecidos Facilidad en materializar átomos u ondas de características específicas a toda
+      velocidad. El folia se especializa en un material sólido, líquido, gaseoso, o plasmático, o en
+      ondas sea gravitatorias, calóricas, o sonoras.
     </p>
 
     <h2>~ Nodos</h2>
     <p>
-      Aplicaciones muy específicas de la estela que no requieren aprendizaje profundo. Similar a las
+      Aplicaciones muy específicas de estela que no requieren aprendizaje profundo. Similar a las
       raíces, un folia puede manejar hasta tres al mismo tiempo. Si un folia quiere utilizar un nodo
-      en otro, el segundo debe abrir su núcleo. Una rama puede aprender los nodos de otros, pero
-      durante su primer nivel está limitado a aprender de la suya o neutros. Los mefrinos son los
-      únicos folia que pueden aprender cualquiera desde el principio. Si un folia insiste en
-      aprender un nodo que no es compatible con su rama, este contará como raíz. Esta práctica no es
-      común. El color de resaltado indica exclusividad: alado es azul, caudado es rojo, y florecido
-      es verde. Si no hay resaltado, indica neutralidad: cualquier rama puede utilizarlo. Algunos
-      nodos están activos pasivamente. Un nodo usualmente necesita al menos una quinta parte de la
-      estela almacenado en un folia para ser activado, pero puede variar dependiendo de sus
-      especificaciones. En escenas de enfrentamientos, los personajes pueden usar sus nodos solo una
-      vez, y aquellos nodos que sean duraderos (ej. que cambien estadísticas) permanecen activos
-      hasta el final de la escena a menos que se indique lo contrario.
+      en otro, el segundo debe abrir su núcleo.
     </p>
+    <p>
+      Una rama puede aprender los nodos de otros, pero durante su primer nivel está limitado a
+      aprender de la suya o neutros. Los mefrinos son los únicos folia que pueden aprender
+      cualquiera desde el principio.
+    </p>
+    <ol>
+      <li>
+        <p>
+          Si un folia insiste en aprender un nodo que no es compatible con su rama, este contará
+          como raíz. Esta práctica no es común.
+        </p>
+      </li>
+      <li>
+        <p>
+          El color de resaltado indica exclusividad: alado es azul, caudado es rojo, y florecido es
+          verde. Si no hay resaltado, indica neutralidad: cualquier rama puede utilizarlo.
+        </p>
+      </li>
+      <li>
+        <p>Algunos nodos están activos pasivamente.</p>
+      </li>
+      <li>
+        <p>
+          Un nodo usualmente necesita al menos una quinta parte de la estela almacenada en un folia
+          para ser activado, pero puede variar dependiendo de sus efectos.
+        </p>
+      </li>
+      <li>
+        <p>
+          En escenas de enfrentamientos, los personajes pueden usar sus nodos solo una vez, y
+          aquellos nodos que sean duraderos (ej. que cambien estadísticas) permanecen activos hasta
+          el final de la escena a menos que se indique lo contrario.
+        </p>
+      </li>
+    </ol>
 
     <ul class="nodes-list">
       <li>
@@ -351,6 +283,52 @@ const name = '☆ Estela ☆';
       </li>
     </ul>
 
+    <h2>~ Antesis</h2>
+    <p>
+      Se considera la culminación de la especialización de una persona, representada en una
+      aplicación de estela, ánimo, o ambas, que es muy avanzada y personal. Bien podría asociarse al
+      “movimiento especial” de un personaje de videojuegos. Normalmente las antesises requieren al
+      menos la mitad de la estela almacenado en un folia para materializarse, pero el costo puede
+      variar dependiendo de la complejidad de la antesis.
+    </p>
+
+    <h2>~ Núcleo</h2>
+    <p>
+      Se refiere al espacio donde se almacena la estela, parecido a como las baterías almacenan sus
+      cargas eléctricas. Todo núcleo pertenece a una masa, pero no todas las masas poseen un núcleo.
+      A veces puede darse que un folia nazca ausente de núcleo sin razón aparente.
+    </p>
+    <p>
+      Mientras mayor rareza tenga la masa u recipiente del núcleo, mayores cantidades de estela
+      puede almacenar. En el caso de los folia, sus conocimientos cuentan como un aspecto que puede
+      aumentar su rareza. Es muy común, especialmente en caudados, portar piedras preciosas como
+      medio de almacenamiento de estela debido a la rareza y belleza de estas. Por lo general,
+      dichas piedras se encuentran en puntas de varitas, o incrustadas en báculos, aunque basta con
+      llevarlas de accesorio.
+    </p>
+    <p>
+      No es posible alterar un folia con núcleos excepto si ellos voluntariamente realizan lo que es
+      llamado abrir sus núcleos, que es permitir fragmentos de iris ingresar en vez de solamente
+      burbujas de oro.
+    </p>
+
+    <h2>~ Fragmentos de iris y burbujas de oro</h2>
+    <p>
+      La estela pura puede tomar dos formas: fragmentos y burbujas. Cuando estela es expulsada de un
+      <span class="style-folia">folia</span>, automáticamente toma forma de partículas vidriosas y
+      brillantes (incluso en <span class="style-pollen">polen estelar</span>; sencillamente deja de
+      ser evidente), y estas partículas brillan de color del iris de quien provino, dando lugar al
+      nombre fragmentos de iris.
+    </p>
+    <p>
+      Los fragmentos de iris solamente pueden ser absorbidos por plantas distintas de los
+      <span class="style-folia">folia</span>, y si a dichas plantas les sobra estela, entonces
+      expulsan el mismo en forma de partículas que asemejan luciérnagas, dando lugar al nombre
+      burbujas de oro. Estas burbujas sí pueden ser absorbidas por
+      <span class="style-folia">folia</span>, dando lugar a un ciclo. A este proceso cíclico se le
+      denomina ciclo estelar.
+    </p>
+
     <h2>~ Fenómenos Estelares</h2>
     <p>
       Distintos materiales en el mundo reaccionan al ser inyectados con estela. Es útil saber estas
@@ -374,6 +352,66 @@ const name = '☆ Estela ☆';
       Plevravisor: a partir del mismo principio que con las bolas espejo y varios otros ajustes, se
       asemeja la funcionalidad de los televisores. PV para acortar.
     </p>
+
+    <h2>~ Leyes</h2>
+    <ol>
+      <li>
+        <p>
+          <b>Lo que se hace siempre se deshace:</b> Las creaciones hechas con estela nunca son
+          permanentes y siempre se disolverán en fragmentos de iris.
+        </p>
+        <p>
+          <small>
+            Por otra parte, traslaciones y mutaciones sí permanecen después de hacerse.
+          </small>
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Lo que aparece debe mantenerse:</b> Las creaciones y traslaciones hechas con estela se
+          mantienen ocurriendo hasta que el suministro se interrumpe.
+        </p>
+        <p>
+          <small>
+            Las alteraciones hechas con <span class="style-dendrites">dendritas</span> se realizan
+            por shots y no requieren ser mantenidas, por lo que son permanentes. Los glifos, por
+            otra parte, generalmente son temporales.
+          </small>
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Lo que materialices va al aire libre:</b> Las creaciones hechas con estela no pueden
+          aparecer dentro de una masa.
+        </p>
+        <p>
+          <small>
+            Sí es posible inyectar estela a una masa o transferirla de una a otra. Hay reglas
+            adicionales para inyectar o transferir estela entre
+            <span class="style-folia">folia</span>.
+          </small>
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Lo que cedes nunca vuelve:</b> La estela que los <span class="style-folia">folia</span>
+          expulsan se vuelve fragmentos de iris, que no es absorbible por ellos hasta que dichos
+          fragmentos sean convertidos en burbujas de oro.
+        </p>
+        <p>
+          <small> Véase ciclo estelar. </small>
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Quienes mutan a otros no inmutan:</b> Es imposible usar estela para alterar o trasladar
+          un <span class="style-folia">folia</span> además de uno mismo, ni siquiera usando nodos,
+          <span class="style-dendrites">dendritas</span>, o
+          <span class="style-dendrites">glifos</span>, excepto si el
+          <span class="style-folia">folia</span> lo permite.
+        </p>
+      </li>
+    </ol>
 
     <h2>~ Congelación (no canon)</h2>
     <p>
