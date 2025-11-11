@@ -2,18 +2,21 @@
 :root {
   /* general concepts */
   --color-folia: #ff8114;
-  --color-startrail: #ff8114;
-  --color-roots: #ff8114;
+  --color-startrail: var(--color-folia);
+  --color-anthesis: var(--color-folia);
+  --color-essence: #6464ff;
+  --color-roots: var(--color-folia);
   --color-nodes: #23aecc;
   /* folia branches */
   --color-branches: #bc54ee;
+  --color-hybrid: var(--color-branches);
   --color-caudate: #ff035e;
   --color-flowering: #04f49e;
   --color-winged: #0193ff;
   /* branch roots */
-  --color-pollen: #ffb23b;
-  --color-dendrites: #ff035e;
-  --color-elements: #00ffff;
+  --color-pollen: var(--color-flowering);
+  --color-dendrites: var(--color-caudate);
+  --color-elements: var(--color-winged);
   /* creatures */
   --color-lucero: #04f49e;
   --color-umbria: #ff035e;
@@ -32,11 +35,26 @@
 .lore {
   font-weight: 600;
 }
+.style-lytflos {
+  font-family: DeliusSwashCaps;
+}
+.style-triadia {
+  font-family: DeliusSwashCaps;
+}
 .style-folia {
   color: var(--color-folia);
+  &--game {
+    font-family: DeliusSwashCaps;
+  }
+}
+.style-essence {
+  color: var(--color-essence);
 }
 .style-branches {
   color: var(--color-branches);
+}
+.style-hybrid {
+  color: var(--color-hybrid);
 }
 .style-caudate {
   color: var(--color-caudate);
@@ -59,6 +77,9 @@
 .style-startrail {
   color: var(--color-startrail);
 }
+.style-anthesis {
+  color: var(--color-anthesis);
+}
 .style-roots {
   color: var(--color-roots);
 }
@@ -70,4 +91,14 @@
 }
 .style-nodes {
   color: var(--color-nodes);
+}
+
+.background-winged {
+  background-color: #0193ff30;
+}
+.background-caudate {
+  background-color: #ff035e30;
+}
+.background-flowering {
+  background-color: #04f49e30;
 }

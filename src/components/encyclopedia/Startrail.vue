@@ -1,48 +1,103 @@
+<script setup>
+const name = '☆ Estela ☆';
+</script>
+
 <template>
   <section id="estela">
-    <h1 id="estela-heading">Estela ☆</h1>
+    <h1 id="estela-heading" :name="name">{{ name }}</h1>
     <hr />
     <p>
       El término utilizado tanto para cuantificar como para describir la manifestación física de la
       energía mágica que tanto <span class="style-folia">folia</span> como ciertas otras plantas
       pueden generar. Se utiliza para evocar raíces, nodos, antesis, inducir fenómenos estelares, e
-      incluso se usa como combustible para sistemas estela, entre otros usos. Prolongar el uso de
-      una raíz implica prolongar el consumo de estela, y una vez la estela es expulsada del
+      incluso se usa como combustible para sistemas estela, entre otros usos.
+    </p>
+    <p>
+      Prolongar el uso de una raíz implica prolongar el consumo de estela, y una vez la estela es
+      expulsada del
       <span class="style-folia">folia</span>, este se convierte en un tipo de estela pura denominado
       fragmento de iris que los <span class="style-folia">folia</span> no pueden reabsorber, sino
       que antes debe ser procesado por ciertas plantas distintas de los
-      <span class="style-folia">folia</span>. Existen leyes físicas que rigen el comportamiento de
-      la estela, dándole ciertas limitaciones y causando ciertas prohibiciones. Estas leyes se
-      enseñan a través de rimas, siendo “lo que se hace siempre se deshace” la más conocida e
-      importante de todas. La estela se genera a partir de la luz del día, de ahí el nombre, junto
-      con la apariencia de la materialización más simple de esta energía: la estela pura, una
-      especie de luz cálida y maleable que se divide en dos tipos y que todos los
+      <span class="style-folia">folia</span>.
+    </p>
+    <p>
+      Existen leyes físicas que rigen el comportamiento de la estela, dándole ciertas limitaciones y
+      causando ciertas prohibiciones. Estas leyes se enseñan a través de rimas, siendo “lo que se
+      hace siempre se deshace” la más conocida e importante de todas.
+    </p>
+    <p>
+      La estela se genera a partir de la luz del día, de ahí el nombre, junto con la apariencia de
+      la materialización más simple de esta energía: la estela pura, una especie de luz cálida y
+      maleable que se divide en dos tipos y que todos los
       <span class="style-folia">folia</span> pueden usar independientemente de sus ramas, aunque más
-      débil que cualquier raíz. Por lo general la utilidad directa de la estela pura no va más allá
-      de ser lo primero que los <span class="style-folia">folia</span>
+      débil que cualquier raíz.
+    </p>
+    <p>
+      Por lo general la utilidad directa de la estela pura no va más allá de ser lo primero que los
+      <span class="style-folia">folia</span>
       aprenden a manejar antes de aprender su primera raíz, sin embargo su funcionamiento es
       relevante para el ciclo estelar y es usado para labores de investigación científica.
     </p>
 
     <h2>~ Leyes</h2>
-    <p>
-      Lo que se hace siempre se deshace - las creaciones hechas con estela nunca son permanentes y
-      siempre se disolverán en fragmentos de iris. Por otra parte, traslaciones y mutaciones sí
-      permanecen después de hacerse. Lo que aparece debe mantenerse - las creaciones y traslaciones
-      hechas con estela se mantienen ocurriendo hasta que el suministro se interrumpe. Las
-      alteraciones hechas con dendritas se realizan por shots y no requieren ser mantenidas, por lo
-      que son permanentes. Los glifos, por otra parte, generalmente son temporales. Lo que
-      materialices va al aire libre - las creaciones hechas con estela no pueden aparecer dentro de
-      una masa. Sí es posible inyectar estela a una masa o transferirla de una a otra. Hay reglas
-      adicionales para inyectar o transferir estela entre <span class="style-folia">folia</span>. Lo
-      que cedes nunca vuelve - la estela que los <span class="style-folia">folia</span> expulsan se
-      vuelve fragmentos de iris, que no es absorbible por ellos hasta que dichos fragmentos sean
-      convertidos en burbujas de oro. Véase ciclo estelar. Quien muta a los
-      <span class="style-folia">folia</span> no inmuta - es imposible usar estela para trasladar o
-      alterar un <span class="style-folia">folia</span> además de uno mismo, ni siquiera usando
-      nodos, glifos, o <span class="style-dendrites">dendritas</span>, excepto si el
-      <span class="style-folia">folia</span> lo permite.
-    </p>
+    <ol>
+      <li>
+        <p>
+          <b>Lo que se hace siempre se deshace:</b> Las creaciones hechas con estela nunca son
+          permanentes y siempre se disolverán en fragmentos de iris.
+        </p>
+        <p>
+          <small>
+            Por otra parte, traslaciones y mutaciones sí permanecen después de hacerse.
+          </small>
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Lo que aparece debe mantenerse:</b> Las creaciones y traslaciones hechas con estela se
+          mantienen ocurriendo hasta que el suministro se interrumpe.
+        </p>
+        <p>
+          <small>
+            Las alteraciones hechas con <span class="style-dendrites">dendritas</span> se realizan
+            por shots y no requieren ser mantenidas, por lo que son permanentes. Los glifos, por
+            otra parte, generalmente son temporales.
+          </small>
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Lo que materialices va al aire libre:</b> Las creaciones hechas con estela no pueden
+          aparecer dentro de una masa.
+        </p>
+        <p>
+          <small>
+            Sí es posible inyectar estela a una masa o transferirla de una a otra. Hay reglas
+            adicionales para inyectar o transferir estela entre
+            <span class="style-folia">folia</span>.
+          </small>
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Lo que cedes nunca vuelve:</b> La estela que los <span class="style-folia">folia</span>
+          expulsan se vuelve fragmentos de iris, que no es absorbible por ellos hasta que dichos
+          fragmentos sean convertidos en burbujas de oro.
+        </p>
+        <p>
+          <small> Véase ciclo estelar. </small>
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Quienes mutan a otros no inmutan:</b> Es imposible usar estela para alterar o trasladar
+          un <span class="style-folia">folia</span> además de uno mismo, ni siquiera usando nodos,
+          <span class="style-dendrites">dendritas</span>, o
+          <span class="style-dendrites">glifos</span>, excepto si el
+          <span class="style-folia">folia</span> lo permite.
+        </p>
+      </li>
+    </ol>
 
     <h2>~ Núcleo</h2>
     <p>

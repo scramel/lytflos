@@ -48,13 +48,15 @@
     </p>
 
     <p>
-      - Semana armónica Festividad que celebra la fundación de TRIADIA y la firma del Acta de
-      Conjunción Triadiana Armónica. Durante esta semana, que sería a partir del primer lúcies del
-      séptimo mes, los días son no laborables, y las personas se dedican a pasar los días con sus
-      familias y amigos. Mientras tanto, varios grupos de personas se dedican a llevar a cabo la
-      Resurrección de la Armonía en distintas partes del mundo: un evento que consiste en una
-      reactuación de la historia de TRIADIA que comienza con la Era de Conquista y termina con su
-      fundación. En la mayoría de los casos, las familias llevan a cabo fiestas después de este
+      - Semana armónica Festividad que celebra la fundación de
+      <span class="style-triadia">Triadia</span> y la firma del Acta de Conjunción
+      <span class="style-triadia">Triadia</span> na Armónica. Durante esta semana, que sería a
+      partir del primer lúcies del séptimo mes, los días son no laborables, y las personas se
+      dedican a pasar los días con sus familias y amigos. Mientras tanto, varios grupos de personas
+      se dedican a llevar a cabo la Resurrección de la Armonía en distintas partes del mundo: un
+      evento que consiste en una reactuación de la historia de
+      <span class="style-triadia">Triadia</span> que comienza con la Era de Conquista y termina con
+      su fundación. En la mayoría de los casos, las familias llevan a cabo fiestas después de este
       evento.
     </p>
 
@@ -80,26 +82,26 @@
     </p>
 
     <p>
-      - Cono monetario El salario mínimo en TRIADIA es de 3 gears la hora. Con uno o dos gears
-      usualmente se puede comprar un pan, una fruta, una bebida, o un pequeño dulce. Con 5 gears se
-      puede comprar un buen almuerzo, un pequeño pastel, unas cuantas frutas, o un pequeño saco de
-      granos u hortalizas. De allí en adelante se hacen comparaciones y cálculos para obtener el
-      precio estimado de las cosas. Las monedas físicamente se ven como engranajes no huecos.
-      Siempre llevan consigo un número que representa su valor, una inscripción, y una ilustración
-      grabada. Para evitar la falsificación de monedas, a estas se les extrae su núcleo. El cono
-      monetario se conforma de siete monedas: Valor Nombre Ilustración primaria Ilustración
-      secundaria 1 Gear de bronce Árbol seco Engranaje Valor aprox: pan, fruta, agua, dulce,
-      transporte. Inscripción: “De la sequía a la fertilidad” 5 Gear de plata Las ramas Símbolo de
-      la estela Valor aprox: almuerzo, saquito de granos o frutas, poción, prenda. Inscripción: “De
-      la discordia a la armonía” 50 Gear de oro Corazón y olivos Soláris Valor aprox: pequeño
-      festín, conjunto, varita o báculo, orbe meion. Inscripción: “De la apatía a la empatía” 500
-      Gear de platino Lytflos Los híbridos Valor aprox: prendas lujosas, muebles, bicicleta, renta
-      de salón. Inscripción: “De la separación a la unión” 5.000 Gear de absso Ciudad abandonada
-      Trébol negro Valor aprox: vehículo, mineral raro, espírio, orbe dracónico. Inscripción: “De la
-      muerte a la vida” 50.000 Gear de cuarzo Árbol planetario Flor de tres pétalos Valor aprox:
-      casa, yate lujoso, aeronave, espírio raro. Inscripción: “De la sequía a la fertilidad” 500.000
-      Gear de ánima Dos siluetas Tres filamentos Valor aprox: mansión, tierras. Inscripción: “Del
-      polvo estelar al cosmos”
+      - Cono monetario El salario mínimo en <span class="style-triadia">Triadia</span> es de 3 gears
+      la hora. Con uno o dos gears usualmente se puede comprar un pan, una fruta, una bebida, o un
+      pequeño dulce. Con 5 gears se puede comprar un buen almuerzo, un pequeño pastel, unas cuantas
+      frutas, o un pequeño saco de granos u hortalizas. De allí en adelante se hacen comparaciones y
+      cálculos para obtener el precio estimado de las cosas. Las monedas físicamente se ven como
+      engranajes no huecos. Siempre llevan consigo un número que representa su valor, una
+      inscripción, y una ilustración grabada. Para evitar la falsificación de monedas, a estas se
+      les extrae su núcleo. El cono monetario se conforma de siete monedas: Valor Nombre Ilustración
+      primaria Ilustración secundaria 1 Gear de bronce Árbol seco Engranaje Valor aprox: pan, fruta,
+      agua, dulce, transporte. Inscripción: “De la sequía a la fertilidad” 5 Gear de plata Las ramas
+      Símbolo de la estela Valor aprox: almuerzo, saquito de granos o frutas, poción, prenda.
+      Inscripción: “De la discordia a la armonía” 50 Gear de oro Corazón y olivos Soláris Valor
+      aprox: pequeño festín, conjunto, varita o báculo, orbe meion. Inscripción: “De la apatía a la
+      empatía” 500 Gear de platino <span class="style-lytflos">Lytflos</span> Los híbridos Valor
+      aprox: prendas lujosas, muebles, bicicleta, renta de salón. Inscripción: “De la separación a
+      la unión” 5.000 Gear de absso Ciudad abandonada Trébol negro Valor aprox: vehículo, mineral
+      raro, espírio, orbe dracónico. Inscripción: “De la muerte a la vida” 50.000 Gear de cuarzo
+      Árbol planetario Flor de tres pétalos Valor aprox: casa, yate lujoso, aeronave, espírio raro.
+      Inscripción: “De la sequía a la fertilidad” 500.000 Gear de ánima Dos siluetas Tres filamentos
+      Valor aprox: mansión, tierras. Inscripción: “Del polvo estelar al cosmos”
     </p>
 
     <p>
@@ -168,11 +170,11 @@
     </p>
 
     <p>
-      - Expreso Dendrón El ferrocarril que conecta con las siete ciudades de TRIADIA. Producido por
-      Ikaki, fue exitoso debido a su ingenioso sistema estela, combinado con la necesidad de
-      transporte que existía entonces, y las hermosas vistas de su viaje. Es prácticamente un
-      símbolo cultural en el presente pese a no ser usado en la actualidad debido a la preferencia
-      por las plataformas transmutadoras.
+      - Expreso Dendrón El ferrocarril que conecta con las siete ciudades de
+      <span class="style-triadia">Triadia</span> . Producido por Ikaki, fue exitoso debido a su
+      ingenioso sistema estela, combinado con la necesidad de transporte que existía entonces, y las
+      hermosas vistas de su viaje. Es prácticamente un símbolo cultural en el presente pese a no ser
+      usado en la actualidad debido a la preferencia por las plataformas transmutadoras.
     </p>
 
     <p>
@@ -190,10 +192,10 @@
       cambiar las maneras, y a enmendar los errores. La penalización en sí es el arrebatamiento del
       núcleo, que incapacita el uso de la estela, junto a una cadena perpetua en el Subsuelo de
       Abbso. Anteriormente, especialmente durante la tiranía de Arthe Rérecros, se le permitía dar
-      fin a una vida como máxima penalización, pero durante la fundación TRIADIA esta idea empezó a
-      ser rechazada a favor de alentar la redención y no desperdiciar vidas que pueden
-      potencialmente cambiar el mundo para bien, especialmente alentando el uso de talento y
-      aprendizaje durante el aprisionamiento.
+      fin a una vida como máxima penalización, pero durante la fundación
+      <span class="style-triadia">Triadia</span> esta idea empezó a ser rechazada a favor de alentar
+      la redención y no desperdiciar vidas que pueden potencialmente cambiar el mundo para bien,
+      especialmente alentando el uso de talento y aprendizaje durante el aprisionamiento.
     </p>
 
     <p>
@@ -224,15 +226,15 @@
     </p>
 
     <p>
-      - Reproducción folia Dado el calendario de Lytflos, un folia promedio vive aproximadamente
-      trescientos años. Estos pueden reproducirse tanto asexualmente (a través de apomixis) como
-      sexualmente (a través de un proceso propio de ellos). De desarrollarse en el suelo, el folia
-      crece absorbiendo los nutrientes en el mismo hasta que es lo suficientemente grande para
-      desprenderse de sus raíces. Si un folia crece dentro de otro (solo posible a través de
-      reproducción sexual), su desarrollo es similar al de un mamífero, incluyendo la producción de
-      leche por parte del folia fecundado. Aunque existen folia con distintos aparatos
-      reproductores, pueden reproducirse entre sí independientemente de cuáles tengan. Me niego a
-      describir cómo funciona eso.
+      - Reproducción folia Dado el calendario de <span class="style-lytflos">Lytflos</span> un folia
+      promedio vive aproximadamente trescientos años. Estos pueden reproducirse tanto asexualmente
+      (a través de apomixis) como sexualmente (a través de un proceso propio de ellos). De
+      desarrollarse en el suelo, el folia crece absorbiendo los nutrientes en el mismo hasta que es
+      lo suficientemente grande para desprenderse de sus raíces. Si un folia crece dentro de otro
+      (solo posible a través de reproducción sexual), su desarrollo es similar al de un mamífero,
+      incluyendo la producción de leche por parte del folia fecundado. Aunque existen folia con
+      distintos aparatos reproductores, pueden reproducirse entre sí independientemente de cuáles
+      tengan. Me niego a describir cómo funciona eso.
     </p>
 
     <p>

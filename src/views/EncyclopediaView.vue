@@ -42,7 +42,9 @@ import Glyphs from '@/components/encyclopedia/Glyphs.vue';
     hr,
     ul,
     ol,
-    table {
+    table,
+    img,
+    article {
       margin-block-end: 1.5rem;
     }
     p,
@@ -92,6 +94,46 @@ import Glyphs from '@/components/encyclopedia/Glyphs.vue';
       margin-block-end: 1.5rem;
       h3 {
         margin-block-end: 0;
+        text-indent: 0;
+      }
+    }
+    img {
+      max-width: 100%;
+    }
+    article {
+      margin: auto;
+      margin-block-end: 1.5rem;
+      max-width: 1100px;
+      padding: 1.5rem;
+      color: var(--text-color);
+      border-radius: 1rem;
+      p {
+        margin-block-end: 0;
+      }
+    }
+    table {
+      width: 100%;
+      max-width: 1100px;
+      table-layout: fixed; /* Fix column widths */
+      text-align: center;
+      margin: auto;
+      margin-block-end: 1.5rem;
+      thead {
+        background-color: black;
+        color: white;
+        @media (prefers-color-scheme: dark) {
+          background-color: white;
+          color: black;
+        }
+      }
+      th,
+      td {
+        width: 25%; /* For a 3-column table, adjust percentage as needed */
+      }
+    }
+    ul,
+    ol {
+      p {
         text-indent: 0;
       }
     }

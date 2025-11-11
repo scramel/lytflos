@@ -19,14 +19,15 @@
 
     <h2 id="anima">~ Ánima</h2>
     <p>
-      En TRIADIA, un concepto que busca explicar el origen del ánimo como magia. Similar al núcleo,
-      el ánima sería esta batería donde se almacena el ánimo. Durante el siglo 25, un
-      caudado-florecido propuso usar orbes de elo como recipientes de ánimas, pero el método es
-      rechazado ya que involucra un proceso bastante sangriento: matar una persona, convertirlo en
-      un poseído con un orbe de elo, y luego expiarle. Esto, en teoría, debería resultar en un orbe
-      con un ánima. El ánima es la culminación de los sentimientos en los seres vivos, contiene las
-      emociones y en cierto modo la personalidad del ser en el que está. Es afectado por las
-      memorias, experiencias, y emotividad que recibe de otros, pero no guarda ninguna de estas.
+      En <span class="style-triadia">Triadia</span> , un concepto que busca explicar el origen del
+      ánimo como magia. Similar al núcleo, el ánima sería esta batería donde se almacena el ánimo.
+      Durante el siglo 25, un caudado-florecido propuso usar orbes de elo como recipientes de
+      ánimas, pero el método es rechazado ya que involucra un proceso bastante sangriento: matar una
+      persona, convertirlo en un poseído con un orbe de elo, y luego expiarle. Esto, en teoría,
+      debería resultar en un orbe con un ánima. El ánima es la culminación de los sentimientos en
+      los seres vivos, contiene las emociones y en cierto modo la personalidad del ser en el que
+      está. Es afectado por las memorias, experiencias, y emotividad que recibe de otros, pero no
+      guarda ninguna de estas.
     </p>
 
     <h2 id="espirio">~ Espírio</h2>

@@ -3,14 +3,15 @@
     <h1>Historia 🕮</h1>
     <hr />
     <p>
-      La historia de Lytflos se divide en tres partes: Años Anteriores (Pasado ~ Día 0): la
-      civilización antes del evento que casi trae la extinción de los folia al mundo. Una
-      civilización urbana y muy tecnológicamente avanzada en comparación al presente. Sólo se puede
-      aprender de este período a través de estudiar las ciudades perdidas. Día de la Expiación (Día
-      0): el día en que un elo conocido como La Silueta apareció y destruyó todo a su paso. La
-      veracidad de la historia es discutida en la actualidad, pero la mayoría está de acuerdo en que
-      algo arrasó con el mundo. Años Posteriores (Día 0 ~ Presente): abarca eventos como la
-      supervivencia de los folia, la Era de Conquista, y la fundación de TRIADIA.
+      La historia de <span class="style-lytflos">Lytflos</span> se divide en tres partes: Años
+      Anteriores (Pasado ~ Día 0): la civilización antes del evento que casi trae la extinción de
+      los folia al mundo. Una civilización urbana y muy tecnológicamente avanzada en comparación al
+      presente. Sólo se puede aprender de este período a través de estudiar las ciudades perdidas.
+      Día de la Expiación (Día 0): el día en que un elo conocido como La Silueta apareció y destruyó
+      todo a su paso. La veracidad de la historia es discutida en la actualidad, pero la mayoría
+      está de acuerdo en que algo arrasó con el mundo. Años Posteriores (Día 0 ~ Presente): abarca
+      eventos como la supervivencia de los folia, la Era de Conquista, y la fundación de
+      <span class="style-triadia">Triadia</span> .
     </p>
 
     <h2>~ Años Anteriores</h2>
@@ -33,10 +34,11 @@
       explosión de luz tricolor visible por el mundo entero. Al ser en cuestión se le nombró La
       Silueta, y en la modernidad se teoriza que se trató de algún especie de criatura negativa, por
       ejemplo un elo, con poderes de magnitudes apocalípticas. Las pocas ciudades que no fueron
-      completamente desaparecidas ahora se les conocen como ciudades perdidas, y TRIADIA busca
-      transformarlas en localizaciones seguras y aptas de ser pobladas por folia. El calendario de
-      Lytflos comienza aquí, siendo este el único año con un “día 0”, de allí que también se conozca
-      el suceso con dicho nombre.
+      completamente desaparecidas ahora se les conocen como ciudades perdidas, y
+      <span class="style-triadia">Triadia</span> busca transformarlas en localizaciones seguras y
+      aptas de ser pobladas por folia. El calendario de
+      <span class="style-lytflos">Lytflos</span> comienza aquí, siendo este el único año con un “día
+      0”, de allí que también se conozca el suceso con dicho nombre.
     </p>
 
     <h2>~ Años Posteriores</h2>
@@ -45,11 +47,11 @@
       durante prácticamente todo el primer milenio. La gente se enfocó principalmente en encontrar
       refugio de criaturas salvajes, especialmente náturs y negativos. Con el tiempo se formaron
       algunas comunidades, y estas alzaron villas y pueblos, algunas que después se convertirían en
-      parte una de las siete ciudades de TRIADIA, como Dasódis. Existió una intención por restaurar
-      algunas de las ciudades perdidas, pero en vez de devolverlas a su estado original, muchas
-      estructuras fueron recicladas como bases para otras que luego se construirían por encima, y la
-      mayoría de tecnología, especialmente en computadoras, vehículos, y armas, fue fundida en
-      metales para asistir las construcciones.
+      parte una de las siete ciudades de <span class="style-triadia">Triadia</span> , como Dasódis.
+      Existió una intención por restaurar algunas de las ciudades perdidas, pero en vez de
+      devolverlas a su estado original, muchas estructuras fueron recicladas como bases para otras
+      que luego se construirían por encima, y la mayoría de tecnología, especialmente en
+      computadoras, vehículos, y armas, fue fundida en metales para asistir las construcciones.
     </p>
 
     <p>
@@ -197,31 +199,33 @@
       especializadas en este trabajo fueron denominadas expiadores.
     </p>
 
-    <h2>~ 2635: Triadia</h2>
+    <h2>~ 2635: <span class="style-triadia">Triadia</span></h2>
     <p>
       La resistencia dio lugar a la unión de las tierras, y en honor a dicha unión, se le permitió a
       Faustiely dar nombre y representar la misma, ya que fue ella quien le dio su forma final,
       cimentando la colaboración entre las ramas más allá de derrocar villanos. El nombre que ella
-      decidió: TRIADIA. El diálogo acaba con la firma del Acta de Conjunción Triadiana Armónica,
-      también conocida por sus siglas: el ACTA. TRIADIA pasó a ser una república meritocrática
-      después de unir varias de las ideas políticas que ya existían, y hasta el día de hoy, consiste
-      en un gobierno con cuatro personas en el poder, equivalentes entre sí. Tres de ellas
-      representan los intereses de cada rama individualmente, y la cuarta representa su conjunción.
+      decidió: <span class="style-triadia">Triadia</span> . El diálogo acaba con la firma del Acta
+      de Conjunción <span class="style-triadia">Triadia</span> na Armónica, también conocida por sus
+      siglas: el ACTA. <span class="style-triadia">Triadia</span> pasó a ser una república
+      meritocrática después de unir varias de las ideas políticas que ya existían, y hasta el día de
+      hoy, consiste en un gobierno con cuatro personas en el poder, equivalentes entre sí. Tres de
+      ellas representan los intereses de cada rama individualmente, y la cuarta representa su
+      conjunción.
     </p>
 
-    <h2>~ Representantes de Triadia</h2>
+    <h2>~ Representantes de <span class="style-triadia">Triadia</span></h2>
     <p>
       Cuando fue fundada, los representantes fueron: Nevhea Glaen, de los alados. Arqheid Keyes, de
       los caudados. Iricontes Pelistcia, de los florecidos. Faustiely Arisa, de los triaders. Poco
-      después de la fundación de TRIADIA, Nevhea Glaen desapareció, y desde entonces tres personas
-      la han sucedido, entre ellas la actual representante de alados: Luroce Fosdia. El Palacio de
-      Glaen fue ofrecido a Tani Prigemo como recuerdo de la amistad que alguna vez mantuvo con
-      Nevhea, pero Tani lo rechazó, y desde entonces se ha mantenido sin dueño, protegido como una
-      reliquia. Después del fallecimiento de Arqheid, siguió su hijo Delion como representante de
-      los caudados, y mucho después Zollern Crésford, el actual, luego que Delion decidió renunciar
-      al cargo. Los florecidos han sido representados por cuatro personas después de Iricontes,
-      entre ellas Ílyosfyt Sucreuq, quien actualmente les representa. Faustiely es la única
-      representante que aún no ha sido sucedida.
+      después de la fundación de <span class="style-triadia">Triadia</span> , Nevhea Glaen
+      desapareció, y desde entonces tres personas la han sucedido, entre ellas la actual
+      representante de alados: Luroce Fosdia. El Palacio de Glaen fue ofrecido a Tani Prigemo como
+      recuerdo de la amistad que alguna vez mantuvo con Nevhea, pero Tani lo rechazó, y desde
+      entonces se ha mantenido sin dueño, protegido como una reliquia. Después del fallecimiento de
+      Arqheid, siguió su hijo Delion como representante de los caudados, y mucho después Zollern
+      Crésford, el actual, luego que Delion decidió renunciar al cargo. Los florecidos han sido
+      representados por cuatro personas después de Iricontes, entre ellas Ílyosfyt Sucreuq, quien
+      actualmente les representa. Faustiely es la única representante que aún no ha sido sucedida.
     </p>
   </section>
 </template>

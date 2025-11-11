@@ -3,8 +3,9 @@
     <h1 id="creatures-heading">Criaturas ❦</h1>
     <hr />
     <p>
-      Existen varias criaturas propias de Lytflos, algunas intrínsecamente relacionadas con la
-      estela o el ánimo, y otras que sencillamente han sido parte del mundo desde quién sabe cuándo.
+      Existen varias criaturas propias de <span class="style-lytflos">Lytflos</span> algunas
+      intrínsecamente relacionadas con la estela o el ánimo, y otras que sencillamente han sido
+      parte del mundo desde quién sabe cuándo.
     </p>
 
     <h3 id="sombra">~ Sombra</h3>
@@ -105,12 +106,12 @@
       ser asociados al caos y la discordia. En el peor de los casos, pueden manipular espacios de
       maneras que van en contra de las leyes físicas. Fueron muy comunes y temidos durante los años
       finales de la Era de Conquista. Algunos asesinaron figuras históricas de la historia de
-      TRIADIA, como lo fue en el caso de los padres de Faustiely Arisa. En el año 29XX son mucho más
-      raros que los elos, quienes de por sí son poco comunes, pero se cree que varios aún viven
-      ocultos en los rincones inexplorados del mundo. Teóricamente, justo como los meion se
-      transforman cada vez más mientras más se combinan, algo similar puede pasar con los elos
-      también, pero como los segundos tienden a ser independientes, no existe un caso conocido de un
-      “elo dracónico”.
+      <span class="style-triadia">Triadia</span> , como lo fue en el caso de los padres de Faustiely
+      Arisa. En el año 29XX son mucho más raros que los elos, quienes de por sí son poco comunes,
+      pero se cree que varios aún viven ocultos en los rincones inexplorados del mundo.
+      Teóricamente, justo como los meion se transforman cada vez más mientras más se combinan, algo
+      similar puede pasar con los elos también, pero como los segundos tienden a ser independientes,
+      no existe un caso conocido de un “elo dracónico”.
     </p>
 
     <h3 id="natur">~ Nátur</h3>

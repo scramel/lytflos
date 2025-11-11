@@ -3,8 +3,9 @@
     <h1>Organizaciones ⚐</h1>
     <hr />
     <p>
-      ~ CERT Cuerpo Élite de la República de TRIADIA. Para un expiador, el formar parte del CERT es
-      el honor máximo para su labor. La actual lideresa de este cuerpo es Zittias Ciezel.
+      ~ CERT Cuerpo Élite de la República de <span class="style-triadia">Triadia</span> . Para un
+      expiador, el formar parte del CERT es el honor máximo para su labor. La actual lideresa de
+      este cuerpo es Zittias Ciezel.
     </p>
 
     <p>

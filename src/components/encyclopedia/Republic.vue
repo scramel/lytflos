@@ -3,16 +3,17 @@
     <h1 id="republic-heading">República ⛿</h1>
     <hr />
     <p>
-      La República de TRIADIA se refiere al territorio que ocupa dicho gobierno en Lytflos. No
-      existen divisiones continentales o fronteras entre países, ya que la república es el único
-      gobierno existente. Este gobierno, y la población del mundo en general, se toma muy en serio
-      el cuidado de la naturaleza y los animales. La república está conformada por siete ciudades
-      principales: Artids, Ftéryon, Dasódis, Érimos, Ptéryon, Rérecros, e Ýperos, todas
-      administradas por alcaldes y con numerosos pueblos y villas que las conforman. Aunque el
-      expreso dendrón conecta con todas las ciudades, el mismo está a punto de abandonar sus
-      funciones a favor de las plataformas transmutadoras. También existen territorios inexplorados
-      que los habitantes de TRIADIA desean estudiar y repoblar, y cabe mencionar que dichos
-      territorios no cuentan como parte de la república.
+      La República de <span class="style-triadia">Triadia</span> se refiere al territorio que ocupa
+      dicho gobierno en <span class="style-lytflos">Lytflos</span>. No existen divisiones
+      continentales o fronteras entre países, ya que la república es el único gobierno existente.
+      Este gobierno, y la población del mundo en general, se toma muy en serio el cuidado de la
+      naturaleza y los animales. La república está conformada por siete ciudades principales:
+      Artids, Ftéryon, Dasódis, Érimos, Ptéryon, Rérecros, e Ýperos, todas administradas por
+      alcaldes y con numerosos pueblos y villas que las conforman. Aunque el expreso dendrón conecta
+      con todas las ciudades, el mismo está a punto de abandonar sus funciones a favor de las
+      plataformas transmutadoras. También existen territorios inexplorados que los habitantes de
+      <span class="style-triadia">Triadia</span> desean estudiar y repoblar, y cabe mencionar que
+      dichos territorios no cuentan como parte de la república.
     </p>
 
     <h3 id="artids">~ Artids 🏛</h3>
@@ -23,24 +24,26 @@
       a la naturaleza, su metal es reutilizado para reconstruir la misma ciudad, y de otra forma es
       enviado al Taller Ibelle para medir su valor y evaluar la posibilidad de reproducirlo en masa
       para aumentar la calidad de vida de los folia. Recientemente se ha abierto Artids al público
-      para ser poblada, la cual la convierte en la séptima ciudad de TRIADIA, pero aún existen zonas
-      peligrosas y prohibidas a las que solo es permitido ir con la compañía de un arqueólogo o un
-      expiador. Una sede de Ikaki solía funcionar aquí, pero en el presente sus funciones han sido
-      suspendidas y el edificio ha sido convertido en un especie de almacén. Localizaciones de
-      interés: Expreso Dendrón. Garage de Ikaki. Residencias. Taller Ibelle. Ruinas: Zona Insegura.
+      para ser poblada, la cual la convierte en la séptima ciudad de
+      <span class="style-triadia">Triadia</span> , pero aún existen zonas peligrosas y prohibidas a
+      las que solo es permitido ir con la compañía de un arqueólogo o un expiador. Una sede de Ikaki
+      solía funcionar aquí, pero en el presente sus funciones han sido suspendidas y el edificio ha
+      sido convertido en un especie de almacén. Localizaciones de interés: Expreso Dendrón. Garage
+      de Ikaki. Residencias. Taller Ibelle. Ruinas: Zona Insegura.
     </p>
 
     <h3 id="caminos-de-livadi">~ Caminos de Livádi</h3>
     <p>
       Del griego λιβάδι (livádi, lit. “prado”), se trata de un gigantesco campo cuyo centro tiene
-      una inmensa cama flores, ubicado cerca del centro de TRIADIA. Desde Livádi se puede llegar a
-      cualquiera de las Siete Ciudades a pie, aunque el viaje tomaría días. Aquí se libró la última
-      batalla de la Era de Conquista en el año 2636 entre la alianza de los Nobles de Glaen y la
-      Caballería de Aricontes contra los Caudados de Rérecros. Una vez Arqheid Keyes derrocó a Arthe
-      Rérecros y se hizo con el Anillo Septenario de la ciudadela, lo llevó a Livádi como prueba del
-      fin de su tiranía. Hay algunas ruinas esparcidas en el espacio que comprende Livádi, pero la
-      mayoría son estructuras que no tienen valor alguno en el presente, excepto por uno: un especie
-      de búnker subterráneo que contiene una central eléctrica. Aunque los generadores en sí se ven
+      una inmensa cama flores, ubicado cerca del centro de
+      <span class="style-triadia">Triadia</span> . Desde Livádi se puede llegar a cualquiera de las
+      Siete Ciudades a pie, aunque el viaje tomaría días. Aquí se libró la última batalla de la Era
+      de Conquista en el año 2636 entre la alianza de los Nobles de Glaen y la Caballería de
+      Aricontes contra los Caudados de Rérecros. Una vez Arqheid Keyes derrocó a Arthe Rérecros y se
+      hizo con el Anillo Septenario de la ciudadela, lo llevó a Livádi como prueba del fin de su
+      tiranía. Hay algunas ruinas esparcidas en el espacio que comprende Livádi, pero la mayoría son
+      estructuras que no tienen valor alguno en el presente, excepto por uno: un especie de búnker
+      subterráneo que contiene una central eléctrica. Aunque los generadores en sí se ven
       insalvables, es posible que las instalaciones contengan pistas sobre los Años Anteriores. En
       el prado se encuentran flores gigantescas, tan grandes y sólidas que sus pétalos sostienen
       tierra por sobre la que se puede caminar y construir. Localizaciones de interés: Expreso
@@ -86,32 +89,33 @@
     <h3 id="expreso-dendron">~ Expreso Dendrón</h3>
     <p>
       También conocido como solamente Dendrón, es un sistema ferroviario que conecta con todas las
-      ciudades de TRIADIA. Fue construído por Ikaki usando nada más que sistemas estela, lo cual le
-      permite funcionar exclusivamente a base de estela sin necesidad de generar energía eléctrica.
-      En el presente es mayormente ignorado a favor de las plataformas transmutadoras. Debido a su
-      prácticamente nula clientela, solo un único maquinista está a cargo de los viajes: Roserv
-      Karsoni, un amargado, socialmente torpe, y conformista sujeto. Él viaja diligentemente todos
-      los días alrededor del mundo para cumplir su cuota, incluso si no lleva pasajeros. El tren
-      puede flotar por los aires y moverse a velocidades exorbitantes, lo cual toma desprevenidos a
-      los clientes ignorantes de este hecho.
+      ciudades de <span class="style-triadia">Triadia</span> . Fue construído por Ikaki usando nada
+      más que sistemas estela, lo cual le permite funcionar exclusivamente a base de estela sin
+      necesidad de generar energía eléctrica. En el presente es mayormente ignorado a favor de las
+      plataformas transmutadoras. Debido a su prácticamente nula clientela, solo un único maquinista
+      está a cargo de los viajes: Roserv Karsoni, un amargado, socialmente torpe, y conformista
+      sujeto. Él viaja diligentemente todos los días alrededor del mundo para cumplir su cuota,
+      incluso si no lleva pasajeros. El tren puede flotar por los aires y moverse a velocidades
+      exorbitantes, lo cual toma desprevenidos a los clientes ignorantes de este hecho.
     </p>
 
     <h3 id="fteryon">~ Ftéryon 🏛</h3>
     <p>
       Del griego φτερωτός (fterotós, lit. “plumados”), es un conjunto de islas flotantes al norte de
-      TRIADIA que se han envuelto en concreto para dar lugar a la ciudad de los alados. El peso del
-      concreto ha superado la capacidad de las islas, por lo que un gran motor que mueve alas
-      giratorias en el fondo de las mismas han sido instalados. Aquí reside el Palacio de Glaen, el
-      cual se ha mantenido sin dueño desde el fin de la Era de Conquista. Es considerada la ciudad
-      más hermosa del mundo por sus vistas, arquitectura, y cascadas. A pesar de ello, el costo de
-      vivienda es bajo dado que normalmente solo los alados soportan el clima frío. La Sede Central
-      de Control Climático se encuentra aquí: un lugar donde no solo se estudia la manipulación
-      climática y sus efectos en la naturaleza y náturs, sino que también es la sede donde a los
-      alados les asignan misiones de estabilización climática en el mundo. En otras palabras, aquí
-      las personas se reúnen para evitar desastres naturales en el mundo. Ftéryon es también donde
-      se lleva a cabo el Torneo de Vuelos Trienal, donde los alados más veloces se dan a conocer.
-      Localizaciones de interés: Biblioteca de Ftéryon. Coliseo Celestial. Expreso Dendrón. Palacio
-      de Glaen. Residencias. SCCC: Sede Central de Control Climático.
+      <span class="style-triadia">Triadia</span> que se han envuelto en concreto para dar lugar a la
+      ciudad de los alados. El peso del concreto ha superado la capacidad de las islas, por lo que
+      un gran motor que mueve alas giratorias en el fondo de las mismas han sido instalados. Aquí
+      reside el Palacio de Glaen, el cual se ha mantenido sin dueño desde el fin de la Era de
+      Conquista. Es considerada la ciudad más hermosa del mundo por sus vistas, arquitectura, y
+      cascadas. A pesar de ello, el costo de vivienda es bajo dado que normalmente solo los alados
+      soportan el clima frío. La Sede Central de Control Climático se encuentra aquí: un lugar donde
+      no solo se estudia la manipulación climática y sus efectos en la naturaleza y náturs, sino que
+      también es la sede donde a los alados les asignan misiones de estabilización climática en el
+      mundo. En otras palabras, aquí las personas se reúnen para evitar desastres naturales en el
+      mundo. Ftéryon es también donde se lleva a cabo el Torneo de Vuelos Trienal, donde los alados
+      más veloces se dan a conocer. Localizaciones de interés: Biblioteca de Ftéryon. Coliseo
+      Celestial. Expreso Dendrón. Palacio de Glaen. Residencias. SCCC: Sede Central de Control
+      Climático.
     </p>
 
     <h3 id="lykofos">~ Lykófos (ciudad perdida)</h3>
@@ -123,22 +127,22 @@
 
     <h3 id="naturia">~ Natúria</h3>
     <p>
-      Considerado comúnmente el lugar más hermoso de TRIADIA, aquí se encuentran reunidos tantos
-      náturs como en ningún otro lugar, algo sumamente raro en ellos siendo que generalmente se
-      enojan fácilmente entre sí. Se dice que Natúria es un lugar que debe visitarse antes de pasar
-      a la siguiente vida. Hay cascadas, lagunas, islas flotantes, y todas sus combinaciones
-      posibles. Quienes llegan pueden llevarse náturs si ocurre que se encariñan entre sí, pero solo
-      bajo supervisión de un guarda que asegure la seguridad de los visitantes y la pureza del
-      sitio.
+      Considerado comúnmente el lugar más hermoso de <span class="style-triadia">Triadia</span> ,
+      aquí se encuentran reunidos tantos náturs como en ningún otro lugar, algo sumamente raro en
+      ellos siendo que generalmente se enojan fácilmente entre sí. Se dice que Natúria es un lugar
+      que debe visitarse antes de pasar a la siguiente vida. Hay cascadas, lagunas, islas flotantes,
+      y todas sus combinaciones posibles. Quienes llegan pueden llevarse náturs si ocurre que se
+      encariñan entre sí, pero solo bajo supervisión de un guarda que asegure la seguridad de los
+      visitantes y la pureza del sitio.
     </p>
 
     <h3 id="novinsoul">~ Novinsoul</h3>
     <p>
-      Una academia en una isla al sureste de TRIADIA dirigida por Delion Keyes. No es raro utilizar
-      islas como espacios de aprendizaje, mas sí lo es para la educación media, por lo que se
-      esperaría que el coste de ingreso fuese bastante alto. Resulta que la mayoría de los gastos
-      los lleva el director desde sus ahorros, por lo que a ese punto, allí se dan clases más por el
-      gusto de darlos que por recibir alguna compensación.
+      Una academia en una isla al sureste de <span class="style-triadia">Triadia</span> dirigida por
+      Delion Keyes. No es raro utilizar islas como espacios de aprendizaje, mas sí lo es para la
+      educación media, por lo que se esperaría que el coste de ingreso fuese bastante alto. Resulta
+      que la mayoría de los gastos los lleva el director desde sus ahorros, por lo que a ese punto,
+      allí se dan clases más por el gusto de darlos que por recibir alguna compensación.
     </p>
 
     <h3 id="palacio-de-glaen">~ Palacio de Glaen</h3>
@@ -230,17 +234,17 @@
 
     <h3 id="yperos">~ Ýperos 🏛</h3>
     <p>
-      Derivado de ύπερος άνθους (ýperos ánthous, lit. “pistilo”). La capital de TRIADIA, una
-      gigantesca ciudad que se encuentra cerca de Livádi, a su noroeste. Se le reconoce por sus
-      grandes edificios, vehículos, y sistemas estela a base de engranajes cuya estética es muy
-      steampunk. Un lugar caro donde vivir. Ýperos es hogar de muchos edificios importantes, algunos
-      incluso de valor histórico: el Hogar de Ýperos, donde ocurren las actividades administrativas
-      de los Representantes de la República; la Universidad Central de Triadia, donde se han
-      graduado numerosos estudiosos históricos; la Estación Estelar Central, donde se procesa la
-      estela y se distribuye al mundo en vaterías; el Centro Espejismo, lugar donde se administran
-      las comunicaciones a distancia; y muchos otros lugares de valor más turístico y que las
-      personas frecuentan para entretenerse, como parques temáticos, museos, teatros, estadios,
-      entre otros.
+      Derivado de ύπερος άνθους (ýperos ánthous, lit. “pistilo”). La capital de
+      <span class="style-triadia">Triadia</span> , una gigantesca ciudad que se encuentra cerca de
+      Livádi, a su noroeste. Se le reconoce por sus grandes edificios, vehículos, y sistemas estela
+      a base de engranajes cuya estética es muy steampunk. Un lugar caro donde vivir. Ýperos es
+      hogar de muchos edificios importantes, algunos incluso de valor histórico: el Hogar de Ýperos,
+      donde ocurren las actividades administrativas de los Representantes de la República; la
+      Universidad Central de <span class="style-triadia">Triadia</span> , donde se han graduado
+      numerosos estudiosos históricos; la Estación Estelar Central, donde se procesa la estela y se
+      distribuye al mundo en vaterías; el Centro Espejismo, lugar donde se administran las
+      comunicaciones a distancia; y muchos otros lugares de valor más turístico y que las personas
+      frecuentan para entretenerse, como parques temáticos, museos, teatros, estadios, entre otros.
     </p>
   </section>
 </template>
