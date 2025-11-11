@@ -45,6 +45,7 @@ import Glyphs from '@/components/encyclopedia/Glyphs.vue';
     table,
     img,
     article {
+      scroll-margin-top: 28px;
       margin-block-end: 1.5rem;
     }
     p,
@@ -56,6 +57,7 @@ import Glyphs from '@/components/encyclopedia/Glyphs.vue';
       text-indent: 3rem;
     }
     h1 {
+      scroll-margin-top: 28px;
       width: fit-content;
       margin: 0 auto;
       text-align: center;
@@ -78,6 +80,12 @@ import Glyphs from '@/components/encyclopedia/Glyphs.vue';
         @media (prefers-color-scheme: light) {
           text-shadow: none;
         }
+      }
+      &:target::before {
+        content: '';
+        display: block;
+        height: 180px;
+        margin-top: -180px;
       }
     }
     hr {

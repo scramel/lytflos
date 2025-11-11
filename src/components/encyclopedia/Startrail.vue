@@ -3,48 +3,51 @@ const name = '☆ Estela ☆';
 </script>
 
 <template>
-  <section id="estela">
-    <h1 id="estela-heading" :name="name">{{ name }}</h1>
+  <section id="section-startrail">
+    <h1 id="startrail" :name="name">{{ name }}</h1>
     <hr />
     <p>
       El término utilizado tanto para cuantificar como para describir la manifestación física de la
       energía mágica que tanto <span class="style-folia">folia</span> como ciertas otras plantas
       pueden generar. Se utiliza para evocar <span class="style-roots">raíces</span>,
       <span class="style-nodes">nodos</span>, <span class="style-anthesis">antesis</span>, inducir
-      <span class="style-startrail">fenómenos estelares</span>, e incluso se usa como combustible
-      para <span class="style-startrail">sistemas estela</span>, entre otros usos.
+      <span class="style-stellar-phenomena">fenómenos estelares</span>, e incluso como combustible
+      para <span class="style-startrail-systems">sistemas estela</span>, entre otras cosas.
+    </p>
+    <p>
+      La <span class="style-startrail">estela</span> se genera a partir de la luz del día, de ahí el
+      nombre, junto con la apariencia de la materialización más simple de esta energía: la
+      <span class="style-pure-startrail">estela pura</span>, una especie de luz cálida y maleable
+      que se divide en dos tipos y que todos los <span class="style-folia">folia</span> pueden usar
+      independientemente de sus <span class="style-branches">ramas</span>, aunque más débil que
+      cualquier <span class="style-roots">raíz</span>.
+    </p>
+    <p>
+      Por lo general la utilidad directa de la
+      <span class="style-pure-startrail">estela pura</span> no va más allá de ser lo primero que los
+      <span class="style-folia">folia</span>
+      aprenden a manejar antes de aprender su primera <span class="style-roots">raíz</span>, sin
+      embargo su funcionamiento es relevante para el <a href="#">ciclo estelar</a> y es usado para
+      labores de investigación científica.
     </p>
     <p>
       Prolongar el uso de una <span class="style-roots">raíz</span> implica prolongar el consumo de
       <span class="style-startrail">estela</span>, y una vez la
       <span class="style-startrail">estela</span> es expulsada del
       <span class="style-folia">folia</span>, este se convierte en un tipo de
-      <span class="style-startrail">estela pura</span> denominado
-      <span class="style-startrail">fragmento de iris</span> que los
+      <span class="style-pure-startrail">estela pura</span> denominado
+      <span class="style-iris-fragments">fragmento de iris</span> que los
       <span class="style-folia">folia</span> no pueden reabsorber, sino que antes debe ser procesado
-      por ciertas plantas distintas de los <span class="style-folia">folia</span>.
+      por ciertas otras plantas distintas de los <span class="style-folia">folia</span>.
     </p>
     <p>
-      Existen leyes físicas que rigen el comportamiento de la estela, dándole ciertas limitaciones y
-      causando ciertas prohibiciones. Estas leyes se enseñan a través de rimas, siendo “lo que se
-      hace siempre se deshace” la más conocida e importante de todas.
-    </p>
-    <p>
-      La <span class="style-startrail">estela</span> se genera a partir de la luz del día, de ahí el
-      nombre, junto con la apariencia de la materialización más simple de esta energía:
-      <span class="style-startrail">la estela pura</span>, una especie de luz cálida y maleable que
-      se divide en dos tipos y que todos los <span class="style-folia">folia</span> pueden usar
-      independientemente de sus ramas, aunque más débil que cualquier
-      <span class="style-roots">raíz</span>.
-    </p>
-    <p>
-      Por lo general la utilidad directa de la estela pura no va más allá de ser lo primero que los
-      <span class="style-folia">folia</span>
-      aprenden a manejar antes de aprender su primera raíz, sin embargo su funcionamiento es
-      relevante para el ciclo estelar y es usado para labores de investigación científica.
+      Existen leyes físicas que rigen el comportamiento de la
+      <span class="style-startrail">estela</span>, dándole ciertas limitaciones y causando ciertas
+      prohibiciones. Estas leyes se enseñan a través de rimas, siendo “lo que se hace siempre se
+      deshace” la más conocida e importante de todas.
     </p>
 
-    <h2>~ Raíces</h2>
+    <h2 id="roots">~ Raíces</h2>
     <p>
       Cuando alguien logra especializar su uso de la <span class="style-startrail">estela</span> en
       un campo específico, se dice que obtuvo una <span class="style-roots">raíz</span>. A veces el

@@ -1,0 +1,150 @@
+/* color variables for lore concepts */
+:root {
+  /* general concepts */
+  --color-folia: #ff8114;
+  --color-startrail: var(--color-folia);
+  --color-anthesis: var(--color-folia);
+  --color-essence: #6464ff;
+  --color-roots: var(--color-folia);
+  --color-nodes: #23aecc;
+  /* folia branches */
+  --color-branches: #bc54ee;
+  --color-hybrid: var(--color-branches);
+  --color-caudate: #ff035e;
+  --color-flowering: #04f49e;
+  --color-winged: #0193ff;
+  /* startrail concepts */
+  --color-pure-startrail: #ffff14;
+  --color-stellar-phenomena: var(--color-pure-startrail);
+  --color-startrail-systems: var(--color-pure-startrail);
+  --color-iris-fragments: var(--color-pure-startrail);
+  --color-golden-bubbles: var(--color-pure-startrail);
+  /* branch roots */
+  --color-pollen: var(--color-flowering);
+  --color-dendrites: var(--color-caudate);
+  --color-elements: var(--color-winged);
+  /* branch nodes */
+  --color-glyphs: var(--color-caudate);
+  --color-solar-wings: var(--color-winged);
+  /* creatures */
+  --color-lucero: #04f49e;
+  --color-umbria: #ff035e;
+  --color-natur: #04f49e;
+  --color-negativity: #ff035e;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-folia: #ff4d46;
+    --color-branches: #a132db;
+  }
+}
+
+/* lore concept helper classes - use CSS variables defined above */
+.lore {
+  font-weight: 600;
+}
+.style-lytflos {
+  font-family: DeliusSwashCaps;
+}
+.style-triadia {
+  font-family: DeliusSwashCaps;
+}
+.style-folia {
+  color: var(--color-folia);
+  text-decoration-color: var(--color-folia);
+  &--game {
+    font-family: DeliusSwashCaps;
+  }
+}
+.style-essence {
+  color: var(--color-essence);
+  text-decoration-color: var(--color-essence);
+}
+.style-branches {
+  color: var(--color-branches);
+  text-decoration-color: var(--color-branches);
+}
+.style-hybrid {
+  color: var(--color-hybrid);
+  text-decoration-color: var(--color-hybrid);
+}
+.style-caudate {
+  color: var(--color-caudate);
+  text-decoration-color: var(--color-caudate);
+}
+.style-flowering {
+  color: var(--color-flowering);
+  text-decoration-color: var(--color-flowering);
+}
+.style-winged {
+  color: var(--color-winged);
+  text-decoration-color: var(--color-winged);
+}
+.style-pollen {
+  color: var(--color-pollen);
+  text-decoration-color: var(--color-pollen);
+}
+.style-dendrites {
+  color: var(--color-dendrites);
+  text-decoration-color: var(--color-dendrites);
+}
+.style-elements {
+  color: var(--color-elements);
+  text-decoration-color: var(--color-elements);
+}
+.style-startrail {
+  color: var(--color-startrail);
+  text-decoration-color: var(--color-startrail);
+}
+.style-anthesis {
+  color: var(--color-anthesis);
+  text-decoration-color: var(--color-anthesis);
+}
+.style-roots {
+  color: var(--color-roots);
+  text-decoration-color: var(--color-roots);
+}
+.style-natur {
+  color: var(--color-natur);
+  text-decoration-color: var(--color-natur);
+}
+.style-negativity {
+  color: var(--color-negativity);
+  text-decoration-color: var(--color-negativity);
+}
+.style-nodes {
+  color: var(--color-nodes);
+  text-decoration-color: var(--color-nodes);
+}
+.style-pure-startrail {
+  color: var(--color-pure-startrail);
+  text-decoration-color: var(--color-pure-startrail);
+}
+.style-stellar-phenomena {
+  color: var(--color-stellar-phenomena);
+  text-decoration-color: var(--color-stellar-phenomena);
+}
+.style-startrail-systems {
+  color: var(--color-startrail-systems);
+  text-decoration-color: var(--color-startrail-systems);
+}
+.style-iris-fragments {
+  color: var(--color-iris-fragments);
+  text-decoration-color: var(--color-iris-fragments);
+}
+.style-golden-bubbles {
+  color: var(--color-golden-bubbles);
+  text-decoration-color: var(--color-golden-bubbles);
+}
+
+/* backgrounds */
+.background-winged {
+  background-color: #0193ff30;
+}
+.background-caudate {
+  background-color: #ff035e30;
+}
+.background-flowering {
+  background-color: #04f49e30;
+}

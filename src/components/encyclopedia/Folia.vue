@@ -3,7 +3,7 @@ const name = '☘ Folia ☘';
 </script>
 
 <template>
-  <section>
+  <section id="section-folia">
     <h1 id="folia" :name="name">{{ name }}</h1>
     <hr />
     <p>
@@ -43,7 +43,7 @@ const name = '☘ Folia ☘';
       permanecer sin vida hasta 3 días antes de marchitar, pero este puede disolverse en pétalos en
       menos tiempo o hasta inmediatamente si fallece de formas violentas.
     </p>
-    <h2 id="ramas">~ Ramas</h2>
+    <h2 id="branches">~ Ramas</h2>
     <p>
       Cada <span class="style-branches">rama</span> tiene características físicas únicas: los
       <span class="style-winged">alados</span> tienen dos aberturas verticales en sus espaldas de
@@ -62,7 +62,7 @@ const name = '☘ Folia ☘';
       que pueden utilizar sin necesidad de aprenderlo de antemano. Este no cuenta al momento de
       completar un nivel.
     </p>
-    <h3 id="alados">- Alados</h3>
+    <h3 id="winged">- Alados</h3>
     <p>
       Tienen dos aberturas verticales en sus espaldas de las que salen hojas que asemejan alas
       diminutas; de las aberturas se materializan
@@ -87,7 +87,7 @@ const name = '☘ Folia ☘';
         </small>
       </p>
     </article>
-    <h3 id="caudados">- Caudados</h3>
+    <h3 id="caudate">- Caudados</h3>
     <p>
       Tienen cola, y en ocasiones pétalos largos detrás de sus orejas. Estos se recubren de
       <span class="style-startrail">estela</span> cuando utilizan sus
@@ -115,7 +115,7 @@ const name = '☘ Folia ☘';
         </small>
       </p>
     </article>
-    <h3 id="florecidos">- Florecidos</h3>
+    <h3 id="flowering">- Florecidos</h3>
     <p>
       Tienen capullos en las palmas de sus manos que se abren al emanar su
       <span class="style-pollen">polen estelar</span>, propio de ellos. Además, están dotados de

@@ -1,5 +1,5 @@
 @use './base.scss';
-@use './helpers.scss';
+@use './colorcoding.scss';
 @use './fonts.scss';
 
 #app {
@@ -28,10 +28,7 @@ hr {
   background: var(--vt-c-text-dark-2);
 }
 
-a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+a {
   transition: 0.4s;
   padding: 3px;
 }
@@ -43,7 +40,7 @@ strong {
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    background-color: #8883;
   }
 }
 
