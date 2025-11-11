@@ -3,7 +3,7 @@
     <Introduction />
     <Folia />
     <Startrail />
-    <Animo />
+    <Essence />
     <Creatures />
     <Cosmos />
     <Republic />
@@ -19,7 +19,7 @@
 import Introduction from '@/components/encyclopedia/Introduction.vue';
 import Folia from '@/components/encyclopedia/Folia.vue';
 import Startrail from '@/components/encyclopedia/Startrail.vue';
-import Animo from '@/components/encyclopedia/Animo.vue';
+import Essence from '@/components/encyclopedia/Essence.vue';
 import Creatures from '@/components/encyclopedia/Creatures.vue';
 import Cosmos from '@/components/encyclopedia/Cosmos.vue';
 import Republic from '@/components/encyclopedia/Republic.vue';

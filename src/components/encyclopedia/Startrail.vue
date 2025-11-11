@@ -9,16 +9,20 @@ const name = '☆ Estela ☆';
     <p>
       El término utilizado tanto para cuantificar como para describir la manifestación física de la
       energía mágica que tanto <span class="style-folia">folia</span> como ciertas otras plantas
-      pueden generar. Se utiliza para evocar raíces, nodos, antesis, inducir fenómenos estelares, e
-      incluso se usa como combustible para sistemas estela, entre otros usos.
+      pueden generar. Se utiliza para evocar <span class="style-roots">raíces</span>,
+      <span class="style-nodes">nodos</span>, <span class="style-anthesis">antesis</span>, inducir
+      <span class="style-startrail">fenómenos estelares</span>, e incluso se usa como combustible
+      para <span class="style-startrail">sistemas estela</span>, entre otros usos.
     </p>
     <p>
-      Prolongar el uso de una raíz implica prolongar el consumo de estela, y una vez la estela es
-      expulsada del
-      <span class="style-folia">folia</span>, este se convierte en un tipo de estela pura denominado
-      fragmento de iris que los <span class="style-folia">folia</span> no pueden reabsorber, sino
-      que antes debe ser procesado por ciertas plantas distintas de los
-      <span class="style-folia">folia</span>.
+      Prolongar el uso de una <span class="style-roots">raíz</span> implica prolongar el consumo de
+      <span class="style-startrail">estela</span>, y una vez la
+      <span class="style-startrail">estela</span> es expulsada del
+      <span class="style-folia">folia</span>, este se convierte en un tipo de
+      <span class="style-startrail">estela pura</span> denominado
+      <span class="style-startrail">fragmento de iris</span> que los
+      <span class="style-folia">folia</span> no pueden reabsorber, sino que antes debe ser procesado
+      por ciertas plantas distintas de los <span class="style-folia">folia</span>.
     </p>
     <p>
       Existen leyes físicas que rigen el comportamiento de la estela, dándole ciertas limitaciones y
@@ -26,11 +30,12 @@ const name = '☆ Estela ☆';
       hace siempre se deshace” la más conocida e importante de todas.
     </p>
     <p>
-      La estela se genera a partir de la luz del día, de ahí el nombre, junto con la apariencia de
-      la materialización más simple de esta energía: la estela pura, una especie de luz cálida y
-      maleable que se divide en dos tipos y que todos los
-      <span class="style-folia">folia</span> pueden usar independientemente de sus ramas, aunque más
-      débil que cualquier raíz.
+      La <span class="style-startrail">estela</span> se genera a partir de la luz del día, de ahí el
+      nombre, junto con la apariencia de la materialización más simple de esta energía:
+      <span class="style-startrail">la estela pura</span>, una especie de luz cálida y maleable que
+      se divide en dos tipos y que todos los <span class="style-folia">folia</span> pueden usar
+      independientemente de sus ramas, aunque más débil que cualquier
+      <span class="style-roots">raíz</span>.
     </p>
     <p>
       Por lo general la utilidad directa de la estela pura no va más allá de ser lo primero que los
@@ -41,50 +46,61 @@ const name = '☆ Estela ☆';
 
     <h2>~ Raíces</h2>
     <p>
-      Cuando alguien logra especializar su uso de la estela en un campo específico, se dice que
-      obtuvo una raíz. A veces el término incluye también especializaciones del ánimo. Un folia
-      puede teóricamente aprender cuantos quiera, pero solo podrá evocar hasta tres al mismo tiempo,
-      y necesitará descansar un rato si quiere usar una raíz distinta, o de lo contrario su estela
+      Cuando alguien logra especializar su uso de la <span class="style-startrail">estela</span> en
+      un campo específico, se dice que obtuvo una <span class="style-roots">raíz</span>. A veces el
+      término incluye también especializaciones del <span class="style-essence">ánimo</span>. Un
+      <span class="style-folia">folia</span> puede teóricamente aprender cuantos quiera, pero solo
+      podrá evocar hasta tres al mismo tiempo, y necesitará descansar un rato si quiere usar una
+      <span class="style-roots">raíz</span> distinta, o de lo contrario su
+      <span class="style-startrail">estela</span>
       se volverá inestable.
     </p>
     <p>
-      Una raíz, a diferencia de un nodo, tiene flexibilidad creativa debido a que es posible moldear
-      arbitrariamente su manifestación, mientras que el segundo siempre tiene resultados fijos.
+      Una <span class="style-roots">raíz</span>, a diferencia de un
+      <span class="style-nodes">nodo</span>, tiene flexibilidad creativa debido a que es posible
+      moldear arbitrariamente su manifestación, mientras que el segundo siempre tiene resultados
+      fijos.
     </p>
     <p>
-      Una rama puede aprender las raíces de otras, pero durante su primer nivel está limitada a
-      aprender de la suya o neutras. Los mefrinos son los únicos folia que pueden aprender cualquier
-      raíz desde el principio.
+      Una <span class="style-branches">rama</span> puede aprender las
+      <span class="style-roots">raíces</span> de otras, pero durante su primer nivel está limitada a
+      aprender de la suya o neutras. Los mefrinos son los únicos
+      <span class="style-folia">folia</span> que pueden aprender cualquier
+      <span class="style-roots">raíz</span> desde el principio.
     </p>
 
     <h3>- Manipulación elemental</h3>
     <p>
-      Alados La capacidad de arbitrariamente mover y dar forma a un elemento de la naturaleza, sea
-      agua, fuego, hielo, magma, etcétera. Normalmente los alados necesitan ayuda de un compañero
-      nátur para aprender manipulación elemental, pero pueden manejarlo por sus cuentas una vez
-      acostumbrados.
+      <span class="style-winged">Alados</span> La capacidad de arbitrariamente mover y dar forma a
+      un elemento de la naturaleza, sea agua, fuego, hielo, magma, etcétera. Normalmente los
+      <span class="style-winged">alados</span> necesitan ayuda de un compañero
+      <span class="style-natur">nátur</span> para aprender manipulación elemental, pero pueden
+      manejarlo por sus cuentas una vez acostumbrados.
     </p>
 
     <h3>- Raíces dendríticas</h3>
     <p>
-      Caudados Similar a un programa de computadora, estos siguen instrucciones al activarse.
-      Cualquiera puede activarlos, incluso remotamente, pero solo los caudados pueden dibujarlos. Se
-      elige una especialidad entre mutación (estados de materia, transmutación) u ondas
-      (temperatura, gravedad, luz).
+      <span class="style-caudate">Caudados</span> Similar a un programa de computadora, estos siguen
+      instrucciones al activarse. Cualquiera puede activarlos, incluso remotamente, pero solo los
+      <span class="style-caudate">caudados</span> pueden dibujarlos. Se elige una especialidad entre
+      mutación (estados de materia, transmutación) u ondas (temperatura, gravedad, luz).
     </p>
 
     <h3>- Polen estelar</h3>
     <p>
-      Florecidos Facilidad en materializar átomos u ondas de características específicas a toda
-      velocidad. El folia se especializa en un material sólido, líquido, gaseoso, o plasmático, o en
-      ondas sea gravitatorias, calóricas, o sonoras.
+      <span class="style-flowering">Florecidos</span> Facilidad en materializar átomos u ondas de
+      características específicas a toda velocidad. El <span class="style-folia">folia</span> se
+      especializa en un material sólido, líquido, gaseoso, o plasmático, o en ondas sea
+      gravitatorias, calóricas, o sonoras.
     </p>
 
     <h2>~ Nodos</h2>
     <p>
-      Aplicaciones muy específicas de estela que no requieren aprendizaje profundo. Similar a las
-      raíces, un folia puede manejar hasta tres al mismo tiempo. Si un folia quiere utilizar un nodo
-      en otro, el segundo debe abrir su núcleo.
+      Aplicaciones muy específicas de <span class="style-startrail">estela</span> que no requieren
+      aprendizaje profundo. Similar a las <span class="style-roots">raíces</span>, un
+      <span class="style-folia">folia</span> puede manejar hasta tres al mismo tiempo. Si un
+      <span class="style-folia">folia</span> quiere utilizar un
+      <span class="style-nodes">nodo</span> en otro, el segundo debe abrir su núcleo.
     </p>
     <p>
       Una rama puede aprender los nodos de otros, pero durante su primer nivel está limitado a
@@ -94,30 +110,37 @@ const name = '☆ Estela ☆';
     <ol>
       <li>
         <p>
-          Si un folia insiste en aprender un nodo que no es compatible con su rama, este contará
-          como raíz. Esta práctica no es común.
+          Si un <span class="style-folia">folia</span> insiste en aprender un
+          <span class="style-nodes">nodo</span> que no es compatible con su
+          <span class="style-branches">rama</span>, este contará como
+          <span class="style-roots">raíz</span>. Esta práctica no es común.
         </p>
       </li>
       <li>
         <p>
-          El color de resaltado indica exclusividad: alado es azul, caudado es rojo, y florecido es
-          verde. Si no hay resaltado, indica neutralidad: cualquier rama puede utilizarlo.
+          El color de resaltado indica exclusividad: <span class="style-winged">alado</span> es
+          azul, <span class="style-caudate">caudado</span> es rojo, y
+          <span class="style-flowering">florecido</span> es verde. Si no hay resaltado, indica
+          neutralidad: cualquier <span class="style-branches">rama</span> puede utilizarlo.
         </p>
       </li>
       <li>
-        <p>Algunos nodos están activos pasivamente.</p>
+        <p>Algunos <span class="style-nodes">nodos</span> están activos pasivamente.</p>
       </li>
       <li>
         <p>
-          Un nodo usualmente necesita al menos una quinta parte de la estela almacenada en un folia
-          para ser activado, pero puede variar dependiendo de sus efectos.
+          Un <span class="style-nodes">nodo</span> usualmente necesita al menos una quinta parte de
+          la <span class="style-startrail">estela</span> almacenada en un
+          <span class="style-folia">folia</span> para ser activado, pero puede variar dependiendo de
+          sus efectos.
         </p>
       </li>
       <li>
         <p>
-          En escenas de enfrentamientos, los personajes pueden usar sus nodos solo una vez, y
-          aquellos nodos que sean duraderos (ej. que cambien estadísticas) permanecen activos hasta
-          el final de la escena a menos que se indique lo contrario.
+          En escenas de enfrentamientos, los personajes pueden usar sus
+          <span class="style-nodes">nodos</span> solo una vez, y aquellos
+          <span class="style-nodes">nodos</span> que sean duraderos (ej. que cambien estadísticas)
+          permanecen activos hasta el final de la escena a menos que se indique lo contrario.
         </p>
       </li>
     </ol>
@@ -209,7 +232,7 @@ const name = '☆ Estela ☆';
       <li>
         <h3>- Luz</h3>
         Cuando el crisalismo del usuario llega a su punto de quiebre, este nodo automáticamente
-        extiende su vida hasta un daño más. Esencialmente protege de antesises.
+        extiende su vida hasta un daño más. Esencialmente protege de antesis.
       </li>
       <li>
         <h3>- Personalización</h3>
@@ -219,7 +242,7 @@ const name = '☆ Estela ☆';
       <li>
         <h3>- Spray auxiliar</h3>
         Limpia estela, nodos, y glifos en una superficie, y sirve de antiséptico. Prácticamente
-        cancela toda magia excepto ánimo, antesises, y raíces.
+        cancela toda magia excepto ánimo, antesis, y raíces.
       </li>
       <li>
         <h3>- Teleportación</h3>
@@ -286,30 +309,36 @@ const name = '☆ Estela ☆';
     <h2>~ Antesis</h2>
     <p>
       Se considera la culminación de la especialización de una persona, representada en una
-      aplicación de estela, ánimo, o ambas, que es muy avanzada y personal. Bien podría asociarse al
-      “movimiento especial” de un personaje de videojuegos. Normalmente las antesises requieren al
-      menos la mitad de la estela almacenado en un folia para materializarse, pero el costo puede
-      variar dependiendo de la complejidad de la antesis.
+      aplicación de <span class="style-startrail">estela</span>,
+      <span class="style-essence">ánimo</span>, o ambas, que es muy avanzada y personal. Bien podría
+      asociarse al “movimiento especial” de un personaje de videojuegos. Normalmente las
+      <span class="style-anthesis">antesis</span> requieren al menos la mitad de la
+      <span class="style-startrail">estela</span> almacenado en un
+      <span class="style-folia">folia</span> para materializarse, pero el costo puede variar
+      dependiendo de la complejidad de la <span class="style-anthesis">antesis</span>.
     </p>
 
     <h2>~ Núcleo</h2>
     <p>
-      Se refiere al espacio donde se almacena la estela, parecido a como las baterías almacenan sus
-      cargas eléctricas. Todo núcleo pertenece a una masa, pero no todas las masas poseen un núcleo.
-      A veces puede darse que un folia nazca ausente de núcleo sin razón aparente.
+      Se refiere al espacio donde se almacena la <span class="style-startrail">estela</span>,
+      parecido a como las baterías almacenan sus cargas eléctricas. Todo núcleo pertenece a una
+      masa, pero no todas las masas poseen un núcleo. A veces puede darse que un
+      <span class="style-folia">folia</span> nazca ausente de núcleo sin razón aparente.
     </p>
     <p>
-      Mientras mayor rareza tenga la masa u recipiente del núcleo, mayores cantidades de estela
-      puede almacenar. En el caso de los folia, sus conocimientos cuentan como un aspecto que puede
-      aumentar su rareza. Es muy común, especialmente en caudados, portar piedras preciosas como
-      medio de almacenamiento de estela debido a la rareza y belleza de estas. Por lo general,
-      dichas piedras se encuentran en puntas de varitas, o incrustadas en báculos, aunque basta con
-      llevarlas de accesorio.
+      Mientras mayor rareza tenga la masa u recipiente del núcleo, mayores cantidades de
+      <span class="style-startrail">estela</span> puede almacenar. En el caso de los
+      <span class="style-folia">folia</span>, sus conocimientos cuentan como un aspecto que puede
+      aumentar su rareza. Es muy común, especialmente en
+      <span class="style-caudate">caudados</span>, portar piedras preciosas como medio de
+      almacenamiento de <span class="style-startrail">estela</span> debido a la rareza y belleza de
+      estas. Por lo general, dichas piedras se encuentran en puntas de varitas, o incrustadas en
+      báculos, aunque basta con llevarlas de accesorio.
     </p>
     <p>
-      No es posible alterar un folia con núcleos excepto si ellos voluntariamente realizan lo que es
-      llamado abrir sus núcleos, que es permitir fragmentos de iris ingresar en vez de solamente
-      burbujas de oro.
+      No es posible alterar un <span class="style-folia">folia</span> con núcleos excepto si ellos
+      voluntariamente realizan lo que es llamado abrir sus núcleos, que es permitir fragmentos de
+      iris ingresar en vez de solamente burbujas de oro.
     </p>
 
     <h2>~ Fragmentos de iris y burbujas de oro</h2>
@@ -331,34 +360,37 @@ const name = '☆ Estela ☆';
 
     <h2>~ Fenómenos Estelares</h2>
     <p>
-      Distintos materiales en el mundo reaccionan al ser inyectados con estela. Es útil saber estas
-      interacciones para formular inventos y evitar accidentes. Algunos ejemplares son: Maderas:
-      generan hojas y flora de inmediato. Hojas: expulsan viento. Suficientes hojas podrían causar
-      un ventarrón. Minerales: albergan estela, como las personas. Espejos: de ser dividido, una
-      parte mostrará el reflejo del otro. Conchas de mar: de ser dividido, una parte “dirá” lo que
-      la otra “oiga”. Plásticos: se derriten de inmediato. Frutas: su sabor se intensifica.
-      Calabacín: de ser puesto en agua hirviendo, absorbe las propiedades estelares de los
-      materiales que le acompañen. Es por ello que el calabacín es un ingrediente clave al momento
-      de hacer pócimas. Cebolla: expulsa lacrimógeno a su alrededor.
+      Distintos materiales en el mundo reaccionan al ser inyectados con
+      <span class="style-startrail">estela</span>. Es útil saber estas interacciones para formular
+      inventos y evitar accidentes. Algunos ejemplares son: Maderas: generan hojas y flora de
+      inmediato. Hojas: expulsan viento. Suficientes hojas podrían causar un ventarrón. Minerales:
+      albergan <span class="style-startrail">estela</span>, como las personas. Espejos: de ser
+      dividido, una parte mostrará el reflejo del otro. Conchas de mar: de ser dividido, una parte
+      “dirá” lo que la otra “oiga”. Plásticos: se derriten de inmediato. Frutas: su sabor se
+      intensifica. Calabacín: de ser puesto en agua hirviendo, absorbe las propiedades estelares de
+      los materiales que le acompañen. Es por ello que el calabacín es un ingrediente clave al
+      momento de hacer pócimas. Cebolla: expulsa lacrimógeno a su alrededor.
     </p>
 
     <h2>~ Sistemas estela</h2>
     <p>
-      Así se le llaman a los dispositivos que utilizan estela como combustible, y están hechos para
-      mejorar la calidad de vida de la sociedad. Algunos ejemplos incluyen: Atrapapesadillas: un
-      pequeño dispositivo hecho para autodestruirse junto a su contenido, normalmente un orbe
-      negativo, al recibir un daño considerable. Plevráfono: hechas con espejos y conchas de mar, y
-      con una forma estéticamente placentera, funcionan como teléfonos. Plev para acortar.
-      Plevravisor: a partir del mismo principio que con las bolas espejo y varios otros ajustes, se
-      asemeja la funcionalidad de los televisores. PV para acortar.
+      Así se le llaman a los dispositivos que utilizan
+      <span class="style-startrail">estela</span> como combustible, y están hechos para mejorar la
+      calidad de vida de la sociedad. Algunos ejemplos incluyen: Atrapapesadillas: un pequeño
+      dispositivo hecho para autodestruirse junto a su contenido, normalmente un orbe negativo, al
+      recibir un daño considerable. Plevráfono: hechas con espejos y conchas de mar, y con una forma
+      estéticamente placentera, funcionan como teléfonos. Plev para acortar. Plevravisor: a partir
+      del mismo principio que con las bolas espejo y varios otros ajustes, se asemeja la
+      funcionalidad de los televisores. PV para acortar.
     </p>
 
     <h2>~ Leyes</h2>
     <ol>
       <li>
         <p>
-          <b>Lo que se hace siempre se deshace:</b> Las creaciones hechas con estela nunca son
-          permanentes y siempre se disolverán en fragmentos de iris.
+          <b>Lo que se hace siempre se deshace:</b> Las creaciones hechas con
+          <span class="style-startrail">estela</span> nunca son permanentes y siempre se disolverán
+          en fragmentos de iris.
         </p>
         <p>
           <small>
@@ -415,27 +447,34 @@ const name = '☆ Estela ☆';
 
     <h2>~ Congelación (no canon)</h2>
     <p>
-      Cuando dos o más usuarios de estela se atacan, entran al estado de congelación. Durante este
-      estado, la cantidad total de raíces y nodos que pueden utilizar se vuelve igual a su niveles,
-      incluso si el usuario conoce más. Es decir, un folia de nivel 2 que está congelado solo puede
-      utilizar 2 raíces y nodos. Las habilidades que son congeladas pueden decidirse por descarte
-      conforme los usuarios decidan utilizar habilidades hasta llegar a sus respectivos límites, o
-      pueden ser decididas de antemano. Una vez estos usuarios se mueven del área general donde se
-      encuentran ubicados (ej. de una villa a las afueras de esta) la congelación se reinicia, y
-      pueden decidir usar habilidades que antes fueron congeladas. El reinicio no ocurre si el
-      movimiento es dentro de la misma área general (ej. de un parque a un puente, ambos en la misma
-      villa). Adicionalmente, la congelación no se reinicia si los usuarios se mueven a un área
-      previamente visitada (ej. de las afueras de la villa a dentro de esta de nuevo). Finalmente,
-      el estado de congelación se anula cuando se cumple al menos una de las siguientes condiciones:
-      Los contendientes cancelan voluntariamente dicho estado a través de juntar su estela e
-      inyectar el resultado en la tierra. Los contendientes no interactúan entre sí por al menos
-      media hora. Interactuar incluye verse entre sí, escuchar al otro, o estar al tanto de la
-      presencia del otro. No quedan contendientes capacitados para continuar, sea por estar
-      completamente agotados, inconscientes, o muertos. Por último, durante el estado de congelación
-      se toman a consideración las cargas, que son una unidad para medir la cantidad de estela que
-      los integrantes pueden manejar, comenzando con 10. Raíces consumen 1 o más cargas, nodos
-      consumen 2, y antesises consumen 5. Espírios no consumen estela, pero cansarán mentalmente al
-      usuario si los intenta usar una cuarta vez durante el período de congelación.
+      Cuando dos o más usuarios de <span class="style-startrail">estela</span> se atacan, entran al
+      estado de congelación. Durante este estado, la cantidad total de
+      <span class="style-roots">raíces</span> y <span class="style-nodes">nodos</span> que pueden
+      utilizar se vuelve igual a su niveles, incluso si el usuario conoce más. Es decir, un
+      <span class="style-folia">folia</span> de nivel 2 que está congelado solo puede utilizar 2
+      <span class="style-roots">raíces</span> y <span class="style-nodes">nodos</span>. Las
+      habilidades que son congeladas pueden decidirse por descarte conforme los usuarios decidan
+      utilizar habilidades hasta llegar a sus respectivos límites, o pueden ser decididas de
+      antemano. Una vez estos usuarios se mueven del área general donde se encuentran ubicados (ej.
+      de una villa a las afueras de esta) la congelación se reinicia, y pueden decidir usar
+      habilidades que antes fueron congeladas. El reinicio no ocurre si el movimiento es dentro de
+      la misma área general (ej. de un parque a un puente, ambos en la misma villa). Adicionalmente,
+      la congelación no se reinicia si los usuarios se mueven a un área previamente visitada (ej. de
+      las afueras de la villa a dentro de esta de nuevo). Finalmente, el estado de congelación se
+      anula cuando se cumple al menos una de las siguientes condiciones: Los contendientes cancelan
+      voluntariamente dicho estado a través de juntar su
+      <span class="style-startrail">estela</span> e inyectar el resultado en la tierra. Los
+      contendientes no interactúan entre sí por al menos media hora. Interactuar incluye verse entre
+      sí, escuchar al otro, o estar al tanto de la presencia del otro. No quedan contendientes
+      capacitados para continuar, sea por estar completamente agotados, inconscientes, o muertos.
+      Por último, durante el estado de congelación se toman a consideración las cargas, que son una
+      unidad para medir la cantidad de <span class="style-startrail">estela</span> que los
+      integrantes pueden manejar, comenzando con 10.
+      <span class="style-roots">Raíces</span> consumen 1 o más cargas,
+      <span class="style-nodes">nodos</span> consumen 2, y
+      <span class="style-anthesis">antesis</span> consumen 5. Espírios no consumen
+      <span class="style-startrail">estela</span>, pero cansarán mentalmente al usuario si los
+      intenta usar una cuarta vez durante el período de congelación.
     </p>
   </section>
 </template>

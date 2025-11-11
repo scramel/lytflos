@@ -2,21 +2,24 @@
 :root {
   /* general concepts */
   --color-folia: #ff8114;
-  --color-startrail: var(--color-folia);
-  --color-anthesis: var(--color-folia);
-  --color-essence: #6464ff;
-  --color-roots: var(--color-folia);
-  --color-nodes: #23aecc;
+  --color-startrail: var(--color-folia); // estela
+  --color-anthesis: var(--color-folia); // antesis
+  --color-essence: #6464ff; // ánimo
+  --color-roots: var(--color-folia); // raíz/raíces
+  --color-nodes: #23aecc; // nodos
   /* folia branches */
-  --color-branches: #bc54ee;
-  --color-hybrid: var(--color-branches);
-  --color-caudate: #ff035e;
-  --color-flowering: #04f49e;
-  --color-winged: #0193ff;
+  --color-branches: #bc54ee; // rama/ramas
+  --color-hybrid: var(--color-branches); // híbrido/híbridos
+  --color-caudate: #ff035e; // caudado-a/caudados-as
+  --color-flowering: #04f49e; // florecido-a/florecidos-as
+  --color-winged: #0193ff; // alado-a/alados-as
   /* branch roots */
-  --color-pollen: var(--color-flowering);
-  --color-dendrites: var(--color-caudate);
-  --color-elements: var(--color-winged);
+  --color-pollen: var(--color-flowering); // polen estelar
+  --color-dendrites: var(--color-caudate); // dendrita/dendritas
+  --color-elements: var(--color-winged); // elementos/elementos naturales
+  /* branch nodes */
+  --color-glyphs: var(--color-caudate); // glifo/glifos
+  --color-solar-wings: var(--color-winged); // alas solares
   /* creatures */
   --color-lucero: #04f49e;
   --color-umbria: #ff035e;
