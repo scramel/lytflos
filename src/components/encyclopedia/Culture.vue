@@ -100,7 +100,7 @@
       la unión” 5.000 Gear de absso Ciudad abandonada Trébol negro Valor aprox: vehículo, mineral
       raro, espírio, orbe dracónico. Inscripción: “De la muerte a la vida” 50.000 Gear de cuarzo
       Árbol planetario Flor de tres pétalos Valor aprox: casa, yate lujoso, aeronave, espírio raro.
-      Inscripción: “De la sequía a la fertilidad” 500.000 Gear de ánima Dos siluetas Tres filamentos
+      Inscripción: “De la sequía a la fertilidad” 500.000 Gear de ánimo Dos siluetas Tres filamentos
       Valor aprox: mansión, tierras. Inscripción: “Del polvo estelar al cosmos”
     </p>
 

@@ -7,8 +7,8 @@ const name = '✾ Introducción ✾';
     <h1 id="introduction" :name="name">{{ name }}</h1>
     <hr />
     <p>
-      En <span class="style-lytflos">Lytflos</span>, año 29XX, existe una normalmente pacífica
-      civilización de adorables plantas antropomórficas: los
+      En <a href="#lytflos" class="style-lytflos">Lytflos</a>, año 29XX, existe una normalmente
+      pacífica civilización de adorables plantas antropomórficas: los
       <a href="#folia" class="style-folia">folia</a>. A través de un proceso similar al de la
       fotosíntesis, ellos son capaces de convertir la luz del día en magia que llaman
       <a href="#startrail" class="style-startrail">estela</a> y utilizarla para crear, mover, y

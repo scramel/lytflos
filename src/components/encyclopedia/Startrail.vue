@@ -9,18 +9,19 @@ const name = '☆ Estela ☆';
     <p>
       El término utilizado tanto para cuantificar como para describir la manifestación física de la
       energía mágica que tanto <span class="style-folia">folia</span> como ciertas otras plantas
-      pueden generar. Se utiliza para evocar <span class="style-roots">raíces</span>,
-      <span class="style-nodes">nodos</span>, <span class="style-anthesis">antesis</span>, inducir
+      pueden generar. Se genera a partir de la luz del día, y se utiliza para evocar
+      <span class="style-roots">raíces</span>, <span class="style-nodes">nodos</span>,
+      <span class="style-anthesis">antesis</span>, inducir
       <span class="style-stellar-phenomena">fenómenos estelares</span>, e incluso como combustible
       para <span class="style-startrail-systems">sistemas estela</span>, entre otras cosas.
     </p>
     <p>
-      La <span class="style-startrail">estela</span> se genera a partir de la luz del día, de ahí el
-      nombre, junto con la apariencia de la materialización más simple de esta energía: la
-      <span class="style-pure-startrail">estela pura</span>, una especie de luz cálida y maleable
-      que se divide en dos tipos y que todos los <span class="style-folia">folia</span> pueden usar
-      independientemente de sus <span class="style-branches">ramas</span>, aunque más débil que
-      cualquier <span class="style-roots">raíz</span>.
+      Si bien puede tomar muchas formas, la más básica y fundamental de ellas es la
+      <span class="style-pure-startrail">estela pura</span>, que es una especie de luz cálida y
+      maleable que se divide en dos tipos y que todos los
+      <span class="style-folia">folia</span> pueden usar independientemente de sus
+      <span class="style-branches">ramas</span>, aunque más débil que cualquier
+      <span class="style-roots">raíz</span>.
     </p>
     <p>
       Por lo general la utilidad directa de la
@@ -365,28 +366,66 @@ const name = '☆ Estela ☆';
     <p>
       Distintos materiales en el mundo reaccionan al ser inyectados con
       <span class="style-startrail">estela</span>. Es útil saber estas interacciones para formular
-      inventos y evitar accidentes. Algunos ejemplares son: Maderas: generan hojas y flora de
-      inmediato. Hojas: expulsan viento. Suficientes hojas podrían causar un ventarrón. Minerales:
-      albergan <span class="style-startrail">estela</span>, como las personas. Espejos: de ser
-      dividido, una parte mostrará el reflejo del otro. Conchas de mar: de ser dividido, una parte
-      “dirá” lo que la otra “oiga”. Plásticos: se derriten de inmediato. Frutas: su sabor se
-      intensifica. Calabacín: de ser puesto en agua hirviendo, absorbe las propiedades estelares de
-      los materiales que le acompañen. Es por ello que el calabacín es un ingrediente clave al
-      momento de hacer pócimas. Cebolla: expulsa lacrimógeno a su alrededor.
+      inventos y evitar accidentes. Algunos ejemplares son:
     </p>
-
+    <ul>
+      <li>
+        <p><b>Maderas:</b> generan hojas y flora de inmediato.</p>
+      </li>
+      <li>
+        <p><b>Hojas:</b> expulsan viento. Suficientes hojas podrían causar un ventarrón.</p>
+      </li>
+      <li>
+        <p>
+          <b>Minerales:</b> albergan <span class="style-startrail">estela</span>, como los folia.
+        </p>
+      </li>
+      <li>
+        <p><b>Espejos:</b> de ser dividido, una parte mostrará el reflejo del otro.</p>
+      </li>
+      <li>
+        <p><b>Conchas de mar:</b> de ser dividido, una parte "dirá" lo que la otra "oiga".</p>
+      </li>
+      <li>
+        <p><b>Plásticos:</b> se derriten de inmediato.</p>
+      </li>
+      <li>
+        <p><b>Frutas:</b> su sabor se intensifica.</p>
+      </li>
+      <li>
+        <p><b>Té:</b> absorbe las propiedades estelares de los materiales que le acompañen.</p>
+      </li>
+      <li>
+        <p><b>Cebolla:</b> expulsa lacrimógeno a su alrededor.</p>
+      </li>
+    </ul>
     <h2>~ Sistemas estela</h2>
     <p>
       Así se le llaman a los dispositivos que utilizan
       <span class="style-startrail">estela</span> como combustible, y están hechos para mejorar la
-      calidad de vida de la sociedad. Algunos ejemplos incluyen: Atrapapesadillas: un pequeño
-      dispositivo hecho para autodestruirse junto a su contenido, normalmente un orbe negativo, al
-      recibir un daño considerable. Plevráfono: hechas con espejos y conchas de mar, y con una forma
-      estéticamente placentera, funcionan como teléfonos. Plev para acortar. Plevravisor: a partir
-      del mismo principio que con las bolas espejo y varios otros ajustes, se asemeja la
-      funcionalidad de los televisores. PV para acortar.
+      calidad de vida de la sociedad. Algunos ejemplos incluyen:
     </p>
-
+    <ul>
+      <li>
+        <p>
+          <b>Atrapapesadillas:</b> un pequeño dispositivo hecho para autodestruirse junto a su
+          contenido, normalmente un orbe negativo, al recibir un daño considerable.
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Plevráfono:</b>
+          hechas con espejos y conchas de mar, y con una forma estéticamente placentera, funcionan
+          como teléfonos. Plev para acortar.
+        </p>
+      </li>
+      <li>
+        <p>
+          <b>Plevravisor:</b> a partir del mismo principio que con las bolas espejo y varios otros
+          ajustes, se asemeja la funcionalidad de los televisores. PV para acortar.
+        </p>
+      </li>
+    </ul>
     <h2>~ Leyes</h2>
     <ol>
       <li>
@@ -447,7 +486,6 @@ const name = '☆ Estela ☆';
         </p>
       </li>
     </ol>
-
     <h2>~ Congelación (no canon)</h2>
     <p>
       Cuando dos o más usuarios de <span class="style-startrail">estela</span> se atacan, entran al

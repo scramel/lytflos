@@ -7,6 +7,7 @@
   --color-essence: #6464ff;
   --color-roots: var(--color-folia);
   --color-nodes: #23aecc;
+  --color-chrysalism: #00ffff;
   /* folia branches */
   --color-branches: #bc54ee;
   --color-hybrid: var(--color-branches);
@@ -45,14 +46,17 @@
   font-weight: 600;
 }
 .style-lytflos {
+  color: var(--color-text);
   font-family: DeliusSwashCaps;
 }
 .style-triadia {
+  color: var(--color-text);
   font-family: DeliusSwashCaps;
 }
 .style-folia {
   color: var(--color-folia);
-  text-decoration-color: var(--color-folia);
+  // color: var(--color-folia);
+  // text-decoration-color: var(--color-folia);
   &--game {
     font-family: DeliusSwashCaps;
   }
@@ -137,6 +141,10 @@
   color: var(--color-golden-bubbles);
   text-decoration-color: var(--color-golden-bubbles);
 }
+.style-chrysalism {
+  color: var(--color-chrysalism);
+  text-decoration-color: var(--color-chrysalism);
+}
 
 /* backgrounds */
 .background-winged {
@@ -147,4 +155,9 @@
 }
 .background-flowering {
   background-color: #04f49e30;
+}
+
+/* spoilers */
+.style-spoiler {
+  background-color: var(--color-invert);
 }

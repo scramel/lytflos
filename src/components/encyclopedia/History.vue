@@ -7,10 +7,10 @@
       Anteriores (Pasado ~ Día 0): la civilización antes del evento que casi trae la extinción de
       los folia al mundo. Una civilización urbana y muy tecnológicamente avanzada en comparación al
       presente. Sólo se puede aprender de este período a través de estudiar las ciudades perdidas.
-      Día de la Expiación (Día 0): el día en que un elo conocido como La Silueta apareció y destruyó
-      todo a su paso. La veracidad de la historia es discutida en la actualidad, pero la mayoría
-      está de acuerdo en que algo arrasó con el mundo. Años Posteriores (Día 0 ~ Presente): abarca
-      eventos como la supervivencia de los folia, la Era de Conquista, y la fundación de
+      Día de la Expiación (Día 0): el día en que una sombra conocido como La Silueta apareció y
+      destruyó todo a su paso. La veracidad de la historia es discutida en la actualidad, pero la
+      mayoría está de acuerdo en que algo arrasó con el mundo. Años Posteriores (Día 0 ~ Presente):
+      abarca eventos como la supervivencia de los folia, la Era de Conquista, y la fundación de
       <span class="style-triadia">Triadia</span> .
     </p>
 
@@ -21,7 +21,7 @@
       presente, y al menos el 99% de esta, junto con sus construcciones, fue reducida a polvo.
       Algunos lugares documentados durante los Años Anteriores están completamente desaparecidos en
       la actualidad. Una guerra estaba siendo librada en este tiempo, y no hay mención alguna de la
-      existencia del ánimo. La cultura estaba inclinada a lo urbano, tanto como para pensar que
+      existencia del esencia. La cultura estaba inclinada a lo urbano, tanto como para pensar que
       había una preocupación por el estado del medio ambiente, y su tecnología, especialmente
       electrónica, estaba muy por encima de lo conocido en el presente.
     </p>
@@ -33,7 +33,7 @@
       las vastas arquitecturas que entonces existieron, y que finalmente desapareció en una
       explosión de luz tricolor visible por el mundo entero. Al ser en cuestión se le nombró La
       Silueta, y en la modernidad se teoriza que se trató de algún especie de criatura negativa, por
-      ejemplo un elo, con poderes de magnitudes apocalípticas. Las pocas ciudades que no fueron
+      ejemplo una sombra, con poderes de magnitudes apocalípticas. Las pocas ciudades que no fueron
       completamente desaparecidas ahora se les conocen como ciudades perdidas, y
       <span class="style-triadia">Triadia</span> busca transformarlas en localizaciones seguras y
       aptas de ser pobladas por folia. El calendario de
@@ -70,7 +70,7 @@
       florecidos, y luego destruídos con fuerza bruta. Tal proceso solamente les dio paz breve,
       puesto que no tardaban en aparecer nuevamente. La inestabilidad del mundo conllevó a forjar
       los anillos septenarios, espírios de sumamente gran poder hechos con el fin de proteger los
-      folia, con la ayuda de un dispositivo antiguo aparentemente capaz de generar ánimo. Los
+      folia, con la ayuda de un dispositivo antiguo aparentemente capaz de generar esencia. Los
       caudados también tuvieron un rol muy importante. Dados diversos desastres naturales se
       libraron uno tras otro, fue necesario encontrar maneras de convertir las tierras afectadas en
       una vez más habitables por los folia. Esto dio lugar a los raíces, una versión avanzada de los
