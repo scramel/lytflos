@@ -175,10 +175,10 @@ const name = '❦ Criaturas ❦';
 
     <h3 id="natur">~ Nátur</h3>
     <p>
-      Personificaciones de la naturaleza, usualmente ubicados donde las concentraciones de este son
-      muy fuertes. Causan los fenómenos naturales que mantienen el mundo vivo, pero son muy
-      recelosos de su territorio para con otros náturs, y esto a veces ocasiona riñas que acaban en
-      cataclismos. No dudarán en atacar si se sienten amenazados.
+      Personificación de la naturaleza, usualmente ubicado donde las concentraciones de este son muy
+      fuertes. Los náturs causan los fenómenos naturales que mantienen el mundo vivo, pero son muy
+      terrotirales, lo cual ocasiona riñas que acaban en cataclismos. No dudarán en atacar si se
+      sienten amenazados.
     </p>
     <p>
       Hablan su propio lenguaje que es posible aprender: el natúreo. Los

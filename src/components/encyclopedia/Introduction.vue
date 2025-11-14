@@ -25,9 +25,8 @@ const name = '✾ Introducción ✾';
       <span class="style-startrail">estela</span> de maneras distintivas. En la república de
       <span class="style-triadia">Triadia</span> cada <span class="style-branches">rama</span> vive
       en armonía, y juntas la mantienen a salvo tanto de desastres naturales causados por los
-      encantadores aunque ocasionalmente inestables
-      <a href="#naturs" class="style-natur">náturs</a>, como de los estragos ocasionados por
-      sombrías criaturas nacientes de la
+      encantadores aunque ocasionalmente inestables <a href="#natur" class="style-natur">náturs</a>,
+      como de los estragos ocasionados por sombrías criaturas nacientes de la
       <a href="#negativity" class="style-negativity">negatividad</a> en los sentimientos de los
       seres vivos.
     </p>
