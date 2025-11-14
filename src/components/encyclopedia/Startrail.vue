@@ -486,36 +486,5 @@ const name = '☆ Estela ☆';
         </p>
       </li>
     </ol>
-    <h2>~ Congelación (no canon)</h2>
-    <p>
-      Cuando dos o más usuarios de <span class="style-startrail">estela</span> se atacan, entran al
-      estado de congelación. Durante este estado, la cantidad total de
-      <span class="style-roots">raíces</span> y <span class="style-nodes">nodos</span> que pueden
-      utilizar se vuelve igual a su niveles, incluso si el usuario conoce más. Es decir, un
-      <span class="style-folia">folia</span> de nivel 2 que está congelado solo puede utilizar 2
-      <span class="style-roots">raíces</span> y <span class="style-nodes">nodos</span>. Las
-      habilidades que son congeladas pueden decidirse por descarte conforme los usuarios decidan
-      utilizar habilidades hasta llegar a sus respectivos límites, o pueden ser decididas de
-      antemano. Una vez estos usuarios se mueven del área general donde se encuentran ubicados (ej.
-      de una villa a las afueras de esta) la congelación se reinicia, y pueden decidir usar
-      habilidades que antes fueron congeladas. El reinicio no ocurre si el movimiento es dentro de
-      la misma área general (ej. de un parque a un puente, ambos en la misma villa). Adicionalmente,
-      la congelación no se reinicia si los usuarios se mueven a un área previamente visitada (ej. de
-      las afueras de la villa a dentro de esta de nuevo). Finalmente, el estado de congelación se
-      anula cuando se cumple al menos una de las siguientes condiciones: Los contendientes cancelan
-      voluntariamente dicho estado a través de juntar su
-      <span class="style-startrail">estela</span> e inyectar el resultado en la tierra. Los
-      contendientes no interactúan entre sí por al menos media hora. Interactuar incluye verse entre
-      sí, escuchar al otro, o estar al tanto de la presencia del otro. No quedan contendientes
-      capacitados para continuar, sea por estar completamente agotados, inconscientes, o muertos.
-      Por último, durante el estado de congelación se toman a consideración las cargas, que son una
-      unidad para medir la cantidad de <span class="style-startrail">estela</span> que los
-      integrantes pueden manejar, comenzando con 10.
-      <span class="style-roots">Raíces</span> consumen 1 o más cargas,
-      <span class="style-nodes">nodos</span> consumen 2, y
-      <span class="style-anthesis">antesis</span> consumen 5. Espírios no consumen
-      <span class="style-startrail">estela</span>, pero cansarán mentalmente al usuario si los
-      intenta usar una cuarta vez durante el período de congelación.
-    </p>
   </section>
 </template>

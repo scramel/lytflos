@@ -1,6 +1,10 @@
+<script setup>
+const name = '🙒 Cultura 🙒';
+</script>
+
 <template>
-  <section id="culture">
-    <h1 id="culture-heading">Cultura 🙒</h1>
+  <section id="section-culture">
+    <h1 id="culture" :name="name">{{ name }}</h1>
     <hr />
     <p>
       A lo largo del tiempo, el mundo ha desarrollado festividades, tradiciones, y creencias que se
@@ -10,51 +14,56 @@
       cultura. Esta sección del documento es una lista de todos los elementos mencionados.
     </p>
 
-    <h2 id="festividades">~ Festividades</h2>
+    <h2 id="festivities">~ Festividades</h2>
+    <h3>- El día más cálido del año</h3>
     <p>
-      - El día más cálido del año Toma lugar el penúltimo prismar del noveno mes, irónicamente
-      siendo este uno de los días más fríos en todo el año. El propósito de esta festividad es
-      alentar las reuniones y las nuevas amistades, para convertir el día en uno más cálido. Durante
-      este día suelen verse personas publicitando comunidades apasionadas por diversos hobbies para
-      captar el interés de potenciales nuevos amigos. Algunas personas confunden el propósito de
-      este día con uno más romántico y, aunque también es alentado, no es el foco principal. Si
-      alguien no sabe la razón por la que el “día más cálido” es tan frío, es tradición ocultarle la
-      razón hasta que lo descubre.
+      Toma lugar el penúltimo prismar del noveno mes, irónicamente siendo este uno de los días más
+      fríos en todo el año. El propósito de esta festividad es alentar las reuniones y las nuevas
+      amistades, para convertir el día en uno más cálido. Durante este día suelen verse personas
+      publicitando comunidades apasionadas por diversos hobbies para captar el interés de
+      potenciales nuevos amigos. Algunas personas confunden el propósito de este día con uno más
+      romántico y, aunque también es alentado, no es el foco principal.
     </p>
-
     <p>
-      - Prólogo/Epílogo Una celebración de la estela a través de diversas demostraciones de magia,
-      muestras de avances en los raíces, y fiestas en todo el mundo con una estética parecida a otra
-      festividad que fue perdida en el tiempo: el halloween. Es una temporada que abarca todo el
-      octavo mes; oficialmente comienza el primer lúcies, y termina el último týlar. En el último
-      týlar sucede el Epílogo en Ýperos, que son todos los eventos anteriormente mencionados, pero
-      organizados por el gobierno. Durante los últimos años, Nai Neottia ha sido la persona a cargo
-      de planificar y liderar las coreografías del Epílogo, y se ha vuelto una figura muy popular en
-      el mundo del entretenimiento. Es común ver a personas vestir formalmente o disfrazarse de
-      personajes ficticios mientras comen dulces o simplemente reunidos con sus amistades.
+      Si alguien no sabe la razón por la que el “día más cálido” es tan frío, es tradición ocultarle
+      la razón hasta que lo descubre.
     </p>
-
+    <h3 id="prologue-epilogue">- Prólogo/Epílogo</h3>
     <p>
-      - <span class="style-folia">Folia</span> de hierro Una serie de competiciones atléticas
-      pensadas para todas las <span class="style-branches">ramas</span>, donde estas ponen a prueba
-      sus cuerpos y mentes. Las personas organizan esta competición a escala mundial una vez cada
-      cuatro años, pero no es raro ver iteraciones mucho más pequeñas y locales. Concurso de
-      jonrones: quienes participan dan un puñetazo a un dispositivo hecho para no romperse, y el
-      objetivo es enviarlo tan lejos como sea posible. Romper objetivos: cinco blancos son puestos
-      en una zona, separados entre sí por distintos obstáculos que normalmente forman parte del
-      mismo terreno. Los blancos deben romperse lo más rápido posible, sin importar los métodos. 200
-      metros: una prueba de velocidad. Los corredores deben formar una estrategia con su arsenal de
-      raíces para llegar antes que el resto.
+      Una celebración de la estela a través de diversas demostraciones de magia, muestras de avances
+      en los raíces, y fiestas en todo el mundo con una estética parecida a otra festividad que fue
+      perdida en el tiempo: el halloween. Es una temporada que abarca todo el octavo mes;
+      oficialmente comienza el primer lúcies, y termina el último týlar.
     </p>
-
+    <p>
+      En el último týlar sucede el Epílogo en Ýperos, que son todos los eventos anteriormente
+      mencionados, pero organizados por el gobierno. Durante los últimos años, Nai Neottia ha sido
+      la persona a cargo de planificar y liderar las coreografías del Epílogo, y se ha vuelto una
+      figura muy popular en el mundo del entretenimiento.
+    </p>
+    <p>
+      Es común ver a personas vestir formalmente o disfrazarse de personajes ficticios mientras
+      comen dulces o simplemente reunidos con sus amistades.
+    </p>
+    <h3 id="iron-folia">- Folia de hierro</h3>
+    <p>
+      Una serie de competiciones atléticas pensadas para todas las
+      <span class="style-branches">ramas</span>, donde estas ponen a prueba sus cuerpos y mentes.
+      Las personas organizan esta competición a escala mundial una vez cada cuatro años, pero no es
+      raro ver iteraciones mucho más pequeñas y locales.
+    </p>
+    <h3 id="harmonic-week">- Semana armónica</h3>
     <p>
       - Semana armónica Festividad que celebra la fundación de
       <span class="style-triadia">Triadia</span> y la firma del Acta de Conjunción
       <span class="style-triadia">Triadia</span> na Armónica. Durante esta semana, que sería a
       partir del primer lúcies del séptimo mes, los días son no laborables, y las personas se
-      dedican a pasar los días con sus familias y amigos. Mientras tanto, varios grupos de personas
-      se dedican a llevar a cabo la Resurrección de la Armonía en distintas partes del mundo: un
-      evento que consiste en una reactuación de la historia de
+      dedican a pasar los días con sus familias y amigos.
+    </p>
+    <p>
+      Mientras tanto, varios grupos de personas se dedican a llevar a cabo la Resurrección de la
+      Armonía en distintas partes del mundo: un evento que consiste en una reactuación de la
+      historia de
       <span class="style-triadia">Triadia</span> que comienza con la Era de Conquista y termina con
       su fundación. En la mayoría de los casos, las familias llevan a cabo fiestas después de este
       evento.
@@ -64,60 +73,43 @@
     <p>
       Una serie de juegos competitivos que se llevan a cabo una vez cada tres años en Ftéryon. Está
       pensado para <span class="style-winged">alados</span>, pero nadie detiene que cualquier otra
-      rama decida competir, puesto que usar raíces y efectos está permitido. A veces este torneo
-      puede o no incluir juegos que no fueron parte de la competencia anteriormente, pero
-      normalmente se ven los siguientes: Carrera de obstáculos: los competidores deben usar sus
-      habilidades de vuelo para superar el circuito antes que todos los demás. Danza aérea: una
-      muestra de flexibilidad y libertad de parte de los participantes, a veces una coreografía de
-      varios de ellos. Los jueces deben ser impresionados en un tiempo determinado. 200 metros: una
-      prueba de velocidad, en este caso aéreo. Los voladores deben formar una estrategia con su
-      arsenal de raíces para llegar antes que el resto.
+      rama decida competir, puesto que usar raíces y efectos está permitido.
     </p>
-
-    <h2 id="generalidades">~ Generalidades</h2>
+    <h2 id="generalities">~ Generalidades</h2>
+    <h3 id="lost-cities">- Ciudades perdidas</h3>
     <p>
-      - Ciudades perdidas Ruinas de la civilización previa al Día 0. Sin contar las que han sido
-      restauradas (como Ptéryon e Ýperos), hay tres en el mapa: una cerca de Lykófos, otra en la
-      superficie de Ptéryon, y Artids, que se la considera casi restaurada.
+      Ruinas de la civilización previa al Día 0. Sin contar las que han sido restauradas (como
+      Ptéryon e Ýperos), hay tres en el mapa: una cerca de Lykófos, otra en la superficie de
+      Ptéryon, y Artids, que se la considera casi restaurada.
     </p>
-
+    <h3 id="currency">- Moneda</h3>
     <p>
-      - Cono monetario El salario mínimo en <span class="style-triadia">Triadia</span> es de 3 gears
-      la hora. Con uno o dos gears usualmente se puede comprar un pan, una fruta, una bebida, o un
-      pequeño dulce. Con 5 gears se puede comprar un buen almuerzo, un pequeño pastel, unas cuantas
-      frutas, o un pequeño saco de granos u hortalizas. De allí en adelante se hacen comparaciones y
-      cálculos para obtener el precio estimado de las cosas. Las monedas físicamente se ven como
-      engranajes no huecos. Siempre llevan consigo un número que representa su valor, una
-      inscripción, y una ilustración grabada. Para evitar la falsificación de monedas, a estas se
-      les extrae su núcleo. El cono monetario se conforma de siete monedas: Valor Nombre Ilustración
-      primaria Ilustración secundaria 1 Gear de bronce Árbol seco Engranaje Valor aprox: pan, fruta,
-      agua, dulce, transporte. Inscripción: “De la sequía a la fertilidad” 5 Gear de plata Las ramas
-      Símbolo de la estela Valor aprox: almuerzo, saquito de granos o frutas, poción, prenda.
-      Inscripción: “De la discordia a la armonía” 50 Gear de oro Corazón y olivos Soláris Valor
-      aprox: pequeño festín, conjunto, varita o báculo, orbe meion. Inscripción: “De la apatía a la
-      empatía” 500 Gear de platino <span class="style-lytflos">Lytflos</span> Los híbridos Valor
-      aprox: prendas lujosas, muebles, bicicleta, renta de salón. Inscripción: “De la separación a
-      la unión” 5.000 Gear de absso Ciudad abandonada Trébol negro Valor aprox: vehículo, mineral
-      raro, espírio, orbe dracónico. Inscripción: “De la muerte a la vida” 50.000 Gear de cuarzo
-      Árbol planetario Flor de tres pétalos Valor aprox: casa, yate lujoso, aeronave, espírio raro.
-      Inscripción: “De la sequía a la fertilidad” 500.000 Gear de ánimo Dos siluetas Tres filamentos
-      Valor aprox: mansión, tierras. Inscripción: “Del polvo estelar al cosmos”
+      El salario mínimo en <span class="style-triadia">Triadia</span> es de 3 gears la hora. Con uno
+      o dos gears usualmente se puede comprar un pan, una fruta, una bebida, o un pequeño dulce. Con
+      5 gears se puede comprar un buen almuerzo, un pequeño pastel, unas cuantas frutas, o un
+      pequeño saco de granos u hortalizas. De allí en adelante se hacen comparaciones y cálculos
+      para obtener el precio estimado de las cosas.
     </p>
-
     <p>
-      - Criminales famosos Sea por sus circunstancias o actos, en cada mundo siempre existe una
-      emocionante lista de criminales, y esta no es la excepción. “Silente”: ladrón y traficante de
-      espírios, con un talento indescriptible para encontrarlos. Logró infiltrarse en el Hogar de
-      Ýperos y llevarse varios objetos, entre ellos un espírio de Faustiely Arisa. No hay pistas de
-      su identidad. Se busca. Ganriki Ciezel: se ha mantenido encerrado por años en el Subsuelo de
-      Abbso, y se trata de un poseído al que hasta el día de hoy no se le ha podido expiar.
-      Completamente inestable y errático. Peligro de muerte. Calyko Fospheen: intentó resucitar
-      criaturas muertas utilizando náturs, y lo logró…, parcialmente. Se rumorea que formaba parte
-      de una asociación secreta de objetivos desconocidos. Presa. Kokino Laudi: criminal de guerra
-      por asesinatos injustificados y robos. Presa. Yumemi Rihito: asesinó numerosas personas
-      durante la Era de Conquista con el fin de forjar una piedra filosofal, y también robó diversos
-      espírios, entre ellos tres anillos septenarios. Desaparecido.
+      Las monedas físicamente se ven como engranajes no huecos. Siempre llevan consigo un número que
+      representa su valor, una inscripción, y una ilustración grabada. Para evitar la falsificación
+      de monedas, a estas se les extrae su núcleo.
     </p>
+    <h3 id="most-wanted">- Criminales más buscados</h3>
+    <p>
+      Sea por sus circunstancias o actos, en cada mundo siempre existe una emocionante lista de
+      criminales, y esta no es la excepción.
+    </p>
+    “Silente”: ladrón y traficante de espírios, con un talento indescriptible para encontrarlos.
+    Logró infiltrarse en el Hogar de Ýperos y llevarse varios objetos, entre ellos un espírio de
+    Faustiely Arisa. No hay pistas de su identidad. Se busca. Ganriki Ciezel: se ha mantenido
+    encerrado por años en el Subsuelo de Abbso, y se trata de un poseído al que hasta el día de hoy
+    no se le ha podido expiar. Completamente inestable y errático. Peligro de muerte. Calyko
+    Fospheen: intentó resucitar criaturas muertas utilizando náturs, y lo logró…, parcialmente. Se
+    rumorea que formaba parte de una asociación secreta de objetivos desconocidos. Presa. Kokino
+    Laudi: criminal de guerra por asesinatos injustificados y robos. Presa. Yumemi Rihito: asesinó
+    numerosas personas durante la Era de Conquista con el fin de forjar una piedra filosofal, y
+    también robó diversos espírios, entre ellos tres anillos septenarios. Desaparecido.
 
     <p>
       - Estudios Se divide en 4 partes: inicial (4 años), primaria (6 años), secundaria (6 años), y

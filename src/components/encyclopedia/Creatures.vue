@@ -1,6 +1,10 @@
+<script setup>
+const name = '❦ Criaturas ❦';
+</script>
+
 <template>
-  <section id="creatures">
-    <h1 id="creatures-heading">Criaturas ❦</h1>
+  <section id="section-creatures">
+    <h1 id="creatures" :name="name">{{ name }}</h1>
     <hr />
     <p>
       Existen varias criaturas propias de <span class="style-lytflos">Lytflos</span> algunas
@@ -73,9 +77,9 @@
       luz a un mefrino es de aproximadamente 1 en 300.000.
     </p>
     <p>
-      Incluyen todas las características físicas de cada rama, son de piel blanca, y su percepción
-      del sonido es increíble sin convertirse en un problema, es decir que sonidos fuertes no les
-      aturden.
+      Incluyen todas las características físicas de cada rama, su tejido epidérmico es acromático, y
+      su percepción del sonido es increíble sin convertirse en un problema, es decir que sonidos
+      fuertes no les aturden.
     </p>
     <p>
       No toman el talento de ninguna rama, pero pueden usar estela como cualquier otro
@@ -87,25 +91,24 @@
     </p>
     <h3 id="meion">~ Meion</h3>
     <p>
-      Los meion son seres nacidos de negatividad, toman formas de pequeños animales tricolores de
-      tonos esmeralda, celeste, y fucsia oscuros. Ellos intentan influenciar a las personas
-      susurrando inseguridades, miedos, preocupaciones, y malas ideas, de esta forma fomentando
-      negatividad en sus víctimas para alimentarse de la misma y repetir el proceso.
+      Seres nacidos de sentimientos negativos. Se ven como animales oscurecidos, e intentan
+      influenciar a las personas susurrando inseguridades, miedos, preocupaciones, y malas ideas,
+      con el objetivo de crear un círculo vicioso en sus víctimas para fortalecerse a ellos mismos.
     </p>
     <p>
       Para un no-florecido que tiene sentimientos encontrados, la influencia de un meion es
-      prácticamente indistinguible de sus propias emociones, haciéndoles especialmente peligrosos
+      prácticamente indistinguible de sus propios pensamientos, haciéndoles especialmente peligrosos
       contra
       <span class="style-folia">folia</span>
-      aislados de otros. La razón por la que un folia puede no percatarse de encontrarse en una
-      épica se debe al mismo principio.
+      aislados de otros. La razón por la cual muchos folia no se percatan de encontrarse dentro de
+      un agujero umbrío se debe al mismo principio.
     </p>
     <p>
-      Dependiendo de cuánta negatividad hayan reunido, pueden ser inofensivos o en extremo
-      amenazadores. Por naturaleza, un meion siempre busca alimentarse de poder, por lo que incluso
-      el más débil de ellos puede convertirse en un peligro, y debe ser expiado. Aquellos que reúnen
-      demasiada negatividad toman un aspecto quimérico. Si su mayor crecimiento tomó lugar dentro de
-      un folia, el meion tiende a tomar un aspecto parecido a este.
+      Dependiendo de cuánta negatividad haya reunido, un meion puede ser inofensivo o en extremo
+      peligroso. Los meion siempre buscan alimentarse más, por lo que incluso el más débil de ellos
+      puede convertirse en una amenaza. Aquellos que reúnen demasiada negatividad toman un aspecto
+      quimérico. Si su mayor crecimiento tomó lugar dentro de un folia, el meion tiende a tomar un
+      aspecto parecido a este.
     </p>
     <p>
       Son derrotados a través de expiaciones o fuerza bruta, y deben ser evadidos por civiles a toda
@@ -143,20 +146,28 @@
       quimérico lleva a cabo demasiadas fusiones, este pasa a ser un meion dracónico.
     </p>
 
-    <h3 id="draconequus">~ Dracónico</h3>
+    <h3 id="draconequus">~ Dracolia</h3>
     <p>
       El resultado de demasiados meion fusionados en un solo cuerpo. Su representación gráfica suele
       ser una criatura cuyas partes se parecen a las de al menos diez animales distintos. Son
       extremadamente peligrosos por naturaleza, potencialmente incluso más que una sombra ordinario
       ya que se vuelve prácticamente imposible tratar de razonar con ellos por su comportamiento
-      errático. Este tipo de meion tiende a dejar de depender de la negatividad. Por ello, y por ser
-      irracionales, generalmente son exterminados con fuerza bruta o encerrados. Sus poderes suelen
-      ser asociados al caos y la discordia. En el peor de los casos, pueden manipular espacios de
-      maneras que van en contra de las leyes físicas. Fueron muy comunes y temidos durante los años
-      finales de la Era de Conquista. Algunos asesinaron figuras históricas de la historia de
+      errático.
+    </p>
+    <p>
+      Este tipo de meion tiende a dejar de depender de la negatividad. Por ello, y por ser
+      irracionales, generalmente son exterminados con fuerza bruta o encerrados.
+    </p>
+    <p>
+      Sus poderes suelen ser asociados al caos y la discordia. En el peor de los casos, pueden
+      manipular espacios de maneras que van en contra de las leyes físicas. Fueron muy comunes y
+      temidos durante los años finales de la Era de Conquista. Algunos asesinaron figuras históricas
+      de la historia de
       <span class="style-triadia">Triadia</span> , como lo fue en el caso de los padres de Faustiely
       Arisa. En el año 29XX son mucho más raros que los elos, quienes de por sí son poco comunes,
       pero se cree que varios aún viven ocultos en los rincones inexplorados del mundo.
+    </p>
+    <p>
       Teóricamente, justo como los meion se transforman cada vez más mientras más se combinan, algo
       similar puede pasar con los elos también, pero como los segundos tienden a ser independientes,
       no existe un caso conocido de un “sombra dracónico”.
@@ -167,30 +178,40 @@
       Personificaciones de la naturaleza, usualmente ubicados donde las concentraciones de este son
       muy fuertes. Causan los fenómenos naturales que mantienen el mundo vivo, pero son muy
       recelosos de su territorio para con otros náturs, y esto a veces ocasiona riñas que acaban en
-      cataclismos. No dudarán en atacar si se sienten amenazados. Hablan su propio lenguaje que es
-      posible aprender: el natúreo. Los <span class="style-folia">folia</span> alados entienden
-      náturs intuitivamente, y es posible para estos últimos fusionarse con cualquier
-      <span class="style-folia">folia</span>, aunque es mucho más difícil para náturs fusionarse con
-      no-alados. Aparentemente pueden vivir para siempre, pero es posible que desaparezcan si se
-      quedan sin energías y/o naturaleza que representar. Cuando se fusionan con un
-      <span class="style-folia">folia</span>, este recibe los poderes del nátur y la intuición
-      necesaria para manejarlos. No es posible forzar una fusión, sino que el nátur decide cuándo
-      realizarlo. No está claro cómo nacen, si se reproducen, si la naturaleza es originada por los
-      náturs, o si los náturs originan de la naturaleza. Por alguna razón, las criaturas negativas
-      les temen bastante. El aspecto de un nátur cambia si tiene más poder e influencia por sobre el
-      terreno, proceso que se conoce como evolución, y vuelve al aspecto que tenía anteriormente si
-      pierde dicho poder.
+      cataclismos. No dudarán en atacar si se sienten amenazados.
+    </p>
+    <p>
+      Hablan su propio lenguaje que es posible aprender: el natúreo. Los
+      <span class="style-folia">folia</span> alados entienden náturs intuitivamente, y es posible
+      para estos últimos fusionarse con cualquier <span class="style-folia">folia</span>, aunque es
+      mucho más difícil para náturs fusionarse con no-alados. Aparentemente pueden vivir para
+      siempre, pero es posible que desaparezcan si se quedan sin energías y/o naturaleza que
+      representar.
+    </p>
+    <p>
+      Cuando se fusionan con un <span class="style-folia">folia</span>, este recibe los poderes del
+      nátur y la intuición necesaria para manejarlos. No es posible forzar una fusión, sino que el
+      nátur decide cuándo realizarlo. No está claro cómo nacen, si se reproducen, si la naturaleza
+      es originada por los náturs, o si los náturs originan de la naturaleza. Por alguna razón, las
+      criaturas negativas les temen bastante.
+    </p>
+    <p>
+      El aspecto de un nátur cambia si tiene más poder e influencia por sobre el terreno, proceso
+      que se conoce como evolución, y vuelve al aspecto que tenía anteriormente si pierde dicho
+      poder.
     </p>
 
-    <h3 id="thamo">~ Thamo</h3>
+    <h3 id="thamo">~ Thámo</h3>
     <p>
       Criatura pequeña, oscura, de ojos dorados, y de un gran pelaje que usa para camuflarse. Su
       color de cabello depende del color del follaje local cuando nace, y no cambia después. Los
-      thamos son pasivos, aunque pueden ser muy molestos si se enfurecen. Suelen medir hasta
-      alrededor de 50cm. Su piel es muy dura y pesada. Son hervíboros, y como saben esconderse bien,
-      a veces se camuflan cerca de cultivos para luego comérselos. Se pueden adiestrar, pero
-      normalmente nadie les quiere cerca. Son comunes, y en algunos sitios numerosos. Aunque sean
-      herbívoros, no comen folia.
+      thamos son pasivos, aunque pueden ser muy molestos si se enfurecen.
+    </p>
+    <p>
+      Suelen medir hasta alrededor de 50cm. Su piel es muy dura y pesada. Son hervíboros, y como
+      saben esconderse bien, a veces se camuflan cerca de cultivos para luego comérselos. Se pueden
+      adiestrar, pero normalmente nadie les quiere cerca. Son comunes, y en algunos sitios
+      numerosos. Aunque sean herbívoros, no comen folia.
     </p>
   </section>
 </template>
