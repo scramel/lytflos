@@ -8,7 +8,7 @@ const name = '❂ Cosmos ❂';
     <hr />
     <p>
       El universo donde <span class="style-lytflos">Lytflos</span> existe no es uno con planetas,
-      estrellas, galaxias, nebulosas… Al Menos, no como conocemos tales. Todo existe en lo que es
+      estrellas, galaxias, o nebulosas… Al menos, no como conocemos tales. Todo existe en lo que es
       llamado cosmos: un campo de flores que se extiende en un espacio infinito. A las flores que
       allí crecen se les llaman níblom.
     </p>

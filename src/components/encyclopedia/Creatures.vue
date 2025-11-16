@@ -11,8 +11,7 @@ const name = '❦ Criaturas ❦';
       intrínsecamente relacionadas con la estela o el ánimo, y otras que sencillamente han sido
       parte del mundo desde quién sabe cuándo.
     </p>
-
-    <h3 id="shade">~ Sombra</h3>
+    <h2 id="shade">~ Sombra</h2>
     <p>
       Las sombras son meion evolucionados, sentientes, y extremadamente peligrosos. En la mayoría de
       los casos toman una forma distorsionada del recipiente donde crecieron, igual que mantienen
@@ -37,7 +36,7 @@ const name = '❦ Criaturas ❦';
       dificultad y peligrosidad mucho mayores. Por ello, existen especialistas en limpiar elos:
       aquellos llamados expiadores.
     </p>
-    <h3 id="giant">~ Gigante</h3>
+    <h2 id="giant">~ Gigante</h2>
     <p>
       Cualquier criatura descomunalmente enorme. Aunque son relativamente escasos en número, no son
       difíciles de encontrar. Se desconoce el origen exacto de estos, pero se cree que son casos de
@@ -50,7 +49,7 @@ const name = '❦ Criaturas ❦';
       directamente proporcional al tamaño relativo de uno normal. En otras palabras, sus reservas de
       estela son mucho mayores que el de un individuo común.
     </p>
-    <h3 id="summoning">~ Invocación</h3>
+    <h2 id="summoning">~ Invocación</h2>
     <p>
       Una forma de vida hecha a base de estela, usualmente materializada por un
       <span class="style-folia">folia</span>, pero en circunstancias sumamente raras, aparecida de
@@ -69,8 +68,7 @@ const name = '❦ Criaturas ❦';
       desaparecer prácticamente de inmediato. Es posible extender sus vidas a través de inyectar
       estela, pero esta opción sólamente está disponible para el invocador.
     </p>
-
-    <h3 id="mefrino">~ Mefrino</h3>
+    <h2 id="mefrino">~ Mefrino</h2>
     <p>
       Un grupo particular de <span class="style-folia">folia</span> que desarrollan una mutación
       genética la cual afecta drásticamente su apariencia y habilidades. La probabilidad de dar a
@@ -89,7 +87,7 @@ const name = '❦ Criaturas ❦';
       tanto que les distraen completamente de sus actividades, pero el sonido en cuestión es
       diferente para cada individuo.
     </p>
-    <h3 id="meion">~ Meion</h3>
+    <h2 id="meion">~ Meion</h2>
     <p>
       Seres nacidos de sentimientos negativos. Se ven como animales oscurecidos, e intentan
       influenciar a las personas susurrando inseguridades, miedos, preocupaciones, y malas ideas,
@@ -145,8 +143,7 @@ const name = '❦ Criaturas ❦';
       fusionarse, toman las características de sus apariencias originales y se combinan. Si un meion
       quimérico lleva a cabo demasiadas fusiones, este pasa a ser un meion dracónico.
     </p>
-
-    <h3 id="draconequus">~ Dracolia</h3>
+    <h2 id="draconequus">~ Dracolia</h2>
     <p>
       El resultado de demasiados meion fusionados en un solo cuerpo. Su representación gráfica suele
       ser una criatura cuyas partes se parecen a las de al menos diez animales distintos. Son
@@ -172,8 +169,7 @@ const name = '❦ Criaturas ❦';
       similar puede pasar con los elos también, pero como los segundos tienden a ser independientes,
       no existe un caso conocido de un “sombra dracónico”.
     </p>
-
-    <h3 id="natur">~ Nátur</h3>
+    <h2 id="natur">~ Nátur</h2>
     <p>
       Personificación de la naturaleza, usualmente ubicado donde las concentraciones de este son muy
       fuertes. Los náturs causan los fenómenos naturales que mantienen el mundo vivo, pero son muy
@@ -200,8 +196,7 @@ const name = '❦ Criaturas ❦';
       que se conoce como evolución, y vuelve al aspecto que tenía anteriormente si pierde dicho
       poder.
     </p>
-
-    <h3 id="thamo">~ Thámo</h3>
+    <h2 id="thamo">~ Thámo</h2>
     <p>
       Criatura pequeña, oscura, de ojos dorados, y de un gran pelaje que usa para camuflarse. Su
       color de cabello depende del color del follaje local cuando nace, y no cambia después. Los

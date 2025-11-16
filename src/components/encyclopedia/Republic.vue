@@ -24,8 +24,7 @@ const name = '⛿ República ⛿';
       <span class="style-triadia">Triadia</span> desean estudiar y repoblar. Estos no cuentan como
       parte de la república.
     </p>
-
-    <h3 id="artids">~ Artids 🏛</h3>
+    <h2 id="artids">~ Artids 🏛</h2>
     <p>
       Del frisio eartiids (lit. “antes”), es la primera ciudad descubierta en decente estado después
       del Día de la Expiación. Aquí se ha encontrado la mayor información acerca del pasado del
@@ -42,19 +41,19 @@ const name = '⛿ República ⛿';
       solía funcionar aquí, pero en el presente sus funciones han sido suspendidas y el edificio ha
       sido convertido en un almacén.
     </p>
+    <b>Habitantes:</b>
     <ul>
-      <b>Habitantes:</b>
       <li v-for="name in ['Stella Ibelle', 'Kaisha'].sort()">{{ name }}</li>
     </ul>
+    <b>Localizaciones:</b>
     <ul>
-      <b>Localizaciones:</b>
       <li
         v-for="name in ['Garage de Ikaki', 'Zona residencial abandonada', 'Taller Ibelle'].sort()"
       >
         {{ name }}
       </li>
     </ul>
-    <h3 id="livadi">~ Caminos de Livádi</h3>
+    <h2 id="livadi">~ Caminos de Livádi</h2>
     <p>
       Del griego λιβάδι (livádi, lit. “prado”), se trata de un gigantesco campo cuyo centro tiene
       una inmensa cama flores, ubicado cerca del centro de
@@ -79,13 +78,13 @@ const name = '⛿ República ⛿';
       tierra por sobre la que se puede caminar y construir. Localizaciones de interés: Expreso
       Dendrón. Monumento al 2636. Ruinas: Central Eléctrica.
     </p>
+    <b>Localizaciones:</b>
     <ul>
-      <b>Localizaciones:</b>
       <li v-for="name in ['Monumento al 2636', 'Ruinas (Central Eléctrica)'].sort()">
         {{ name }}
       </li>
     </ul>
-    <h3 id="dasodis">~ Dassódils 🏛</h3>
+    <h2 id="dasodis">~ Dassódils 🏛</h2>
     <p>
       Proveniente del griego δασώδης (Dassódils, lit. “arbolado”), esta ciudad es una de las más
       importantes del mundo, pues aquí crece y se produce la mayoría de las flores y té del mundo
@@ -109,8 +108,8 @@ const name = '⛿ República ⛿';
       naturaleza misteriosa y sangrienta del caso trajo mucha conmoción y llevó a las personas a
       cuestionar la seguridad de la república.
     </p>
+    <b>Habitantes:</b>
     <ul>
-      <b>Habitantes:</b>
       <li
         v-for="name in [
           'Sucreuq Ílyos',
@@ -124,8 +123,8 @@ const name = '⛿ República ⛿';
         {{ name }}
       </li>
     </ul>
+    <b>Localizaciones:</b>
     <ul>
-      <b>Localizaciones:</b>
       <li
         v-for="name in [
           'Árbol Astronómico',
@@ -138,7 +137,7 @@ const name = '⛿ República ⛿';
         {{ name }}
       </li>
     </ul>
-    <h3 id="erimos">~ Érimos 🏛</h3>
+    <h2 id="erimos">~ Érimos 🏛</h2>
     <p>
       Una ciudad bajo un cañón, cuidadosamente tallada de piedra a través de los años, sostenida por
       el techo de la cueva donde se encuentra. Muchas personas aquí venden piedras preciosas gracias
@@ -152,8 +151,8 @@ const name = '⛿ República ⛿';
       no muy legal: contrabando de espírios y objetos raros. Este lugar es constantemente vigilado
       por el sheriff.
     </p>
+    <b>Habitantes:</b>
     <ul>
-      <b>Habitantes:</b>
       <li
         v-for="name in [
           'Dewa Oroke',
@@ -166,8 +165,8 @@ const name = '⛿ República ⛿';
         {{ name }}
       </li>
     </ul>
+    <b>Localizaciones:</b>
     <ul>
-      <b>Localizaciones:</b>
       <li
         v-for="name in [
           'Estanque Turquesa',
@@ -179,7 +178,7 @@ const name = '⛿ República ⛿';
         {{ name }}
       </li>
     </ul>
-    <h3 id="dendron-express">~ Expreso Dendrón</h3>
+    <h2 id="dendron-express">~ Expreso Dendrón</h2>
     <p>
       También conocido como solamente Dendrón, es un sistema ferroviario que conecta con todas las
       ciudades de <span class="style-triadia">Triadia</span> . Fue construído por Ikaki usando nada
@@ -195,7 +194,7 @@ const name = '⛿ República ⛿';
       desprevenidos a los clientes ignorantes de este hecho.
     </p>
 
-    <h3 id="fteryon">~ Ftéryon 🏛</h3>
+    <h2 id="fteryon">~ Ftéryon 🏛</h2>
     <p>
       Del griego φτερωτός (fterotós, lit. “plumados”), es un conjunto de islas flotantes al norte de
       <span class="style-triadia">Triadia</span> que se han envuelto en concreto para dar lugar a la
@@ -215,14 +214,14 @@ const name = '⛿ República ⛿';
       a conocer. Localizaciones de interés: Biblioteca de Ftéryon. Coliseo Celestial. Expreso
       Dendrón. Palacio de Glaen. Residencias. SCCC: Sede Central de Control Climático.
     </p>
+    <b>Habitantes:</b>
     <ul>
-      <b>Habitantes:</b>
       <li v-for="name in ['Nakoshi Mai', 'Nakoshi Nai', 'Nakoshi Wai', 'Lifrei Nicaul'].sort()">
         {{ name }}
       </li>
     </ul>
+    <b>Localizaciones:</b>
     <ul>
-      <b>Localizaciones:</b>
       <li
         v-for="name in [
           'Biblioteca',
@@ -234,19 +233,19 @@ const name = '⛿ República ⛿';
         {{ name }}
       </li>
     </ul>
-    <h3 id="lykofos-lost-city">~ Lykófos (ciudad perdida)</h3>
+    <h2 id="lykofos-lost-city">~ Lykófos (ciudad perdida)</h2>
     <p>
       Al norte de Lykófos se encuentran los restos de una ciudad de los Años Anteriores. Se
       considera inadecuado para vivir, pero algunos pobladores de la villa lo exploran a menudo e
       incluso se han establecido algunos como residentes. Los árboles tapan el cielo, cual cúpula.
     </p>
+    <b>Habitantes:</b>
     <ul>
-      <b>Habitantes:</b>
       <li v-for="name in ['N3V-10K'].sort()">
         {{ name }}
       </li>
     </ul>
-    <h3 id="naturia">~ Natúria</h3>
+    <h2 id="naturia">~ Natúria</h2>
     <p>
       Considerado comúnmente el lugar más hermoso de <span class="style-triadia">Triadia</span> ,
       aquí se encuentran reunidos tantos náturs como en ningún otro lugar, algo sumamente raro en
@@ -258,13 +257,13 @@ const name = '⛿ República ⛿';
       pueden llevarse náturs si ocurre que se encariñan entre sí, pero solo bajo supervisión de un
       guarda que asegure la seguridad de los visitantes y la pureza del sitio.
     </p>
+    <b>Habitantes:</b>
     <ul>
-      <b>Habitantes:</b>
       <li v-for="name in ['Nieve'].sort()">
         {{ name }}
       </li>
     </ul>
-    <h3 id="novinsoul">~ Novinsoul</h3>
+    <h2 id="novinsoul">~ Novinsoul</h2>
     <p>
       Una academia en una isla al sureste de <span class="style-triadia">Triadia</span> dirigida por
       Delion Keyes. No es raro utilizar islas como espacios de aprendizaje, mas sí lo es para la
@@ -273,7 +272,7 @@ const name = '⛿ República ⛿';
       allí se dan clases más por el gusto de darlos que por recibir alguna compensación.
     </p>
 
-    <h3 id="glaen-palace">~ Palacio de Glaen</h3>
+    <h2 id="glaen-palace">~ Palacio de Glaen</h2>
     <p>
       Un lugar histórico, conocido por ser donde residieron Nelfal Glaen, su hija Nevhea Glaen, la
       noble Tani Prigemo, y otros nobles de renombre. Se trata de un conjunto de nubes que fueron
@@ -291,7 +290,7 @@ const name = '⛿ República ⛿';
         palacio </span
       >.
     </p>
-    <h3 id="carulean-peninsula">~ Península Carúlea</h3>
+    <h2 id="carulean-peninsula">~ Península Carúlea</h2>
     <p>
       Al noreste de Dassódils se encuentra una península el cual comprende un atolón que contiene la
       pequeña isla. Una inusual cantidad de criaturas, flora, y árboles de tamaños extremos reside
@@ -305,13 +304,13 @@ const name = '⛿ República ⛿';
       exóticas, y minerales de gran valor. La población es muy pequeña, y prácticamente todos se
       conocen entre sí debido a ello.
     </p>
+    <b>Habitantes:</b>
     <ul>
-      <b>Habitantes:</b>
       <li v-for="name in ['Eialagn Kyria', 'Teri el Vagante', 'Hermanas Merosa'].sort()">
         {{ name }}
       </li>
     </ul>
-    <h3 id="pteryon">~ Ptéryon 🏛</h3>
+    <h2 id="pteryon">~ Ptéryon 🏛</h2>
     <p>
       Del griego πτερύγιο (pterýgio, lit. “aleta”), es una ciudad submarina que resultó de la
       destrucción ocurrida en el Día de la Expiación. Los alados acuáticos, o en todo caso
@@ -324,15 +323,15 @@ const name = '⛿ República ⛿';
       local es mucho mayor al de la mayoría del resto de localizaciones. Ftéryon, considerada su
       gemela, también comparte esta necesidad.
     </p>
+    <b>Habitantes:</b>
     <ul>
-      <b>Habitantes:</b>
       <li
         v-for="name in ['Zoelia', 'Terygios Seirina', 'Eimi', 'Feles Thalasa', 'Nero Gida'].sort()"
       >
         {{ name }}
       </li>
     </ul>
-    <h3 id="pteryon-lost-city">~ Ptéryon (ciudad perdida)</h3>
+    <h2 id="pteryon-lost-city">~ Ptéryon (ciudad perdida)</h2>
     <p>
       En la superficie de Ptéryon se encuentra una extensión de las ruinas acuáticas. Pese no se
       considera apto para vivir, tiene la mayor probabilidad de ser la siguiente ciudad perdida en
@@ -341,7 +340,7 @@ const name = '⛿ República ⛿';
       exploradores dado que tiene lo que es considerado la vista más hermosa entre las ciudades
       perdidas. Es además frecuentado por los habitantes de Ptéryon.
     </p>
-    <h3 id="rerecros">~ Rérecros 🏛</h3>
+    <h2 id="rerecros">~ Rérecros 🏛</h2>
     <p>
       Hogar del Castillo Rérecros, alguna vez perteneciente al tirano Arthe, luego de los Keyes, y
       finalmente comprado por los <span class="style-spoiler">Foster</span>. El nombre del castillo
@@ -357,8 +356,8 @@ const name = '⛿ República ⛿';
       <span class="style-dendrites">Raíces Dendríticas</span> de Rérecros, o sencillamente Instituto
       Rérecros, donde suelen ocurrir los avances más destacados en el campo.
     </p>
+    <b>Habitantes:</b>
     <ul>
-      <b>Habitantes:</b>
       <li
         v-for="name in [
           'Ireta Daryel',
@@ -372,7 +371,7 @@ const name = '⛿ República ⛿';
         {{ name }}
       </li>
     </ul>
-    <h3 id="abbso-subsoil">~ Subsuelo de Abbso</h3>
+    <h2 id="abbso-subsoil">~ Subsuelo de Abbso</h2>
     <p>
       Una prisión, ubicada en Érimos, famosa por distintas razones, entre ellas ser sinónimo de la
       máxima sentencia posible por cometer un crimen, extenderse por kilómetros bajo tierra, y
@@ -380,7 +379,7 @@ const name = '⛿ República ⛿';
       Akihito, pero quien lo administra se trata de Shire Reeve. Solo es posible ingresar con un
       permiso del rango de la cabeza del CERT o superior.
     </p>
-    <h3 id="lykofos">~ Villa Lykófos</h3>
+    <h2 id="lykofos">~ Villa Lykófos</h2>
     <p>
       Proveniente del griego λυκόφως (lykófos, lit. “crepúsculo”), una humilde villa en los límites
       del sureste, ubicado al final de los gigantescos planos y caminos de Livádi. De estética
@@ -402,8 +401,7 @@ const name = '⛿ República ⛿';
       productos hechos a base de fruta pasionaria. Cada último día de la semana, los pobladores de
       la villa se reúnen para celebrar su bienestar y amistad.
     </p>
-
-    <h3 id="yperos">~ Ýperos 🏛</h3>
+    <h2 id="yperos">~ Ýperos 🏛</h2>
     <p>
       Derivado de ύπερος άνθους (ýperos ánthous, lit. “pistilo”). La capital de
       <span class="style-triadia">Triadia</span> , una gigantesca ciudad que se encuentra cerca de

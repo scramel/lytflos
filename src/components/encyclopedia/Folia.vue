@@ -29,7 +29,7 @@ const name = '☘ Folia ☘';
       verde, sino que puede contener manchas y patrones, y dependiendo de sus familias, en sus
       cabezas les crecen hojas, pétalos, u hongos, que parecen cabellos.
     </p>
-    <img src="/images/folia-concept-art.jpg" alt="Folia concept art" />
+    <img src="/images/folia-concept-art.webp" alt="Folia concept art" loading="lazy" />
     <p style="text-align: center">
       <small>
         (Ilustrado por <a href="https://piuwpa.neocities.org/" target="_blank">@Piuwpa</a>)

@@ -3,11 +3,11 @@ const name = '✾ Introducción ✾';
 </script>
 
 <template>
-  <section>
+  <section id="section-introduction">
     <h1 id="introduction" :name="name">{{ name }}</h1>
     <hr />
     <p>
-      En <a href="#lytflos" class="style-lytflos">Lytflos</a>, año 29XX, existe una normalmente
+      En <a href="#cosmos" class="style-lytflos">Lytflos</a>, año 29XX, existe una normalmente
       pacífica civilización de adorables plantas antropomórficas: los
       <a href="#folia" class="style-folia">folia</a>. A través de un proceso similar al de la
       fotosíntesis, ellos son capaces de convertir la luz del día en magia que llaman
@@ -49,15 +49,15 @@ const name = '✾ Introducción ✾';
     <h2 id="usage-guidelines">~ Pautas de uso</h2>
     <p>
       Permito a cualquiera disponer de los recursos utilizados en
-      <span class="style-folia">Folia</span> (ilustraciones, música, diseños, personajes,
-      worldbuilding, código fuente, etc.) para crear contenido propio, distribuirlo, e incluso
-      monetizarlo,
+      <span class="style-folia style-folia--game">Folia</span> (ilustraciones, música, diseños,
+      personajes, worldbuilding, código fuente, etc.) para crear contenido propio, distribuirlo, e
+      incluso monetizarlo,
       <strong>siempre y cuando sea acreditado apropiadamente y hecho en buena fe:</strong>
     </p>
     <ul>
       <li>
         Acredita tu contenido como basado en la novela visual
-        <span class="style-folia">Folia</span>.
+        <span class="style-folia style-folia--game">Folia</span>.
       </li>
       <li>
         Incluye enlaces oficiales a la novela visual
