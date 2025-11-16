@@ -31,7 +31,7 @@
   --color-lucero: #04f49e;
   --color-umbria: #ff035e;
   --color-natur: #04f49e;
-  --color-negativity: #ff035e;
+  --color-crooked: #ff0000;
 }
 
 @media (prefers-color-scheme: light) {
@@ -113,9 +113,9 @@
   color: var(--color-natur);
   text-decoration-color: var(--color-natur);
 }
-.style-negativity {
-  color: var(--color-negativity);
-  text-decoration-color: var(--color-negativity);
+.style-umbria {
+  color: var(--color-umbria);
+  text-decoration-color: var(--color-umbria);
 }
 .style-nodes {
   color: var(--color-nodes);

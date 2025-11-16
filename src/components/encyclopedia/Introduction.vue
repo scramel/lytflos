@@ -27,8 +27,8 @@ const name = '✾ Introducción ✾';
       en armonía, y juntas la mantienen a salvo tanto de desastres naturales causados por los
       encantadores aunque ocasionalmente inestables <a href="#natur" class="style-natur">náturs</a>,
       como de los estragos ocasionados por sombrías criaturas nacientes de la
-      <a href="#negativity" class="style-negativity">negatividad</a> en los sentimientos de los
-      seres vivos.
+      <a href="#essence" class="style-umbria">negatividad</a> en los sentimientos de los seres
+      vivos.
     </p>
     <h2 id="about">~ Acerca de</h2>
     <p>

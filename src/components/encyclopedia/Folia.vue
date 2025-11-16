@@ -202,7 +202,7 @@ const name = '☘ Folia ☘';
       En la práctica, los <span class="style-winged">alados</span> son los mejores administrando
       <span class="style-natur">náturs</span>: la naturaleza y el clima; los
       <span class="style-flowering">florecidos</span> son los preferidos para proteger a otros de
-      criaturas <span class="style-negativity">negativas</span>; y los
+      criaturas <span class="style-umbria">negativas</span>; y los
       <span class="style-caudate">caudados</span> son favorecidos para trabajos de terraformación,
       diseños de sistemas, y tareas que involucren asegurar un hábitat seguro y adecuado para los
       <span class="style-folia">folia</span>.

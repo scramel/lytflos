@@ -18,8 +18,8 @@ const name = '✳ Ánimo ✳';
       enfocadas en la defensa, la recuperación, y la estabilidad emocional, mientras que el negativo
       -conocido como <span class="style-umbria">Umbría</span>- en el ataque, la desestabilización
       psicológica, y el cansancio. A las personas con concentraciones de
-      <span class="style-negativity">negatividad</span> tan altas que se han disociado de ellos
-      mismos se les conocen como poseídos.
+      <span class="style-umbria">negatividad</span> tan altas que se han disociado de ellos mismos
+      se les conocen como poseídos.
     </p>
     <p>
       En cualquier caso, el
@@ -180,8 +180,8 @@ const name = '✳ Ánimo ✳';
       Su apariencia es la de un mineral incrustado en una piedra. El orbe negativo salido de un
       sombra tiene una forma que asemeja el de un corazón. Si este orbe es roto en manos de una
       persona, este absorbe la
-      <span class="style-negativity">negatividad</span> que alguna vez formó la criatura negativa;
-      de otra forma simplemente se deshace, haciéndolo imposible de recuperar.
+      <span class="style-umbria">negatividad</span> que alguna vez formó la criatura negativa; de
+      otra forma simplemente se deshace, haciéndolo imposible de recuperar.
     </p>
     <p>
       Usualmente son resguardados en edificios o lugares aislados, especialmente por sacerdotes en
