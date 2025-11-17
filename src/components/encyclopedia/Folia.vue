@@ -80,7 +80,7 @@ const name = '☘ Folia ☘';
       muy listos ni fuertes.
     </p>
     <article class="background-winged">
-      <h4 id="elemento">- Raíz: Elemento</h4>
+      <h4>- Raíz: Elemento</h4>
       <p>
         <small>
           La capacidad de mover y dar formas arbitrarias a un
@@ -109,7 +109,7 @@ const name = '☘ Folia ☘';
       la vez que de falta creativa y de notable lentitud al momento de actuar.
     </p>
     <article class="background-caudate">
-      <h4 id="elemento">- Raíz: Dendrita</h4>
+      <h4>- Raíz: Dendrita</h4>
       <p>
         <small>
           Un patrón de ramas, usualmente dibujado en un cristal, que al inyectarle
@@ -136,7 +136,7 @@ const name = '☘ Folia ☘';
       <span class="style-pollen">polen estelar</span> se interrumpe o se agota.
     </p>
     <article class="background-flowering">
-      <h4 id="elemento">- Raíz: Polen Estelar u Ondular</h4>
+      <h4>- Raíz: Polen Estelar u Ondular</h4>
       <p>
         <small>
           Genera temporalmente partículas u ondas de propiedades arbitrarias. Por ejemplo: materia
