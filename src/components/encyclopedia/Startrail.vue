@@ -72,8 +72,7 @@ const name = '☆ Estela ☆';
       <span class="style-folia">folia</span> que pueden aprender cualquier
       <span class="style-roots">raíz</span> desde el principio.
     </p>
-
-    <h3>- Manipulación elemental</h3>
+    <h3 id="elemental-manipulation">- Manipulación elemental</h3>
     <p>
       <span class="style-winged">Alados</span> La capacidad de arbitrariamente mover y dar forma a
       un elemento de la naturaleza, sea agua, fuego, hielo, magma, etcétera. Normalmente los
@@ -81,24 +80,21 @@ const name = '☆ Estela ☆';
       <span class="style-natur">nátur</span> para aprender manipulación elemental, pero pueden
       manejarlo por sus cuentas una vez acostumbrados.
     </p>
-
-    <h3>- Raíces dendríticas</h3>
+    <h3 id="dendrites">- Dendritas</h3>
     <p>
       <span class="style-caudate">Caudados</span> Similar a un programa de computadora, estos siguen
       instrucciones al activarse. Cualquiera puede activarlos, incluso remotamente, pero solo los
       <span class="style-caudate">caudados</span> pueden dibujarlos. Se elige una especialidad entre
       mutación (estados de materia, transmutación) u ondas (temperatura, gravedad, luz).
     </p>
-
-    <h3>- Polen estelar</h3>
+    <h3 id="stellar-pollen">- Polen estelar</h3>
     <p>
       <span class="style-flowering">Florecidos</span> Facilidad en materializar átomos u ondas de
       características específicas a toda velocidad. El <span class="style-folia">folia</span> se
       especializa en un material sólido, líquido, gaseoso, o plasmático, o en ondas sea
       gravitatorias, calóricas, o sonoras.
     </p>
-
-    <h2>~ Nodos</h2>
+    <h2 id="nodes">~ Nodos</h2>
     <p>
       Aplicaciones muy específicas de <span class="style-startrail">estela</span> que no requieren
       aprendizaje profundo. Similar a las <span class="style-roots">raíces</span>, un
@@ -176,7 +172,7 @@ const name = '☆ Estela ☆';
         objeto. Es posible replicarlo después con polen estelar.
       </li>
       <li>
-        <h3>- Alas solares</h3>
+        <h3 id="solar-wings">- Alas solares</h3>
         La materialización de alas o aletas en el espaldar de un folia. Los alados normalmente
         aprenden este nodo instintivamente.
       </li>
@@ -309,8 +305,7 @@ const name = '☆ Estela ☆';
         Puede ser usado contra invocaciones. Excluye Accel.
       </li>
     </ul>
-
-    <h2>~ Antesis</h2>
+    <h2 id="anthesis">~ Antesis</h2>
     <p>
       Se considera la culminación de la especialización de una persona, representada en una
       aplicación de <span class="style-startrail">estela</span>,
@@ -321,8 +316,7 @@ const name = '☆ Estela ☆';
       <span class="style-folia">folia</span> para materializarse, pero el costo puede variar
       dependiendo de la complejidad de la <span class="style-anthesis">antesis</span>.
     </p>
-
-    <h2>~ Núcleo</h2>
+    <h2 id="">~ Núcleo</h2>
     <p>
       Se refiere al espacio donde se almacena la <span class="style-startrail">estela</span>,
       parecido a como las baterías almacenan sus cargas eléctricas. Todo núcleo pertenece a una
@@ -345,7 +339,7 @@ const name = '☆ Estela ☆';
       iris ingresar en vez de solamente burbujas de oro.
     </p>
 
-    <h2>~ Fragmentos de iris y burbujas de oro</h2>
+    <h2 id="iris-fragments-&-golden-bubbles">~ Fragmentos de iris y burbujas de oro</h2>
     <p>
       La estela pura puede tomar dos formas: fragmentos y burbujas. Cuando estela es expulsada de un
       <span class="style-folia">folia</span>, automáticamente toma forma de partículas vidriosas y

@@ -174,13 +174,13 @@ const name = '🕮 Historia 🕮';
     <p>
       Arthe fue el primero en anunciar una determinación a derramar sangre si así la guerra lo
       requería para llegar a un final. Arqheid Keyes, entonces comandante de los caudados,
-      <span class="style-spoiler"> y amigo de la infancia de Arthe</span>, se convirtió en una
-      figura muy importante en la historia por representar el desacuerdo civil por llegar a tales
-      extremos. Sin embargo, otras figuras tomaron la palabra de Arthe, y realizaron crímenes que
-      pesaron en la mente de Keyes y sus aliados. Particularmente, un caudado conocido como Yumemi
-      Rihito pasó a la historia como uno de los soldados más violentos durante la Era de Conquista.
-      Rérecros declaró a Keyes un traidor, y fue a partir de este punto que su gobierno empezó a
-      llamarse tiranía.
+      <span class="spoiler"> y amigo de la infancia de Arthe</span>, se convirtió en una figura muy
+      importante en la historia por representar el desacuerdo civil por llegar a tales extremos. Sin
+      embargo, otras figuras tomaron la palabra de Arthe, y realizaron crímenes que pesaron en la
+      mente de Keyes y sus aliados. Particularmente, un caudado conocido como Yumemi Rihito pasó a
+      la historia como uno de los soldados más violentos durante la Era de Conquista. Rérecros
+      declaró a Keyes un traidor, y fue a partir de este punto que su gobierno empezó a llamarse
+      tiranía.
     </p>
     <p>
       Nevhea, por su lado, siempre reprobó el asesinato, y ordenó sus tropas a retirarse si sus
@@ -205,15 +205,15 @@ const name = '🕮 Historia 🕮';
     <h4 id="keyes-siblings">2632: Hermanos Keyes</h4>
     <p>
       Arqheid se alió a los republicanos, y con su ayuda junto a la de sus hijos, Delion y Gaureth
-      Keyes, consiguió derrocar a Arthe, <span class="style-spoiler">matándolo en el proceso</span>,
-      y tomar su puesto como representante de caudados, pronto a realizar una alianza con los
+      Keyes, consiguió derrocar a Arthe, <span class="spoiler">matándolo en el proceso</span>, y
+      tomar su puesto como representante de caudados, pronto a realizar una alianza con los
       florecidos y ordenar el cumplimiento de las reglas de la guerra, lo cual inspiró a Iricontes
       realizar la misma orden.
     </p>
     <p>
       Los hermanos Keyes continuaron participando activamente en la guerra, encarcelando traidores,
       recuperando los anillos septenarios, y apoyando en la detención de Nelfal Glaen,
-      <span class="style-spoiler"
+      <span class="spoiler"
         >quien decidió aprisionar a su hija Nevhea y liberar los soldados que ella había
         aprisionado</span
       >. Tani, con ayuda de los Keyes, consiguió derrocar a Nelfal, y permitió a Nevhea suceder al
@@ -234,7 +234,7 @@ const name = '🕮 Historia 🕮';
     <h4 id="faustiel-doctrine">2634: Doctrina de Faustiel</h4>
     <p>
       En ese entonces una jovencita que perdió a sus padres durante la tiranía de Rérecros,
-      <span class="style-spoiler">
+      <span class="spoiler">
         no debido a la guerra en sí misma, sino por un dragolia resultante de esta
       </span>
       . Ella apareció prácticamente de la nada, revelando los conocimientos necesarios para acabar

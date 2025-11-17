@@ -44,7 +44,7 @@ const name = '✳ Ánimo ✳';
       <span class="style-hybrid"> caudado-florecido </span> propuso usar orbes de sombra como
       recipientes de <span class="style-anima">ánimas</span>, pero el método es rechazado ya que
       involucra un proceso bastante sangriento:
-      <span class="style-spoiler">
+      <span class="spoiler">
         matar una persona, convertirlo en un poseído con un orbe de sombra, y luego expiarle. Esto,
         en teoría, debería resultar en un orbe con un ánimo </span
       >.
@@ -85,7 +85,7 @@ const name = '✳ Ánimo ✳';
     </p>
     <p>
       La verdad desconocida comienza con
-      <span class="style-spoiler">
+      <span class="spoiler">
         un científico conocido como Neviok Notluf, a partir de sus estudios y teorías del ánimo,
         construyó una máquina con el propósito de absorber toda la negatividad del mundo y de ese
         modo detener la guerra que entonces ocurría. Su invento fue exitoso, pero con consecuencias
@@ -153,11 +153,11 @@ const name = '✳ Ánimo ✳';
       los anillos dieron lugar a ciudades sumamente importantes para el mundo, y actualmente se
       consideran un tesoro de buena suerte y extremo valor. Durante la guerra de conquista, Yumemi
       Rihito logró
-      <span class="style-spoiler"
+      <span class="spoiler"
         >robar tres de estos anillos, hasta que los hijos de Arqheid Keyes los recuperaron</span
       >
       . Al final de la Era de Conquista, Arqheid Keyes
-      <span class="style-spoiler">
+      <span class="spoiler">
         tomó el anillo de Rérecros, y lo mostró en la última batalla de Livádi como muestra de la
         derrota del tirano, culminando la guerra</span
       >.
@@ -212,7 +212,7 @@ const name = '✳ Ánimo ✳';
     </p>
     <p>
       El crisalismo se origina de
-      <span class="style-spoiler">
+      <span class="spoiler">
         la antesis de Izuko, cuando logra reunir los seis cuarzos de ánima
       </span>
       .

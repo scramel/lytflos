@@ -48,15 +48,15 @@
 .style-lytflos {
   color: var(--color-text);
   font-family: DeliusSwashCaps;
+  color: greenyellow; // TODO: delete temporary color
 }
 .style-triadia {
   color: var(--color-text);
   font-family: DeliusSwashCaps;
 }
 .style-folia {
-  color: var(--color-folia);
-  // color: var(--color-folia);
-  // text-decoration-color: var(--color-folia);
+  color: var(--color-folia); // TODO: delete temporary color
+  text-decoration-color: var(--color-folia);
   &--game {
     font-family: DeliusSwashCaps;
   }
@@ -158,6 +158,6 @@
 }
 
 /* spoilers */
-.style-spoiler {
+.spoiler {
   background-color: var(--color-invert);
 }

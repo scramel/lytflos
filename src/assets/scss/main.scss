@@ -31,6 +31,7 @@ hr {
 a {
   transition: 0.4s;
   padding: 3px;
+  &:not([class]),
   &:visited:not([class]) {
     color: var(--color-text);
   }

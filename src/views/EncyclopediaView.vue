@@ -127,12 +127,8 @@ import Glyphs from '@/components/encyclopedia/Glyphs.vue';
       margin: auto;
       margin-block-end: 1.5rem;
       thead {
-        background-color: black;
-        color: white;
-        @media (prefers-color-scheme: dark) {
-          background-color: white;
-          color: black;
-        }
+        background-color: var(--color-invert);
+        color: var(--color-background);
       }
       th,
       td {

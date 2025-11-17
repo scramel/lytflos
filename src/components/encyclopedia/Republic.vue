@@ -60,7 +60,7 @@ const name = '⛿ República ⛿';
       <span class="style-triadia">Triadia</span> . Desde Livádi se puede llegar a cualquiera de las
       Siete Ciudades a pie, aunque el viaje tomaría días. Aquí se libró la última batalla de la Era
       de Conquista en el año 2636
-      <span class="style-spoiler">
+      <span class="spoiler">
         entre la alianza de los Nobles de Glaen y la Caballería de Aricontes contra los Caudados de
         Rérecros. Una vez Arqheid Keyes derrocó a Arthe Rérecros y se hizo con el Anillo Septenario
         de la ciudadela, lo llevó a Livádi como prueba del fin de su tiranía
@@ -285,7 +285,7 @@ const name = '⛿ República ⛿';
       la Era de Conquista, tanto Nevhea como Tani desaparecieron y Nelfal fue derrocado de su
       posición por su propia gente. El palacio fue dejado sin dueño, y en el presente existe como
       una reliquia del pasado.
-      <span class="style-spoiler">
+      <span class="spoiler">
         Los habitantes de Ftéryon esperan la llegada de un Glaen o Prigemo para otorgarles el
         palacio </span
       >.
@@ -343,10 +343,10 @@ const name = '⛿ República ⛿';
     <h2 id="rerecros">~ Rérecros 🏛</h2>
     <p>
       Hogar del Castillo Rérecros, alguna vez perteneciente al tirano Arthe, luego de los Keyes, y
-      finalmente comprado por los <span class="style-spoiler">Foster</span>. El nombre del castillo
-      y la ciudad fueron mantenidos en honor a la amistad que alguna vez mantuvieron los
-      <span class="style-spoiler"> Keyes con los Rérecros </span>. La arquitectura de la ciudadela
-      es maximalista, única en el mundo.
+      finalmente comprado por los <span class="spoiler">Foster</span>. El nombre del castillo y la
+      ciudad fueron mantenidos en honor a la amistad que alguna vez mantuvieron los
+      <span class="spoiler"> Keyes con los Rérecros </span>. La arquitectura de la ciudadela es
+      maximalista, única en el mundo.
     </p>
     <p>
       Se dice que la sangre de los mejores caudados reside en esta ciudad. Entre otras cosas, la

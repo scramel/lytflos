@@ -32,10 +32,13 @@ const name = '✾ Introducción ✾';
     </p>
     <h2 id="about">~ Acerca de</h2>
     <p>
-      Este documento comprende todo el worldbuilding detrás de la historia contada en
-      <a href="" class="style-folia style-folia--game">Folia</a>, y lo escribí para que quienes
-      quieran producir contenido basado en esta puedan tener una referencia que ayude a mantener la
-      consistencia e inmersión de sus obras (¡incluyéndome!).
+      Este documento comprende todo el
+      <a href="https://es.wikipedia.org/wiki/Construcci%C3%B3n_de_mundos" target="_blank"
+        >worldbuilding</a
+      >
+      detrás de la historia contada en <a href="" class="style-folia style-folia--game">Folia</a>, y
+      lo escribí para que quienes quieran producir contenido basado en esta puedan tener una
+      referencia que ayude a mantener la consistencia e inmersión de sus obras (¡incluyéndome!).
     </p>
     <p>
       Es imposible para mí escribir sobre absolutamente todas las posibilidades del mundo de

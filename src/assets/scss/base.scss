@@ -98,3 +98,11 @@ body {
     font-size: 18px;
   }
 }
+
+/* text selection colors for WebKit browsers (Chrome, Safari, etc.) and Firefox */
+::selection,
+::-moz-selection {
+  background-color: var(--color-invert);
+  color: var(--color-background);
+  -webkit-text-fill-color: var(--color-background);
+}
