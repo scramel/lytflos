@@ -70,14 +70,14 @@ const name = '❦ Criaturas ❦';
     </p>
     <h2 id="mefrino">~ Mefrino</h2>
     <p>
-      Un grupo particular de <span class="style-folia">folia</span> que desarrollan una mutación
-      genética la cual afecta drásticamente su apariencia y habilidades. La probabilidad de dar a
-      luz a un mefrino es de aproximadamente 1 en 300.000.
+      Hace referencia <span class="style-folia">folia</span> que ha desarrollado todas las
+      características físicas de cada rama desde su nacimiento se le llama mefrino. Dicho desarrollo
+      es resultaado de una mutación genética. La probabilidad de dar a luz a un mefrino es de
+      aproximadamente 1 en 300.000.
     </p>
     <p>
-      Incluyen todas las características físicas de cada rama, su tejido epidérmico es acromático, y
-      su percepción del sonido es increíble sin convertirse en un problema, es decir que sonidos
-      fuertes no les aturden.
+      Su tejido epidérmico es acromático, y su percepción del sonido es increíble sin convertirse en
+      un problema, es decir que sonidos fuertes no les aturden.
     </p>
     <p>
       No toman el talento de ninguna rama, pero pueden usar estela como cualquier otro
