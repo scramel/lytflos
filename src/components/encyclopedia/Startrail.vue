@@ -166,12 +166,17 @@ const name = '☆ Estela ☆';
     </ol>
     <ul class="nodes-list">
       <li>
-        <h3 id="#accel">- Accel</h3>
+        <h3 id="#accel" class="background-caudate">- Accel</h3>
         Acelera el crecimiento de un organismo. Es posible de utilizar en criaturas incluyendo
         <span class="style-folia">folia</span>, pero les acorta la vida.
       </li>
       <li>
-        <h3 id="#ad">- Ad</h3>
+        <h3 id="stellar-accel" class="background-caudate">- Accel Estelar</h3>
+        Acelera el ciclo de vida de una <span class="style-roots">raíz</span>, cortándolo a la mitad
+        pero duplicando su efectividad.
+      </li>
+      <li>
+        <h3 id="#ad" class="background-flowering">- Ad</h3>
         Copia temporalmente una aptitud del blanco. Por ejemplo, su destreza con el pincel.
       </li>
       <li>
@@ -181,7 +186,7 @@ const name = '☆ Estela ☆';
         <span class="style-iris-fragments">fragmentos de iris</span> cual huellas dactilares.
       </li>
       <li>
-        <h3 id="#spiritual-affinity">- Afinidad espiritual</h3>
+        <h3 id="#spiritual-affinity" class="background-flowering">- Afinidad espiritual</h3>
         Permite percibir <span class="style-essence">ánimo</span> como un sexto sentido, incluyendo
         en criaturas y objetos.
       </li>
@@ -193,7 +198,7 @@ const name = '☆ Estela ☆';
         <span class="style-flowering">polen estelar</span>.
       </li>
       <li>
-        <h3 id="solar-wings">- Alas solares</h3>
+        <h3 id="solar-wings" class="background-winged">- Alas solares</h3>
         La materialización de alas o aletas en un <span class="style-folia">folia</span>. Este
         <span class="style-nodes">nodo</span> generalmente se aprende instintivamente tras un evento
         de gran importancia emocional.
@@ -209,12 +214,12 @@ const name = '☆ Estela ☆';
         equivalente de <span class="style-startrail">estela</span>.
       </li>
       <li>
-        <h3 id="natural-command">- Comando natural</h3>
+        <h3 id="natural-command" class="background-winged">- Comando natural</h3>
         El objetivo atrae todos los <span class="style-natur">náturs</span> cercanos, y estos
         estarán dispuestos a obedecer por lo menos un comando de este.
       </li>
       <li>
-        <h3 id="open-heart">- Corazón abierto</h3>
+        <h3 id="open-heart" class="background-flowering">- Corazón abierto</h3>
         El objetivo transmite sus sentimientos a quien toca, y a cambio recibe los del blanco.
       </li>
       <li>
@@ -229,38 +234,38 @@ const name = '☆ Estela ☆';
         este tiene estela suficiente para hacerlo y su núcleo es accesible.
       </li>
       <li>
-        <h3 id="forging-of-spiriums">- Forja de espírios</h3>
+        <h3 id="forging-of-spiriums" class="background-flowering">- Forja de espírios</h3>
         La capacidad de sellar el <span class="style-essence">ánimo</span> impregnado en un objeto
         en el mismo, creando un <a href="#spirium">espírio</a>. El
         <span class="style-nodes">nodo</span> del espírio suele ser impredecible.
       </li>
       <li>
-        <h3 id="fusion">- Fusión</h3>
+        <h3 id="fusion" class="background-winged">- Fusión</h3>
         Luego que un <span class="style-folia">folia</span> se une a un
         <span class="style-natur">nátur</span>, este <span class="style-nodes">nodo</span> permite
         al segundo desunirse sin dañarse.
       </li>
       <li>
-        <h3 id="glyph">- Glifo</h3>
+        <h3 id="glyph" class="background-caudate">- Glifo</h3>
         Una <span class="style-dendrites">dendrita</span> miniatura que permite realizar
         alteraciones sencillas, como hacer levitar objetos. Véase
         <a href="#glyphs" class="style-dendrites">⊙ Glifos ⊙</a>.
       </li>
       <li>
-        <h3 id="#invocation">- Invocación</h3>
+        <h3 id="#invocation" class="background-caudate">- Invocación</h3>
         Crea una forma de vida a base de <span class="style-startrail">estela</span>, y le otorga
         una <span class="style-roots">raíz</span> y <span class="style-nodes">nodo</span> del
         usuario. Desaparece después de usar toda la <span class="style-startrail">estela</span> a su
         disposición.
       </li>
       <li>
-        <h3>- Luz</h3>
+        <h3 id="#light">- Luz</h3>
         Cuando el <a href="#chrysalism" class="style-chrysalism">crisalismo</a> del objetivo llega a
         su punto de quiebre, este <span class="style-nodes">nodo</span> extiende su vida hasta un
         daño más. Solo se puede usar 1 vez al día.
       </li>
       <li>
-        <h3 id="numb">- Entumecer</h3>
+        <h3 id="numb" class="background-flowering">- Entumecer</h3>
         Entumece un sentimiento al azar del objetivo, o a elección si el usuario es nivel 3. Puede
         usarse para cancelar la activación de un <a href="#spirium">espírio</a>.
       </li>
@@ -270,7 +275,7 @@ const name = '☆ Estela ☆';
         cancela toda magia excepto ánimo, antesis, y raíces.
       </li>
       <li>
-        <h3 id="teleport">- Teleportación</h3>
+        <h3 id="teleport" class="background-caudate">- Teleportación</h3>
         Hace aparecer al usuario en una localización arbitraria dentro de su capacidad. Las
         plataformas transmutadoras usan un principio parecido.
       </li>
@@ -286,7 +291,7 @@ const name = '☆ Estela ☆';
         otra.
       </li>
       <li>
-        <h3 id="climate-manipulation">- Manipulación climática</h3>
+        <h3 id="climate-manipulation" class="background-winged">- Manipulación climática</h3>
         Evoca lluvia, tormenta, ventisca, tornado, granizo, o nieve. Si un
         <span class="style-folia">folia</span> de nivel menor a 3 usa este
         <span class="style-nodes">nodo</span>, el resultado será al azar a menos que sea apoyado de
@@ -294,13 +299,13 @@ const name = '☆ Estela ☆';
         <span class="style-natur">nátur</span>.
       </li>
       <li>
-        <h3 id="mutation">- Mutación</h3>
+        <h3 id="mutation" class="background-caudate">- Mutación</h3>
         Utilizando una muestra de ADN, el usuario obtiene sus características físicas y algunas de
         sus aptitudes, pero perdiendo algunas propias de su o sus
         <span class="style-branches">ramas</span>.
       </li>
       <li>
-        <h3 id="nattre">- Natúreo</h3>
+        <h3 id="nattre" class="background-winged">- Natúreo</h3>
         Permite entender y hablar el lenguaje de los <span class="style-natur">náturs</span>. Este
         <span class="style-nodes">nodo</span> funciona pasivamente y puede copiarse usando
         <a href="#mirror">espejo</a>.
@@ -339,44 +344,62 @@ const name = '☆ Estela ☆';
         Percepción increíble del sonido sin convertirlo en un problema, es decir que los ruidos no
         aturden al usuario.
       </li>
-      <li>
-        <h3 id="stellar-accel">- Accel Estelar</h3>
-        Acelera el ciclo de vida de una <span class="style-roots">raíz</span>, cortándolo a la mitad
-        pero duplicando su efectividad.
-      </li>
     </ul>
     <h2 id="anthesis">~ Antesis</h2>
     <p>
-      Se considera la culminación de la especialización de una persona, representada en una
-      aplicación de <span class="style-startrail">estela</span>,
+      Se considera la culminación del aprendizaje de un <span class="style-folia">folia</span>,
+      representada en una aplicación de <span class="style-startrail">estela</span>,
       <span class="style-essence">ánimo</span>, o ambas, que es muy avanzada y personal. Bien podría
-      asociarse al “movimiento especial” de un personaje de videojuegos. Normalmente las
-      <span class="style-anthesis">antesis</span> requieren al menos la mitad de la
-      <span class="style-startrail">estela</span> almacenado en un
-      <span class="style-folia">folia</span> para materializarse, pero el costo puede variar
-      dependiendo de la complejidad de la <span class="style-anthesis">antesis</span>.
+      asociarse al "movimiento insignia" de un personaje. Normalmente una
+      <span class="style-anthesis">antesis</span> requiere al menos la mitad de la
+      <span class="style-startrail">estela</span> almacenada en un
+      <span class="style-folia">folia</span> para usarse, pero el costo puede variar dependiendo de
+      su complejidad y alcance.
+    </p>
+    <p>
+      Los efectos de una <span class="style-anthesis">antesis</span> son singulares para cada
+      <span class="style-folia">folia</span>. Su manifestación puede variar enormemente: desde una
+      formidable exhibición de poder destructivo, hasta una técnica avanzada de terraformación
+      restaurativa, o incluso una demostración de destreza con fines puramente estéticos.
+    </p>
+    <p>
+      No existen límites para la utilidad que puede ofrecer ni para las formas que es capaz de
+      tomar, puesto que cada <span class="style-folia">folia</span> decide su propio objetivo y
+      significado.
     </p>
     <h2 id="core">~ Núcleo</h2>
     <p>
       Se refiere al espacio donde se almacena la <span class="style-startrail">estela</span>,
-      parecido a como las baterías almacenan sus cargas eléctricas. Todo núcleo pertenece a una
+      parecido a cómo las baterías almacenan sus cargas eléctricas. Todo núcleo pertenece a una
       masa, pero no todas las masas poseen un núcleo. A veces puede darse que un
       <span class="style-folia">folia</span> nazca ausente de núcleo sin razón aparente.
     </p>
     <p>
       Mientras mayor rareza tenga la masa u recipiente del núcleo, mayores cantidades de
       <span class="style-startrail">estela</span> puede almacenar. En el caso de los
-      <span class="style-folia">folia</span>, sus conocimientos cuentan como un aspecto que puede
-      aumentar su rareza. Es muy común, especialmente en
+      <span class="style-folia">folia</span>, sus conocimientos y habilidades cuentan como aspectos
+      que pueden aumentar su rareza. Es muy común, especialmente en
       <span class="style-caudate">caudados</span>, portar piedras preciosas como medio de
-      almacenamiento de <span class="style-startrail">estela</span> debido a la rareza y belleza de
-      estas. Por lo general, dichas piedras se encuentran en puntas de varitas, o incrustadas en
-      báculos, aunque basta con llevarlas de accesorio.
+      almacenamiento de <span class="style-startrail">estela</span> debido a su belleza y naturaleza
+      escasa. Por lo general, dichas piedras se encuentran en la punta de las varitas, o incrustadas
+      en báculos, pero basta con llevarlas de accesorio.
+    </p>
+    <h3 id="access">- Acceso</h3>
+    <p>
+      Por defecto, el núcleo de los <span class="style-folia">folia</span> permite la entrada de
+      <span class="style-golden-bubbles">burbujas de oro</span>, lo cual les permite regenerar
+      <span class="style-startrail">estela</span> sin arriesgarse a ser afectados por
+      <span class="style-roots">raíces</span>, los cuales funcionan con
+      <span class="style-iris-fragments">fragmentos de iris</span>. Dicho de otro modo, los
+      <span class="style-folia">folia</span> son inmunes a ser directamente alterados por
+      <span class="style-dendrites">dendritas</span>, movidos a través de manipular algún
+      <span class="style-elements">elemento natural</span> que les conformen, y otras posibilidades
+      de similar calibre.
     </p>
     <p>
-      No es posible alterar un <span class="style-folia">folia</span> con núcleos excepto si ellos
-      voluntariamente realizan lo que es llamado abrir sus núcleos, que es permitir fragmentos de
-      iris ingresar en vez de solamente burbujas de oro.
+      Sin embargo, si un <span class="style-folia">folia</span> confía en otro, le es posible
+      permitir la entrada de <span class="style-iris-fragments">fragmentos de iris</span> con solo
+      desearlo. Esta práctica es la que se conoce como "dar acceso al núcleo".
     </p>
     <h2 id="iris-fragments-&-golden-bubbles">~ Fragmentos de iris y burbujas de oro</h2>
     <p>
