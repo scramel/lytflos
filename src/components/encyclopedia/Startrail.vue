@@ -370,8 +370,8 @@ const name = '☆ Estela ☆';
     <h2 id="core">~ Núcleo</h2>
     <p>
       Se refiere al espacio donde se almacena la <span class="style-startrail">estela</span>,
-      parecido a cómo las baterías almacenan sus cargas eléctricas. Todo núcleo pertenece a una
-      masa, pero no todas las masas poseen un núcleo. A veces puede darse que un
+      parecido a cómo las baterías almacenan energía. Todo núcleo pertenece a una masa, pero no
+      todas las masas poseen un núcleo. A veces puede darse que un
       <span class="style-folia">folia</span> nazca ausente de núcleo sin razón aparente.
     </p>
     <p>
@@ -381,103 +381,106 @@ const name = '☆ Estela ☆';
       que pueden aumentar su rareza. Es muy común, especialmente en
       <span class="style-caudate">caudados</span>, portar piedras preciosas como medio de
       almacenamiento de <span class="style-startrail">estela</span> debido a su belleza y naturaleza
-      escasa. Por lo general, dichas piedras se encuentran en la punta de las varitas, o incrustadas
+      escasa. Por lo general, dichas piedras se encuentran en la punta de las varitas o incrustadas
       en báculos, pero basta con llevarlas de accesorio.
     </p>
     <h3 id="access">- Acceso</h3>
     <p>
-      Por defecto, el núcleo de los <span class="style-folia">folia</span> permite la entrada de
-      <span class="style-golden-bubbles">burbujas de oro</span>, lo cual les permite regenerar
-      <span class="style-startrail">estela</span> sin arriesgarse a ser afectados por
-      <span class="style-roots">raíces</span>, los cuales funcionan con
+      Por defecto, el núcleo de los <span class="style-folia">folia</span> permite únicamente la
+      entrada de <span class="style-golden-bubbles">burbujas de oro</span>, lo cual les permite
+      regenerar <span class="style-startrail">estela</span> sin arriesgarse a ser afectados por
+      <span class="style-roots">raíces</span>, las cuales funcionan con
       <span class="style-iris-fragments">fragmentos de iris</span>. Dicho de otro modo, los
-      <span class="style-folia">folia</span> son inmunes a ser directamente alterados por
-      <span class="style-dendrites">dendritas</span>, movidos a través de manipular algún
-      <span class="style-elements">elemento natural</span> que les conformen, y otras posibilidades
-      de similar calibre.
+      <span class="style-folia">folia</span> son inmunes a ser directamente afectados por
+      <span class="style-dendrites">dendritas</span>, o a que manipulen los
+      <span class="style-elements">elementos naturales</span> que les conforman, entre otras
+      posibilidades de similar calibre.
     </p>
     <p>
       Sin embargo, si un <span class="style-folia">folia</span> confía en otro, le es posible
       permitir la entrada de <span class="style-iris-fragments">fragmentos de iris</span> con solo
-      desearlo. Esta práctica es la que se conoce como "dar acceso al núcleo".
+      desearlo. Esta práctica es la que se conoce como "dar acceso al núcleo", y no es necesario
+      hacerla cuando solo se quiere realizar una inyección de
+      <span class="style-startrail">estela</span>, que es su transferencia de un
+      <span class="style-folia">folia</span> a otro sin expulsarla y a través del contacto físico.
     </p>
     <h2 id="iris-fragments-&-golden-bubbles">~ Fragmentos de iris y burbujas de oro</h2>
     <p>
-      La estela pura puede tomar dos formas: fragmentos y burbujas. Cuando estela es expulsada de un
-      <span class="style-folia">folia</span>, automáticamente toma forma de partículas vidriosas y
-      brillantes (incluso en <span class="style-pollen">polen estelar</span>; sencillamente deja de
-      ser evidente), y estas partículas brillan de color del iris de quien provino, dando lugar al
-      nombre fragmentos de iris.
+      La <span class="style-pure-startrail">estela pura</span> puede tomar dos formas:
+      <span class="style-iris-fragments">fragmentos</span> y
+      <span class="style-golden-bubbles">burbujas</span>. Cuando un
+      <span class="style-folia">folia</span> expulsa <span class="style-startrail">estela</span>,
+      esta última toma forma de partículas vidriosas y brillantes que irradian color del iris de
+      quien provino, dando lugar al nombre
+      <span class="style-iris-fragments">fragmentos de iris</span>.
     </p>
     <p>
-      Los fragmentos de iris solamente pueden ser absorbidos por plantas distintas de los
-      <span class="style-folia">folia</span>, y si a dichas plantas les sobra estela, entonces
-      expulsan el mismo en forma de partículas que asemejan luciérnagas, dando lugar al nombre
-      burbujas de oro. Estas burbujas sí pueden ser absorbidas por
-      <span class="style-folia">folia</span>, dando lugar a un ciclo. A este proceso cíclico se le
-      denomina ciclo estelar.
+      Los <span class="style-iris-fragments">fragmentos de iris</span> solamente pueden ser
+      absorbidos por plantas distintas de los <span class="style-folia">folia</span>, y si a dichas
+      plantas les sobra <span class="style-startrail">estela</span>, entonces expulsan esta en una
+      forma distinta que asemeja luciérnagas: las
+      <span class="style-golden-bubbles">burbujas de oro</span>, las cuales sí que pueden absorber
+      los <span class="style-folia">folia</span>. A este proceso cíclico se le denomina ciclo
+      estelar.
     </p>
     <h2 id="stellar-phenomena">~ Fenómenos Estelares</h2>
     <p>
-      Distintos materiales en el mundo reaccionan al ser inyectados con
-      <span class="style-startrail">estela</span>. Es útil saber estas interacciones para formular
-      inventos y evitar accidentes. Algunos ejemplares son:
+      Distintos materiales reaccionan de distintas maneras cuando se les inyecta
+      <span class="style-startrail">estela</span>. Es útil saber estas interacciones para realizar
+      inventos y evitar accidentes. Algunos ejemplos son:
     </p>
     <ul>
       <li>
-        <p><b>Maderas:</b> generan hojas y flora de inmediato.</p>
+        <p><b>Madera:</b> generan hojas y flora de inmediato.</p>
       </li>
       <li>
-        <p><b>Hojas:</b> expulsan viento. Suficientes hojas podrían causar un ventarrón.</p>
+        <p><b>Hoja:</b> expulsa viento. Suficientes hojas podrían causar un ventarrón.</p>
       </li>
       <li>
         <p>
-          <b>Minerales:</b> albergan <span class="style-startrail">estela</span>, como los folia.
+          <b>Mineral:</b> alberga <span class="style-startrail">estela</span>, como los
+          <span class="style-folia">folia</span>. Se puede usar como batería.
         </p>
       </li>
       <li>
-        <p><b>Espejos:</b> de ser dividido, una parte mostrará el reflejo del otro.</p>
+        <p><b>Espejo:</b> al ser dividido, una parte muestra el reflejo de la otra.</p>
       </li>
       <li>
-        <p><b>Conchas de mar:</b> de ser dividido, una parte "dirá" lo que la otra "oiga".</p>
+        <p><b>Concha de mar:</b> al ser dividida, una parte "dice" lo que la otra "escucha".</p>
       </li>
       <li>
-        <p><b>Plásticos:</b> se derriten de inmediato.</p>
+        <p><b>Plástico:</b> se derrite de inmediato.</p>
       </li>
       <li>
-        <p><b>Frutas:</b> su sabor se intensifica.</p>
+        <p><b>Fruta:</b> su sabor se intensifica.</p>
       </li>
       <li>
-        <p><b>Té:</b> absorbe las propiedades estelares de los materiales que le acompañen.</p>
+        <p>
+          <b>Té:</b> absorbe los fenómenos estelares de los ingredientes usados. Al beberlo, un
+          <span class="style-folia">folia</span> obtiene dichos fenómenos temporalmente.
+        </p>
       </li>
       <li>
-        <p><b>Cebolla:</b> expulsa lacrimógeno a su alrededor.</p>
+        <p><b>Cebolla:</b> expulsa lacrimógeno.</p>
       </li>
     </ul>
     <h2 id="startrail-systems">~ Sistemas estela</h2>
     <p>
-      Así se le llaman a los dispositivos que utilizan
+      Así se le llama a los dispositivos que utilizan
       <span class="style-startrail">estela</span> como combustible, y están hechos para mejorar la
-      calidad de vida de la sociedad. Algunos ejemplos incluyen:
+      calidad de vida de los <span class="style-folia">folia</span>.
     </p>
     <ul>
       <li>
         <p>
-          <b>Atrapapesadillas:</b> un pequeño dispositivo hecho para autodestruirse junto a su
+          <b>Atrapapesadillas:</b> un pequeño recipiente hecho para autodestruirse junto a su
           contenido, normalmente un orbe negativo, al recibir un daño considerable.
         </p>
       </li>
       <li>
         <p>
-          <b>Plevráfono:</b>
-          hechas con espejos y conchas de mar, y con una forma estéticamente placentera, funcionan
-          como teléfonos. Plev para acortar.
-        </p>
-      </li>
-      <li>
-        <p>
-          <b>Plevravisor:</b> a partir del mismo principio que con las bolas espejo y varios otros
-          ajustes, se asemeja la funcionalidad de los televisores. PV para acortar.
+          <b>Orbe de cristal:</b> hecho con espejos y conchas de mar, sirven para comunicarse a
+          distancia.
         </p>
       </li>
     </ul>
@@ -487,7 +490,7 @@ const name = '☆ Estela ☆';
         <p>
           <b>Lo que se hace siempre se deshace:</b> Las creaciones hechas con
           <span class="style-startrail">estela</span> nunca son permanentes y siempre se disolverán
-          en fragmentos de iris.
+          en <span class="style-iris-fragments">fragmentos de iris</span>.
         </p>
         <p>
           <small>
@@ -497,8 +500,9 @@ const name = '☆ Estela ☆';
       </li>
       <li>
         <p>
-          <b>Lo que aparece debe mantenerse:</b> Las creaciones y traslaciones hechas con estela se
-          mantienen ocurriendo hasta que el suministro se interrumpe.
+          <b>Lo que aparece debe mantenerse:</b> Las creaciones y traslaciones hechas con
+          <span class="style-startrail">estela</span> se mantienen ocurriendo hasta que el
+          suministro se interrumpa.
         </p>
         <p>
           <small>
@@ -510,25 +514,31 @@ const name = '☆ Estela ☆';
       </li>
       <li>
         <p>
-          <b>Lo que materialices va al aire libre:</b> Las creaciones hechas con estela no pueden
-          aparecer dentro de una masa.
+          <b>Lo que materialices va al aire libre:</b> Las creaciones hechas con
+          <span class="style-startrail">estela</span> no pueden aparecer dentro de una masa.
         </p>
         <p>
           <small>
-            Sí es posible inyectar estela a una masa o transferirla de una a otra. Hay reglas
-            adicionales para inyectar o transferir estela entre
-            <span class="style-folia">folia</span>.
+            Sí es posible inyectar <span class="style-startrail">estela</span> a una masa o
+            transferirla de una a otra, incluso entre <span class="style-folia">folia</span>.
+            Realizarlo requiere contacto físico.
           </small>
         </p>
       </li>
       <li>
         <p>
-          <b>Lo que cedes nunca vuelve:</b> La estela que los <span class="style-folia">folia</span>
-          expulsan se vuelve fragmentos de iris, que no es absorbible por ellos hasta que dichos
-          fragmentos sean convertidos en burbujas de oro.
+          <b>Lo que cedes nunca vuelve:</b> La <span class="style-startrail">estela</span> que los
+          <span class="style-folia">folia</span>
+          expulsan se vuelve <span class="style-iris-fragments">fragmentos de iris</span>, que no es
+          absorbible por ellos hasta que estos sean convertidos en
+          <span class="style-golden-bubbles">burbujas de oro</span>.
         </p>
         <p>
-          <small> Véase ciclo estelar. </small>
+          <small>
+            Véase
+            <a href="#iris-fragments-&-golden-bubbles">fragmentos de iris y burbujas de oro</a
+            >.</small
+          >
         </p>
       </li>
       <li>
