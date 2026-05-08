@@ -20,14 +20,15 @@ const name = '☘ Folia ☘';
       caso de los <span class="style-folia">folia</span> hongos.
     </p>
     <p>
-      Son bípedos de corta estatura que durante su infancia tienen una apariencia
+      Físicamente son bípedos de corta estatura que durante su infancia tienen una apariencia
       semi-antropomórfica bastante pronunciada, mientras que en la adultez su anatomía asemeja un
       poco más al humano. Los <span class="style-folia">folia</span> más altos pueden llegar a medir
       alrededor de un metro y medio —excepto algunas figuras importantes, que pueden ser más altos—,
       y viven en promedio trescientos años dado el calendario de
-      <a href="#cosmos" class="style-lytflos">Lytflos</a>. El color de su tejido epidérmico no se
-      limita al verde, sino que puede contener manchas y patrones, y dependiendo de sus familias, en
-      sus cabezas les crecen hojas, pétalos, u hongos, que parecen cabellos.
+      <a href="#cosmos" class="style-lytflos">Lytflos</a>. Entre otras características: tienen 4
+      dedos en cada mano y pie; el color de su tejido epidérmico no se limita al verde, sino que
+      puede contener manchas y patrones; y dependiendo de sus familias, en sus cabezas les crecen
+      hojas, pétalos, u hongos, que parecen cabellos.
     </p>
     <img src="/images/folia-concept-art.webp" alt="Folia concept art" loading="lazy" />
     <p style="text-align: center">
@@ -36,9 +37,9 @@ const name = '☘ Folia ☘';
       </small>
     </p>
     <p>
-      Cuando fallecen, se dice que “marchitan”: lentamente pierden su lozanía, coloración, y
+      Cuando fallecen, se dice que «marchitan»: lentamente pierden su lozanía, coloración, y
       finalmente se disuelven en pétalos —o en otros casos flores o esporas— que destellan del color
-      de sus irises, dejando atrás una semilla que tradicionalmente es plantada en un lugar
+      de sus írises, dejando atrás una semilla que tradicionalmente es plantada en un lugar
       considerado especial por sus familiares. Un <span class="style-folia">folia</span> puede
       permanecer sin vida hasta 3 días antes de marchitar, pero este puede disolverse en pétalos en
       menos tiempo o hasta inmediatamente si fallece de formas violentas.
@@ -98,7 +99,7 @@ const name = '☘ Folia ☘';
       <span class="style-startrail">estela</span> cuando utilizan sus
       <span class="style-dendrites">dendritas</span> y
       <a href="#glyphs" class="style-dendrites">glifos</a>, los cuales les permiten alterar materia.
-      Evocar estas habilidades son como segundo instinto para los
+      Evocar estas habilidades es como segundo instinto para los
       <span class="style-caudate">caudados</span>, pero en ocasiones pierden el control debido a su
       naturaleza compleja.
     </p>
@@ -133,7 +134,7 @@ const name = '☘ Folia ☘';
       partículas u ondas de características arbitrarias, y estas se disuelven en
       <a href="#iris-fragments-&-golden-bubbles">fragmentos de iris</a> una vez el suministro de
       <span class="style-startrail">estela</span> con la que se está emanando el
-      <span class="style-pollen">polen estelar</span> se interrumpe o se agota.
+      <span class="style-pollen">polen</span> se interrumpe o se agota.
     </p>
     <article class="background-flowering">
       <h4>- Raíz: Polen Estelar u Ondular</h4>
@@ -211,10 +212,10 @@ const name = '☘ Folia ☘';
       En la práctica, los <span class="style-winged">alados</span> son los mejores administrando
       <span class="style-natur">náturs</span>: la naturaleza y el clima; los
       <span class="style-flowering">florecidos</span> son los preferidos para proteger a otros de
-      criaturas <span class="style-umbria">negativas</span>; y los
-      <span class="style-caudate">caudados</span> son favorecidos para trabajos de terraformación,
-      diseños de sistemas, y tareas que involucren asegurar un hábitat seguro y adecuado para los
-      <span class="style-folia">folia</span>.
+      <span class="style-umbria"><span class="style-umbria">criaturas negativas</span></span
+      >; y los <span class="style-caudate">caudados</span> son favorecidos para trabajos de
+      terraformación, diseños de sistemas, y tareas que involucren asegurar un hábitat seguro y
+      adecuado para los <span class="style-folia">folia</span>.
     </p>
     <table>
       <thead>

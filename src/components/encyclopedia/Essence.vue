@@ -8,26 +8,30 @@ const name = '✳ Ánimo ✳';
     <hr />
     <p>
       La magia de los sentimientos. Una magia distinta de la
-      <span class="style-startrail">estela</span>, pero que se relaciona con esta de formas
-      indirectas. Proviene de la intensidad en las emociones de las criaturas, y dependiendo de
-      cuáles sean, puede dividirse en positivas y negativas. Como resultado, se trata de una energía
-      más abstracta, cuyas reglas no son tan objetivas ni estrictas.
+      <a href="#startrail" class="style-startrail">estela</a>, pero muy relacionada. Proviene de las
+      emociones intensas en los seres vivos, y se divide en
+      <span class="style-lucero">positividad</span> y <span class="style-umbria">negatividad</span>.
+      Como resultado, se trata de una energía más abstracta, cuyas reglas no son tan objetivas ni
+      estrictas, y que los seres vivos no necesariamente controlan a voluntad, lo cual hace que el
+      <span class="style-essence">ánimo</span> pueda manifestarse en formas tanto arbitrarias como
+      autónomas, como son las criaturas conocidas como <a href="#meion">meions</a> y
+      <a href="#shade">sombras</a>. Estas entidades no colisionan con otras hechas de
+      <span class="style-startrail">estela</span>, como el
+      <a href="#stellar-pollen" class="style-pollen">polen estelar</a>.
     </p>
     <p>
-      El <span class="style-essence">ánimo</span> positivo -conocido como Lucero- trae habilidades
-      enfocadas en la defensa, la recuperación, y la estabilidad emocional, mientras que el negativo
-      -conocido como <span class="style-umbria">Umbría</span>- en el ataque, la desestabilización
-      psicológica, y el cansancio. A las personas con concentraciones de
+      El <span class="style-essence">ánimo </span>
+      <span class="style-lucero">positivo</span> -conocido como
+      <span class="style-lucero">Lucero</span>- trae habilidades enfocadas en la defensa, la
+      recuperación, y la estabilidad emocional, mientras que el
+      <span class="style-umbria">negativo</span> -conocido como
+      <span class="style-umbria">Umbría</span>- en el ataque, la desestabilización psicológica, y el
+      cansancio. A las personas con concentraciones de
       <span class="style-umbria">negatividad</span> tan altas que se han disociado de ellos mismos
-      se les conocen como poseídos.
-    </p>
-    <p>
-      En cualquier caso, el
-      <span class="style-anima">ánima</span> puede ser utilizado para generar
-      <span class="style-startrail">estela</span> más allá de lo que pueda almacenar un núcleo, y
-      también puede manifestarse físicamente, en cual caso no interactúa directamente con
-      manifestaciones de <span class="style-startrail">estela</span>, especialmente la
-      <span class="style-pollen">polen estelar</span>, sino que acaba por traspasarla.
+      se les conocen como <span class="style-crooked">plagados</span>. En cualquier caso, el
+      <span class="style-essence">ánimo</span> puede ser utilizado para generar
+      <span class="style-startrail">estela</span> sin necesidad de extraerlo de un
+      <a href="#core">núcleo</a>.
     </p>
     <h2 id="anima">~ Ánima</h2>
     <p>
@@ -38,25 +42,27 @@ const name = '✳ Ánimo ✳';
     <p>
       En <span class="style-lytflos">Lytflos</span>, los
       <span class="style-folia">folia</span> utilizan este concepto para intentar explicar el origen
-      del <span class="style-essence">ánimo</span> como magia. Similar al núcleo, el
-      <span class="style-anima">ánima</span> sería esta batería donde se almacena el
-      <span class="style-essence">ánimo</span>. Durante el siglo 25, un
-      <span class="style-hybrid"> caudado-florecido </span> propuso usar orbes de sombra como
-      recipientes de <span class="style-anima">ánimas</span>, pero el método es rechazado ya que
-      involucra un proceso bastante sangriento:
+      del <span class="style-essence">ánimo</span>, pero no han sido capaces de probar su
+      existencia. Similar al núcleo, el <span class="style-anima">ánima</span> sería esta batería
+      donde se almacena el <span class="style-essence">ánimo</span>. Durante el siglo 25, un
+      <span class="style-hybrid"> caudado-florecido </span> propuso usar
+      <a href="#negative-orb">orbes de sombras</a> como método para atrapar
+      <span class="style-anima">ánimas</span>, pero el método es rechazado ya que involucra un
+      proceso bastante sangriento:
       <span class="spoiler">
-        matar una persona, convertirlo en un poseído con un orbe de sombra, y luego expiarle. Esto,
-        en teoría, debería resultar en un orbe con un ánimo </span
+        matar a un ser vivo, convertirlo en un plagado, y luego expiarle, de modo que el orbe de
+        sombra resultante contenga no solo la negatividad, sino todo el ánimo de dicho ser</span
       >.
     </p>
-    <h2 id="spirium">~ Espírio</h2>
+    <h2 id="spirition">~ Espírio</h2>
     <p>
-      También conocido como "objeto animado", es un objeto que reacciona a una emoción concreta y
-      acciona un nodo propio de sí, prácticamente imposible de replicar por otros medios. Forjar un
-      espírio implica forjar una conexión emocional fuerte con un objeto inanimado, y por ello es
-      común que regalos o armas sean convertidas espírios, pero a niveles prácticos, cualquier
-      objeto puede serlo. Un espírio puede llegar a comunicarse con su portador si es lo
-      suficientemente poderoso, de allí que se le conozca como un objeto animado.
+      Objeto animado. Reacciona a una o varias emociones concretas y acciona un
+      <a href="#nodes" class="style-nodes">nodo</a> propio, generalmente único e imposible de
+      reproducir usando otros medios. Forjar un espírio implica forjar una fuerte conexión emocional
+      con un objeto inanimado, y por ello es común que sean regalos de seres queridos o armas de
+      fieles portadores. Un espírio también puede transmitir sus emociones a su portador, y si un
+      lazo es lo suficientemente poderoso, incluso pueden conversar en un lenguaje que solo ellos
+      entienden.
     </p>
     <p>
       Utilizar demasiado un mismo espírio ocasiona desensibilización emocional, debido a que el
@@ -69,35 +75,34 @@ const name = '✳ Ánimo ✳';
     <p>
       Un espírio legendario de dudosa existencia, rumoreado de poseer propiedades curativas
       imposibles de alcanzar por cualquier magia o incluso ciencia, siendo capaz de otorgar desde la
-      cura a cualquier herida o enfermedad hasta la juventud eterna. Los rumores de este espírio
-      fueron particularmente fuertes durante la Era de Conquista, pero documentos que trazan hasta
-      los Años Anteriores hacen imposible trazar una línea hasta su origen.
+      cura a cualquier enfermedad hasta la juventud eterna. Fue especialmente codiciado durante la
+      <a href="#age-of-conquest">Era de Conquista</a>, aunque se especula de su existencia desde los
+      <a href="#former-years">Años Anteriores</a>, evidenciado por documentos ilustrados antiguos.
     </p>
     <h2 id="anima-quartz">~ Cuarzos de ánima</h2>
     <p>
-      Un espírio legendario tan poco visto que normalmente se considera un cuento. Teorizado el más
-      poderoso de su clase, se dice que puede otorgar
-      <span class="style-startrail">estela</span> infinito y la resurrección de los muertos. Está
-      dividido en seis piezas y nadie realmente conoce su potencial como conjunto, sin mencionar que
-      es prácticamente imposible rastrearlas para descubrirlo. Su origen es igualmente misterioso,
-      mas la mención más antigua rastreada tomó lugar durante los primeros siglos de los Años
-      Posteriores.
+      Un espírio legendario fragmentado en seis partes, tan raro que la mayoría lo trata de cuento.
+      Teorizado el más poderoso de su clase, se dice que puede otorgar
+      <span class="style-startrail">estela</span> infinita y la resurrección de
+      <span class="style-anima">ánimas</span> perdidas, pero nadie nunca ha reunido todas sus piezas
+      para saberlo. Su origen es igualmente misterioso, especulado a inicios de los
+      <a href="later-years">Años Posteriores</a>.
     </p>
     <p>
       La verdad desconocida comienza con
       <span class="spoiler">
-        un científico conocido como Neviok Notluf, a partir de sus estudios y teorías del ánimo,
-        construyó una máquina con el propósito de absorber toda la negatividad del mundo y de ese
-        modo detener la guerra que entonces ocurría. Su invento fue exitoso, pero con consecuencias
-        inesperadas: generó una criatura negativa conocida en el presente como La Silueta, que casi
-        llevó a los folia a su extinción. Neviok logró sobrevivir para invertir la polaridad de su
-        creación, efectivamente absorbiendo la positividad del mundo y logrando expiar La Silueta.
-        Los cuarzos de ánima son las partes de un solo orbe negativo que La Silueta dejó atrás </span
+        un científico conocido como Neviok Notluf. Apartir de sus estudios y teorías del ánimo,
+        Neviok construyó una máquina con el propósito de absorber toda la negatividad del mundo, y
+        de ese modo detener la guerra de entonces. Su invento fue exitoso, pero los resultados
+        catastróficos: generó una criatura, conocida en el presente como La Silueta, que casi llevó
+        a los folia a su extinción. Neviok logró sobrevivir, e invirtió la polaridad de su creación,
+        efectivamente absorbiendo la positividad del mundo y logrando expiar La Silueta. Los cuarzos
+        de ánima son las partes de un solo orbe negativo que La Silueta dejó atrás.</span
       >.
     </p>
     <p>
       Cada cuarzo de
-      <span class="style-essence">ánimo</span> otorga sólo uno de los siguientes
+      <span class="style-essence">ánimo</span> otorga solo uno de los siguientes
       <span class="style-nodes">nodos</span> respectivamente:
     </p>
     <ul>
@@ -147,12 +152,12 @@ const name = '✳ Ánimo ✳';
     <h2 id="anillos-septenarios">~ Anillos septenarios</h2>
     <p>
       Espírios cuyo origen tuvo lugar durante los inicios del segundo milenio. Fueron creados con el
-      expreso motivo de proteger las <span class="style-branches">ramas</span>, entonces separados
+      expreso motivo de proteger las <span class="style-branches">ramas</span>, entonces separadas
       por la guerra, de los <span class="style-natur">náturs</span> y meion que rondaban por el
       mundo. Se dio que con el tiempo, las <span class="style-branches">ramas</span> portadoras de
       los anillos dieron lugar a ciudades sumamente importantes para el mundo, y actualmente se
-      consideran un tesoro de buena suerte y extremo valor. Durante la guerra de conquista, Yumemi
-      Rihito logró
+      consideran un tesoro de buena suerte y extremo valor. Durante la guerra de conquista, Jericho
+      Haberlea logró
       <span class="spoiler"
         >robar tres de estos anillos, hasta que los hijos de Arqheid Keyes los recuperaron</span
       >
@@ -169,25 +174,28 @@ const name = '✳ Ánimo ✳';
       ha sido perdido.
     </p>
 
-    <h2 id="orbe-negativo">~ Orbe negativo</h2>
+    <h2 id="negative-orb">~ Orbe negativo</h2>
     <p>
-      Cuando una criatura negativa es expiada, es decir desmaterializada a través del uso de
+      Cuando una <span class="style-umbria">criatura negativa</span> es expiada —desmaterializada a
+      través del uso de
       <span class="style-essence">ánimo</span>
-      en vez de fuerza bruta, deja atrás lo que se conoce como un orbe negativo, que es la
+      en vez de fuerza bruta— deja atrás lo que se conoce como un orbe negativo, que es la
       culminación de los sentimientos que formaron dicha criatura, selladas.
     </p>
     <p>
-      Su apariencia es la de un mineral incrustado en una piedra. El orbe negativo salido de un
-      sombra tiene una forma que asemeja el de un corazón. Si este orbe es roto en manos de una
-      persona, este absorbe la
-      <span class="style-umbria">negatividad</span> que alguna vez formó la criatura negativa; de
-      otra forma simplemente se deshace, haciéndolo imposible de recuperar.
+      Su apariencia es la de un mineral incrustado en una piedra. El orbe negativo salido de una
+      <a href="#shade">sombra</a> tiene una forma que asemeja un corazón. Si dicho orbe se rompe en
+      manos de una persona, esta absorbe la <span class="style-umbria">negatividad</span> que alguna
+      vez formó la
+      <span class="style-umbria"><span class="style-umbria">criatura negativa</span></span
+      >; sino, el orbe simplemente se deshace, haciéndolo imposible de recuperar.
     </p>
     <p>
-      Usualmente son resguardados en edificios o lugares aislados, especialmente por sacerdotes en
-      las capillas que manejan, pero algunas veces la gente se queda los orbes como un recuerdo, en
-      cuyo caso se les instala un dispositivo llamado atrapapesadillas que los destruye si el orbe
-      recibe un daño, en caso de un accidente.
+      Usualmente son resguardados en edificios o lugares aislados, especialmente por exégetas en las
+      capillas que manejan, pero algunas veces la gente se queda los orbes como un recuerdo, en cuyo
+      caso se les instala un dispositivo llamado
+      <a href="#startrail-systems">atrapapesadillas</a> que los destruye si el orbe recibe un daño,
+      en caso de un accidente.
     </p>
 
     <h2 id="chrysalism">~ Crisalismo</h2>
@@ -204,7 +212,7 @@ const name = '✳ Ánimo ✳';
     </p>
     <p>
       Las personas visualmente se ven más como cristales mientras más daño reciben, cual esculturas.
-      “Romper el crisalismo” significa dañar a una persona hasta que este concepto deje de tener
+      «Romper el crisalismo» significa dañar a una persona hasta que este concepto deje de tener
       efecto, dejándolo vulnerable a daños reales, y normalmente, el equivalente de llegar a tal
       punto es matar a dicha persona una vez. Con el tiempo, el crisalismo se regenera, incluso si
       se rompe. Este proceso tarda un día en completarse, y nadie tiene claro de dónde proviene ni

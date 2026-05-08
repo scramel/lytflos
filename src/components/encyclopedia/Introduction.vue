@@ -22,13 +22,13 @@ const name = '✾ Introducción ✾';
       <a href="#caudate" class="style-caudate">caudado</a>, o
       <a href="#flowering" class="style-flowering">florecido</a>. Así nace el término
       <a href="#branches" class="style-branches">rama</a>, y cada uno manipula la
-      <span class="style-startrail">estela</span> de maneras distintivas. En la república de
-      <span class="style-triadia">Triadia</span> cada <span class="style-branches">rama</span> vive
-      en armonía, y juntas la mantienen a salvo tanto de desastres naturales causados por los
-      encantadores aunque ocasionalmente inestables <a href="#natur" class="style-natur">náturs</a>,
-      como de los estragos ocasionados por sombrías criaturas nacientes de la
-      <a href="#essence" class="style-umbria">negatividad</a> en los sentimientos de los seres
-      vivos.
+      <span class="style-startrail">estela</span> de maneras distintivas. En la
+      <a href="#republic-of-triadia">república de <span class="style-triadia">Triadia</span></a>
+      cada <span class="style-branches">rama</span> vive en armonía, y juntas la mantienen a salvo
+      tanto de desastres naturales causados por los encantadores aunque ocasionalmente inestables
+      <a href="#natur" class="style-natur">náturs</a>, como de los estragos ocasionados por sombrías
+      criaturas nacientes de la <a href="#essence" class="style-umbria">negatividad</a> en los
+      sentimientos de los seres vivos.
     </p>
     <h2 id="about">~ Acerca de</h2>
     <p>
@@ -85,7 +85,7 @@ const name = '✾ Introducción ✾';
         <span class="style-folia style-folia--game">Folia</span> por sí solos (ej. venta de la banda
         sonora).
       </li>
-      <li>¡¿Hace dormir al público?!</li>
+      <li>¡¿Es mid?!</li>
     </ul>
     <p>
       Estas pautas pueden recibir cambios si lo considero necesario, incluso sin previo aviso. Todo

@@ -43,25 +43,25 @@ const name = '❂ Cosmos ❂';
       Estrella/Sol Skyseed Luna Skyseed apagada Cometa Skyseed huérfana
     </p>
     <p>
-      Es válido que los <span class="style-folia">folia</span> utilicen palabras como “universo”,
-      “galaxia”, “nebulosa”, etc., para referirse a sus respectivos objetos astronómicos, tomando en
+      Es válido que los <span class="style-folia">folia</span> utilicen palabras como «universo»,
+      «galaxia», «nebulosa», etc., para referirse a sus respectivos objetos astronómicos, tomando en
       cuenta las siguientes pautas:
     </p>
     <ul>
       <li>
-        <p><b>“Planeta”:</b> nunca usar para referirse a un níblom, ej.: “el planeta Lytflos”.</p>
+        <p><b>«Planeta»:</b> nunca usar para referirse a un níblom, ej.: «el planeta Lytflos».</p>
       </li>
       <li>
-        <p><b>“Estrella”:</b> preferiblemente usar para referirse a una skyseed distante.</p>
+        <p><b>«Estrella»:</b> preferiblemente usar para referirse a una skyseed distante.</p>
       </li>
       <li>
         <p>
-          <b>“Sol”:</b> skyseed de un níblom, ej.: “Lytflos tenía tres soles”. Usar escasamente.
+          <b>«Sol»:</b> skyseed de un níblom, ej.: «Lytflos tiene tres soles». Usar escasamente.
         </p>
       </li>
       <li>
         <p>
-          <b>”Luna”:</b>skyseed apagada o muerta que aún está unida a su níblom. Usar escasamente.
+          <b>»Luna»:</b> skyseed apagada o muerta que aún está unida a su níblom. Usar escasamente.
         </p>
       </li>
     </ul>
@@ -75,8 +75,8 @@ const name = '❂ Cosmos ❂';
       <span class="style-lytflos">Lytflos</span> comprende años de 300 días divididos
       equitativamente entre 10 meses, donde cada día dura 30 horas. Los 30 días que conforman cada
       mes son divididos entre semanas de 6 días, y como resultado, cada mes tiene 5 semanas. Los
-      meses no tienen nombres, por lo que para especificarlos, deben ser enumerados. Ej.: “el 27 del
-      séptimo mes” o “7mo mes”.
+      meses no tienen nombres, por lo que para especificarlos, deben ser enumerados. Ej.: «el 27 del
+      séptimo mes» o «7mo mes».
     </p>
     <p>
       Los últimos dos días de la semana son no-laborables, y a diferencia de los meses, estos sí

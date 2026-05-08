@@ -141,9 +141,9 @@ const name = '❦ Criaturas ❦';
       A niveles prácticos, esta criatura puede tomar cualquier forma que desee, por lo que la lista
       previa representa solamente las formas más comunes. En cuanto a las quimeras, al dos meion
       fusionarse, toman las características de sus apariencias originales y se combinan. Si un meion
-      quimérico lleva a cabo demasiadas fusiones, este pasa a ser un meion dracónico.
+      quimérico lleva a cabo demasiadas fusiones, este pasa a ser un meion dracolia.
     </p>
-    <h2 id="draconequus">~ Dracolia</h2>
+    <h2 id="dracolia">~ Dracolia</h2>
     <p>
       El resultado de demasiados meion fusionados en un solo cuerpo. Su representación gráfica suele
       ser una criatura cuyas partes se parecen a las de al menos diez animales distintos. Son
@@ -167,7 +167,7 @@ const name = '❦ Criaturas ❦';
     <p>
       Teóricamente, justo como los meion se transforman cada vez más mientras más se combinan, algo
       similar puede pasar con los elos también, pero como los segundos tienden a ser independientes,
-      no existe un caso conocido de un “sombra dracónico”.
+      no existe un caso conocido de un «sombra dracolia».
     </p>
     <h2 id="natur">~ Nátur</h2>
     <p>
@@ -186,15 +186,16 @@ const name = '❦ Criaturas ❦';
     </p>
     <p>
       Cuando se fusionan con un <span class="style-folia">folia</span>, este recibe los poderes del
-      nátur y la intuición necesaria para manejarlos. No es posible forzar una fusión, sino que el
-      nátur decide cuándo realizarlo. No está claro cómo nacen, si se reproducen, si la naturaleza
-      es originada por los náturs, o si los náturs originan de la naturaleza. Por alguna razón, las
-      criaturas negativas les temen bastante.
+      <span class="style-natur">nátur</span> y la intuición necesaria para manejarlos. No es posible
+      forzar una fusión, sino que el <span class="style-natur">nátur</span> decide cuándo
+      realizarlo. No está claro cómo nacen, si se reproducen, si la naturaleza es originada por los
+      <span class="style-natur">náturs</span>, o si los náturs originan de la naturaleza. Por alguna
+      razón, las <span class="style-umbria">criaturas negativas</span> les temen bastante.
     </p>
     <p>
-      El aspecto de un nátur cambia si tiene más poder e influencia por sobre el terreno, proceso
-      que se conoce como evolución, y vuelve al aspecto que tenía anteriormente si pierde dicho
-      poder.
+      El aspecto de un <span class="style-natur">nátur</span> cambia si tiene más poder e influencia
+      por sobre el terreno, proceso que se conoce como evolución, y vuelve al aspecto que tenía
+      anteriormente si pierde dicho poder.
     </p>
     <h2 id="thamo">~ Thámo</h2>
     <p>

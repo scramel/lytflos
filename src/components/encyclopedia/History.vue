@@ -12,7 +12,7 @@ const name = '🕮 Historia 🕮';
         <p>
           <b>Años Anteriores</b> (Pasado ~ Día 0): La civilización antes del evento que casi trae la
           extinción de los folia al mundo. Una civilización urbana y muy tecnológicamente avanzada
-          en comparación al presente. Sólo se puede aprender de este período a través de estudiar
+          en comparación al presente. solo se puede aprender de este período a través de estudiar
           las ciudades perdidas.
         </p>
       </li>
@@ -53,13 +53,13 @@ const name = '🕮 Historia 🕮';
     </p>
     <p>
       Al ser en cuestión se le nombró La Silueta, y en la modernidad se teoriza que se trató de
-      algún especie de criatura negativa, por ejemplo una sombra, con poderes de magnitudes
-      apocalípticas. Las pocas ciudades que no fueron completamente desaparecidas ahora se les
-      conocen como ciudades perdidas, y
+      algún especie de <span class="style-umbria">criatura negativa</span>, por ejemplo una sombra,
+      con poderes de magnitudes apocalípticas. Las pocas ciudades que no fueron completamente
+      desaparecidas ahora se les conocen como ciudades perdidas, y
       <span class="style-triadia">Triadia</span> busca transformarlas en localizaciones seguras y
       aptas de ser pobladas por folia. El calendario de
-      <span class="style-lytflos">Lytflos</span> comienza aquí, siendo este el único año con un “día
-      0”, de allí que también se conozca el suceso con dicho nombre.
+      <span class="style-lytflos">Lytflos</span> comienza aquí, siendo este el único año con un «día
+      0», de allí que también se conozca el suceso con dicho nombre.
     </p>
     <h2 id="later-years">~ Años Posteriores</h2>
     <h3 id="first-millenium">- Primer milenio</h3>
@@ -81,7 +81,7 @@ const name = '🕮 Historia 🕮';
       Siempre existieron las ramas, pero sus diferencias empezaron a volverse más pronunciadas a
       partir del segundo milenio. Los alados empezaron a entender náturs intuitivamente, los
       caudados desarrollaban cada vez más glifos, y los florecidos tenían un mejor entendimiento de
-      las criaturas negativas que los demás.
+      las <span class="style-umbria">criaturas negativas</span> que los demás.
     </p>
     <p>
       Y bien que fue un buen momento para desarrollar dichas habilidades, puesto que durante el
@@ -92,13 +92,13 @@ const name = '🕮 Historia 🕮';
       donde buscaban marcar sus territorios, y diversos enfrentamientos se libraron entre ellos.
     </p>
     <p>
-      Fueron tiempos muy difíciles en los que vivir, y esto alentó a las criaturas negativas a
-      multiplicarse y expandirse. Para entonces los expiadores no existían, por lo que primero eran
-      divisados con la intuición de los florecidos, y luego destruídos con fuerza bruta. Tal proceso
-      solamente les dio paz breve, puesto que no tardaban en aparecer nuevamente. La inestabilidad
-      del mundo conllevó a forjar los anillos septenarios, espírios de sumamente gran poder hechos
-      con el fin de proteger los folia, con la ayuda de un dispositivo antiguo aparentemente capaz
-      de generar ánimo.
+      Fueron tiempos muy difíciles en los que vivir, y esto alentó a las
+      <span class="style-umbria">criaturas negativas</span> a multiplicarse y expandirse. Para
+      entonces los expiadores no existían, por lo que primero eran divisados con la intuición de los
+      florecidos, y luego destruídos con fuerza bruta. Tal proceso solamente les dio paz breve,
+      puesto que no tardaban en aparecer nuevamente. La inestabilidad del mundo conllevó a forjar
+      los anillos septenarios, espírios de sumamente gran poder hechos con el fin de proteger los
+      folia, con la ayuda de un dispositivo antiguo aparentemente capaz de generar ánimo.
     </p>
     <p>
       Los caudados también tuvieron un rol muy importante. Dados diversos desastres naturales se
@@ -158,17 +158,18 @@ const name = '🕮 Historia 🕮';
     <p>
       Fue entonces cuando las ramas descubrieron sus debilidades y ventajas naturales: los alados
       tienen ventaja sobre los florecidos, los florecidos por sobre los caudados, y los caudados
-      sobre los alados, creando una dinámica similar al “piedra, papel, o tijeras”. Este
+      sobre los alados, creando una dinámica similar al «piedra, papel, o tijeras”. Este
       descubrimiento dio lugar a un círculo vicioso bastante ridículo, donde un mismo territorio era
       conquistado una y otra vez por cada rama en el orden de sus debilidades, en un ciclo
       potencialmente infinito dado que nunca se daban muertes verdaderamente.
     </p>
     <p>
-      A su vez, la guerra generó una cantidad exorbitante de criaturas negativas, y estos, a
-      diferencia de los soldados, no tenían escrúpulos en causar bajas. Esto ocasionó las primeras
-      traiciones a las reglas: casos de asesinatos de personas importantes, algunos incluso en
-      lugares guardados en secreto para las demás ramas, generó más desconfianza, discordia, y
-      alentó a continuar traicionando las reglas.
+      A su vez, la guerra generó una cantidad exorbitante de
+      <span class="style-umbria">criaturas negativas</span>, y estos, a diferencia de los soldados,
+      no tenían escrúpulos en causar bajas. Esto ocasionó las primeras traiciones a las reglas:
+      casos de asesinatos de personas importantes, algunos incluso en lugares guardados en secreto
+      para las demás ramas, generó más desconfianza, discordia, y alentó a continuar traicionando
+      las reglas.
     </p>
     <h4 id="rerecros-tyrany">2629: Tiranía de Rérecros</h4>
     <p>
@@ -177,10 +178,10 @@ const name = '🕮 Historia 🕮';
       <span class="spoiler"> y amigo de la infancia de Arthe</span>, se convirtió en una figura muy
       importante en la historia por representar el desacuerdo civil por llegar a tales extremos. Sin
       embargo, otras figuras tomaron la palabra de Arthe, y realizaron crímenes que pesaron en la
-      mente de Keyes y sus aliados. Particularmente, un caudado conocido como Yumemi Rihito pasó a
-      la historia como uno de los soldados más violentos durante la Era de Conquista. Rérecros
-      declaró a Keyes un traidor, y fue a partir de este punto que su gobierno empezó a llamarse
-      tiranía.
+      mente de Keyes y sus aliados. Particularmente, un caudado conocido como Jericho R. Haberlea
+      pasó a la historia como uno de los soldados más violentos durante la Era de Conquista.
+      Rérecros declaró a Keyes un traidor, y fue a partir de este punto que su gobierno empezó a
+      llamarse tiranía.
     </p>
     <p>
       Nevhea, por su lado, siempre reprobó el asesinato, y ordenó sus tropas a retirarse si sus
@@ -225,11 +226,11 @@ const name = '🕮 Historia 🕮';
     <p>
       Para este punto, ninguno de los representantes quería extender la guerra. Sin la influencia de
       Arthe y Nelfal, las ramas finalmente pudieron llegar a un acuerdo, pero cuando todo parecía
-      llegar a un fin, un mal se hace sentir: criaturas negativas, resultante de la violencia, ira,
-      y tristezas causadas. Ahora aliados, las ramas buscaron erradicar la negatividad, pero esta
-      volvía constantemente incluso si era exterminada. Delion Keyes, Tani Prigemo, e Iricontes
-      Pelistcia fueron los erradicadores más importantes de este tiempo, capaces de hacer frente a
-      meion dracónicos.
+      llegar a un fin, un mal se hace sentir: <span class="style-umbria">criaturas negativas</span>,
+      resultante de la violencia, ira, y tristezas causadas. Ahora aliados, las ramas buscaron
+      erradicar la negatividad, pero esta volvía constantemente incluso si era exterminada. Delion
+      Keyes, Tani Prigemo, e Iricontes Pelistcia fueron los erradicadores más importantes de este
+      tiempo, capaces de hacer frente a meion dracolias.
     </p>
     <h4 id="faustiel-doctrine">2634: Doctrina de Faustiel</h4>
     <p>
@@ -247,15 +248,17 @@ const name = '🕮 Historia 🕮';
       El hecho dio lugar a una verdad quintaesencial: los alados son necesarios para calmar a los
       náturs y superar los desastres naturales, a los caudados se les necesita para mutar la tierra
       y permitir a la naturaleza crecer incluso en los tiempos más áridos, y los florecidos son la
-      llave para evitar las criaturas negativas con su afinidad espiritual. Todos los folia deben
-      coexistir en armonía para vivir en paz.
+      llave para evitar las <span class="style-umbria">criaturas negativas</span> con su afinidad
+      espiritual. Todos los folia deben coexistir en armonía para vivir en paz.
     </p>
     <p>
-      Los alados aprendieron a emplear náturs contra criaturas negativas, mientras que los
-      florecidos fueron enseñados a detectar poseídos y evitar que su condición escale. Los caudados
-      se enfocaron en terraformar diversas zonas para asegurar más folia y aumentar la efectividad
-      contra criaturas negativas. El trabajo en conjunción fue clave para dar fin a la plaga, y las
-      personas especializadas en este trabajo fueron denominadas expiadores.
+      Los alados aprendieron a emplear náturs contra
+      <span class="style-umbria">criaturas negativas</span>, mientras que los florecidos fueron
+      enseñados a detectar <span class="style-crooked">plagados</span> y evitar que su condición
+      escale. Los caudados se enfocaron en terraformar diversas zonas para asegurar más folia y
+      aumentar la efectividad contra <span class="style-umbria">criaturas negativas</span>. El
+      trabajo en conjunción fue clave para dar fin a la plaga, y las personas especializadas en este
+      trabajo fueron denominadas expiadores.
     </p>
     <h4 id="foundation-of-triadia">~ 2635: Fundación de Triadia</h4>
     <p>

@@ -18,7 +18,7 @@
   --color-pure-startrail: #ffff14;
   --color-stellar-phenomena: var(--color-pure-startrail);
   --color-startrail-systems: var(--color-pure-startrail);
-  --color-iris-fragments: var(--color-pure-startrail);
+  --color-iris-fragments: #e8b8ff;
   --color-golden-bubbles: var(--color-pure-startrail);
   /* branch roots */
   --color-pollen: var(--color-flowering);
@@ -29,8 +29,10 @@
   --color-solar-wings: var(--color-winged);
   /* creatures */
   --color-lucero: #04f49e;
-  --color-umbria: #ff035e;
+  --color-umbria: #ff0000;
   --color-natur: #04f49e;
+  --color-anima: #ffffaa;
+  // plagados = blighted
   --color-crooked: #ff0000;
 }
 
@@ -116,6 +118,18 @@
 .style-umbria {
   color: var(--color-umbria);
   text-decoration-color: var(--color-umbria);
+}
+.style-crooked {
+  color: var(--color-crooked);
+  text-decoration-color: var(--color-crooked);
+}
+.style-lucero {
+  color: var(--color-lucero);
+  text-decoration-color: var(--color-lucero);
+}
+.style-anima {
+  color: var(--color-anima);
+  text-decoration-color: var(--color-anima);
 }
 .style-nodes {
   color: var(--color-nodes);

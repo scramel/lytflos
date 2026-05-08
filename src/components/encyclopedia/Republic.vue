@@ -26,7 +26,7 @@ const name = '⛿ República ⛿';
     </p>
     <h2 id="artids">~ Artids 🏛</h2>
     <p>
-      Del frisio eartiids (lit. “antes”), es la primera ciudad descubierta en decente estado después
+      Del frisio eartiids (lit. «antes»), es la primera ciudad descubierta en decente estado después
       del Día de la Expiación. Aquí se ha encontrado la mayor información acerca del pasado del
       mundo y se estudia el funcionamiento de la tecnología. Si un dispositivo es considerado dañino
       a la naturaleza, su metal es reutilizado para reconstruir la misma ciudad, y de otra forma es
@@ -37,9 +37,9 @@ const name = '⛿ República ⛿';
       Recientemente se ha abierto Artids al público para ser poblada, la cual la convierte en la
       séptima ciudad de
       <span class="style-triadia">Triadia</span> , pero aún existen zonas peligrosas y prohibidas a
-      las que solo es permitido ir con la compañía de un arqueólogo o un expiador. Una sede de Ikaki
-      solía funcionar aquí, pero en el presente sus funciones han sido suspendidas y el edificio ha
-      sido convertido en un almacén.
+      las que solo es permitido ir con la compañía de un arqueólogo o un expiador. Una sede de
+      Tipo-II solía funcionar aquí, pero en el presente sus funciones han sido suspendidas y el
+      edificio ha sido convertido en un almacén.
     </p>
     <b>Habitantes:</b>
     <ul>
@@ -48,14 +48,14 @@ const name = '⛿ República ⛿';
     <b>Localizaciones:</b>
     <ul>
       <li
-        v-for="name in ['Garage de Ikaki', 'Zona residencial abandonada', 'Taller Ibelle'].sort()"
+        v-for="name in ['Garage de Tipo-II', 'Zona residencial abandonada', 'Taller Ibelle'].sort()"
       >
         {{ name }}
       </li>
     </ul>
     <h2 id="livadi">~ Caminos de Livádi</h2>
     <p>
-      Del griego λιβάδι (livádi, lit. “prado”), se trata de un gigantesco campo cuyo centro tiene
+      Del griego λιβάδι (livádi, lit. «prado»), se trata de un gigantesco campo cuyo centro tiene
       una inmensa cama flores, ubicado cerca del centro de
       <span class="style-triadia">Triadia</span> . Desde Livádi se puede llegar a cualquiera de las
       Siete Ciudades a pie, aunque el viaje tomaría días. Aquí se libró la última batalla de la Era
@@ -86,7 +86,7 @@ const name = '⛿ República ⛿';
     </ul>
     <h2 id="dasodis">~ Dassódils 🏛</h2>
     <p>
-      Proveniente del griego δασώδης (Dassódils, lit. “arbolado”), esta ciudad es una de las más
+      Proveniente del griego δασώδης (Dassódils, lit. «arbolado»), esta ciudad es una de las más
       importantes del mundo, pues aquí crece y se produce la mayoría de las flores y té del mundo
       para ser exportados a otras ciudades. Conocido también por sus especialistas talentosos y
       especialmente la familia Ōrora, progenitores de la transmutación, sembradores del árbol
@@ -181,8 +181,8 @@ const name = '⛿ República ⛿';
     <h2 id="dendron-express">~ Expreso Dendrón</h2>
     <p>
       También conocido como solamente Dendrón, es un sistema ferroviario que conecta con todas las
-      ciudades de <span class="style-triadia">Triadia</span> . Fue construído por Ikaki usando nada
-      más que sistemas estela, lo cual le permite funcionar exclusivamente a base de estela sin
+      ciudades de <span class="style-triadia">Triadia</span> . Fue construído por Tipo-II usando
+      nada más que sistemas estela, lo cual le permite funcionar exclusivamente a base de estela sin
       necesidad de generar energía eléctrica. En el presente es mayormente ignorado a favor de las
       plataformas transmutadoras.
     </p>
@@ -196,7 +196,7 @@ const name = '⛿ República ⛿';
 
     <h2 id="fteryon">~ Ftéryon 🏛</h2>
     <p>
-      Del griego φτερωτός (fterotós, lit. “plumados”), es un conjunto de islas flotantes al norte de
+      Del griego φτερωτός (fterotós, lit. «plumados»), es un conjunto de islas flotantes al norte de
       <span class="style-triadia">Triadia</span> que se han envuelto en concreto para dar lugar a la
       ciudad de los alados. El peso del concreto ha superado la capacidad de las islas, por lo que
       un gran motor que mueve alas giratorias en el fondo de las mismas han sido instalados. Aquí
@@ -312,9 +312,9 @@ const name = '⛿ República ⛿';
     </ul>
     <h2 id="pteryon">~ Ptéryon 🏛</h2>
     <p>
-      Del griego πτερύγιο (pterýgio, lit. “aleta”), es una ciudad submarina que resultó de la
+      Del griego πτερύγιο (pterýgio, lit. «aleta»), es una ciudad submarina que resultó de la
       destrucción ocurrida en el Día de la Expiación. Los alados acuáticos, o en todo caso
-      “aletados”, lo encontraron como un lugar perfecto para refugiarse durante la Era de Conquista,
+      «aletados», lo encontraron como un lugar perfecto para refugiarse durante la Era de Conquista,
       y con el pasar de los años se ha convertido de ruinas a una ciudad bien cuidada por quienes lo
       habitan.
     </p>
@@ -351,7 +351,7 @@ const name = '⛿ República ⛿';
     <p>
       Se dice que la sangre de los mejores caudados reside en esta ciudad. Entre otras cosas, la
       Torre del CERT, donde se entrenan los mejores expiadores del mundo, se encuentra en esta
-      ciudad. También están la sede principal de Ikaki, actualmente inactiva, y el Instituto de
+      ciudad. También están la sede principal de Tipo-II, actualmente inactiva, y el Instituto de
       Investigación de
       <span class="style-dendrites">Raíces Dendríticas</span> de Rérecros, o sencillamente Instituto
       Rérecros, donde suelen ocurrir los avances más destacados en el campo.
@@ -381,7 +381,7 @@ const name = '⛿ República ⛿';
     </p>
     <h2 id="lykofos">~ Villa Lykófos</h2>
     <p>
-      Proveniente del griego λυκόφως (lykófos, lit. “crepúsculo”), una humilde villa en los límites
+      Proveniente del griego λυκόφως (lykófos, lit. «crepúsculo»), una humilde villa en los límites
       del sureste, ubicado al final de los gigantescos planos y caminos de Livádi. De estética
       rural, con una gran densidad de animales y aún mayor de cultivos. Es considerado un símbolo de
       paz en la historia del mundo. Paxion se encuentra aquí: una granja de frutas pasionarias que
@@ -403,7 +403,7 @@ const name = '⛿ República ⛿';
     </p>
     <h2 id="yperos">~ Ýperos 🏛</h2>
     <p>
-      Derivado de ύπερος άνθους (ýperos ánthous, lit. “pistilo”). La capital de
+      Derivado de ύπερος άνθους (ýperos ánthous, lit. «pistilo»). La capital de
       <span class="style-triadia">Triadia</span> , una gigantesca ciudad que se encuentra cerca de
       Livádi, a su noroeste. Se le reconoce por sus grandes edificios, vehículos, y sistemas estela
       a base de engranajes cuya estética es muy steampunk. Un lugar caro donde vivir.

@@ -25,7 +25,7 @@ const name = '🙒 Cultura 🙒';
       romántico y, aunque también es alentado, no es el foco principal.
     </p>
     <p>
-      Si alguien no sabe la razón por la que el “día más cálido” es tan frío, es tradición ocultarle
+      Si alguien no sabe la razón por la que el «día más cálido» es tan frío, es tradición ocultarle
       la razón hasta que lo descubre.
     </p>
     <h3 id="prologue-epilogue">- Prólogo/Epílogo</h3>
@@ -103,7 +103,7 @@ const name = '🙒 Cultura 🙒';
     <ul>
       <li>
         <p>
-          <b>"Silente:"</b> ladrón y traficante de espírios, con un talento indescriptible para
+          <b>«Silente:»</b> ladrón y traficante de espírios, con un talento indescriptible para
           encontrarlos. Logró infiltrarse en el Hogar de Ýperos y llevarse varios objetos, entre
           ellos un espírio de Faustiely Arisa. No hay pistas de su identidad. Se busca.
         </p>
@@ -111,8 +111,8 @@ const name = '🙒 Cultura 🙒';
       <li>
         <p>
           <b>Ganriki Ciezel:</b> se ha mantenido encerrado por años en el Subsuelo de Abbso, y se
-          trata de un poseído al que hasta el día de hoy no se le ha podido expiar. Completamente
-          inestable y errático. Peligro de muerte.
+          trata de un <span class="style-crooked">plagado</span> al que hasta el día de hoy no se le
+          ha podido expiar. Completamente inestable y errático. Peligro de muerte.
         </p>
       </li>
       <li>
@@ -183,31 +183,30 @@ const name = '🙒 Cultura 🙒';
     </p>
     <h3 id="expiators">- Expiadores</h3>
     <p>
-      Personas especializadas en evitar y neutralizar criaturas negativas, aunque también pueden
-      hacerse cargo de criaturas salvajes. Normalmente son florecidos debido a su afinidad
-      espiritual. Son altamente adaptables en diversas situaciones de tensión, por lo que es común
-      verles tomar otros roles además de expiar. Suelen tener un fuerte sentido de la moral y la
-      justicia.
+      Personas especializadas en evitar y neutralizar
+      <span class="style-umbria">criaturas negativas</span>, aunque también pueden hacerse cargo de
+      criaturas salvajes. Normalmente son florecidos debido a su afinidad espiritual. Son altamente
+      adaptables en diversas situaciones de tensión, por lo que es común verles tomar otros roles
+      además de expiar. Suelen tener un fuerte sentido de la moral y la justicia.
     </p>
     <p>
       Los expiadores trabajan directamente para el gobierno a menos que se trate de expiadores
       independientes, en cual caso trabajan por comisiones y no como puesto fijo. El gobierno provee
-      el espacio de trabajo, conocido como capilla, administrado por los sacerdotes, quienes se
-      encargan de despachar los expiadores que supervisan y de tomar decisiones en casos de
-      emergencia.
+      los espacios de trabajo, las capillas, administradas por los exégetas, quienes se encargan de
+      despachar los expiadores que supervisan y de tomar decisiones en casos de emergencia.
     </p>
     <h3 id="dendron-express">- Expreso Dendrón</h3>
     <p>
       El ferrocarril que conecta con las siete ciudades de
-      <span class="style-triadia">Triadia</span> . Producido por Ikaki, fue exitoso debido a su
+      <span class="style-triadia">Triadia</span> . Producido por Tipo-II, fue exitoso debido a su
       ingenioso sistema estela, combinado con la necesidad de transporte que existía entonces, y las
       hermosas vistas de su viaje. Es prácticamente un símbolo cultural en el presente pese a no ser
       usado en la actualidad debido a la preferencia por las plataformas transmutadoras.
     </p>
     <h3 id="run-away-from-the-fux">- Huye del zorro</h3>
     <p>
-      Un juego de persecución donde un jugador toma el rol de “zorro” y este tiene que alcanzar a
-      las “presas” que se dispersan al inicio de la ronda. Las presas que hayan sido alcanzadas
+      Un juego de persecución donde un jugador toma el rol de «zorro» y este tiene que alcanzar a
+      las «presas» que se dispersan al inicio de la ronda. Las presas que hayan sido alcanzadas
       quedan fuera del juego. El zorro gana si atrapa la mitad de las presas, y pierde si la mitad
       de las presas logran reunirse entre sí.
     </p>
@@ -237,27 +236,28 @@ const name = '🙒 Cultura 🙒';
     </p>
     <p>
       La utilidad y éxito de este invento ha sido tal que es considerado uno de los logros más
-      importantes en la historia del mundo, y que resultó en la casi bancarrota de Ikaki, cuyos
+      importantes en la historia del mundo, y que resultó en la casi bancarrota de Tipo-II, cuyos
       principales ingresos provenían del transporte por ferrocarril y dirigibles.
     </p>
     <h3 id="religion">- Religión</h3>
     <p>
       La mayoría de los folia son panteístas, es decir que ven al universo mismo como una
       manifestación divina, y por lo tanto buscan preservar su belleza a través de la armonía.
-      Cuando los folia hablan del “cosmos”, suelen referirse a esta visión de la divinidad. También
+      Cuando los folia hablan del «cosmos», suelen referirse a esta visión de la divinidad. También
       existe una minoría: folia ateos, que afirman la ausencia de divinidad a partir de pensar que
       asumir el todo como divino lo renderiza mundano, lo cual implica la falta de una belleza
       innata que preservar.
     </p>
     <p>
-      Una criatura negativa suficientemente poderosa puede desarrollar habilidades antinaturales, y
-      por lo tanto se consideran antiteísta: ir en contra de la naturaleza es ir en contra del
-      cosmos en sí mismo. Paralelamente, la amistad y el amor entre las personas se considera parte
-      del panteísmo, y por ello es tratado como una práctica quintaesencial. Según Faustiely,
-      empatizar con criaturas negativas es también una práctica panteísta porque sigue el principio
-      de buscar la armonía con el cosmos, lo cual algunos podrían considerar contradictorio o
-      antintuitivo. Los expiadores, especialmente aquellos asociados a la república, normalmente
-      siguen la doctrina de Faustiely para llevar a cabo su trabajo.
+      Una <span class="style-umbria">criatura negativa</span> suficientemente poderosa puede
+      desarrollar habilidades antinaturales, y por lo tanto se consideran antiteísta: ir en contra
+      de la naturaleza es ir en contra del cosmos en sí mismo. Paralelamente, la amistad y el amor
+      entre las personas se considera parte del panteísmo, y por ello es tratado como una práctica
+      quintaesencial. Según Faustiely, empatizar con
+      <span class="style-umbria">criaturas negativas</span> es también una práctica panteísta porque
+      sigue el principio de buscar la armonía con el cosmos, lo cual algunos podrían considerar
+      contradictorio o antintuitivo. Los expiadores, especialmente aquellos asociados a la
+      república, normalmente siguen la doctrina de Faustiely para llevar a cabo su trabajo.
     </p>
     <p>
       Aunque no es imposible la existencia de folia que practiquen el teísmo clásico o incluso el
@@ -279,11 +279,12 @@ const name = '🙒 Cultura 🙒';
     </p>
     <h3 id="crooked">- Torcidos</h3>
     <p>
-      Una expresión coloquial para referirse a folia cuyo actuar es propio de un poseído, pero que
-      en realidad no guardan negatividad alguna debido a su ausencia emocional. Se le asocia a la
-      psicopatía. Menos comúnmente también se usa el término para describir folia que generan
-      negatividad a partir de cosas consideradas neutrales o incluso positivas. La expresión nació
-      durante la Era de Conquista; entonces tenía connotaciones gravemente ofensivas.
+      Una expresión coloquial para referirse a folia cuyo actuar es propio de un
+      <span class="style-crooked">plagado</span>, pero que en realidad no guardan negatividad alguna
+      debido a su ausencia emocional. Se le asocia a la psicopatía. Menos comúnmente también se usa
+      el término para describir folia que generan negatividad a partir de cosas consideradas
+      neutrales o incluso positivas. La expresión nació durante la Era de Conquista; entonces tenía
+      connotaciones gravemente ofensivas.
     </p>
     <h3 id="vagabonds">- Vagantes</h3>
     <p>
@@ -297,7 +298,7 @@ const name = '🙒 Cultura 🙒';
       Dado que entonces la confianza entre las ramas era poca, los vagantes decidieron explorar
       tierras desconocidas hasta encontrar un nuevo refugio. Dos Ōrora fueron considerados los
       líderes de la expedición, la destinación acabó por ser las cercanías del estambre que sostiene
-      Estýlar, y por su brillo dorado, a su nuevo hogar decidieron nombrarla “villa crepuscular”,
+      Estýlar, y por su brillo dorado, a su nuevo hogar decidieron nombrarla «villa crepuscular»,
       ahora Lykófos.
     </p>
   </section>
