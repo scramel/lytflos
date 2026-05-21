@@ -1,28 +1,39 @@
 <script setup>
-const name = '⛿ República ⛿';
+const name = '⛿ Triadia ⛿';
 </script>
 
 <template>
-  <section id="section-republic">
-    <h1 id="republic" :name="name">{{ name }}</h1>
+  <section id="section-triadia">
+    <h1 id="triadia" :name="name">{{ name }}</h1>
     <hr />
     <p>
-      La República de <span class="style-triadia">Triadia</span> se refiere al territorio que ocupa
-      dicho gobierno en <span class="style-lytflos">Lytflos</span>. No existen divisiones
-      continentales o fronteras entre países, ya que la república es el único gobierno existente.
-      Este gobierno, y la población del mundo en general, se toma muy en serio el cuidado de la
-      naturaleza y los animales.
+      La <b>Ecocracia de <span class="style-triadia">Triadia</span></b> es el gobierno más
+      importante y grande de <a href="#cosmos" class="style-lytflos">Lytflos</a>. Es dirigido por
+      cuatro representantes —uno por cada <span class="style-branches">rama</span> y uno para su
+      armonía—, seleccionados por sus méritos y luego elegidos democráticamente a través del sistema
+      <a href="https://es.wikipedia.org/wiki/Voto_%C3%BAnico_transferible">VUT</a>, que toman
+      decisiones ejecutivas tomando en cuenta los intereses de los
+      <span class="style-folia">folia</span>, el equilibrio entre sus
+      <span class="style-branches">ramas</span>, su protección, y el cuidado de la naturaleza.
     </p>
     <p>
-      La república está conformada por siete ciudades principales: Artids, Ftéryon, Dassódils,
-      Érimos, Ptéryon, Rérecros, e Ýperos, todas administradas por alcaldes y con numerosos pueblos
-      y villas que las conforman. Aunque el expreso dendrón conecta con todas las ciudades, el mismo
-      está a punto de abandonar sus funciones a favor de las plataformas transmutadoras.
+      La ecocracia está conformada por siete grandes ciudades: Artids, Ftéryon, Dassódils, Érimos,
+      Ptéryon, Rérecros, e Ýperos, todas administradas por alcaldes y con numerosos pueblos y villas
+      que las conforman. Cada ciudad funciona mayormente de forma autónoma y comunitaria; la
+      ecocracia provee una estructura económica y social sin buscar homogenizar todo su territorio,
+      por lo que culturamente varían enormemente unas de otras.
     </p>
     <p>
-      También existen territorios inexplorados que los habitantes de
-      <span class="style-triadia">Triadia</span> desean estudiar y repoblar. Estos no cuentan como
-      parte de la república.
+      Para traversar de una ciudad a otra se utilizan
+      <a href="#transmutation-platforms">plataformas transmutadoras</a>, lo cual facilita a los
+      <span class="style-folia">folia</span> viajar o incluso trabajar entre regiones sin
+      preocuparse por largas distancias. El <a href="#dendron-express">expreso dendrón</a> también
+      conecta todas las ciudades, pero este está a punto de abandonar sus funciones a favor de las
+      plataformas.
+    </p>
+    <p>
+      Los sitios inexplorados de
+      <span class="style-lytflos">Lytflos</span> no son parte de la ecocracia.
     </p>
     <h2 id="artids">~ Artids 🏛</h2>
     <p>
@@ -106,7 +117,7 @@ const name = '⛿ República ⛿';
       Por desgracia, esta ciudad es también conocida por ser el lugar donde ocurrió la Masacre de
       Dassódils, un incidente donde decenas de pacientes del Hospital Doshi fueron asesinados. La
       naturaleza misteriosa y sangrienta del caso trajo mucha conmoción y llevó a las personas a
-      cuestionar la seguridad de la república.
+      cuestionar la seguridad de la ecocracia.
     </p>
     <b>Habitantes:</b>
     <ul>
@@ -411,7 +422,7 @@ const name = '⛿ República ⛿';
     <p>
       Ýperos es hogar de muchos edificios importantes, algunos incluso de valor histórico: el Hogar
       de Ýperos, donde ocurren las actividades administrativas de los Representantes de la
-      República; la Universidad Central de <span class="style-triadia">Triadia</span> , donde se han
+      Ecocracia; la Universidad Central de <span class="style-triadia">Triadia</span> , donde se han
       graduado numerosos estudiosos históricos; la Estación Estelar Central, donde se procesa la
       estela y se distribuye al mundo en vaterías; el Centro Espejismo, lugar donde se administran
       las comunicaciones a distancia; y muchos otros lugares de valor más turístico y que las

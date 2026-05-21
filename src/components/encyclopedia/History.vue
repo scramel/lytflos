@@ -179,9 +179,8 @@ const name = '🕮 Historia 🕮';
       importante en la historia por representar el desacuerdo civil por llegar a tales extremos. Sin
       embargo, otras figuras tomaron la palabra de Arthe, y realizaron crímenes que pesaron en la
       mente de Keyes y sus aliados. Particularmente, un caudado conocido como Jericho R. Haberlea
-      pasó a la historia como uno de los soldados más violentos durante la Era de Conquista.
-      Rérecros declaró a Keyes un traidor, y fue a partir de este punto que su gobierno empezó a
-      llamarse tiranía.
+      pasó a la historia como el verdugo más cruel durante la Era de Conquista. Rérecros declaró a
+      Keyes un traidor, y fue a partir de este punto que su gobierno empezó a llamarse tiranía.
     </p>
     <p>
       Nevhea, por su lado, siempre reprobó el asesinato, y ordenó sus tropas a retirarse si sus
@@ -270,10 +269,10 @@ const name = '🕮 Historia 🕮';
     <p>
       El diálogo acaba con la firma del Acta de Conjunción
       <span class="style-triadia">Triadia</span> na Armónica, también conocida por sus siglas: el
-      ACTA. <span class="style-triadia">Triadia</span> pasó a ser una república meritocrática
-      después de unir varias de las ideas políticas que ya existían, y hasta el día de hoy, consiste
-      en un gobierno con cuatro personas en el poder, equivalentes entre sí. Tres de ellas
-      representan los intereses de cada rama individualmente, y la cuarta representa su conjunción.
+      ACTA. <span class="style-triadia">Triadia</span> pasó a ser una ecocracia después de unir
+      varias de las ideas políticas que ya existían, y hasta el día de hoy, consiste en un gobierno
+      con cuatro personas en el poder, equivalentes entre sí. Tres de ellas representan los
+      intereses de cada rama individualmente, y la cuarta representa su conjunción.
     </p>
     <h4 id="representatives">~ Representantes de Triadia</h4>
     <p>Cuando fue fundada, los representantes fueron:</p>

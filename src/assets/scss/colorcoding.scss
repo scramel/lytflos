@@ -50,7 +50,7 @@
 .style-lytflos {
   color: var(--color-text);
   font-family: DeliusSwashCaps;
-  color: greenyellow; // TODO: delete temporary color
+  // color: greenyellow; // TODO: delete temporary color
 }
 .style-triadia {
   color: var(--color-text);
@@ -173,6 +173,9 @@
 }
 .background-flowering {
   background-color: #04f49e30;
+}
+.background-neutral {
+  background-color: #333;
 }
 
 /* spoilers */

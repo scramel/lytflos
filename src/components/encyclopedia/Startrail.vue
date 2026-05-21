@@ -188,7 +188,7 @@ const name = '☆ Estela ☆';
         Copia temporalmente una aptitud del blanco. Por ejemplo, su destreza con el pincel.
       </li>
       <li>
-        <h3 id="#stellar-affinity">- Afinidad estelar</h3>
+        <h3 id="#stellar-affinity" class="background-neutral">- Afinidad estelar</h3>
         Permite percibir <span class="style-startrail">estela</span> como un sexto sentido,
         incluyendo núcleos, y también permite comparar
         <span class="style-iris-fragments">fragmentos de iris</span>
@@ -200,7 +200,7 @@ const name = '☆ Estela ☆';
         en criaturas y objetos, y también permite comparar restos cual huellas dactilares.
       </li>
       <li>
-        <h3 id="#intuitive-aptitude">- Aptitud intuitiva</h3>
+        <h3 id="#intuitive-aptitude" class="background-neutral">- Aptitud intuitiva</h3>
         Otorga temporalmente al usuario toda la información sobre el funcionamiento y composición
         atómica de un objeto en sus manos, permitiéndole entenderlo por completo, e incluso
         replicarlo con
@@ -213,12 +213,12 @@ const name = '☆ Estela ☆';
         de gran importancia emocional.
       </li>
       <li>
-        <h3 id="achilles">- Aquiles</h3>
+        <h3 id="achilles" class="background-neutral">- Aquiles</h3>
         Potencia una característica a elección del objetivo a su límite, como su fuerza, pero reduce
         al mínimo otra al azar.
       </li>
       <li>
-        <h3 id="bud">- Capullo</h3>
+        <h3 id="bud" class="background-neutral">- Capullo</h3>
         Contrarresta una <span class="style-anthesis">antesis</span> en uso a cambio de un gasto
         equivalente de <span class="style-startrail">estela</span>.
       </li>
@@ -232,13 +232,13 @@ const name = '☆ Estela ☆';
         El objetivo transmite sus sentimientos a quien toca, y a cambio recibe los del blanco.
       </li>
       <li>
-        <h3 id="mirror">- Espejo</h3>
+        <h3 id="mirror" class="background-neutral">- Espejo</h3>
         Copia y utiliza cualquier <span class="style-nodes">nodo</span> y
         <a href="#glyph" class="style-dendrites">glifo</a> activo en el blanco al momento de
-        accionarse.
+        accionarse a cambio de un gasto equivalente de <span class="style-startrail">estela</span>.
       </li>
       <li>
-        <h3 id="bloom">- Floración</h3>
+        <h3 id="bloom" class="background-neutral">- Floración</h3>
         Libera forzosamente la <span class="style-anthesis">antesis</span> del blanco, asumiendo que
         este tiene <span class="style-startrail">estela</span> suficiente para hacerlo y su núcleo
         es accesible.
@@ -270,7 +270,7 @@ const name = '☆ Estela ☆';
         disposición.
       </li>
       <li>
-        <h3 id="#light">- Luz</h3>
+        <h3 id="#light" class="background-neutral">- Luz</h3>
         Cuando el <a href="#chrysalism" class="style-chrysalism">crisalismo</a> del objetivo llega a
         su punto de quiebre, este <span class="style-nodes">nodo</span> extiende su vida hasta un
         daño más. Solo se puede usar 1 vez al día.
@@ -283,7 +283,7 @@ const name = '☆ Estela ☆';
         <span class="style-essence">ánimo</span>.
       </li>
       <li>
-        <h3 id="auxiliary-spray">- Spray auxiliar</h3>
+        <h3 id="auxiliary-spray" class="background-neutral">- Spray auxiliar</h3>
         Limpia <span class="style-startrail">estela</span>, <span class="style-nodes">nodos</span>,
         y <span class="style-caudate">glifos</span> en una superficie, y sirve de antiséptico.
       </li>
@@ -294,13 +294,13 @@ const name = '☆ Estela ☆';
         parecido.
       </li>
       <li>
-        <h3 id="auxiliary-snack">- Tentempié auxiliar</h3>
+        <h3 id="auxiliary-snack" class="background-neutral">- Tentempié auxiliar</h3>
         Limpia al objetivo de todo <span class="style-nodes">nodo</span> u
         <span class="style-dendrites">glifo</span> activo en este, excepto de pasivos como el
         <a href="#nattre" class="style-natur">natúreo</a>.
       </li>
       <li>
-        <h3 id="lucky-seed">- Semilla de la suerte</h3>
+        <h3 id="lucky-seed" class="background-neutral">- Semilla de la suerte</h3>
         Potencia una característica al azar del objetivo a su límite, como su fuerza, su agilidad, u
         otra.
       </li>
@@ -325,20 +325,20 @@ const name = '☆ Estela ☆';
         <a href="#mirror">espejo</a>.
       </li>
       <li>
-        <h3 id="reflector">- Reflector</h3>
+        <h3 id="reflector" class="background-neutral">- Reflector</h3>
         El usuario usa una cantidad de
         <span class="style-startrail">estela</span> equivalente a la que esté usando una
         <span class="style-roots">raíz</span> en uso para forzar un cambio de trayecto, además
         doblando su potencia.
       </li>
       <li>
-        <h3 id="reinforcement">- Reforzamiento</h3>
+        <h3 id="reinforcement" class="background-neutral">- Reforzamiento</h3>
         Mejora la resistencia y eficiencia de un objeto, o solo la resistencia si se usa en un
         <span class="style-folia">folia</span>. Este <span class="style-nodes">nodo</span> es
         permanente en objetos.
       </li>
       <li>
-        <h3 id="solar-seed">- Semilla Solar</h3>
+        <h3 id="solar-seed" class="background-neutral">- Semilla Solar</h3>
         Atrae y absorbe todas las
         <a href="#iris-fragments-&-golden-bubbles" class="style-golden-bubbles">burbujas de oro</a>
         cercanas si las hay. De lograrse, el usuario restaura la mitad de su
@@ -346,7 +346,7 @@ const name = '☆ Estela ☆';
         <span class="style-nodes">nodo</span>.
       </li>
       <li>
-        <h3 id="revenge">- Venganza</h3>
+        <h3 id="revenge" class="background-neutral">- Venganza</h3>
         Desata todo el potencial de los poderes del usuario, pero le hace entrar en un estado de
         inestabilidad mental; querrá atacar todo a su paso. Todos los usuarios de
         <a href="#essence" class="style-umbria">umbría</a> tienen este
@@ -354,7 +354,7 @@ const name = '☆ Estela ☆';
         <span class="style-umbria">negatividad</span> en demasía.
       </li>
       <li>
-        <h3 id="auditory-sensitivity">- Sensibilidad auditiva</h3>
+        <h3 id="auditory-sensitivity" class="background-neutral">- Sensibilidad auditiva</h3>
         Percepción increíble del sonido sin convertirlo en un problema, es decir que los ruidos no
         aturden al usuario.
       </li>
@@ -365,7 +365,7 @@ const name = '☆ Estela ☆';
       representada en una aplicación de <span class="style-startrail">estela</span>,
       <span class="style-essence">ánimo</span>, o ambas, que es muy avanzada y personal. Bien podría
       llamarse el «movimiento insignia» de un personaje. Normalmente una
-      <span class="style-anthesis">antesis</span> requiere al menos la mitad de la
+      <span class="style-anthesis">antesis</span> requiere de al menos la mitad de la
       <span class="style-startrail">estela</span> almacenada en un
       <span class="style-folia">folia</span> para usarse, pero el costo puede variar dependiendo de
       su complejidad y alcance.

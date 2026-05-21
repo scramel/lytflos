@@ -40,12 +40,12 @@ const name = '✳ Ánimo ✳';
       vivencias, pero no guarda ninguna de estas.
     </p>
     <p>
-      En <span class="style-lytflos">Lytflos</span>, los
-      <span class="style-folia">folia</span> utilizan este concepto para intentar explicar el origen
-      del <span class="style-essence">ánimo</span>, pero no han sido capaces de probar su
+      En <a href="#cosmos" class="style-lytflos">Lytflos</a>, los
+      <a href="#folia" class="style-folia">folia</a> utilizan este concepto para intentar explicar
+      el origen del <span class="style-essence">ánimo</span>, pero no han sido capaces de probar su
       existencia. Similar al núcleo, el <span class="style-anima">ánima</span> sería esta batería
       donde se almacena el <span class="style-essence">ánimo</span>. Durante el siglo 25, un
-      <span class="style-hybrid"> caudado-florecido </span> propuso usar
+      <a href="#hybrids-&-levels" class="style-hybrid"> caudado-florecido</a> propuso usar
       <a href="#negative-orb">orbes de sombras</a> como método para atrapar
       <span class="style-anima">ánimas</span>, pero el método es rechazado ya que involucra un
       proceso bastante sangriento:
@@ -151,27 +151,111 @@ const name = '✳ Ánimo ✳';
     </p>
     <h2 id="anillos-septenarios">~ Anillos septenarios</h2>
     <p>
-      Espírios cuyo origen tuvo lugar durante los inicios del segundo milenio. Fueron creados con el
-      expreso motivo de proteger las <span class="style-branches">ramas</span>, entonces separadas
-      por la guerra, de los <span class="style-natur">náturs</span> y meion que rondaban por el
-      mundo. Se dio que con el tiempo, las <span class="style-branches">ramas</span> portadoras de
-      los anillos dieron lugar a ciudades sumamente importantes para el mundo, y actualmente se
-      consideran un tesoro de buena suerte y extremo valor. Durante la guerra de conquista, Jericho
-      Haberlea logró
-      <span class="spoiler"
-        >robar tres de estos anillos, hasta que los hijos de Arqheid Keyes los recuperaron</span
-      >
-      . Al final de la Era de Conquista, Arqheid Keyes
-      <span class="spoiler">
-        tomó el anillo de Rérecros, y lo mostró en la última batalla de Livádi como muestra de la
-        derrota del tirano, culminando la guerra</span
-      >.
+      Espírios cuyos orígenes tuvieron lugar durante los inicios del
+      <a href="#second-millenium">segundo milenio</a>. Son un juego de anillos de tres pares y uno
+      singular, cada uno con un grabado distinto, forjados por <b>Drasil el Frondoso</b> con el
+      expreso motivo de proteger a las <a href="#branches" class="style-branches">ramas</a>,
+      entonces separadas por la guerra, de los <a href="#natur" class="style-natur">náturs</a> y las
+      <span class="style-umbria">criaturas negativas</span> que en ese tiempo causaban catástrofes
+      alrededor del mundo. Se dio que con el tiempo, los pueblos y clanes portadores de dichos
+      anillos dieron lugar a lo que ahora son las <a href="#triadia">Siete Ciudades</a>, que son
+      sumamente importantes para el mundo en la actualidad.
     </p>
     <p>
-      Se trata de un juego de tres pares y un anillo individual. Un par está en posesión de los
-      hermanos Keyes, otro par es administrado anónimamente por el CERT, el anillo individual está
-      en posesión del Representante de Caudados: Zollern Crésford, y aparentemente, el par restante
-      ha sido perdido.
+      Los <span class="style-nodes">nodos</span> de estos anillos están relacionados con el
+      espacio-tiempo. Tres de estos anillos permiten a sus portadores moverse arbitrariamente a
+      través del espacio. Otros tres, sus parejas, les permiten acelerar y frenar en el tiempo.
+      Cuando una pareja está unida, es posible saltar al pasado y al futuro. En todos los casos, los
+      límites son determinados por el <span class="style-essence">ánimo</span> a disposición de los
+      usuarios. Un viaje de solo 3 días es increíblemente difícil de lograr para un
+      <span class="style-folia">folia</span> común, y además, viajar en el tiempo envejece a los
+      portadores de forma equivalente.
+    </p>
+    <p>
+      Acercándose el desenlace la de Era de Conquista, Gaureth Keyes determinó, con la ayuda de su
+      hermano Delion, que es casi imposible alterar la historia, y describió su experiencia: «Es
+      como viajar en un ferrocarril sin frenos a la punta de una rama de un árbol astronómicamente
+      gigante.».
+    </p>
+    <p>
+      El último anillo, el śeptimo, despierta un <span class="style-nodes">nodo</span> adicional en
+      cada uno de los demás, todos enfocados en la preservación la integridad personal y luego
+      externalizarla en otros, volviéndolo el espírio más poderoso de los siete. Se rumorea que el
+      <span class="style-anima">ánima</span> misma de Drasil reside en este.
+    </p>
+    <ul>
+      <li>
+        <p>
+          <!-- ησυχία (Oyster) -->
+          <b>Nouxia del tiempo:</b> Protección ante la
+          <span class="style-umbria">negatividad</span>. Ahuyenta la malicia, esconde de la
+          perversidad, atenúa la desconfianza.
+        </p>
+      </li>
+      <li>
+        <p>
+          <!-- Mussaenda 'Doña Aurora'-->
+          <b>Mussaenda del tiempo:</b> Inspira calma a los <span class="style-lucero">náturs</span>.
+          Crea un vínculo con el entorno, trae desarrollo, cuidado, y recuperación.
+        </p>
+      </li>
+      <li>
+        <p>
+          <!-- Keyes flower -->
+          <b>Kléidflos del tiempo:</b> Bienestar del <span class="style-essence">ánimo</span>.
+          Serenidad ante la dificultad, estoicismo ante la confusión, esperanza ante la desgracia.
+        </p>
+      </li>
+      <li>
+        <p>
+          <!-- Arthur belle -->
+          <b>Árthourbel del espacio:</b> Sabiduría y dominio de
+          <span class="style-roots">raíces</span>. Enfoques inexplorados, concentración intelectual,
+          inovación del aprendizaje.
+        </p>
+      </li>
+      <li>
+        <p>
+          <!-- Cordyline fruticosa -->
+          <b>Cordyline del espacio:</b> Permanencia de <span class="style-nodes">nodos</span>.
+          Abundancia de recursos, transformación del entorno, aumento de productividad.
+        </p>
+      </li>
+      <li>
+        <p>
+          <!-- Dicentra aurora -->
+          <b>Dicentra del espacio:</b> Permanencia de <span class="style-anthesis">antesis</span>.
+          Buena fortuna, visión a futuro, belleza en los corazones, talento en las artes.
+        </p>
+      </li>
+    </ul>
+    <p>
+      <!-- Jericho -->
+      El séptimo, <b>Iericho del espacio-tiempo</b>, provee longevidad, fin de arrepentimientos, y
+      últimos momentos en paz.
+    </p>
+    <p>
+      Actualmente, los anillos septenarios se consideran un tesoro de buena suerte y extremo valor,
+      y ya que con el tiempo dejaron sus lugares de origen, existe un interés por devolverlos a sus
+      respectivas ciudades. Kléidflos y Árthourbel están en posesión de los hermanos Keyes,
+      Mussaenda es cuidado por la familia Midiki, Dicentra está en el tesoro de los Fóster,
+      Cordyline y Nouxia los llevan Crystal Faumiller y Ochamo Retsyo de collar respectivamente, y
+      de Iericho se desconoce su paradero, aunque se rumorea que está en manos de
+      <a href="#ivlis">IVLIS</a>.
+    </p>
+    <p>
+      Durante la Era de Conquista fueron muy codiciados. Jericho Haberlea, un verdugo que se
+      infiltró en la caballería de Aricontes, logró
+      <span class="spoiler"
+        >robar tres de estos anillos, hasta que los hijos de Arqheid Keyes lograron recuperar dos.
+        Ellos fingieron inteligentemente haber recuperado todos para negociar el final de la
+        guerra</span
+      >. El anillo que llevaba Rérecros fue
+      <span class="spoiler"
+        >tomado por Arqheid Keyes tras derrocarle, y mostrado durante la última batalla de Livádi
+        como prueba de la caída del tirano, culminando la guerra. Los Keyes son la única familia en
+        haber tenido posesión de 3 anillos septenarios en la historia</span
+      >.
     </p>
 
     <h2 id="negative-orb">~ Orbe negativo</h2>

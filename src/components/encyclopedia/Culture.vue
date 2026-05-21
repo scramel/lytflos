@@ -8,7 +8,7 @@ const name = '🙒 Cultura 🙒';
     <hr />
     <p>
       A lo largo del tiempo, el mundo ha desarrollado festividades, tradiciones, y creencias que se
-      expanden hasta los confines de la república. Estas representan el legado de su historia, sus
+      expanden hasta los confines de la ecocracia. Estas representan el legado de su historia, sus
       logros, y están hechos para inmortalizarlos, mantenerlos como enseñanzas para aquellos en el
       presente. Igualmente, con los años han nacido definiciones y conceptos propios de esta
       cultura. Esta sección del documento es una lista de todos los elementos mencionados.
@@ -103,33 +103,37 @@ const name = '🙒 Cultura 🙒';
     <ul>
       <li>
         <p>
-          <b>«Silente:»</b> ladrón y traficante de espírios, con un talento indescriptible para
+          <b>«Silente:»</b> Ladrón y traficante de espírios, con un talento indescriptible para
           encontrarlos. Logró infiltrarse en el Hogar de Ýperos y llevarse varios objetos, entre
           ellos un espírio de Faustiely Arisa. No hay pistas de su identidad. Se busca.
         </p>
       </li>
       <li>
         <p>
-          <b>Ganriki Ciezel:</b> se ha mantenido encerrado por años en el Subsuelo de Abbso, y se
-          trata de un <span class="style-crooked">plagado</span> al que hasta el día de hoy no se le
-          ha podido expiar. Completamente inestable y errático. Peligro de muerte.
+          <b>Ganriki Ciezel:</b> Plagado. Se ha mantenido encerrado por años en el Subsuelo de
+          Abbso, y se trata de un <span class="style-crooked">plagado</span> al que hasta el día de
+          hoy no se le ha podido expiar. Completamente inestable y errático. Peligro de muerte.
         </p>
       </li>
       <li>
         <p>
-          <b>Calyko Fospheen:</b> intentó resucitar criaturas muertas utilizando náturs, y lo
-          logró…, parcialmente. Se rumorea que formaba parte de una asociación secreta de objetivos
-          desconocidos. Presa.
+          <b>Calyko Fospheen:</b> Terrorista. Intentó resucitar criaturas muertas utilizando náturs,
+          y lo logró…, parcialmente. Se rumorea que formaba parte de una asociación secreta de
+          objetivos desconocidos. Presa.
         </p>
       </li>
       <li>
-        <p><b>Kokino Laudi:</b> criminal de guerra por asesinatos injustificados y robos. Presa.</p>
+        <p>
+          <b>Kokino Laudi:</b> Traidora. Una caballera que robó riquezas y espírios de los suyos.
+          Presa.
+        </p>
       </li>
       <li>
         <p>
-          <b>Jericho R. Haberlea:</b> asesinó numerosas personas durante la Era de Conquista con el
-          fin de forjar una piedra filosofal, y también robó diversos espírios, entre ellos tres
-          anillos septenarios. Desaparecido.
+          <b>Jericho R. Haberlea:</b> Criminal de guerra. Verdugo espía que se infiltró entre los
+          caballeros de Aricontes y asesinó numerosas personas con el fin de forjar la
+          <a href="#philosophers-stone">piedra filosofal</a>, además de haber robado varios espírios
+          legendarios, entre ellos tres anillos septenarios. Desaparecido.
         </p>
       </li>
     </ul>
@@ -257,7 +261,7 @@ const name = '🙒 Cultura 🙒';
       <span class="style-umbria">criaturas negativas</span> es también una práctica panteísta porque
       sigue el principio de buscar la armonía con el cosmos, lo cual algunos podrían considerar
       contradictorio o antintuitivo. Los expiadores, especialmente aquellos asociados a la
-      república, normalmente siguen la doctrina de Faustiely para llevar a cabo su trabajo.
+      ecocracia, normalmente siguen la doctrina de Faustiely para llevar a cabo su trabajo.
     </p>
     <p>
       Aunque no es imposible la existencia de folia que practiquen el teísmo clásico o incluso el

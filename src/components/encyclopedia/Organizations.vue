@@ -8,7 +8,7 @@ const name = '⚐ Organizaciones ⚐';
     <hr />
     <h2 id="cert">~ CERT</h2>
     <p>
-      Cuerpo Élite de la República de <span class="style-triadia">Triadia</span> . Para un expiador,
+      Cuerpo Élite de la Ecocracia de <span class="style-triadia">Triadia</span> . Para un expiador,
       el formar parte del CERT es el honor máximo para su labor. La actual lideresa de este cuerpo
       es Zittias Ciezel.
     </p>

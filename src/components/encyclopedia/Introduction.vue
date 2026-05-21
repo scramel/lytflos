@@ -23,7 +23,7 @@ const name = '✾ Introducción ✾';
       <a href="#flowering" class="style-flowering">florecido</a>. Así nace el término
       <a href="#branches" class="style-branches">rama</a>, y cada uno manipula la
       <span class="style-startrail">estela</span> de maneras distintivas. En la
-      <a href="#republic-of-triadia">república de <span class="style-triadia">Triadia</span></a>
+      <a href="#republic">Ecocracia de <span class="style-triadia">Triadia</span></a>
       cada <span class="style-branches">rama</span> vive en armonía, y juntas la mantienen a salvo
       tanto de desastres naturales causados por los encantadores aunque ocasionalmente inestables
       <a href="#natur" class="style-natur">náturs</a>, como de los estragos ocasionados por sombrías
