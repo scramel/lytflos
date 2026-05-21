@@ -6,7 +6,9 @@ yarn build
 
 cd dist
 
-git init
+rm -rf .git
+
+git init -b main
 git add -A
 git commit -m "Deploy"
 git push -f git@github.com:scramel/lytflos.git main:gh-pages
