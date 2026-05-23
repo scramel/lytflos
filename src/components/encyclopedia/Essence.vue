@@ -172,116 +172,120 @@ const name = '✳ Ánimo ✳';
       portadores de forma equivalente.
     </p>
     <p>
-      Acercándose el desenlace la de Era de Conquista, Gaureth Keyes determinó, con la ayuda de su
+      Acercándose el desenlace de la Era de Conquista, Gaureth Keyes determinó, con la ayuda de su
       hermano Delion, que es casi imposible alterar la historia, y describió su experiencia: «Es
       como viajar en un ferrocarril sin frenos a la punta de una rama de un árbol astronómicamente
       gigante.».
     </p>
     <p>
       El último anillo, el śeptimo, despierta un <span class="style-nodes">nodo</span> adicional en
-      cada uno de los demás, todos enfocados en la preservación la integridad personal y luego
+      cada uno de los demás, todos enfocados en la preservación de la integridad personal y luego
       externalizarla en otros, volviéndolo el espírio más poderoso de los siete. Se rumorea que el
       <span class="style-anima">ánima</span> misma de Drasil reside en este.
     </p>
     <ul>
       <li>
         <p>
-          <!-- ησυχία (Oyster) -->
-          <b>Nouxia del tiempo:</b> Protección ante la
+          <!-- Cordyline fruticosa -->
+          <b>Kordyle del espacio:</b> Permanencia de <span class="style-nodes">nodos</span>.
+          Abundancia de recursos, transformación del entorno, aumento de productividad.
+        </p>
+      </li>
+      <li>
+        <p>
+          <!-- κουνουπίδι (cauliflower) -->
+          <b>Kounou del espacio:</b> Permanencia de <span class="style-anthesis">antesis</span>.
+          Buena fortuna, visión a futuro, belleza en los corazones, talento en las artes.
+        </p>
+      </li>
+      <li>
+        <p>
+          <!-- ησυχία (Oyster) / osha plant -->
+          <b>Nouxia del espacio:</b> Protección ante la
           <span class="style-umbria">negatividad</span>. Ahuyenta la malicia, esconde de la
           perversidad, atenúa la desconfianza.
         </p>
       </li>
       <li>
         <p>
-          <!-- Mussaenda 'Doña Aurora'-->
-          <b>Mussaenda del tiempo:</b> Inspira calma a los <span class="style-lucero">náturs</span>.
-          Crea un vínculo con el entorno, trae desarrollo, cuidado, y recuperación.
-        </p>
-      </li>
-      <li>
-        <p>
           <!-- Keyes flower -->
-          <b>Kléidflos del tiempo:</b> Bienestar del <span class="style-essence">ánimo</span>.
+          <b>Kleidflos del tiempo:</b> Bienestar del <span class="style-essence">ánimo</span>.
           Serenidad ante la dificultad, estoicismo ante la confusión, esperanza ante la desgracia.
         </p>
       </li>
       <li>
         <p>
-          <!-- Arthur belle -->
-          <b>Árthourbel del espacio:</b> Sabiduría y dominio de
-          <span class="style-roots">raíces</span>. Enfoques inexplorados, concentración intelectual,
-          inovación del aprendizaje.
+          <!-- Lily -->
+          <b>Leirion del tiempo:</b> Sabiduría y dominio de <span class="style-roots">raíces</span>.
+          Enfoques inexplorados, concentración intelectual, inovación del aprendizaje.
         </p>
       </li>
       <li>
         <p>
-          <!-- Cordyline fruticosa -->
-          <b>Cordyline del espacio:</b> Permanencia de <span class="style-nodes">nodos</span>.
-          Abundancia de recursos, transformación del entorno, aumento de productividad.
-        </p>
-      </li>
-      <li>
-        <p>
-          <!-- Dicentra aurora -->
-          <b>Dicentra del espacio:</b> Permanencia de <span class="style-anthesis">antesis</span>.
-          Buena fortuna, visión a futuro, belleza en los corazones, talento en las artes.
+          <!-- Nidus-avis -->
+          <b>Nidusavi del tiempo:</b> Inspira calma a los <span class="style-lucero">náturs</span>.
+          Crea un vínculo con el entorno, trae desarrollo, cuidado, y recuperación.
         </p>
       </li>
     </ul>
     <p>
-      <!-- Jericho -->
-      El séptimo, <b>Iericho del espacio-tiempo</b>, provee longevidad, fin de arrepentimientos, y
+      <!-- Árthourbel -->
+      El séptimo, <b>Asuberu del espacio-tiempo</b>, provee longevidad, fin de arrepentimientos, y
       últimos momentos en paz.
     </p>
     <p>
       Actualmente, los anillos septenarios se consideran un tesoro de buena suerte y extremo valor,
       y ya que con el tiempo dejaron sus lugares de origen, existe un interés por devolverlos a sus
-      respectivas ciudades. Kléidflos y Árthourbel están en posesión de los hermanos Keyes,
-      Mussaenda es cuidado por la familia Midiki, Dicentra está en el tesoro de los Fóster,
-      Cordyline y Nouxia los llevan Crystal Faumiller y Ochamo Retsyo de collar respectivamente, y
-      de Iericho se desconoce su paradero, aunque se rumorea que está en manos de
-      <a href="#ivlis">IVLIS</a>.
+      respectivas ciudades. Kléidflos y Nouxia están en posesión de los hermanos Keyes, Nidusavi es
+      cuidado por la familia Midiki, Kordyle está en el tesoro de los Fóster, Kounou y Leirion los
+      llevan <b>Teri el Vagante</b> y <b>Tachi la Vagante</b> respectivamente, y de Asuberu se
+      desconoce su paradero, aunque se rumorea que está en manos de <a href="#ivlis">IVLIS</a>.
     </p>
     <p>
       Durante la Era de Conquista fueron muy codiciados. Jericho Haberlea, un verdugo que se
       infiltró en la caballería de Aricontes, logró
       <span class="spoiler"
         >robar tres de estos anillos, hasta que los hijos de Arqheid Keyes lograron recuperar dos.
-        Ellos fingieron inteligentemente haber recuperado todos para negociar el final de la
-        guerra</span
+        Ellos fingieron inteligentemente haber recuperado el trío completo para negociar el final de
+        la guerra</span
       >. El anillo que llevaba Rérecros fue
       <span class="spoiler"
         >tomado por Arqheid Keyes tras derrocarle, y mostrado durante la última batalla de Livádi
-        como prueba de la caída del tirano, culminando la guerra. Los Keyes son la única familia en
-        haber tenido posesión de 3 anillos septenarios en la historia</span
+        como prueba de la caída del tirano, culminando la guerra.</span
       >.
     </p>
 
     <h2 id="negative-orb">~ Orbe negativo</h2>
     <p>
-      Cuando una <span class="style-umbria">criatura negativa</span> es expiada —desmaterializada a
-      través del uso de
+      Cuando una <span class="style-umbria">criatura negativa</span> es
+      <a href="expiation">expiada</a> —derrotada usando
       <span class="style-essence">ánimo</span>
-      en vez de fuerza bruta— deja atrás lo que se conoce como un orbe negativo, que es la
-      culminación de los sentimientos que formaron dicha criatura, selladas.
+      en vez de fuerza bruta—, esta deja atrás un <b>orbe negativo</b>, que es la culminación de los
+      sentimientos que formaron dicha criatura, selladas.
     </p>
     <p>
       Su apariencia es la de un mineral incrustado en una piedra. El orbe negativo salido de una
       <a href="#shade">sombra</a> tiene una forma que asemeja un corazón. Si dicho orbe se rompe en
       manos de una persona, esta absorbe la <span class="style-umbria">negatividad</span> que alguna
-      vez formó la
-      <span class="style-umbria"><span class="style-umbria">criatura negativa</span></span
-      >; sino, el orbe simplemente se deshace, haciéndolo imposible de recuperar.
+      vez formó la <span class="style-umbria">criatura negativa</span> que fue expiada; sino, el
+      orbe simplemente se deshace, haciéndolo imposible de recuperar.
     </p>
     <p>
-      Usualmente son resguardados en edificios o lugares aislados, especialmente por exégetas en las
-      capillas que manejan, pero algunas veces la gente se queda los orbes como un recuerdo, en cuyo
-      caso se les instala un dispositivo llamado
-      <a href="#startrail-systems">atrapapesadillas</a> que los destruye si el orbe recibe un daño,
-      en caso de un accidente.
+      Por lo general, estos orbes se custodian en <a href="#glasshouse">invernaderos</a> —sus
+      <b>criptas umbriáticas—</b>, y son supervisados por sus respectivos
+      <a href="exegete">exégetas</a>. Sin embargo, cuando la gente decide conservarlos como recuerdo
+      —a menudo debido a que el proceso de expiación tiende a traer catársis—, se les instala un
+      <a href="#startrail-systems">atrapapesadillas</a>, el cual garantiza la destrucción inmediata
+      del orbe en caso de un accidente.
     </p>
-
+    <p>
+      Solo los exégetas tienen permitido acceder a las criptas umbriáticas. Si otros desean acceder,
+      debe ser bajo la supervisión obligatoria de un exégeta, o con un permiso dado por la cabeza
+      del
+      <a href="#CERT">CERT</a>, lo cual suele ocurrir para retirar orbes negativos y utilizarlos en
+      estudios científicos o entrenamientos de máximo nivel.
+    </p>
+    <p></p>
     <h2 id="chrysalism">~ Crisalismo</h2>
     <p>
       Todo intento por hacer daño a una criatura, incluyendo
@@ -304,9 +308,7 @@ const name = '✳ Ánimo ✳';
     </p>
     <p>
       El crisalismo se origina de
-      <span class="spoiler">
-        la antesis de Izuko, cuando logra reunir los seis cuarzos de ánima
-      </span>
+      <span class="spoiler"> la antesis de Izuko, cuando logra reunir los cuarzos de ánima </span>
       .
     </p>
 
