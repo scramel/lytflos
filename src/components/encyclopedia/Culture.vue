@@ -196,8 +196,8 @@ const name = '🙒 Cultura 🙒';
     <p>
       Los expiadores trabajan directamente para el gobierno a menos que se trate de expiadores
       independientes, en cual caso trabajan por comisiones y no como puesto fijo. El gobierno provee
-      los espacios de trabajo, las capillas, administradas por los exégetas, quienes se encargan de
-      despachar los expiadores que supervisan y de tomar decisiones en casos de emergencia.
+      los espacios de trabajo, los invernaderos, administradas por los exégetas, quienes se encargan
+      de despachar los expiadores que supervisan y de tomar decisiones en casos de emergencia.
     </p>
     <h3 id="dendron-express">- Expreso Dendrón</h3>
     <p>

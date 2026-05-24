@@ -180,8 +180,7 @@ const name = '✳ Ánimo ✳';
     <p>
       El último anillo, el śeptimo, despierta un <span class="style-nodes">nodo</span> adicional en
       cada uno de los demás, todos enfocados en la preservación de la integridad personal y luego
-      externalizarla en otros, volviéndolo el espírio más poderoso de los siete. Se rumorea que el
-      <span class="style-anima">ánima</span> misma de Drasil reside en este.
+      externalizarla en otros, volviéndolo el espírio más poderoso de los siete.
     </p>
     <ul>
       <li>
@@ -231,7 +230,8 @@ const name = '✳ Ánimo ✳';
     <p>
       <!-- Árthourbel -->
       El séptimo, <b>Asuberu del espacio-tiempo</b>, provee longevidad, fin de arrepentimientos, y
-      últimos momentos en paz.
+      últimos momentos en paz. Hay quienes creen que el <span class="style-anima">ánima</span> misma
+      de Drasil reside en este.
     </p>
     <p>
       Actualmente, los anillos septenarios se consideran un tesoro de buena suerte y extremo valor,
@@ -243,15 +243,15 @@ const name = '✳ Ánimo ✳';
     </p>
     <p>
       Durante la Era de Conquista fueron muy codiciados. Jericho Haberlea, un verdugo que se
-      infiltró en la caballería de Aricontes, logró
+      infiltró en la caballería de Aricontes, logró robar tres de estos anillos tras descubrir que
+      rebotan en dirección a los demás al dejarlos caer.
       <span class="spoiler"
-        >robar tres de estos anillos, hasta que los hijos de Arqheid Keyes lograron recuperar dos.
-        Ellos fingieron inteligentemente haber recuperado el trío completo para negociar el final de
-        la guerra</span
+        >Los hijos de Arqheid Keyes lograron recuperar dos. Ellos fingieron inteligentemente haber
+        recuperado el trío completo para negociar el final de la guerra</span
       >. El anillo que llevaba Rérecros fue
       <span class="spoiler"
         >tomado por Arqheid Keyes tras derrocarle, y mostrado durante la última batalla de Livádi
-        como prueba de la caída del tirano, culminando la guerra.</span
+        como prueba de la caída del tirano, culminando la guerra</span
       >.
     </p>
 
@@ -265,10 +265,10 @@ const name = '✳ Ánimo ✳';
     </p>
     <p>
       Su apariencia es la de un mineral incrustado en una piedra. El orbe negativo salido de una
-      <a href="#shade">sombra</a> tiene una forma que asemeja un corazón. Si dicho orbe se rompe en
-      manos de una persona, esta absorbe la <span class="style-umbria">negatividad</span> que alguna
-      vez formó la <span class="style-umbria">criatura negativa</span> que fue expiada; sino, el
-      orbe simplemente se deshace, haciéndolo imposible de recuperar.
+      <a href="#shade">sombra</a> tiene una forma que asemeja un corazón. Si un orbe se rompe en
+      contacto con un ser vivo, este absorbe la <span class="style-umbria">negatividad</span> que
+      alguna vez formó la <span class="style-umbria">criatura negativa</span> que fue expiada; sino,
+      el orbe y su energía se deshacen, haciéndolos imposibles de recuperar.
     </p>
     <p>
       Por lo general, estos orbes se custodian en <a href="#glasshouse">invernaderos</a> —sus
@@ -276,58 +276,55 @@ const name = '✳ Ánimo ✳';
       <a href="exegete">exégetas</a>. Sin embargo, cuando la gente decide conservarlos como recuerdo
       —a menudo debido a que el proceso de expiación tiende a traer catársis—, se les instala un
       <a href="#startrail-systems">atrapapesadillas</a>, el cual garantiza la destrucción inmediata
-      del orbe en caso de un accidente.
+      de los orbes en caso de un accidente.
     </p>
     <p>
       Solo los exégetas tienen permitido acceder a las criptas umbriáticas. Si otros desean acceder,
       debe ser bajo la supervisión obligatoria de un exégeta, o con un permiso dado por la cabeza
       del
-      <a href="#CERT">CERT</a>, lo cual suele ocurrir para retirar orbes negativos y utilizarlos en
-      estudios científicos o entrenamientos de máximo nivel.
+      <a href="#cert">CERT</a>, lo cual suele ocurrir para retirar orbes negativos y utilizarlos en
+      estudios científicos, o en entrenamientos para <a href="#expiator">expiadores</a> de máximo
+      nivel.
     </p>
     <p></p>
     <h2 id="chrysalism">~ Crisalismo</h2>
     <p>
-      Todo intento por hacer daño a una criatura, incluyendo
-      <span class="style-folia">folia</span> y excluyendo criaturas de
-      <span class="style-essence">ánimo</span>, es contrarrestado por el crisalismo: un concepto que
-      evita el dolor y los daños permanentes causados por violencia. Sin embargo, los efectos
-      secundarios que pueda tener dicho daño se mantendrán: si los nervios de un brazo son
-      atravesados, la víctima no podrá utilizar dicho brazo temporalmente pese no perderlo en sí o
-      no sentir dolor. Este efecto dura un día, y daños causados por accidentes o fenómenos
-      naturales, incluyendo <span class="style-natur">náturs</span> y excluyendo meion, no son
-      cancelados por el mismo.
+      El crisalismo es un especie de capa presente en todos los seres sentientes. Esta capa
+      neutraliza dolor y daños derivados de la violencia, no obstante las consecuencias funcionales
+      se mantienen: si los nervios de un brazo son atravesados, la víctima conservará el miembro y
+      no experimentará dolor, pero se mantendrá paralizado durante un día. El crisalismo no cancela
+      los daños provocados por accidentes o fenómenos naturales, los cuales incluyen aquellos
+      provocados por náturs.
     </p>
     <p>
-      Las personas visualmente se ven más como cristales mientras más daño reciben, cual esculturas.
-      «Romper el crisalismo» significa dañar a una persona hasta que este concepto deje de tener
-      efecto, dejándolo vulnerable a daños reales, y normalmente, el equivalente de llegar a tal
-      punto es matar a dicha persona una vez. Con el tiempo, el crisalismo se regenera, incluso si
-      se rompe. Este proceso tarda un día en completarse, y nadie tiene claro de dónde proviene ni
-      por qué funciona como lo hace.
+      A medida que un cuerpo sufre daños, las zonas afectadas muestran marcas dendríticas similares
+      a las de un cristal agrietado hasta que, tras un deterioro severo, el crisalismo se quiebra
+      por completo. A partir de ese instante, el cuerpo se sacude todas sus parálisis y recupera la
+      movilidad, pero queda expuesto a heridas reales e incluso letales. El esfuerzo necesario para
+      forzar esta ruptura equivale a arrebatarle la vida al individuo una sola vez.
     </p>
     <p>
-      El crisalismo se origina de
-      <span class="spoiler"> la antesis de Izuko, cuando logra reunir los cuarzos de ánima </span>
-      .
+      Tras un día, el crisalismo se regenera por sí solo, incluso si fue roto. Su origen y la razón
+      de su funcionamiento siguen siendo un misterio absoluto que nadie ha logrado descifrar.
     </p>
 
     <h2 id="agujero-umbrio">~ Agujero Umbrío</h2>
     <p>
-      Acumulaciones de ánimo tan potentes que encierran al evocador en una materialización de su
-      propio subconsciente, e incluso a otras personas si están cerca. Vistas desde afuera se
-      manifiestan como agujeros negros: doblan el espacio y la luz de maneras confusas, y es el
-      trabajo de los expiadores adentrarse en estas épicas para llevar a quienes las originan a una
-      catarsis.
+      Vórtice de <span class="style-umbria">negatividad</span> tan denso que atrapa a quien lo
+      origina en una proyección de su propio subconsciente. Observadas desde afuera, se ven como
+      agujeros negros que tuercen el espacio y la luz de formas desconcertantes. Los expiadores
+      deben adentrarse en esas torsiones para salvar a quienes allí se encuentren mediante la
+      catarsis, lo cual causa una implosión colorida que libera todo lo que alguna vez entró.
     </p>
     <p>
-      Los detalles sobre el interior de una épica varía según la persona que la ocasiona, pero en
-      general se trata de un espacio que distorsiona la percepción de quienes allí se encuentran,
-      mostrando representaciones del dolor sentido, afectando la psique de los presentes, en
-      ocasiones quitándoles su voluntad para escapar. A veces la representación es muy vívida y
-      explícita, en otras ocasiones incierta y abstracta, incluso puede llegar a ser engañosa, de
-      modo que no induce negatividad en sí en otros excepto al causante de formas que pueden ser
-      poco intuitivas, o sentirse como un sueño indiferenciable de la realidad para este último.
+      Aunque la naturaleza del interior de un agujero umbrío varía según el trauma que lo origina,
+      todos comparten la cualidad de alterar la psique de los presentes, por lo que una grandísima
+      resistencia mental es requerida para sumergirse en una misión de rescate. Las proyecciones
+      pueden ser vívidas y explícitas, inciertas y abstractas, o tan engañosas que resultan
+      indistinguibles de la realidad. Si no se interviene, los agujeros umbríos encierran a las
+      personas en su propio sufrimiento hasta que fallecen. Luego, la torsión se descompone, y
+      finalmente libera una horda de
+      <span class="style-umbria">criaturas negativas</span>, volviendo imposible cualquier rescate.
     </p>
   </section>
 </template>
