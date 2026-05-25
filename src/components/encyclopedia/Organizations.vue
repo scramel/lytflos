@@ -19,7 +19,7 @@ const name = '⚐ Organizaciones ⚐';
       responsabilidades a los expiadores que supervisa. Dicho espacio también es usado como zona de
       entrenamiento, zona de expiación, y zona de aislamiento.
     </p> -->
-    <h2 id="typus-ii">~ <span>Tipo-II</span>, S.A.</h2>
+    <h2 id="typus-ii">~ <text>Tipo-II</text>, S.A.</h2>
     <p>
       Corporación que se encarga de producir sistemas estela, especialmente medios de transporte
       como el expreso dendrón, que por un tiempo fue extremadamente exitoso y popular.

@@ -42,8 +42,9 @@ const dictionary = [
   { href: '#caudate', pattern: /^caudad[oa]s?$/ },
   { href: '#flowering', pattern: /^florecid[oa]s?$/ },
   {
-    href: '#hybrids-&-levels',
-    pattern: /^(alad[oa]s?|caudad[oa]s?|florecid[oa]s?)-(alad[oa]s?|caudad[oa]s?|florecid[oa]s?)$/,
+    href: '#hybrids',
+    pattern:
+      /^(híbrid[oa]s?|(alad[oa]s?|caudad[oa]s?|florecid[oa]s?)-(alad[oa]s?|caudad[oa]s?|florecid[oa]s?))$/,
   },
   // startrail
   { href: '#startrail', pattern: /^estela$/ },
@@ -58,7 +59,7 @@ const dictionary = [
   { href: '#nodes', pattern: /^nodos?$/ },
   { href: '#anthesis', pattern: /^antesis?$/ },
   { href: '#stellar-phenomena', pattern: /^(fenómeno estelar|fenómenos estelares)$/ },
-  { href: '#stellar-systems', pattern: /^sistemas? estela$/ },
+  { href: '#startrail-systems', pattern: /^sistemas? estela$/ },
   { href: '#iris-fragments', pattern: /^fragmentos de iris$/ },
   { href: '#golden-bubbles', pattern: /^burbujas de oro$/ },
   // essence
@@ -99,7 +100,7 @@ onMounted(() => {
       // find the first dictionary entry whose regex matches the text
       const match = dictionary.find((entry) => entry.pattern.test(text));
       // only handle match if not previously used in the current section
-      if (match && !section.id.includes(match.href.split('#')[1]) && !seen.has(match.href)) {
+      if (match && !seen.has(match.href)) {
         seen.add(match.href);
         // turn span into a link
         const anchor = document.createElement('a');

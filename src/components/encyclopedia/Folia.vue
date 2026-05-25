@@ -26,19 +26,21 @@ const name = '☘ Folia ☘';
       alrededor de un metro y medio —excepto algunas figuras importantes, que pueden ser más altos—,
       y viven en promedio trescientos años dado el calendario de
       <span class="style-lytflos">Lytflos</span>. Entre otras características: tienen 4 dedos en
-      cada mano y pie; el color de su tejido epidérmico no se limita al verde, sino que puede
-      contener manchas y patrones; y dependiendo de sus familias, en sus cabezas les crecen hojas,
-      pétalos, u hongos, que parecen cabellos.
+      cada mano y pie; el color de su tejido epitelial (su «piel») no se limita al verde, sino que
+      puede contener manchas y patrones; y dependiendo de sus familias, en sus cabezas les crecen
+      hojas, pétalos, u hongos, que parecen cabellos.
     </p>
     <img src="/images/folia-concept-art.webp" alt="Folia concept art" loading="lazy" />
     <p style="text-align: center">
-      <small> (Ilustrado por <a target="_blank">@Piuwpa</a>) </small>
+      <small>
+        (Ilustrado por <a href="https://piuwpa.neocities.org/" target="_blank">@Piuwpa</a>)
+      </small>
     </p>
     <p>
       Cuando fallecen, se dice que «marchitan»: lentamente pierden su lozanía, coloración, y
       finalmente se disuelven en pétalos —o en otros casos flores o esporas— que destellan del color
       de sus írises, dejando atrás una semilla que tradicionalmente es plantada en un lugar
-      considerado especial por sus familiares. Un <span class="style-folia">folia</span> puede
+      considerado especial por sus seres queridos. Un <span class="style-folia">folia</span> puede
       permanecer sin vida hasta 3 días antes de marchitar, pero este puede disolverse en pétalos en
       menos tiempo o hasta inmediatamente si fallece de formas violentas.
     </p>
@@ -59,7 +61,7 @@ const name = '☘ Folia ☘';
       Cada <span class="style-folia">folia</span> cuenta con un talento —un
       <span class="style-nodes">nodo</span> asociado a su <span class="style-branches">rama</span>—
       que pueden utilizar sin necesidad de aprenderlo de antemano. Este no cuenta al momento de
-      <span>completar un nivel</span>.
+      <a href="#levels">completar un nivel</a>.
     </p>
     <h3 id="winged">- Alado</h3>
     <p>
@@ -141,7 +143,7 @@ const name = '☘ Folia ☘';
         </small>
       </p>
     </article>
-    <h2 id="hybrids-&-levels">~ Híbridos y niveles</h2>
+    <h2>~ <text id="hybrids">Híbridos</text> y <text id="levels">niveles</text></h2>
     <p>
       La primera <span class="style-roots">raíz</span> y <span class="style-nodes">nodo</span> de un
       <span class="style-folia">folia</span> están atados al de su

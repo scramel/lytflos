@@ -411,8 +411,8 @@ const name = '☆ Estela ☆';
       <span class="style-folia">folia</span> a otro sin expulsarla y a través del contacto físico.
     </p>
     <h2>
-      ~ <span id="iris-fragments">Fragmentos de iris</span> y
-      <span id="golden-bubbles">burbujas de oro</span>
+      ~ <text id="iris-fragments">Fragmentos de iris</text> y
+      <text id="golden-bubbles">burbujas de oro</text>
     </h2>
     <p>
       La <span class="style-pure-startrail">estela pura</span> puede tomar dos formas:
