@@ -8,22 +8,19 @@ const name = '☆ Estela ☆';
     <hr />
     <p>
       El término utilizado tanto para cuantificar como para describir la manifestación física de la
-      energía mágica que tanto <a href="#folia" class="style-folia">folia</a> como ciertas otras
-      plantas pueden generar. Se genera a partir de la luz del día, y se utiliza para evocar
-      <a href="#roots" class="style-roots">raíces</a>,
-      <a href="#nodes" class="style-nodes">nodos</a>,
-      <a href="#anthesis" class="style-anthesis">antesis</a>, inducir
-      <a href="#stellar-phenomena" class="style-stellar-phenomena">fenómenos estelares</a>, e
-      incluso como combustible para
-      <a href="#startrail-systems" class="style-startrail-systems">sistemas estela</a>, entre otras
-      cosas.
+      energía mágica que tanto <span class="style-folia">folia</span> como ciertas otras plantas
+      pueden generar. Se genera a partir de la luz del día, y se utiliza para evocar
+      <span class="style-roots">raíces</span>, <span class="style-nodes">nodos</span>,
+      <span class="style-anthesis">antesis</span>, inducir
+      <span class="style-stellar-phenomena">fenómenos estelares</span>, e incluso como combustible
+      para <span class="style-startrail-systems">sistemas estela</span>, entre otras cosas.
     </p>
     <p>
       Si bien puede tomar muchas formas, la más básica y fundamental de ellas es la
       <span class="style-pure-startrail">estela pura</span>, que es una especie de luz cálida,
       maleable, y tangile, que se divide en dos tipos y que todos los
       <span class="style-folia">folia</span> pueden usar independientemente de sus
-      <a href="branches" class="style-branches">ramas</a>, aunque es más débil que cualquier
+      <span class="style-branches">ramas</span>, aunque es más débil que cualquier
       <span class="style-roots">raíz</span>.
     </p>
     <p>
@@ -31,9 +28,8 @@ const name = '☆ Estela ☆';
       <span class="style-pure-startrail">estela pura</span> no va más allá de ser lo primero que los
       <span class="style-folia">folia</span>
       aprenden a manejar antes de aprender su primera <span class="style-roots">raíz</span>, sin
-      embargo su funcionamiento es relevante para el
-      <a href="#iris-fragments-&-golden-bubbles">ciclo estelar</a> y es usado para labores de
-      investigación científica.
+      embargo su funcionamiento es relevante para el <span>ciclo estelar</span> y es usado para
+      labores de investigación científica.
     </p>
     <p>
       Prolongar el uso de una <span class="style-roots">raíz</span> implica prolongar el consumo de
@@ -41,12 +37,12 @@ const name = '☆ Estela ☆';
       <span class="style-startrail">estela</span> es expulsada del
       <span class="style-folia">folia</span>, este se convierte en un tipo de
       <span class="style-pure-startrail">estela pura</span> denominado
-      <a href="#iris-fragments-&-golden-bubbles" class="style-iris-fragments">fragmentos de iris</a>
+      <span class="style-iris-fragments">fragmentos de iris</span>
       que los <span class="style-folia">folia</span> no pueden reabsorber, sino que antes debe ser
       procesado por ciertas otras plantas distintas de los <span class="style-folia">folia</span>.
     </p>
     <p>
-      Existen <a href="#laws">leyes</a> físicas que rigen el comportamiento de la
+      Existen <span>leyes</span> físicas que rigen el comportamiento de la
       <span class="style-startrail">estela</span>, dándole ciertas limitaciones y causando ciertas
       prohibiciones. Estas leyes se enseñan a través de rimas, siendo «lo que se hace siempre se
       deshace» la más conocida e importante de todas.
@@ -56,8 +52,7 @@ const name = '☆ Estela ☆';
     <p>
       Cuando alguien logra especializar su uso de la <span class="style-startrail">estela</span> en
       un campo específico, se dice que obtuvo una <span class="style-roots">raíz</span>. A veces el
-      término incluye también especializaciones de
-      <a href="#essence" class="style-essence">ánimo</a>. Un
+      término incluye también especializaciones de <span class="style-essence">ánimo</span>. Un
       <span class="style-folia">folia</span> puede teóricamente aprender cuantos quiera, pero solo
       podrá evocar hasta tres al mismo tiempo, y necesitará descansar antes de usar una cuarta, o de
       lo contrario su
@@ -73,7 +68,7 @@ const name = '☆ Estela ☆';
     <p>
       Una <span class="style-branches">rama</span> puede aprender las
       <span class="style-roots">raíces</span> de otras, pero durante su primer nivel está limitada a
-      aprender de la suya o neutras. Los <a href="#mefrino">mefrinos</a> son los únicos
+      aprender de la suya o neutras. Los <span>mefrinos</span> son los únicos
       <span class="style-folia">folia</span> que pueden aprender cualquier
       <span class="style-roots">raíz</span> desde su nacimiento.
     </p>
@@ -83,9 +78,8 @@ const name = '☆ Estela ☆';
         <small>
           La capacidad de arbitrariamente mover y dar forma a un
           <span class="style-elements">elemento</span> de la naturaleza, sea agua, fuego, hielo,
-          magma, etcétera. Normalmente los
-          <a href="#winged" class="style-winged">alados</a> necesitan ayuda de un compañero
-          <a href="#natur" class="style-natur">nátur</a> para aprender la
+          magma, etcétera. Normalmente los <span class="style-winged">alados</span> necesitan ayuda
+          de un compañero <span class="style-natur">nátur</span> para aprender la
           <span class="style-elements">manipulación elemental</span>, pero pueden manejarlo por sus
           cuentas una vez acostumbrados.
         </small>
@@ -98,9 +92,8 @@ const name = '☆ Estela ☆';
           Similar a un programa de computadora, estos siguen instrucciones al activarse. Cualquier
           <span class="style-branches">rama</span>
           puede activarlos, incluso remotamente, pero solo los
-          <a href="#caudate" class="style-caudate">caudados</a> pueden dibujarlos. Se elige una
-          especialidad entre mutación (estados de materia, transmutación) u ondas (temperatura,
-          gravedad, luz).
+          <span class="style-caudate">caudados</span> pueden dibujarlos. Se elige una especialidad
+          entre mutación (estados de materia, transmutación) u ondas (temperatura, gravedad, luz).
         </small>
       </p>
     </article>
@@ -130,8 +123,8 @@ const name = '☆ Estela ☆';
         <p>
           El color de resaltado indica exclusividad: <span class="style-winged">alado</span> es
           azul, <span class="style-caudate">caudado</span> es rojo, y
-          <a href="#flowering" class="style-flowering">florecido</a> es verde. Si no hay resaltado,
-          indica neutralidad—cualquier <span class="style-branches">rama</span> puede utilizarlo.
+          <span class="style-flowering">florecido</span> es verde. Si no hay resaltado, indica
+          neutralidad—cualquier <span class="style-branches">rama</span> puede utilizarlo.
         </p>
       </li>
       <li>
@@ -167,7 +160,7 @@ const name = '☆ Estela ☆';
         <p>
           Si un <span class="style-folia">folia</span> quiere darle los efectos de un
           <span class="style-nodes">nodo</span> propio a otro, el segundo debe permitirle acceso a
-          su <a href="#core">núcleo</a>. No obstante, los <span class="style-nodes">nodos</span> que
+          su <span>núcleo</span>. No obstante, los <span class="style-nodes">nodos</span> que
           funcionan con <span class="style-essence">ánimo</span> no tienen esta restricción.
         </p>
       </li>
@@ -234,8 +227,8 @@ const name = '☆ Estela ☆';
       <li>
         <h3 id="mirror" class="background-neutral">- Espejo</h3>
         Copia y utiliza cualquier <span class="style-nodes">nodo</span> y
-        <a href="#glyph" class="style-dendrites">glifo</a> activo en el blanco al momento de
-        accionarse a cambio de un gasto equivalente de <span class="style-startrail">estela</span>.
+        <span class="style-dendrites">glifo</span> activo en el blanco al momento de accionarse a
+        cambio de un gasto equivalente de <span class="style-startrail">estela</span>.
       </li>
       <li>
         <h3 id="bloom" class="background-neutral">- Floración</h3>
@@ -246,8 +239,8 @@ const name = '☆ Estela ☆';
       <li>
         <h3 id="forging-of-spiriums" class="background-flowering">- Forja de espírios</h3>
         La capacidad de sellar el <span class="style-essence">ánimo</span> impregnado en un objeto
-        en el mismo, creando un <a href="#spirition">espírio</a>. El
-        <span class="style-nodes">nodo</span> del espírio suele ser impredecible.
+        en el mismo, creando un <span>espírio</span>. El <span class="style-nodes">nodo</span> del
+        espírio suele ser impredecible.
       </li>
       <li>
         <h3 id="fusion" class="background-winged">- Fusión</h3>
@@ -258,8 +251,7 @@ const name = '☆ Estela ☆';
       <li>
         <h3 id="glyph" class="background-caudate">- Glifo</h3>
         Una <span class="style-dendrites">dendrita</span> miniatura que permite realizar
-        alteraciones sencillas.
-        <a href="#glyphs">Véase <span class="style-dendrites">glifos</span></a
+        alteraciones sencillas. <a>Véase <span class="style-dendrites">glifos</span></a
         >.
       </li>
       <li>
@@ -271,9 +263,9 @@ const name = '☆ Estela ☆';
       </li>
       <li>
         <h3 id="#light" class="background-neutral">- Luz</h3>
-        Cuando el <a href="#chrysalism" class="style-chrysalism">crisalismo</a> del objetivo llega a
-        su punto de quiebre, este <span class="style-nodes">nodo</span> extiende su vida hasta un
-        daño más. Solo se puede usar 1 vez al día.
+        Cuando el <span class="style-chrysalism">crisalismo</span> del objetivo llega a su punto de
+        quiebre, este <span class="style-nodes">nodo</span> extiende su vida hasta un daño más. Solo
+        se puede usar 1 vez al día.
       </li>
       <li>
         <h3 id="numb" class="background-flowering">- Entumecer</h3>
@@ -290,14 +282,13 @@ const name = '☆ Estela ☆';
       <li>
         <h3 id="teleport" class="background-caudate">- Teleportación</h3>
         Hace aparecer al usuario en una localización arbitraria dentro de su capacidad. Las
-        <a href="#transmutation-platforms">plataformas transmutadoras</a> usan un principio
-        parecido.
+        <span>plataformas transmutadoras</span> usan un principio parecido.
       </li>
       <li>
         <h3 id="auxiliary-snack" class="background-neutral">- Tentempié auxiliar</h3>
         Limpia al objetivo de todo <span class="style-nodes">nodo</span> u
         <span class="style-dendrites">glifo</span> activo en este, excepto de pasivos como el
-        <a href="#nattre" class="style-natur">natúreo</a>.
+        <span class="style-natur">natúreo</span>.
       </li>
       <li>
         <h3 id="lucky-seed" class="background-neutral">- Semilla de la suerte</h3>
@@ -322,7 +313,7 @@ const name = '☆ Estela ☆';
         <h3 id="nattre" class="background-winged">- Natúreo</h3>
         Permite entender y hablar el lenguaje de los <span class="style-natur">náturs</span>. Este
         <span class="style-nodes">nodo</span> funciona pasivamente y puede copiarse usando
-        <a href="#mirror">espejo</a>.
+        <span>espejo</span>.
       </li>
       <li>
         <h3 id="reflector" class="background-neutral">- Reflector</h3>
@@ -340,7 +331,7 @@ const name = '☆ Estela ☆';
       <li>
         <h3 id="solar-seed" class="background-neutral">- Semilla Solar</h3>
         Atrae y absorbe todas las
-        <a href="#iris-fragments-&-golden-bubbles" class="style-golden-bubbles">burbujas de oro</a>
+        <span class="style-golden-bubbles">burbujas de oro</span>
         cercanas si las hay. De lograrse, el usuario restaura la mitad de su
         <span class="style-startrail">estela</span>, e impide a otros usar el mismo
         <span class="style-nodes">nodo</span>.
@@ -349,8 +340,8 @@ const name = '☆ Estela ☆';
         <h3 id="revenge" class="background-neutral">- Venganza</h3>
         Desata todo el potencial de los poderes del usuario, pero le hace entrar en un estado de
         inestabilidad mental; querrá atacar todo a su paso. Todos los usuarios de
-        <a href="#essence" class="style-umbria">umbría</a> tienen este
-        <span class="style-nodes">nodo</span>, y se activa involuntariamente después de evocar
+        <span class="style-umbria">umbría</span> tienen este <span class="style-nodes">nodo</span>,
+        y se activa involuntariamente después de evocar
         <span class="style-umbria">negatividad</span> en demasía.
       </li>
       <li>
@@ -404,22 +395,25 @@ const name = '☆ Estela ☆';
       entrada de <span class="style-golden-bubbles">burbujas de oro</span>, lo cual les permite
       regenerar <span class="style-startrail">estela</span> sin arriesgarse a ser afectados por
       <span class="style-roots">raíces</span>, las cuales funcionan con
-      <a href="#iris-fragments-&-golden-bubbles" class="style-iris-fragments">fragmentos de iris</a
-      >. Dicho de otro modo, los <span class="style-folia">folia</span> son inmunes a ser
-      directamente afectados por <span class="style-dendrites">dendritas</span>, o a que manipulen
-      los <span class="style-elements">elementos naturales</span> que les conforman, entre otras
+      <span class="style-iris-fragments">fragmentos de iris</span>. Dicho de otro modo, los
+      <span class="style-folia">folia</span> son inmunes a ser directamente afectados por
+      <span class="style-dendrites">dendritas</span>, o a que manipulen los
+      <span class="style-elements">elementos naturales</span> que les conforman, entre otras
       posibilidades de similar calibre.
     </p>
     <p>
       Sin embargo, si un <span class="style-folia">folia</span> confía en otro, le es posible
       permitir la entrada de
-      <a href="#iris-fragments-&-golden-bubbles" class="style-iris-fragments">fragmentos de iris</a>
+      <span class="style-iris-fragments">fragmentos de iris</span>
       con solo desearlo. Esta práctica es la que se conoce como «dar acceso al núcleo», y no es
       necesario hacerla cuando solo se quiere realizar una inyección de
       <span class="style-startrail">estela</span>, que es su transferencia de un
       <span class="style-folia">folia</span> a otro sin expulsarla y a través del contacto físico.
     </p>
-    <h2 id="iris-fragments-&-golden-bubbles">~ Fragmentos de iris y burbujas de oro</h2>
+    <h2>
+      ~ <span id="iris-fragments">Fragmentos de iris</span> y
+      <span id="golden-bubbles">burbujas de oro</span>
+    </h2>
     <p>
       La <span class="style-pure-startrail">estela pura</span> puede tomar dos formas:
       <span class="style-iris-fragments">fragmentos</span> y
@@ -427,12 +421,11 @@ const name = '☆ Estela ☆';
       <span class="style-folia">folia</span> expulsa <span class="style-startrail">estela</span>,
       esta última toma forma de partículas vidriosas y brillantes que irradian color del iris de
       quien provino, dando lugar al nombre
-      <a href="#iris-fragments-&-golden-bubbles" class="style-iris-fragments">fragmentos de iris</a
-      >.
+      <span class="style-iris-fragments">fragmentos de iris</span>.
     </p>
     <p>
       Los
-      <a href="#iris-fragments-&-golden-bubbles" class="style-iris-fragments">fragmentos de iris</a>
+      <span class="style-iris-fragments">fragmentos de iris</span>
       solamente pueden ser absorbidos por plantas distintas de los
       <span class="style-folia">folia</span>, y si a dichas plantas les sobra
       <span class="style-startrail">estela</span>, entonces expulsan esta en una forma distinta que
@@ -491,8 +484,7 @@ const name = '☆ Estela ☆';
       <li>
         <p>
           <b>Atrapapesadillas:</b> un pequeño recipiente hecho para autodestruirse junto a su
-          contenido, normalmente un <a href="#negative-orb">orbe negativo</a>, al recibir un daño
-          considerable.
+          contenido, normalmente un <span>orbe negativo</span>, al recibir un daño considerable.
         </p>
       </li>
       <li>
@@ -508,10 +500,7 @@ const name = '☆ Estela ☆';
         <p>
           <b>Lo que se hace siempre se deshace:</b> Las creaciones hechas con
           <span class="style-startrail">estela</span> nunca son permanentes y siempre se disolverán
-          en
-          <a href="#iris-fragments-&-golden-bubbles" class="style-iris-fragments"
-            >fragmentos de iris</a
-          >.
+          en <span class="style-iris-fragments">fragmentos de iris</span>.
         </p>
         <p>
           <small>
@@ -552,16 +541,15 @@ const name = '☆ Estela ☆';
           <b>Lo que cedes nunca vuelve:</b> La <span class="style-startrail">estela</span> que los
           <span class="style-folia">folia</span>
           expulsan se vuelve
-          <a href="#iris-fragments-&-golden-bubbles" class="style-iris-fragments"
-            >fragmentos de iris</a
-          >, que no es absorbible por ellos hasta que estos sean convertidos en
+          <span class="style-iris-fragments">fragmentos de iris</span>, que no es absorbible por
+          ellos hasta que estos sean convertidos en
           <span class="style-golden-bubbles">burbujas de oro</span>.
         </p>
         <p>
           <small>
             Véase
-            <a href="#iris-fragments-&-golden-bubbles">fragmentos de iris y burbujas de oro</a
-            >.</small
+            <span class="style-iris-fragments">fragmentos de iris</span> y
+            <span class="style-golden-bubbles">burbujas de oro</span>.</small
           >
         </p>
       </li>

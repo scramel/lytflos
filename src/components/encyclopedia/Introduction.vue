@@ -7,36 +7,32 @@ const name = '✾ Introducción ✾';
     <h1 id="introduction" :name="name">{{ name }}</h1>
     <hr />
     <p>
-      En <a href="#cosmos" class="style-lytflos">Lytflos</a>, año 29XX, existe una normalmente
-      pacífica civilización de adorables plantas antropomórficas: los
-      <a href="#folia" class="style-folia">folia</a>. A través de un proceso similar al de la
-      fotosíntesis, ellos son capaces de convertir la luz del día en magia que llaman
-      <a href="#startrail" class="style-startrail">estela</a> y utilizarla para crear, mover, y
-      alterar su entorno, llevando a cabo habilidades denominadas
-      <a href="#roots" class="style-roots">raíces</a>.
+      En <span class="style-lytflos">Lytflos</span>, año 29XX, existe una normalmente pacífica
+      civilización de adorables plantas antropomórficas: los <span class="style-folia">folia</span>.
+      A través de un proceso similar al de la fotosíntesis, ellos son capaces de convertir la luz
+      del día en magia que llaman <span class="style-startrail">estela</span> y utilizarla para
+      crear, mover, y alterar su entorno, llevando a cabo habilidades denominadas
+      <span class="style-roots">raíces</span>.
     </p>
     <p>
       Al nacer, dependiendo de las características físicas del
       <span class="style-folia">folia</span>, este es clasificado como
-      <a href="#winged" class="style-winged">alado</a>,
-      <a href="#caudate" class="style-caudate">caudado</a>, o
-      <a href="#flowering" class="style-flowering">florecido</a>. Así nace el término
-      <a href="#branches" class="style-branches">rama</a>, y cada una manipula la
+      <span class="style-winged">alado</span>, <span class="style-caudate">caudado</span>, o
+      <span class="style-flowering">florecido</span>. Así nace el término
+      <span class="style-branches">rama</span>, y cada una manipula la
       <span class="style-startrail">estela</span> de maneras distintivas. En la
-      <a href="#republic">Ecocracia de <span class="style-triadia">Triadia</span></a>
+      <span class="style-triadia">Ecocracia de Triadia</span>
       cada <span class="style-branches">rama</span> vive en armonía, y juntas la mantienen a salvo
       tanto de desastres naturales causados por los encantadores aunque ocasionalmente inestables
-      <a href="#natur" class="style-natur">náturs</a>, como de los estragos ocasionados por sombrías
-      criaturas nacientes de la <a href="#essence" class="style-umbria">negatividad</a> en los
-      corazones de los seres vivos.
+      <span class="style-natur">náturs</span>, como de los estragos ocasionados por sombrías
+      criaturas nacientes de la <span class="style-umbria">negatividad</span> en los corazones de
+      los seres vivos.
     </p>
     <h2 id="about">~ Acerca de</h2>
     <p>
       Este documento comprende todo el
-      <a href="https://es.wikipedia.org/wiki/Construcci%C3%B3n_de_mundos" target="_blank"
-        >worldbuilding</a
-      >
-      detrás de la historia contada en <a href="" class="style-folia style-folia--game">Folia</a>, y
+      <a target="_blank">worldbuilding</a>
+      detrás de la historia contada en <span class="style-folia style-folia--game">Folia</span>, y
       lo escribí para que quienes quieran producir contenido basado en esta puedan tener una
       referencia que ayude a mantener la consistencia e inmersión de sus obras (¡incluyéndome!).
     </p>

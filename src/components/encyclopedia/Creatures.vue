@@ -6,10 +6,66 @@ const name = '❦ Criaturas ❦';
   <section id="section-creatures">
     <h1 id="creatures" :name="name">{{ name }}</h1>
     <hr />
+    <h2 id="meion">~ Meion</h2>
     <p>
-      Existen varias criaturas propias de <span class="style-lytflos">Lytflos</span> algunas
-      intrínsecamente relacionadas con la estela o el ánimo, y otras que sencillamente han sido
-      parte del mundo desde quién sabe cuándo.
+      Seres nacidos de la <span class="style-umbria">negatividad</span> en los corazones de los
+      seres vivos. Se ven como animales oscurecidos, e intentan influenciar a las personas
+      susurrándoles miedos, preocupaciones, inseguridades, y malas ideas, con el objetivo de crear
+      un círculo vicioso en sus víctimas y fortalecerse.
+    </p>
+    <p>
+      Para un no-<span class="style-flowering">florecido</span>, la influencia de un meion es
+      indistinguible de sus propios pensamientos y emociones, lo cual hace que, al estar aislados,
+      sean mucho más vulnerables ante la <span class="style-umbria">negatividad</span> que las demás
+      <span class="style-branches">ramas</span>. Es la misma razón por la cual muchos no se percatan
+      cuando son encerrados en un <span>agujero umbrío</span>.
+    </p>
+    <p>
+      Dependiendo de cuánta <span class="style-umbria">negatividad</span> ha reunido, un meion puede
+      ser una molestia trivial o peligroso en extremo, pero todos deben ser tratados con la misma
+      seriedad puesto que son insaciables, e incluso el más inofensivo de ellos puede convertirse en
+      una amenaza de máximo nivel en pocos días. Aquellos que han reunido demasiada
+      <span class="style-umbria">negatividad</span> adoptan un aspecto quimérico, o el aspecto de un
+      <span class="style-folia">folia</span> si el meion creció en uno.
+    </p>
+    <p>
+      Son inmunes contra la <span class="style-startrail">estela</span>, por lo que son derrotados a
+      través de <span>expiaciones</span> o utilizando el entorno, por ejemplo con la ayuda de los
+      <span class="style-natur">náturs</span>, los cuales los meion temen, o los
+      <span class="style-elements">elementos naturales</span>. Al ser derrotados, los meion se
+      vuelven <span>orbes negativos</span>.
+    </p>
+    <p>
+      Aunque un meion se puede trasfigurar como desee, generalmente tiende a tomar una de las
+      siguientes formas dependiendo de la <span class="style-umbria">negatividad</span> que
+      esparcen:
+    </p>
+    <ul>
+      <li>
+        <p><b>Avaricia:</b> dragones y sapos.</p>
+      </li>
+      <li>
+        <p><b>Envidia:</b> serpientes y escorpiones.</p>
+      </li>
+      <li>
+        <p><b>Ira:</b>leones, felinos, e insectos.</p>
+      </li>
+      <li>
+        <p><b>Pereza:</b> caracoles y perros.</p>
+      </li>
+      <li>
+        <p><b>Glotonería:</b> glotones y cerdos.</p>
+      </li>
+      <li>
+        <p><b>Lujuria:</b> cabras y conejos.</p>
+      </li>
+      <li>
+        <p><b>Orgullo:</b> pavos y gatos.</p>
+      </li>
+    </ul>
+    <p>
+      En cuanto a las quimeras, estas combinan las características de los meion que las conforman.
+      Tras suficientes funciones, una quimera pasa a ser un <span>dracolia</span>.
     </p>
     <h2 id="shade">~ Sombra</h2>
     <p>
@@ -87,62 +143,6 @@ const name = '❦ Criaturas ❦';
       tanto que les distraen completamente de sus actividades, pero el sonido en cuestión es
       diferente para cada individuo.
     </p>
-    <h2 id="meion">~ Meion</h2>
-    <p>
-      Seres nacidos de sentimientos negativos. Se ven como animales oscurecidos, e intentan
-      influenciar a las personas susurrando inseguridades, miedos, preocupaciones, y malas ideas,
-      con el objetivo de crear un círculo vicioso en sus víctimas para fortalecerse a ellos mismos.
-    </p>
-    <p>
-      Para un no-florecido que tiene sentimientos encontrados, la influencia de un meion es
-      prácticamente indistinguible de sus propios pensamientos, haciéndoles especialmente peligrosos
-      contra
-      <span class="style-folia">folia</span>
-      aislados de otros. La razón por la cual muchos folia no se percatan de encontrarse dentro de
-      un agujero umbrío se debe al mismo principio.
-    </p>
-    <p>
-      Dependiendo de cuánta negatividad haya reunido, un meion puede ser inofensivo o en extremo
-      peligroso. Los meion siempre buscan alimentarse más, por lo que incluso el más débil de ellos
-      puede convertirse en una amenaza. Aquellos que reúnen demasiada negatividad toman un aspecto
-      quimérico. Si su mayor crecimiento tomó lugar dentro de un folia, el meion tiende a tomar un
-      aspecto parecido a este.
-    </p>
-    <p>
-      Son derrotados a través de expiaciones o fuerza bruta, y deben ser evadidos por civiles a toda
-      costa. Al ser derrotados, los meion se materializan en orbes negativos. Un meion de aspecto
-      animal tiende a tomar una de las siguientes formas dependiendo de la clase de influencia que
-      tienen:
-    </p>
-    <ul>
-      <li>
-        <p><b>Avaricia:</b> dragones y sapos.</p>
-      </li>
-      <li>
-        <p><b>Envidia:</b> serpientes y escorpiones.</p>
-      </li>
-      <li>
-        <p><b>Ira:</b>leones, felinos, e insectos.</p>
-      </li>
-      <li>
-        <p><b>Pereza:</b> caracoles y perros.</p>
-      </li>
-      <li>
-        <p><b>Glotonería:</b> glotones y cerdos.</p>
-      </li>
-      <li>
-        <p><b>Lujuria:</b> cabras y conejos.</p>
-      </li>
-      <li>
-        <p><b>Orgullo:</b> pavos y gatos.</p>
-      </li>
-    </ul>
-    <p>
-      A niveles prácticos, esta criatura puede tomar cualquier forma que desee, por lo que la lista
-      previa representa solamente las formas más comunes. En cuanto a las quimeras, al dos meion
-      fusionarse, toman las características de sus apariencias originales y se combinan. Si un meion
-      quimérico lleva a cabo demasiadas fusiones, este pasa a ser un meion dracolia.
-    </p>
     <h2 id="dracolia">~ Dracolia</h2>
     <p>
       El resultado de demasiados meion fusionados en un solo cuerpo. Su representación gráfica suele
@@ -180,9 +180,9 @@ const name = '❦ Criaturas ❦';
       Hablan su propio lenguaje que es posible aprender: el natúreo. Los
       <span class="style-folia">folia</span> alados entienden náturs intuitivamente, y es posible
       para estos últimos fusionarse con cualquier <span class="style-folia">folia</span>, aunque es
-      mucho más difícil para náturs fusionarse con no-alados. Aparentemente pueden vivir para
-      siempre, pero es posible que desaparezcan si se quedan sin energías y/o naturaleza que
-      representar.
+      mucho más difícil para náturs fusionarse con no-<span class="style-winged">alados</span>.
+      Aparentemente pueden vivir para siempre, pero es posible que desaparezcan si se quedan sin
+      energías y/o naturaleza que representar.
     </p>
     <p>
       Cuando se fusionan con un <span class="style-folia">folia</span>, este recibe los poderes del

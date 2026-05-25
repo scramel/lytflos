@@ -8,11 +8,10 @@ const name = '⛿ Triadia ⛿';
     <hr />
     <p>
       La <b>Ecocracia de <span class="style-triadia">Triadia</span></b> es el gobierno más
-      importante y grande de <a href="#cosmos" class="style-lytflos">Lytflos</a>. Es dirigido por
-      cuatro representantes —uno por cada <span class="style-branches">rama</span> y uno para su
-      armonía—, seleccionados por sus méritos y luego elegidos democráticamente a través del sistema
-      <a href="https://es.wikipedia.org/wiki/Voto_%C3%BAnico_transferible">VUT</a>, que toman
-      decisiones ejecutivas tomando en cuenta los intereses de los
+      importante y grande de <span class="style-lytflos">Lytflos</span>. Es dirigido por cuatro
+      representantes —uno por cada <span class="style-branches">rama</span> y uno para su armonía—,
+      seleccionados por sus méritos y luego elegidos democráticamente a través del sistema
+      <span>VUT</span>, que toman decisiones ejecutivas tomando en cuenta los intereses de los
       <span class="style-folia">folia</span>, el equilibrio entre sus
       <span class="style-branches">ramas</span>, su protección, y el cuidado de la naturaleza.
     </p>
@@ -25,11 +24,10 @@ const name = '⛿ Triadia ⛿';
     </p>
     <p>
       Para traversar de una ciudad a otra se utilizan
-      <a href="#transmutation-platforms">plataformas transmutadoras</a>, lo cual facilita a los
+      <span>plataformas transmutadoras</span>, lo cual facilita a los
       <span class="style-folia">folia</span> viajar o incluso trabajar entre regiones sin
-      preocuparse por largas distancias. El <a href="#dendron-express">expreso dendrón</a> también
-      conecta todas las ciudades, pero este está a punto de abandonar sus funciones a favor de las
-      plataformas.
+      preocuparse por largas distancias. El <span>expreso dendrón</span> también conecta todas las
+      ciudades, pero este está a punto de abandonar sus funciones a favor de las plataformas.
     </p>
     <p>
       Los sitios inexplorados de
@@ -49,8 +47,8 @@ const name = '⛿ Triadia ⛿';
       séptima ciudad de
       <span class="style-triadia">Triadia</span> , pero aún existen zonas peligrosas y prohibidas a
       las que solo es permitido ir con la compañía de un arqueólogo o un expiador. Una sede de
-      Tipo-II solía funcionar aquí, pero en el presente sus funciones han sido suspendidas y el
-      edificio ha sido convertido en un almacén.
+      <span>Tipo-II</span> solía funcionar aquí, pero en el presente sus funciones han sido
+      suspendidas y el edificio ha sido convertido en un almacén.
     </p>
     <b>Habitantes:</b>
     <ul>
@@ -59,7 +57,11 @@ const name = '⛿ Triadia ⛿';
     <b>Localizaciones:</b>
     <ul>
       <li
-        v-for="name in ['Garage de Tipo-II', 'Zona residencial abandonada', 'Taller Ibelle'].sort()"
+        v-for="name in [
+          'Garage de <span>Tipo-II</span>',
+          'Zona residencial abandonada',
+          'Taller Ibelle',
+        ].sort()"
       >
         {{ name }}
       </li>
@@ -192,10 +194,10 @@ const name = '⛿ Triadia ⛿';
     <h2 id="dendron-express">~ Expreso Dendrón</h2>
     <p>
       También conocido como solamente Dendrón, es un sistema ferroviario que conecta con todas las
-      ciudades de <span class="style-triadia">Triadia</span> . Fue construído por Tipo-II usando
-      nada más que sistemas estela, lo cual le permite funcionar exclusivamente a base de estela sin
-      necesidad de generar energía eléctrica. En el presente es mayormente ignorado a favor de las
-      plataformas transmutadoras.
+      ciudades de <span class="style-triadia">Triadia</span> . Fue construído por
+      <span>Tipo-II</span> usando nada más que sistemas estela, lo cual le permite funcionar
+      exclusivamente a base de estela sin necesidad de generar energía eléctrica. En el presente es
+      mayormente ignorado a favor de las plataformas transmutadoras.
     </p>
     <p>
       Debido a su prácticamente nula clientela, solo un único maquinista está a cargo de los viajes:
@@ -362,10 +364,10 @@ const name = '⛿ Triadia ⛿';
     <p>
       Se dice que la sangre de los mejores caudados reside en esta ciudad. Entre otras cosas, la
       Torre del CERT, donde se entrenan los mejores expiadores del mundo, se encuentra en esta
-      ciudad. También están la sede principal de Tipo-II, actualmente inactiva, y el Instituto de
-      Investigación de
-      <span class="style-dendrites">Raíces Dendríticas</span> de Rérecros, o sencillamente Instituto
-      Rérecros, donde suelen ocurrir los avances más destacados en el campo.
+      ciudad. También están la sede principal de <span>Tipo-II</span>, actualmente inactiva, y el
+      Instituto de Investigación de <span class="style-dendrites">Raíces Dendríticas</span> de
+      Rérecros, o sencillamente Instituto Rérecros, donde suelen ocurrir los avances más destacados
+      en el campo.
     </p>
     <b>Habitantes:</b>
     <ul>

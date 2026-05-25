@@ -132,8 +132,8 @@ const name = '🙒 Cultura 🙒';
         <p>
           <b>Jericho R. Haberlea:</b> Criminal de guerra. Verdugo espía que se infiltró entre los
           caballeros de Aricontes y asesinó numerosas personas con el fin de forjar la
-          <a href="#philosophers-stone">piedra filosofal</a>, además de haber robado varios espírios
-          legendarios, entre ellos tres anillos septenarios. Desaparecido.
+          <span>piedra filosofal</span>, además de haber robado varios espírios legendarios, entre
+          ellos tres anillos septenarios. Desaparecido.
         </p>
       </li>
     </ul>
@@ -202,10 +202,11 @@ const name = '🙒 Cultura 🙒';
     <h3 id="dendron-express">- Expreso Dendrón</h3>
     <p>
       El ferrocarril que conecta con las siete ciudades de
-      <span class="style-triadia">Triadia</span> . Producido por Tipo-II, fue exitoso debido a su
-      ingenioso sistema estela, combinado con la necesidad de transporte que existía entonces, y las
-      hermosas vistas de su viaje. Es prácticamente un símbolo cultural en el presente pese a no ser
-      usado en la actualidad debido a la preferencia por las plataformas transmutadoras.
+      <span class="style-triadia">Triadia</span> . Producido por <span>Tipo-II</span>, fue exitoso
+      debido a su ingenioso sistema estela, combinado con la necesidad de transporte que existía
+      entonces, y las hermosas vistas de su viaje. Es prácticamente un símbolo cultural en el
+      presente pese a no ser usado en la actualidad debido a la preferencia por las plataformas
+      transmutadoras.
     </p>
     <h3 id="run-away-from-the-fux">- Huye del zorro</h3>
     <p>
@@ -240,8 +241,9 @@ const name = '🙒 Cultura 🙒';
     </p>
     <p>
       La utilidad y éxito de este invento ha sido tal que es considerado uno de los logros más
-      importantes en la historia del mundo, y que resultó en la casi bancarrota de Tipo-II, cuyos
-      principales ingresos provenían del transporte por ferrocarril y dirigibles.
+      importantes en la historia del mundo, y que resultó en la casi bancarrota de
+      <span>Tipo-II</span>, cuyos principales ingresos provenían del transporte por ferrocarril y
+      dirigibles.
     </p>
     <h3 id="religion">- Religión</h3>
     <p>

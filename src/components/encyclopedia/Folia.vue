@@ -8,10 +8,10 @@ const name = '☘ Folia ☘';
     <hr />
     <p>
       La característica principal de estas criaturas es su capacidad de manipular
-      <a href="#startrail" class="style-startrail">estela</a> a voluntad. Generalmente son
-      descendientes de organismos eucariotas fotosintéticos (plantas y algas), pero existen algunas
-      excepciones que también desarrollaron esta propiedad, particularmente descendientes de
-      eucariotas sésiles (como hongos y corales).
+      <span class="style-startrail">estela</span> a voluntad. Generalmente son descendientes de
+      organismos eucariotas fotosintéticos (plantas y algas), pero existen algunas excepciones que
+      también desarrollaron esta propiedad, particularmente descendientes de eucariotas sésiles
+      (como hongos y corales).
     </p>
     <p>
       Generar <span class="style-startrail">estela</span> a partir de absorber energía lumínica es
@@ -25,16 +25,14 @@ const name = '☘ Folia ☘';
       poco más al humano. Los <span class="style-folia">folia</span> más altos pueden llegar a medir
       alrededor de un metro y medio —excepto algunas figuras importantes, que pueden ser más altos—,
       y viven en promedio trescientos años dado el calendario de
-      <a href="#cosmos" class="style-lytflos">Lytflos</a>. Entre otras características: tienen 4
-      dedos en cada mano y pie; el color de su tejido epidérmico no se limita al verde, sino que
-      puede contener manchas y patrones; y dependiendo de sus familias, en sus cabezas les crecen
-      hojas, pétalos, u hongos, que parecen cabellos.
+      <span class="style-lytflos">Lytflos</span>. Entre otras características: tienen 4 dedos en
+      cada mano y pie; el color de su tejido epidérmico no se limita al verde, sino que puede
+      contener manchas y patrones; y dependiendo de sus familias, en sus cabezas les crecen hojas,
+      pétalos, u hongos, que parecen cabellos.
     </p>
     <img src="/images/folia-concept-art.webp" alt="Folia concept art" loading="lazy" />
     <p style="text-align: center">
-      <small>
-        (Ilustrado por <a href="https://piuwpa.neocities.org/" target="_blank">@Piuwpa</a>)
-      </small>
+      <small> (Ilustrado por <a target="_blank">@Piuwpa</a>) </small>
     </p>
     <p>
       Cuando fallecen, se dice que «marchitan»: lentamente pierden su lozanía, coloración, y
@@ -47,23 +45,21 @@ const name = '☘ Folia ☘';
     <h2 id="branches">~ Ramas</h2>
     <p>
       Cada <span class="style-branches">rama</span> tiene características físicas únicas: los
-      <a href="#winged" class="style-winged">alados</a> tienen dos aberturas verticales en sus
-      espaldas de las que salen hojas que asemejan alas diminutas; de las aberturas se materializan
-      <a href="#solar-wings" class="style-winged">alas solares</a> cuando son inyectadas de
+      <span class="style-winged">alados</span> tienen dos aberturas verticales en sus espaldas de
+      las que salen hojas que asemejan alas diminutas; de las aberturas se materializan
+      <span class="style-winged">alas solares</span> cuando son inyectadas de
       <span class="style-startrail">estela</span>. Los
-      <a href="#caudate" class="style-caudate">caudados</a> tienen cola y en ocasiones flores justo
-      por encima de sus orejas, que se recubren de
-      <span class="style-startrail">estela</span> cuando utilizan sus
-      <a href="#dendrites" class="style-dendrites">dendritas</a>. Finalmente, los
-      <a href="#flowering" class="style-flowering">florecidos</a> llevan capullos en las palmas de
-      sus manos que se abren al emanar su
-      <a href="#stellar-pollen" class="style-pollen">polen estelar</a>.
+      <span class="style-caudate">caudados</span> tienen cola y en ocasiones flores justo por encima
+      de sus orejas, que se recubren de <span class="style-startrail">estela</span> cuando utilizan
+      sus <span class="style-dendrites">dendritas</span>. Finalmente, los
+      <span class="style-flowering">florecidos</span> llevan capullos en las palmas de sus manos que
+      se abren al emanar su <span class="style-pollen">polen estelar</span>.
     </p>
     <p>
       Cada <span class="style-folia">folia</span> cuenta con un talento —un
-      <a href="#nodes" class="style-nodes">nodo</a> asociado a su
-      <span class="style-branches">rama</span>— que pueden utilizar sin necesidad de aprenderlo de
-      antemano. Este no cuenta al momento de <a href="#hybrids-&-levels">completar un nivel</a>.
+      <span class="style-nodes">nodo</span> asociado a su <span class="style-branches">rama</span>—
+      que pueden utilizar sin necesidad de aprenderlo de antemano. Este no cuenta al momento de
+      <span>completar un nivel</span>.
     </p>
     <h3 id="winged">- Alado</h3>
     <p>
@@ -72,7 +68,7 @@ const name = '☘ Folia ☘';
       aberturas se materializan <span class="style-winged">alas solares</span> cuando son inyectadas
       de <span class="style-startrail">estela</span>. Esta
       <span class="style-branches">rama</span> también puede controlar
-      <a href="#elemental-manipulation" class="style-elements">elementos</a> de la naturaleza.
+      <span class="style-elements">elementos</span> de la naturaleza.
     </p>
     <p>
       Un <span class="style-winged">alado</span> expresa sus habilidades a través de mover el medio
@@ -97,11 +93,10 @@ const name = '☘ Folia ☘';
       Un <span class="style-folia">folia</span> <span class="style-caudate">caudado</span> tiene
       cola, y en ocasiones pétalos largos detrás de sus orejas, que se recubren de
       <span class="style-startrail">estela</span> cuando utilizan sus
-      <span class="style-dendrites">dendritas</span> y
-      <a href="#glyphs" class="style-dendrites">glifos</a>, los cuales les permiten alterar materia.
-      Evocar estas habilidades es como segundo instinto para los
-      <span class="style-caudate">caudados</span>, pero en ocasiones pierden el control debido a su
-      naturaleza compleja.
+      <span class="style-dendrites">dendritas</span> y <span class="style-dendrites">glifos</span>,
+      los cuales les permiten alterar materia. Evocar estas habilidades es como segundo instinto
+      para los <span class="style-caudate">caudados</span>, pero en ocasiones pierden el control
+      debido a su naturaleza compleja.
     </p>
     <p>
       En vez de mover corrientes de agua como podrían los <span class="style-winged">alados</span>,
@@ -127,12 +122,12 @@ const name = '☘ Folia ☘';
       Un <span class="style-folia">folia</span> <span class="style-flowering">florecido</span> tiene
       capullos en las palmas de sus manos que se abren al emanar
       <span class="style-pollen">polen estelar</span>. Además, están dotados de una intuición que
-      les permite percibir <a href="#essence" class="style-essence">ánimo</a>.
+      les permite percibir <span class="style-essence">ánimo</span>.
     </p>
     <p>
       El <span class="style-pollen">polen estelar u ondular</span> es una entidad que genera
       partículas u ondas de características arbitrarias, y estas se disuelven en
-      <a href="#iris-fragments-&-golden-bubbles">fragmentos de iris</a> una vez el suministro de
+      <span class="style-iris-fragments">fragmentos de iris</span> una vez el suministro de
       <span class="style-startrail">estela</span> con la que se está emanando el
       <span class="style-pollen">polen</span> se interrumpe o se agota.
     </p>
@@ -148,10 +143,10 @@ const name = '☘ Folia ☘';
     </article>
     <h2 id="hybrids-&-levels">~ Híbridos y niveles</h2>
     <p>
-      La primera <a href="#roots" class="style-roots">raíz</a> y
-      <span class="style-nodes">nodo</span> de un <span class="style-folia">folia</span> están
-      atados al de su <span class="style-branches">rama</span> durante su primer nivel, y solamente
-      después de subir de nivel este puede aprender las habilidades de una
+      La primera <span class="style-roots">raíz</span> y <span class="style-nodes">nodo</span> de un
+      <span class="style-folia">folia</span> están atados al de su
+      <span class="style-branches">rama</span> durante su primer nivel, y solamente después de subir
+      de nivel este puede aprender las habilidades de una
       <span class="style-branches">rama</span> distinta. Al aprenderlas, el
       <span class="style-folia">folia</span> obtiene las características físicas de la
       <span class="style-branches">rama</span> a la que pertenecen las habilidades, y este estaría
@@ -165,7 +160,7 @@ const name = '☘ Folia ☘';
     <p>
       Cada nivel está conformado por una <span class="style-roots">raíz</span>, un
       <span class="style-nodes">nodo</span>, y una mejora de
-      <a href="#anthesis" class="style-anthesis">antesis</a>. No se puede aprender un segundo
+      <span class="style-anthesis">antesis</span>. No se puede aprender un segundo
       <span class="style-nodes">nodo</span> sin antes aprender una primera
       <span class="style-roots">raíz</span> que complete el primer nivel, y viceversa. Este
       principio incluye la mejora de <span class="style-anthesis">antesis</span>. también, por lo

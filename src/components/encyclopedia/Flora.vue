@@ -22,11 +22,11 @@ const name = '✾ Flora ✾';
     </p>
     <h2 id="solaris">~ Soláris</h2>
     <p>
-      Especialmente ubicado en campos abiertos. Absorben fragmentos de iris durante el día, y
-      expulsan los restos en forma de burbujas de estela durante la noche. Tienen muchas
-      propiedades, desde iluminativas hasta curativas, y sus pétalos son tan dorados como tan
-      expuestos al sol han estado. Se dice que el primer solaris nació de un trozo de semilla níblom
-      caída en la tierra.
+      Especialmente ubicado en campos abiertos. Absorben
+      <span class="style-iris-fragments">fragmentos de iris</span> durante el día, y expulsan los
+      restos en forma de burbujas de estela durante la noche. Tienen muchas propiedades, desde
+      iluminativas hasta curativas, y sus pétalos son tan dorados como tan expuestos al sol han
+      estado. Se dice que el primer solaris nació de un trozo de semilla níblom caída en la tierra.
     </p>
     <h2 id="black-clover">~ Trébol negro</h2>
     <p>

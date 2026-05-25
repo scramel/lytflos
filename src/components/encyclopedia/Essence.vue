@@ -8,16 +8,15 @@ const name = '✳ Ánimo ✳';
     <hr />
     <p>
       La magia de los sentimientos. Una magia distinta de la
-      <a href="#startrail" class="style-startrail">estela</a>, pero muy relacionada. Proviene de las
-      emociones intensas en los seres vivos, y se divide en
-      <span class="style-lucero">positividad</span> y <span class="style-umbria">negatividad</span>.
-      Como resultado, se trata de una energía más abstracta, cuyas reglas no son tan objetivas ni
-      estrictas, y que los seres vivos no necesariamente controlan a voluntad, lo cual hace que el
-      <span class="style-essence">ánimo</span> pueda manifestarse en formas tanto arbitrarias como
-      autónomas, como son las criaturas conocidas como <a href="#meion">meions</a> y
-      <a href="#shade">sombras</a>. Estas entidades no colisionan con otras hechas de
-      <span class="style-startrail">estela</span>, como el
-      <a href="#stellar-pollen" class="style-pollen">polen estelar</a>.
+      <span class="style-startrail">estela</span>, pero muy relacionada. Proviene de las emociones
+      intensas en los seres vivos, y se divide en <span class="style-lucero">positividad</span> y
+      <span class="style-umbria">negatividad</span>. Como resultado, se trata de una energía más
+      abstracta, cuyas reglas no son tan objetivas ni estrictas, y que los seres vivos no
+      necesariamente controlan a voluntad, lo cual hace que el
+      <span class="style-essence">ánimo</span> pueda adoptar formas tanto arbitrarias como
+      autónomas, como lo son los <span>meion</span> y las <span>sombras</span>. Estas entidades no
+      colisionan con otras hechas de <span class="style-startrail">estela</span>, como el
+      <span class="style-pollen">polen estelar</span>.
     </p>
     <p>
       El <span class="style-essence">ánimo </span>
@@ -31,7 +30,7 @@ const name = '✳ Ánimo ✳';
       se les conocen como <span class="style-crooked">plagados</span>. En cualquier caso, el
       <span class="style-essence">ánimo</span> puede ser utilizado para generar
       <span class="style-startrail">estela</span> sin necesidad de extraerlo de un
-      <a href="#core">núcleo</a>.
+      <span>núcleo</span>.
     </p>
     <h2 id="anima">~ Ánima</h2>
     <p>
@@ -40,13 +39,13 @@ const name = '✳ Ánimo ✳';
       vivencias, pero no guarda ninguna de estas.
     </p>
     <p>
-      En <a href="#cosmos" class="style-lytflos">Lytflos</a>, los
-      <a href="#folia" class="style-folia">folia</a> utilizan este concepto para intentar explicar
-      el origen del <span class="style-essence">ánimo</span>, pero no han sido capaces de probar su
+      En <span class="style-lytflos">Lytflos</span>, los
+      <span class="style-folia">folia</span> utilizan este concepto para intentar explicar el origen
+      del <span class="style-essence">ánimo</span>, pero no han sido capaces de probar su
       existencia. Similar al núcleo, el <span class="style-anima">ánima</span> sería esta batería
       donde se almacena el <span class="style-essence">ánimo</span>. Durante el siglo 25, un
-      <a href="#hybrids-&-levels" class="style-hybrid"> caudado-florecido</a> propuso usar
-      <a href="#negative-orb">orbes de sombras</a> como método para atrapar
+      <span class="style-hybrid"> caudado-florecido</span> propuso usar
+      <span>orbes de sombras</span> como método para atrapar
       <span class="style-anima">ánimas</span>, pero el método es rechazado ya que involucra un
       proceso bastante sangriento:
       <span class="spoiler">
@@ -57,12 +56,11 @@ const name = '✳ Ánimo ✳';
     <h2 id="spirition">~ Espírio</h2>
     <p>
       Objeto animado. Reacciona a una o varias emociones concretas y acciona un
-      <a href="#nodes" class="style-nodes">nodo</a> propio, generalmente único e imposible de
-      reproducir usando otros medios. Forjar un espírio implica forjar una fuerte conexión emocional
-      con un objeto inanimado, y por ello es común que sean regalos de seres queridos o armas de
-      fieles portadores. Un espírio también puede transmitir sus emociones a su portador, y si un
-      lazo es lo suficientemente poderoso, incluso pueden conversar en un lenguaje que solo ellos
-      entienden.
+      <span class="style-nodes">nodo</span> propio, generalmente único e imposible de reproducir
+      usando otros medios. Forjar un espírio implica forjar una fuerte conexión emocional con un
+      objeto inanimado, y por ello es común que sean regalos de seres queridos o armas de fieles
+      portadores. Un espírio también puede transmitir sus emociones a su portador, y si un lazo es
+      lo suficientemente poderoso, incluso pueden conversar en un lenguaje que solo ellos entienden.
     </p>
     <p>
       Utilizar demasiado un mismo espírio ocasiona desensibilización emocional, debido a que el
@@ -76,8 +74,8 @@ const name = '✳ Ánimo ✳';
       Un espírio legendario de dudosa existencia, rumoreado de poseer propiedades curativas
       imposibles de alcanzar por cualquier magia o incluso ciencia, siendo capaz de otorgar desde la
       cura a cualquier enfermedad hasta la juventud eterna. Fue especialmente codiciado durante la
-      <a href="#age-of-conquest">Era de Conquista</a>, aunque se especula de su existencia desde los
-      <a href="#former-years">Años Anteriores</a>, evidenciado por documentos ilustrados antiguos.
+      <span>Era de Conquista</span>, aunque se especula de su existencia desde los
+      <span>Años Anteriores</span>, evidenciado por documentos ilustrados antiguos.
     </p>
     <h2 id="anima-quartz">~ Cuarzos de ánima</h2>
     <p>
@@ -86,7 +84,7 @@ const name = '✳ Ánimo ✳';
       <span class="style-startrail">estela</span> infinita y la resurrección de
       <span class="style-anima">ánimas</span> perdidas, pero nadie nunca ha reunido todas sus piezas
       para saberlo. Su origen es igualmente misterioso, especulado a inicios de los
-      <a href="later-years">Años Posteriores</a>.
+      <span>Años Posteriores</span>.
     </p>
     <p>
       La verdad desconocida comienza con
@@ -152,14 +150,14 @@ const name = '✳ Ánimo ✳';
     <h2 id="anillos-septenarios">~ Anillos septenarios</h2>
     <p>
       Espírios cuyos orígenes tuvieron lugar durante los inicios del
-      <a href="#second-millenium">segundo milenio</a>. Son un juego de anillos de tres pares y uno
-      singular, cada uno con un grabado distinto, forjados por <b>Drasil el Frondoso</b> con el
-      expreso motivo de proteger a las <a href="#branches" class="style-branches">ramas</a>,
-      entonces separadas por la guerra, de los <a href="#natur" class="style-natur">náturs</a> y las
+      <span>segundo milenio</span>. Son un juego de anillos de tres pares y uno singular, cada uno
+      con un grabado distinto, forjados por <b>Drasil el Frondoso</b> con el expreso motivo de
+      proteger a las <span class="style-branches">ramas</span>, entonces separadas por la guerra, de
+      los <span class="style-natur">náturs</span> y las
       <span class="style-umbria">criaturas negativas</span> que en ese tiempo causaban catástrofes
       alrededor del mundo. Se dio que con el tiempo, los pueblos y clanes portadores de dichos
-      anillos dieron lugar a lo que ahora son las <a href="#triadia">Siete Ciudades</a>, que son
-      sumamente importantes para el mundo en la actualidad.
+      anillos dieron lugar a lo que ahora son las <span>Siete Ciudades</span>, que son sumamente
+      importantes para el mundo en la actualidad.
     </p>
     <p>
       Los <span class="style-nodes">nodos</span> de estos anillos están relacionados con el
@@ -239,7 +237,7 @@ const name = '✳ Ánimo ✳';
       respectivas ciudades. Kléidflos y Nouxia están en posesión de los hermanos Keyes, Nidusavi es
       cuidado por la familia Midiki, Kordyle está en el tesoro de los Fóster, Kounou y Leirion los
       llevan <b>Teri el Vagante</b> y <b>Tachi la Vagante</b> respectivamente, y de Asuberu se
-      desconoce su paradero, aunque se rumorea que está en manos de <a href="#ivlis">IVLIS</a>.
+      desconoce su paradero, aunque se rumorea que está en manos de <span>IVLIS</span>.
     </p>
     <p>
       Durante la Era de Conquista fueron muy codiciados. Jericho Haberlea, un verdugo que se
@@ -258,33 +256,31 @@ const name = '✳ Ánimo ✳';
     <h2 id="negative-orb">~ Orbe negativo</h2>
     <p>
       Cuando una <span class="style-umbria">criatura negativa</span> es
-      <a href="expiation">expiada</a> —derrotada usando
+      <span>expiada</span> —derrotada usando
       <span class="style-essence">ánimo</span>
       en vez de fuerza bruta—, esta deja atrás un <b>orbe negativo</b>, que es la culminación de los
       sentimientos que formaron dicha criatura, selladas.
     </p>
     <p>
       Su apariencia es la de un mineral incrustado en una piedra. El orbe negativo salido de una
-      <a href="#shade">sombra</a> tiene una forma que asemeja un corazón. Si un orbe se rompe en
-      contacto con un ser vivo, este absorbe la <span class="style-umbria">negatividad</span> que
-      alguna vez formó la <span class="style-umbria">criatura negativa</span> que fue expiada; sino,
-      el orbe y su energía se deshacen, haciéndolos imposibles de recuperar.
+      <span>sombra</span> tiene una forma que asemeja un corazón. Si un orbe se rompe en contacto
+      con un ser vivo, este absorbe la <span class="style-umbria">negatividad</span> que alguna vez
+      formó la <span class="style-umbria">criatura negativa</span> que fue expiada; sino, el orbe y
+      su energía se deshacen, haciéndolos imposibles de recuperar.
     </p>
     <p>
-      Por lo general, estos orbes se custodian en <a href="#glasshouse">invernaderos</a> —sus
-      <b>criptas umbriáticas—</b>, y son supervisados por sus respectivos
-      <a href="exegete">exégetas</a>. Sin embargo, cuando la gente decide conservarlos como recuerdo
-      —a menudo debido a que el proceso de expiación tiende a traer catársis—, se les instala un
-      <a href="#startrail-systems">atrapapesadillas</a>, el cual garantiza la destrucción inmediata
-      de los orbes en caso de un accidente.
+      Por lo general, estos orbes se custodian en <span>invernaderos</span> —sus
+      <b>criptas umbráticas—</b>, y son supervisados por sus respectivos <span>exégetas</span>. Sin
+      embargo, cuando la gente decide conservarlos como recuerdo —a menudo debido a que el proceso
+      de expiación tiende a traer catársis—, se les instala un <span>atrapapesadillas</span>, el
+      cual garantiza la destrucción inmediata de los orbes en caso de un accidente.
     </p>
     <p>
       Solo los exégetas tienen permitido acceder a las criptas umbriáticas. Si otros desean acceder,
       debe ser bajo la supervisión obligatoria de un exégeta, o con un permiso dado por la cabeza
       del
-      <a href="#cert">CERT</a>, lo cual suele ocurrir para retirar orbes negativos y utilizarlos en
-      estudios científicos, o en entrenamientos para <a href="#expiator">expiadores</a> de máximo
-      nivel.
+      <span>CERT</span>, lo cual suele ocurrir para retirar orbes negativos y utilizarlos en
+      estudios científicos, o en entrenamientos para <span>expiadores</span> de máximo nivel.
     </p>
     <p></p>
     <h2 id="chrysalism">~ Crisalismo</h2>
@@ -292,9 +288,9 @@ const name = '✳ Ánimo ✳';
       El crisalismo es un especie de capa presente en todos los seres sentientes. Esta capa
       neutraliza dolor y daños derivados de la violencia, no obstante las consecuencias funcionales
       se mantienen: si los nervios de un brazo son atravesados, la víctima conservará el miembro y
-      no experimentará dolor, pero se mantendrá paralizado durante un día. El crisalismo no cancela
-      los daños provocados por accidentes o fenómenos naturales, los cuales incluyen aquellos
-      provocados por náturs.
+      no experimentará dolor, pero se mantendrá paralizado durante un día. El crisalismo no
+      neutraliza los daños provocados por accidentes o fenómenos naturales, los cuales incluyen
+      aquellos provocados por <span class="style-natur">náturs</span>.
     </p>
     <p>
       A medida que un cuerpo sufre daños, las zonas afectadas muestran marcas dendríticas similares
@@ -305,10 +301,10 @@ const name = '✳ Ánimo ✳';
     </p>
     <p>
       Tras un día, el crisalismo se regenera por sí solo, incluso si fue roto. Su origen y la razón
-      de su funcionamiento siguen siendo un misterio absoluto que nadie ha logrado descifrar.
+      de su funcionamiento siguen siendo un misterio que nadie ha logrado descifrar.
     </p>
 
-    <h2 id="agujero-umbrio">~ Agujero Umbrío</h2>
+    <h2 id="umbria-hole">~ Agujero Umbrío</h2>
     <p>
       Vórtice de <span class="style-umbria">negatividad</span> tan denso que atrapa a quien lo
       origina en una proyección de su propio subconsciente. Observadas desde afuera, se ven como
