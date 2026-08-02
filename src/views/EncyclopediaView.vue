@@ -46,6 +46,7 @@ const dictionary = [
     pattern:
       /^(híbrid[oa]s?|(alad[oa]s?|caudad[oa]s?|florecid[oa]s?)-(alad[oa]s?|caudad[oa]s?|florecid[oa]s?))$/,
   },
+  { href: '#meephrynn', pattern: /^mefrinos?$/ },
   // startrail
   { href: '#startrail', pattern: /^estela$/ },
   { href: '#roots', pattern: /^raí(z|ces)$/ },
@@ -77,6 +78,20 @@ const dictionary = [
   { href: '#cert', pattern: /^cert$/ },
   { href: '#type-ii', pattern: /^tipo-ii$/ },
   { href: '#ivlis', pattern: /^ivlis$/ },
+  // history
+  { href: '#former-years', pattern: /^años anteriores$/ },
+  { href: '#day-0', pattern: /^día 0$/ },
+  { href: '#later-years', pattern: /^años posteriores$/ },
+  { href: '#first-millenium', pattern: /^primer milenio$/ },
+  { href: '#second-millenium', pattern: /^segundo milenio$/ },
+  { href: '#third-millenium', pattern: /^tercer milenio$/ },
+  { href: '#age-of-conquest', pattern: /^era de conquista$/ },
+  { href: '#rerecros-tyrany', pattern: /^tiranía de rérecros$/ },
+  { href: '#keyes-siblings', pattern: /^hermanos keyes$/ },
+  { href: '#rotten-plague', pattern: /^plaga negativa$/ },
+  { href: '#faustiel-doctrine', pattern: /^doctrina de faustiel$/ },
+  { href: '#foundation-of-triadia', pattern: /^fundación de triadia$/ },
+  { href: '#representatives', pattern: /^representates de triadia$/ },
   // ... other terms
 ];
 

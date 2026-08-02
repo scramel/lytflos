@@ -8,36 +8,38 @@ const name = '❦ Criaturas ❦';
     <hr />
     <h2 id="meion">~ Meion</h2>
     <p>
-      Seres nacidos de la <span class="style-umbria">negatividad</span> en los corazones de los
-      seres vivos. Se ven como animales oscurecidos, e intentan influenciar a las personas
-      susurrándoles miedos, preocupaciones, inseguridades, y malas ideas, con el objetivo de crear
-      un círculo vicioso en sus víctimas y fortalecerse.
+      Seres furtivos nacidos de la <span class="style-umbria">negatividad</span> en los corazones de
+      los seres vivos. Tienen aspecto de animales oscurecidos, y sigilosamente sabotean sus víctimas
+      susurrándoles miedos, preocupaciones, inseguridades, y malas ideas, perpetuando un círculo
+      vicioso del cual se nutren.
     </p>
     <p>
-      Para un no-<span class="style-flowering">florecido</span>, la influencia de un meion es
-      indistinguible de sus propios pensamientos y emociones, lo cual hace que, al estar aislados,
-      sean mucho más vulnerables ante la <span class="style-umbria">negatividad</span> que las demás
-      <span class="style-branches">ramas</span>. Es la misma razón por la cual muchos no se percatan
-      cuando son encerrados en un <span>agujero umbrío</span>.
+      Para un no-<span class="style-flowering">florecido</span>, la influencia de un
+      <span>meion</span> es indistinguible de sus propios pensamientos y emociones, lo cual hace
+      que, al estar aislado, sea mucho más vulnerable ante ellos. Es la misma razón por la cual
+      muchos <span class="style-folia">folia</span> no se percatan cuando son encerrados en un
+      <span>agujero umbrío</span>.
     </p>
+    <p>Casi siempre huyen al ser descubiertos, pero lo más agresivos de agredir físicamente</p>
     <p>
-      Dependiendo de cuánta <span class="style-umbria">negatividad</span> ha reunido, un meion puede
-      ser una molestia trivial o peligroso en extremo, pero todos deben ser tratados con la misma
-      seriedad puesto que son insaciables, e incluso el más inofensivo de ellos puede convertirse en
-      una amenaza de máximo nivel en pocos días. Aquellos que han reunido demasiada
-      <span class="style-umbria">negatividad</span> adoptan un aspecto quimérico, o el aspecto de un
-      <span class="style-folia">folia</span> si el meion creció en uno.
+      Dependiendo de cuánta <span class="style-umbria">negatividad</span> ha reunido, un
+      <span>meion</span> puede ser una molestia trivial o peligroso en extremo. Todos deben ser
+      tratados con la misma seriedad puesto que son insaciables, e incluso el más inofensivo de
+      ellos puede convertirse en una amenaza de máximo nivel en pocos días. Aquellos que han reunido
+      demasiada <span class="style-umbria">negatividad</span> adoptan un aspecto quimérico, o el
+      aspecto de un <span class="style-folia">folia</span> si el meion creció en uno.
     </p>
     <p>
       Son inmunes contra la <span class="style-startrail">estela</span>, por lo que son derrotados a
       través de <span>expiaciones</span> o utilizando el entorno, por ejemplo con la ayuda de los
-      <span class="style-natur">náturs</span>, los cuales los meion temen, o los
-      <span class="style-elements">elementos naturales</span>. Al ser derrotados, los meion se
-      vuelven <span>orbes negativos</span>.
+      <span class="style-natur">náturs</span> —los cuales los meion temen—, o haciendo uso de
+      <span class="style-elements">elementos naturales</span>. Casi siempre intentan huir; son los
+      más hostiles quienes agreden físicamente sus adversarios. Al ser vencidos, los
+      <span>meion</span> se vuelven <span>orbes negativos</span>.
     </p>
     <p>
       Aunque un meion se puede trasfigurar como desee, generalmente tiende a tomar una de las
-      siguientes formas dependiendo de la <span class="style-umbria">negatividad</span> que
+      siguientes formas dependiendo del tipo de <span class="style-umbria">negatividad</span> que
       esparcen:
     </p>
     <ul>
@@ -64,84 +66,80 @@ const name = '❦ Criaturas ❦';
       </li>
     </ul>
     <p>
-      En cuanto a las quimeras, estas combinan las características de los meion que las conforman.
-      Tras suficientes funciones, una quimera pasa a ser un <span>dracolia</span>.
+      Las quimeras combinan características de los <span>meion</span> que las conforman. Tras
+      suficientes fusiones, una quimera pasa a ser un <span>dracolia</span>.
     </p>
     <h2 id="shade">~ Sombra</h2>
     <p>
-      Las sombras son meion evolucionados, sentientes, y extremadamente peligrosos. En la mayoría de
-      los casos toman una forma distorsionada del recipiente donde crecieron, igual que mantienen
-      los recuerdos de las experiencias negativas de los mismos. En casos aislados puede tratarse de
-      dos o más meion avanzados que se unieron para completar su crecimiento.
+      Una <span>sombra</span> es un <span>meion</span> que tras desarrollarse en el interior de un
+      ser vivo, habiéndolo envenenado de suficiente <span class="style-umbria">negatividad</span>,
+      es rechazado por su huésped, y emerge como una réplica distorsionada y corrupta de su aspecto,
+      personalidad, modismos, y recuerdos.
     </p>
     <p>
-      Una sombra puede permanecer existiendo sin negatividad por mucho más que los meion, pero a
-      pesar de ello, buscan llenarse aún más y más pronto. Para lograrlo, este es capaz de poseer
-      personas, infringir daños físicos y psicológicos más atrevidamente, y en el peor de los casos,
-      incluso asesinar con tal de alimentarse de la aflicción de los seres queridos de la víctima.
+      Tiene consciencia y capacidad del habla, que es su característica más amenazante ya que, al
+      tratarse de una proyección sentimiental, puede convertir sus palabras en armas funestas para
+      romper los corazones de quienes aman al ser que habitaron. Le gusta exhibirse, ya que a
+      diferencia de un <span>meion</span> común, una <span>sombra</span> es capaz de aterrar a los
+      <span class="style-folia">folia</span> cuando se revela, y es que estos últimos.
     </p>
     <p>
-      Al reunir suficiente, la sombra es capaz de fijar su existencia en el mundo sin depender de
-      negatividad. Al lograrlo, toma la forma de un <span class="style-folia">folia</span>, y es
-      visualmente indistinguible de uno real, en contraste a los meion, que son fáciles de
-      distinguir visualmente pero emocionalmente difíciles de separar. A esta forma se le llama
-      sombra perfecto.
-    </p>
-    <p>
-      Los métodos para eliminar una sombra son los mismo que para un meion, excepto que con una
-      dificultad y peligrosidad mucho mayores. Por ello, existen especialistas en limpiar elos:
-      aquellos llamados expiadores.
+      Típicamente mantiene a sus víctimas sanas, pero si cambiando eso puede nutrirse de la agonía
+      resultante, les dará fin.
     </p>
     <h2 id="giant">~ Gigante</h2>
     <p>
-      Cualquier criatura descomunalmente enorme. Aunque son relativamente escasos en número, no son
-      difíciles de encontrar. Se desconoce el origen exacto de estos, pero se cree que son casos de
-      gigantismo estabilizados por el ánimo, permitiendo a la criatura vivir sanamente. Otros
-      teorizan que puede ser un efecto secundario de exponer criaturas no folia sin núcleo al
-      estela.
+      Algunas criaturas en el mundo de
+      <span class="style-lytflos">Lytflos</span>, particularmente aquellas sin <span>núcleo</span>,
+      a veces crecen hasta ser descomunalmente enormes. Se especula que es el resultado de una
+      mutación genética expuesta prolongadamente a la <span class="style-startrail">estela</span>.
     </p>
     <p>
-      Los núcleos de <span class="style-folia">folia</span> gigantes tienen una capacidad
-      directamente proporcional al tamaño relativo de uno normal. En otras palabras, sus reservas de
-      estela son mucho mayores que el de un individuo común.
+      Las criaturas con esta condición pueden vivir perfectamente bien siempre y cuando se alimenten
+      adecuadamente: en comidas masivas espaciadas por ciclos de semanas o incluso meses. Una
+      misteriosa anomalía en <span>Península Carúlea</span> causa que sean más comúnes allí que en
+      cualquier otra parte.
     </p>
     <h2 id="summoning">~ Invocación</h2>
     <p>
-      Una forma de vida hecha a base de estela, usualmente materializada por un
-      <span class="style-folia">folia</span>, pero en circunstancias sumamente raras, aparecida de
-      la nada por pura suerte. Su inteligencia depende de muchas variables, pero el ejemplar
-      estándar entiende lenguaje, comandos, y es capaz de usar herramientas para resolver problemas
-      sencillos por su cuenta.
+      Una criatura hecha con la
+      <span class="style-dendrites">dendrita</span> más compleja conocida por los
+      <span class="style-folia">folia</span>, o en circunstancias sumamente raras, aparecida de la
+      nada por pura suerte. El ejemplar estándar es pequeño, sentiente, entiende lenguaje básico, y
+      es capaz de usar herramientas para resolver problemas sencillos por su cuenta. Su apariencia
+      es arbitraria —decidida al trazar la <span class="style-dendrites">dendrita</span>— y suele
+      heredar una <span class="style-roots">raíz</span> y un
+      <span class="style-nodes">nodo</span> del invocador.
     </p>
     <p>
-      Su apariencia depende completamente del invocador, al igual que sus talentos y su poder
-      mágico, aunque este último suele ser equivalente al del invocador. Como seres hechos de
-      estela, tienen una vida muy corta, pero es posible invocar una criatura similar con las
-      memorias de su iteración anterior usando un raíz especial para ello.
+      Pueden crearse moldeando los materiales necesarios, o realizarse con
+      <span class="style-pollen">polen estelar</span> si se tiene esa opción. Estas últimas tienen
+      una vida muy corta, posible de alargar si el invocador les suministra
+      <span class="style-startrail">estela</span> adicional regularmente. Si una invocación
+      desaparece, es posible utilizar los
+      <span class="style-iris-fragments">fragmentos de iris</span> restantes para crear una
+      iteración con las memorias de la anterior.
     </p>
     <p>
-      Como regla general, pueden llevar a cabo una raíz y un efecto, pero hacerlo les hará
-      desaparecer prácticamente de inmediato. Es posible extender sus vidas a través de inyectar
-      estela, pero esta opción sólamente está disponible para el invocador.
+      Como regla general, una invocación hecha de
+      <span class="style-pollen">polen estelar</span> desaparece en 3 días, o de inmediato tras usar
+      tanto su <span class="style-roots">raíz</span> como su <span class="style-nodes">nodo</span>.
     </p>
-    <h2 id="mefrino">~ Mefrino</h2>
+    <h2 id="meephrynn">~ Mefrino</h2>
     <p>
-      Hace referencia <span class="style-folia">folia</span> que ha desarrollado todas las
-      características físicas de cada rama desde su nacimiento se le llama mefrino. Dicho desarrollo
-      es resultaado de una mutación genética. La probabilidad de dar a luz a un mefrino es de
+      Un <span class="style-folia">folia</span> que desde su nacimiento posee todas las
+      características físicas de cada <span class="style-branches">rama</span>, su tejido epitelial
+      es acromático, y su percepción del sonido es excepcional sin convertirse en un problema; es
+      decir, los sonidos fuertes no lo aturden. La probabilidad de dar a luz a un mefrino es de
       aproximadamente 1 en 300.000.
     </p>
     <p>
-      Su tejido epidérmico es acromático, y su percepción del sonido es increíble sin convertirse en
-      un problema, es decir que sonidos fuertes no les aturden.
-    </p>
-    <p>
-      No toman el talento de ninguna rama, pero pueden usar estela como cualquier otro
-      <span class="style-folia">folia</span>, y pueden aprender cualquier raíz incluyendo
-      <span class="style-winged">alas solares</span>,
-      <span class="style-pollen">polen estelar</span>, glifos, etc. Algunos sonidos les estimulan
-      tanto que les distraen completamente de sus actividades, pero el sonido en cuestión es
-      diferente para cada individuo.
+      No posee los talentos de ninguna <span class="style-branches">rama</span>, pero puede usar
+      <span class="style-startrail">estela</span> como cualquier otro
+      <span class="style-folia">folia</span>, y puede aprender cualquier
+      <span class="style-roots">raíz</span> o <span class="style-nodes">nodo</span>. Algunos sonidos
+      lo estimulan tanto que lo distraen completamente de sus actividades, pero el sonido en
+      cuestión es diferente para cada individuo.
     </p>
     <h2 id="dracolia">~ Dracolia</h2>
     <p>

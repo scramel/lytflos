@@ -256,10 +256,12 @@ const name = '☆ Estela ☆';
       </li>
       <li>
         <h3 id="#invocation" class="background-caudate">- Invocación</h3>
-        Crea una forma de vida a base de <span class="style-startrail">estela</span>, y le otorga
-        una <span class="style-roots">raíz</span> y <span class="style-nodes">nodo</span> del
-        usuario. Desaparece después de usar toda la <span class="style-startrail">estela</span> a su
-        disposición.
+        Crea una forma de vida a partir de moldear los materiales necesarios, o realizándolo a base
+        de <span class="style-startrail">estela</span> en el caso de los
+        <span class="style-hybrid">caudado-florecidos</span>, que hereda una
+        <span class="style-roots">raíz</span> y un <span class="style-nodes">nodo</span> del
+        invocador a su elección. Si es una invocación hecha de
+        <span class="style-startrail">estela</span>, desaparece después de disponer de su energía.
       </li>
       <li>
         <h3 id="#light" class="background-neutral">- Luz</h3>

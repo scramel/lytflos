@@ -33,9 +33,9 @@ const name = '✾ Flora ✾';
       Una planta negra cuyas raíces son tan fuertes y resistentes que son capaces de crecer hasta en
       techos de concreto, y su forma se parece al de los tréboles. Se les reconocen por sus
       propiedades resistentes y elásticas. Lo único que necesitan para mantenerse vivos son restos
-      de estela. Su aparición fue documentada a principios de los Años Posteriores. Debido a sus
-      propiedades, se pueden conseguir en casi cualquier lugar, y por ello, suelen resultar una
-      molestia a los folia debido a que quitarlos toma bastante tiempo.
+      de estela. Su aparición fue documentada a principios de los <span>Años Posteriores</span>.
+      Debido a sus propiedades, se pueden conseguir en casi cualquier lugar, y por ello, suelen
+      resultar una molestia a los folia debido a que quitarlos toma bastante tiempo.
     </p>
   </section>
 </template>

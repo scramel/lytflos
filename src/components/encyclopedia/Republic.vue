@@ -306,14 +306,14 @@ const name = '⛿ Triadia ⛿';
     <h2 id="carulean-peninsula">~ Península Carúlea</h2>
     <p>
       Al noreste de Dassódils se encuentra una península el cual comprende un atolón que contiene la
-      pequeña isla. Una inusual cantidad de criaturas, flora, y árboles de tamaños extremos reside
+      pequeña isla. Una inusual cantidad de criaturas, flora, y árboles de tamaños colosales reside
       allí. Una iniciativa para plantar un segundo árbol astronómico en el lugar es considerada,
       pero la poca población junto a la naturaleza salvaje de la zona retienen tal propuesta.
     </p>
     <p>
       Lo más que se puede encontrar en esta península son muy pequeñas villas en las zonas más
       alejadas de los animales. Es raro para turistas venir aquí, pero es un lugar muy llamativo
-      para exploradores más extremos, dado que se habla de posibles ruinas, cavernas, frutas
+      para los exploradores más arriesgados, dado que se habla de posibles ruinas, cavernas, frutas
       exóticas, y minerales de gran valor. La población es muy pequeña, y prácticamente todos se
       conocen entre sí debido a ello.
     </p>

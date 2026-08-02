@@ -58,9 +58,9 @@ const name = '✳ Ánimo ✳';
       Objeto animado. Reacciona a una o varias emociones concretas y acciona un
       <span class="style-nodes">nodo</span> propio, generalmente único e imposible de reproducir
       usando otros medios. Forjar un espírio implica forjar una fuerte conexión emocional con un
-      objeto inanimado, y por ello es común que sean regalos de seres queridos o armas de fieles
-      portadores. Un espírio también puede transmitir sus emociones a su portador, y si un lazo es
-      lo suficientemente poderoso, incluso pueden conversar en un lenguaje que solo ellos entienden.
+      objeto inanimado; predominantemente regalos de seres queridos o armas de fieles portadores. Un
+      espírio también puede transmitir sus emociones a su portador, y si un lazo es lo
+      suficientemente poderoso, incluso pueden conversar en un lenguaje que solo ellos entienden.
     </p>
     <p>
       Utilizar demasiado un mismo espírio ocasiona desensibilización emocional, debido a que el
@@ -232,7 +232,7 @@ const name = '✳ Ánimo ✳';
       de Drasil reside en este.
     </p>
     <p>
-      Actualmente, los anillos septenarios se consideran un tesoro de buena suerte y extremo valor,
+      Actualmente, los anillos septenarios se consideran un tesoro de buena suerte e inmenso valor,
       y ya que con el tiempo dejaron sus lugares de origen, existe un interés por devolverlos a sus
       respectivas ciudades. Kléidflos y Nouxia están en posesión de los hermanos Keyes, Nidusavi es
       cuidado por la familia Midiki, Kordyle está en el tesoro de los Fóster, Kounou y Leirion los

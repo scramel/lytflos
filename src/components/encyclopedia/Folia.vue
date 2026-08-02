@@ -74,9 +74,8 @@ const name = '☘ Folia ☘';
     </p>
     <p>
       Un <span class="style-winged">alado</span> expresa sus habilidades a través de mover el medio
-      ambiente y darle formas arbitrarias, pero no puede crear ni alterar el mismo. Se dice, por
-      estereotipo, que los <span class="style-winged">alados</span> son ágiles y veloces, pero no
-      muy listos ni fuertes.
+      ambiente y darle formas arbitrarias. Se dice que es ágil y veloz, de gran corazón, pero no muy
+      astuto ni robusto.
     </p>
     <article class="background-winged">
       <h4>- Raíz: Elemento</h4>
@@ -95,16 +94,15 @@ const name = '☘ Folia ☘';
       Un <span class="style-folia">folia</span> <span class="style-caudate">caudado</span> tiene
       cola, y en ocasiones pétalos largos detrás de sus orejas, que se recubren de
       <span class="style-startrail">estela</span> cuando utilizan sus
-      <span class="style-dendrites">dendritas</span> y <span class="style-dendrites">glifos</span>,
-      los cuales les permiten alterar materia. Evocar estas habilidades es como segundo instinto
-      para los <span class="style-caudate">caudados</span>, pero en ocasiones pierden el control
-      debido a su naturaleza compleja.
+      <span class="style-dendrites">dendritas</span> y <span class="style-dendrites">glifos</span>.
+      Estas les permiten alterar materia, aunque cada tanto pierden su control debido a lo complejos
+      que son.
     </p>
     <p>
       En vez de mover corrientes de agua como podrían los <span class="style-winged">alados</span>,
       los <span class="style-caudate">caudados</span> pueden mutar su temperatura, estado de
-      materia, sabor, y más propiedades del mismo calibre. Por estereotipo son listos y poderosos, a
-      la vez que de falta creativa y de notable lentitud al momento de actuar.
+      materia, sabor, y más propiedades del mismo calibre. Son pragmáticos y poderosos, tal vez de
+      falta creativa, y lentos al actuar.
     </p>
     <article class="background-caudate">
       <h4>- Raíz: Dendrita</h4>
@@ -123,8 +121,10 @@ const name = '☘ Folia ☘';
     <p>
       Un <span class="style-folia">folia</span> <span class="style-flowering">florecido</span> tiene
       capullos en las palmas de sus manos que se abren al emanar
-      <span class="style-pollen">polen estelar</span>. Además, están dotados de una intuición que
-      les permite percibir <span class="style-essence">ánimo</span>.
+      <span class="style-pollen">polen estelar</span>. Además, está dotado de una intuición que le
+      permite percibir <span class="style-essence">ánimo</span>. El
+      <span class="style-flowering">florecido</span> típico es habilidoso y apasionado, gusta de
+      experimentar e innovar, aunque a veces su curiosidad le juega en contra.
     </p>
     <p>
       El <span class="style-pollen">polen estelar u ondular</span> es una entidad que genera
@@ -155,9 +155,9 @@ const name = '☘ Folia ☘';
       ahora asociado a dos <span class="style-branches">ramas</span> en vez de a solo una. A un
       <span class="style-folia">folia</span> con las características de más de una
       <span class="style-branches">rama</span> se le denomina
-      <span class="style-branches">híbrido</span>. Comúnmente, los
-      <span class="style-folia">folia</span> prefieren mantener una única
-      <span class="style-branches">rama</span> a lo largo de sus vidas.
+      <span class="style-branches">híbrido</span>. Los <span class="style-folia">folia</span> en
+      gran medida prefieren mantener una única <span class="style-branches">rama</span> a lo largo
+      de sus vidas.
     </p>
     <p>
       Cada nivel está conformado por una <span class="style-roots">raíz</span>, un
@@ -165,8 +165,8 @@ const name = '☘ Folia ☘';
       <span class="style-anthesis">antesis</span>. No se puede aprender un segundo
       <span class="style-nodes">nodo</span> sin antes aprender una primera
       <span class="style-roots">raíz</span> que complete el primer nivel, y viceversa. Este
-      principio incluye la mejora de <span class="style-anthesis">antesis</span>. también, por lo
-      que los tres elementos son requeridos para completar cada nivel.
+      principio incluye la mejora de <span class="style-anthesis">antesis</span> también, por lo que
+      los tres elementos son requeridos para completar cada nivel.
     </p>
     <p>
       Aunque un <span class="style-folia">folia</span> puede aprender cuantas habilidades quiera,

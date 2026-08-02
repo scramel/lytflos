@@ -42,7 +42,7 @@ const name = '🙒 Cultura 🙒';
       figura muy popular en el mundo del entretenimiento.
     </p>
     <p>
-      Es común ver a personas vestir formalmente o disfrazarse de personajes ficticios mientras
+      Es habitual ver a personas vestir formalmente o disfrazarse de personajes ficticios mientras
       comen dulces o simplemente reunidos con sus amistades.
     </p>
     <h3 id="iron-folia">- Folia de hierro</h3>
@@ -267,7 +267,7 @@ const name = '🙒 Cultura 🙒';
     </p>
     <p>
       Aunque no es imposible la existencia de folia que practiquen el teísmo clásico o incluso el
-      politeísmo, estos son extremadamente inusuales de encontrar.
+      politeísmo, estos son sumamente inusuales de encontrar.
     </p>
     <h3 id="reproduction">- Reproducción</h3>
     <p>
@@ -287,16 +287,16 @@ const name = '🙒 Cultura 🙒';
     <p>
       Una expresión coloquial para referirse a folia cuyo actuar es propio de un
       <span class="style-crooked">plagado</span>, pero que en realidad no guardan negatividad alguna
-      debido a su ausencia emocional. Se le asocia a la psicopatía. Menos comúnmente también se usa
-      el término para describir folia que generan negatividad a partir de cosas consideradas
-      neutrales o incluso positivas. La expresión nació durante la Era de Conquista; entonces tenía
-      connotaciones gravemente ofensivas.
+      debido a su ausencia emocional. Se le asocia a la psicopatía. También se usa el término,
+      aunque es poco común, para describir folia que generan negatividad a partir de cosas
+      consideradas neutrales o incluso positivas. La expresión nació durante la Era de Conquista;
+      entonces tenía connotaciones gravemente ofensivas.
     </p>
     <h3 id="vagabonds">- Vagantes</h3>
     <p>
       Dado los folia solo necesitan luz solar y agua para sobrevivir, no es raro verles viajando por
       el mundo sin un hogar o trabajo fijos al que volver. Estos son los vagantes, y estos eran
-      especialmente numerosos durante el primer milenio.
+      especialmente numerosos durante el <span>primer milenio</span>.
     </p>
     <h3 id="rerecros-vagabonds">-Vagantes de Rérecros</h3>
     <p>

@@ -64,11 +64,12 @@ const name = '🕮 Historia 🕮';
     <h2 id="later-years">~ Años Posteriores</h2>
     <h3 id="first-millenium">- Primer milenio</h3>
     <p>
-      Después de los eventos del Día 0, la mayoría de folia vivieron como vagantes durante
-      prácticamente todo el primer milenio. La gente se enfocó principalmente en encontrar refugio
-      de criaturas salvajes, especialmente náturs y negativos. Con el tiempo se formaron algunas
-      comunidades, y estas alzaron villas y pueblos, algunas que después se convertirían en parte
-      una de las siete ciudades de <span class="style-triadia">Triadia</span> , como Dassódils.
+      Después de los eventos del <span>Día 0</span>, la mayoría de folia vivieron como vagantes
+      durante prácticamente todo el <span>primer milenio</span>. La gente se enfocó principalmente
+      en encontrar refugio de criaturas salvajes, especialmente náturs y negativos. Con el tiempo se
+      formaron algunas comunidades, y estas alzaron villas y pueblos, algunas que después se
+      convertirían en parte una de las siete ciudades de
+      <span class="style-triadia">Triadia</span> , como Dassódils.
     </p>
     <p>
       Existió una intención por restaurar algunas de las ciudades perdidas, pero en vez de
@@ -79,17 +80,19 @@ const name = '🕮 Historia 🕮';
     <h3 id="second-millenium">- Segundo milenio</h3>
     <p>
       Siempre existieron las ramas, pero sus diferencias empezaron a volverse más pronunciadas a
-      partir del segundo milenio. Los alados empezaron a entender náturs intuitivamente, los
-      caudados desarrollaban cada vez más glifos, y los florecidos tenían un mejor entendimiento de
-      las <span class="style-umbria">criaturas negativas</span> que los demás.
+      partir del <span>segundo milenio</span>. Los alados empezaron a entender náturs
+      intuitivamente, los caudados desarrollaban cada vez más glifos, y los florecidos tenían un
+      mejor entendimiento de las <span class="style-umbria">criaturas negativas</span> que los
+      demás.
     </p>
     <p>
       Y bien que fue un buen momento para desarrollar dichas habilidades, puesto que durante el
-      segundo milenio, aunque los folia vivían más cómodamente, las criaturas se hacían más y más
-      salvajes. Los fenómenos naturales se hicieron muy agresivos durante este milenio, dando lugar
-      a sequías súbitas, diluvios, tormentas, nieve… Tal parece que, después de mil años que la
-      naturaleza tuvo para recobrar su fuerza en el mundo, los náturs llegaron también a un punto
-      donde buscaban marcar sus territorios, y diversos enfrentamientos se libraron entre ellos.
+      <span>segundo milenio</span>, aunque los folia vivían más cómodamente, las criaturas se hacían
+      más y más salvajes. Los fenómenos naturales se hicieron muy agresivos durante este milenio,
+      dando lugar a sequías súbitas, diluvios, tormentas, nieve… Tal parece que, después de mil años
+      que la naturaleza tuvo para recobrar su fuerza en el mundo, los náturs llegaron también a un
+      punto donde buscaban marcar sus territorios, y diversos enfrentamientos se libraron entre
+      ellos.
     </p>
     <p>
       Fueron tiempos muy difíciles en los que vivir, y esto alentó a las
@@ -120,9 +123,9 @@ const name = '🕮 Historia 🕮';
     <p>
       Los avances de los folia como sociedad fueron muy lentos debido a la cantidad de población
       restante, los constantes estragos causados por las diversas criaturas, y la separación de los
-      ramas. Aún así, durante el tercer milenio ha habido el mejor progreso en el uso de la estela,
-      dando lugar a la mayoría de las raíces conocidas en el presente: polen estelar, alas solares,
-      invocaciones, manipulación climática, forja de espírios, entre otros.
+      ramas. Aún así, durante el <span>tercer milenio</span> ha habido el mejor progreso en el uso
+      de la estela, dando lugar a la mayoría de las raíces conocidas en el presente: polen estelar,
+      alas solares, invocaciones, manipulación climática, forja de espírios, entre otros.
     </p>
     <p>
       En algún punto durante la primera mitad de este milenio, Dúacos cambió a Rérecros, pasando a
@@ -184,13 +187,13 @@ const name = '🕮 Historia 🕮';
     </p>
     <p>
       Nevhea, por su lado, siempre reprobó el asesinato, y ordenó sus tropas a retirarse si sus
-      oponentes tenían sed de sangre. Tani Prigemo, una mefrino que independientemente intimidaba
-      con su gran poder a todas las ramas, y dejaba inconsciente soldados con tal de evitar que
-      estos se matasen entre sí, empezó a servir a la nobleza después de descubrir que su filosofía
-      se alineaba con el de Nevhea. Ellas se volvieron amigas muy cercanas, no obstante otros
-      miembros de la nobleza traicionaron a los Glaen al no soportar las pérdidas de sus compañeros,
-      consecuencia de las constantes huidas fallidas y la sed de sangre de los caudados, sin
-      mencionar que muchos cuestionaron a Tani quien era capaz de atacar a sus propios aliados.
+      oponentes tenían sed de sangre. Tani Prigemo, una <span>mefrino</span> que independientemente
+      intimidaba con su gran poder a todas las ramas, y dejaba inconsciente soldados con tal de
+      evitar que estos se matasen entre sí, empezó a servir a la nobleza después de descubrir que su
+      filosofía se alineaba con el de Nevhea. Ellas se volvieron amigas muy cercanas, no obstante
+      otros miembros de la nobleza traicionaron a los Glaen al no soportar las pérdidas de sus
+      compañeros, consecuencia de las constantes huidas fallidas y la sed de sangre de los caudados,
+      sin mencionar que muchos cuestionaron a Tani quien era capaz de atacar a sus propios aliados.
       Aunque hubo intentos por derrocar a Glaen, estos nunca dieron frutos, y los traidores fueron
       aprisionados cuanto antes. Actualmente, algunos de ellos y también soldados de las demás ramas
       aún viven en el Subsuelo de Abbso.
@@ -233,7 +236,8 @@ const name = '🕮 Historia 🕮';
     </p>
     <h4 id="faustiel-doctrine">2634: Doctrina de Faustiel</h4>
     <p>
-      En ese entonces una jovencita que perdió a sus padres durante la tiranía de Rérecros,
+      En ese entonces una jovencita que perdió a sus padres durante la
+      <span>tiranía de Rérecros</span>,
       <span class="spoiler">
         no debido a la guerra en sí misma, sino por un dragolia resultante de esta
       </span>
