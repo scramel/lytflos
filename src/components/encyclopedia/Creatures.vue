@@ -113,10 +113,10 @@ const name = '❦ Criaturas ❦';
     </p>
     <p>
       Pueden crearse moldeando los materiales necesarios, o realizarse con
-      <span class="style-pollen">polen estelar</span> si se tiene esa opción. Estas últimas tienen
-      una vida muy corta, posible de alargar si el invocador les suministra
-      <span class="style-startrail">estela</span> adicional regularmente. Si una invocación
-      desaparece, es posible utilizar los
+      <span class="style-pollen">polen estelar</span> si se tiene esa opción. Las invocaciones de
+      <span class="style-pollen">polen estelar</span> tienen una vida muy corta, aunque posible de
+      alargar si el invocador les suministra <span class="style-startrail">estela</span> adicional
+      regularmente. Si una invocación desaparece, es posible utilizar los
       <span class="style-iris-fragments">fragmentos de iris</span> restantes para crear una
       iteración con las memorias de la anterior.
     </p>
@@ -137,50 +137,55 @@ const name = '❦ Criaturas ❦';
       No posee los talentos de ninguna <span class="style-branches">rama</span>, pero puede usar
       <span class="style-startrail">estela</span> como cualquier otro
       <span class="style-folia">folia</span>, y puede aprender cualquier
-      <span class="style-roots">raíz</span> o <span class="style-nodes">nodo</span>. Algunos sonidos
-      lo estimulan tanto que lo distraen completamente de sus actividades, pero el sonido en
-      cuestión es diferente para cada individuo.
+      <span class="style-roots">raíz</span> o <span class="style-nodes">nodo</span>. Algunos
+      sonidos, diferentes por cada mefrino, lo estimulan tanto que lo distraen completamente de sus
+      actividades.
     </p>
     <h2 id="dracolia">~ Dracolia</h2>
     <p>
-      El resultado de demasiados meion fusionados en un solo cuerpo. Su representación gráfica suele
-      ser una criatura cuyas partes se parecen a las de al menos diez animales distintos. Son
-      extremadamente peligrosos por naturaleza, potencialmente incluso más que una sombra ordinario
-      ya que se vuelve prácticamente imposible tratar de razonar con ellos por su comportamiento
-      errático.
+      El resultado de demasiados <span>meion</span> fusionados en un mismo cuerpo. Suele
+      representarse artísticamente como un abigarramiento de bestias en la cual predominan rasgos
+      dragontinos. Al igual que una <span>sombra</span>, tiene consciencia y capacidad del habla,
+      pero su agresividad y comportamiento errático vuelve imposible en la práctica cualquier
+      intento de apaciguarlo, razón por la cual generalmente son exterminados usando únicamente
+      fuerza bruta.
     </p>
     <p>
-      Este tipo de meion tiende a dejar de depender de la negatividad. Por ello, y por ser
-      irracionales, generalmente son exterminados con fuerza bruta o encerrados.
-    </p>
-    <p>
-      Sus poderes suelen ser asociados al caos y la discordia. En el peor de los casos, pueden
-      manipular espacios de maneras que van en contra de las leyes físicas. Fueron muy comunes y
-      temidos durante los años finales de la Era de Conquista. Algunos asesinaron figuras históricas
-      de la historia de
-      <span class="style-triadia">Triadia</span> , como lo fue en el caso de los padres de Faustiely
-      Arisa. En el año 29XX son mucho más raros que los elos, quienes de por sí son poco comunes,
-      pero se cree que varios aún viven ocultos en los rincones inexplorados del mundo.
-    </p>
-    <p>
-      Teóricamente, justo como los meion se transforman cada vez más mientras más se combinan, algo
-      similar puede pasar con los elos también, pero como los segundos tienden a ser independientes,
-      no existe un caso conocido de un «sombra dracolia».
+      Sus poderes se asocian al caos y la discordia: puede alterar la realidad y manipular las leyes
+      de la naturaleza, tiene la capacidad de perturbar el
+      <span class="style-essence">ánimo</span>, y aparentemente goza de vida eterna. Fue común y muy
+      temido durante la Era de Conquista; diversas figuras históricas perecieron en las garras de
+      los dracolia, como lo fue en el caso de los padres de Faustiely Arisa, sin embargo en el
+      presente son tan raros que son tratados como leyenda, y se cree que varios aún viven ocultos
+      en los rincones menos explorados del mundo.
     </p>
     <h2 id="natur">~ Nátur</h2>
     <p>
-      Personificación de la naturaleza, usualmente ubicado donde las concentraciones de este son muy
-      fuertes. Los náturs causan los fenómenos naturales que mantienen el mundo vivo, pero son muy
-      terrotirales, lo cual ocasiona riñas que acaban en cataclismos. No dudarán en atacar si se
-      sienten amenazados.
+      Ser <span class="style-essence">anímico</span> que encarna un
+      <span class="style-elements">elemento</span> presente en la naturaleza. Los
+      <span class="style-natur">náturs</span> no solo simbolizan una conexión con el mundo, sino que
+      son <i>el</i> mundo en sí mismo: son la presencia del agua, el viento, las plantas, y todo lo
+      demás. La armonía entre estas criaturas causan los fenómenos que mantienen la vida en
+      constante movimiento, y sus riñas ocasionan los cataclismos que los
+      <span class="style-folia">folia</span> tanto se esfuerzan en evitar.
     </p>
     <p>
-      Hablan su propio lenguaje que es posible aprender: el natúreo. Los
-      <span class="style-folia">folia</span> alados entienden náturs intuitivamente, y es posible
-      para estos últimos fusionarse con cualquier <span class="style-folia">folia</span>, aunque es
-      mucho más difícil para náturs fusionarse con no-<span class="style-winged">alados</span>.
-      Aparentemente pueden vivir para siempre, pero es posible que desaparezcan si se quedan sin
-      energías y/o naturaleza que representar.
+      El aspecto de un <span class="style-natur">nátur</span> tiende a ser animalesco, y depende del
+      <span class="style-elements">elemento</span> que encarna sumado al alcance de su influencia.
+      Por ejemplo, un <span class="style-natur">nátur</span> de lago podría verse como una pequeña
+      gota con forma de renacuajo, mientras que otro de tornado podría verse como un aterrador
+      pegaso galopando en el viento.
+    </p>
+    <p>
+      Son territoriales, caprichosos, agresivos ante el peligro, y hablan su propio lenguaje: el
+      <span class="style-natur">natúreo</span>, que los
+      <span class="style-folia">folia</span> pueden aprender y los
+      <span class="style-winged">alados</span> entienden intuitivamente. El
+      <span class="style-natur">nátur</span> típico prefiere ser dejado en paz, y aquél que conversa
+      a menudo con <span class="style-folia">folia</span> es una minoría, pero pese a ello, es
+      posible formar un vínculo fuerte con ellos. Viven mientras estén presentes el en la
+      naturaleza, pues la ausencia del <span class="style-elements">elemento</span> que representan
+      significa también su desaparición.
     </p>
     <p>
       Cuando se fusionan con un <span class="style-folia">folia</span>, este recibe los poderes del
