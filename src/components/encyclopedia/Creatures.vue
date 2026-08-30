@@ -25,9 +25,10 @@ const name = '❦ Criaturas ❦';
       Dependiendo de cuánta <span class="style-umbria">negatividad</span> ha reunido, un
       <span>meion</span> puede ser una molestia trivial o peligroso en extremo. Todos deben ser
       tratados con la misma seriedad puesto que son insaciables, e incluso el más inofensivo de
-      ellos puede convertirse en una amenaza de máximo nivel en pocos días. Aquellos que han reunido
-      demasiada <span class="style-umbria">negatividad</span> adoptan un aspecto quimérico, o el
-      aspecto de un <span class="style-folia">folia</span> si el meion creció en uno.
+      ellos puede convertirse en una amenaza de máximo <span>nivel</span> en pocos días. Aquellos
+      que han reunido demasiada <span class="style-umbria">negatividad</span> adoptan un aspecto
+      quimérico, o el aspecto de un <span class="style-folia">folia</span> si el meion creció en
+      uno.
     </p>
     <p>
       Son inmunes contra la <span class="style-startrail">estela</span>, por lo que son derrotados a
@@ -165,52 +166,47 @@ const name = '❦ Criaturas ❦';
       <span class="style-elements">elemento</span> presente en la naturaleza. Los
       <span class="style-natur">náturs</span> no solo simbolizan una conexión con el mundo, sino que
       son <i>el</i> mundo en sí mismo: son la presencia del agua, el viento, las plantas, y todo lo
-      demás. La armonía entre estas criaturas causan los fenómenos que mantienen la vida en
-      constante movimiento, y sus riñas ocasionan los cataclismos que los
-      <span class="style-folia">folia</span> tanto se esfuerzan en evitar.
+      demás.
+    </p>
+    <p>
+      La armonía entre estas criaturas causan los fenómenos que mantienen la vida en constante
+      movimiento, y sus riñas ocasionan los cataclismos que los
+      <span class="style-folia">folia</span> tanto se esfuerzan en evitar. Ya que su existencia está
+      ligada a la propia naturaleza, en cuanto el <span class="style-elements">elemento</span> que
+      representan se extingue, los <span class="style-natur">náturs</span> desaparecen también. No
+      está claro si la naturaleza origina de los <span class="style-natur">náturs</span>, o si los
+      <span class="style-natur">náturs</span> originan de la naturaleza.
     </p>
     <p>
       El aspecto de un <span class="style-natur">nátur</span> tiende a ser animalesco, y depende del
       <span class="style-elements">elemento</span> que encarna sumado al alcance de su influencia.
       Por ejemplo, un <span class="style-natur">nátur</span> de lago podría verse como una pequeña
       gota con forma de renacuajo, mientras que otro de tornado podría verse como un aterrador
-      pegaso galopando en el viento.
+      pegaso galopando en el viento. Al igual que los <span class="style-folia">folia</span>, el
+      alcance de sus habilidades se mide en <span>niveles</span>.
     </p>
     <p>
-      Son territoriales, caprichosos, agresivos ante el peligro, y hablan su propio lenguaje: el
-      <span class="style-natur">natúreo</span>, que los
+      Son territoriales, caprichosos, agresivos ante el peligro, y por alguna razón, las
+      <span class="style-umbria">criaturas negativas</span> les temen bastante. Hablan su propio
+      lenguaje: el <span class="style-natur">natúreo</span>, que los
       <span class="style-folia">folia</span> pueden aprender y los
       <span class="style-winged">alados</span> entienden intuitivamente. El
-      <span class="style-natur">nátur</span> típico prefiere ser dejado en paz, y aquél que conversa
-      a menudo con <span class="style-folia">folia</span> es una minoría, pero pese a ello, es
-      posible formar un vínculo fuerte con ellos. Viven mientras estén presentes el en la
-      naturaleza, pues la ausencia del <span class="style-elements">elemento</span> que representan
-      significa también su desaparición.
-    </p>
-    <p>
-      Cuando se fusionan con un <span class="style-folia">folia</span>, este recibe los poderes del
-      <span class="style-natur">nátur</span> y la intuición necesaria para manejarlos. No es posible
-      forzar una fusión, sino que el <span class="style-natur">nátur</span> decide cuándo
-      realizarlo. No está claro cómo nacen, si se reproducen, si la naturaleza es originada por los
-      <span class="style-natur">náturs</span>, o si los náturs originan de la naturaleza. Por alguna
-      razón, las <span class="style-umbria">criaturas negativas</span> les temen bastante.
-    </p>
-    <p>
-      El aspecto de un <span class="style-natur">nátur</span> cambia si tiene más poder e influencia
-      por sobre el terreno, proceso que se conoce como evolución, y vuelve al aspecto que tenía
-      anteriormente si pierde dicho poder.
+      <span class="style-natur">nátur</span> típico prefiere que lo dejen en paz, por lo que quienes
+      conversan a menudo con los <span class="style-folia">folia</span> son una minoría; aun así,
+      les es posible formar un vínculo fuerte entre ellos, e incluso <span>fusionarse</span> para
+      combinar sus poderes y proteger el mundo. No es posible forzar una <span>fusión</span>, sino
+      que el <span class="style-natur">nátur</span> decide cuándo realizarlo.
     </p>
     <h2 id="thamo">~ Thámo</h2>
     <p>
-      Criatura pequeña, oscura, de ojos dorados, y de un gran pelaje que usa para camuflarse. Su
-      color de cabello depende del color del follaje local cuando nace, y no cambia después. Los
-      thamos son pasivos, aunque pueden ser muy molestos si se enfurecen.
+      Pequeña, oscura, y traviesa criatura que usa su pelaje con forma de arbusto para camuflarse
+      cerca de cultivos y comérselos. Su color depende del follaje local, y no cambia después. Los
+      thámo son amigables, aunque muy molestos si se enfurecen.
     </p>
     <p>
-      Suelen medir hasta alrededor de 50cm. Su piel es muy dura y pesada. Son hervíboros, y como
-      saben esconderse bien, a veces se camuflan cerca de cultivos para luego comérselos. Se pueden
-      adiestrar, pero normalmente nadie les quiere cerca. Son comunes, y en algunos sitios
-      numerosos. Aunque sean herbívoros, no comen folia.
+      Miden alrededor de 50cm, su piel es dura, y se pueden domesticar, aunque normalmente nadie les
+      quiere cerca. Son comunes, y en algunos sitios numerosos. Aunque son herbívoros, no comen
+      folia.
     </p>
   </section>
 </template>

@@ -118,33 +118,33 @@ const name = '✳ Ánimo ✳';
       </li>
       <li>
         <p>
-          <span class="style-winged">Zafiro:</span> Aumenta por un nivel las
+          <span class="style-winged">Zafiro:</span> Aumenta por un <span>nivel</span> las
           <span class="style-roots">raíces</span> del usuario.*
         </p>
       </li>
       <li>
         <p>
-          <span class="style-chrysalism">Turquesa:</span> Aumenta por un nivel un espírio del
-          usuario.*
+          <span class="style-chrysalism">Turquesa:</span> Aumenta por un <span>nivel</span> un
+          espírio del usuario.*
         </p>
       </li>
       <li>
         <p>
-          <span class="style-flowering">Esmeralda:</span> Aumenta por un nivel los
+          <span class="style-flowering">Esmeralda:</span> Aumenta por un <span>nivel</span> los
           <span class="style-nodes">nodos</span> del usuario.*
         </p>
       </li>
       <li>
         <p>
-          <span class="style-pure-startrail">Oro:</span> Aumenta por un nivel la
+          <span class="style-pure-startrail">Oro:</span> Aumenta por un <span>nivel</span> la
           <span class="style-anthesis">antesis</span> del usuario.*
         </p>
       </li>
     </ul>
     <p>
       <small
-        >*Si el usuario es nivel 3- o mayor, se trata como una mejora a un hipotético nivel
-        4.</small
+        >*Si el usuario es <span>nivel</span> 3- o mayor, se trata como una mejora a un hipotético
+        <span>nivel</span> 4.</small
       >
     </p>
     <h2 id="anillos-septenarios">~ Anillos septenarios</h2>
@@ -280,7 +280,8 @@ const name = '✳ Ánimo ✳';
       debe ser bajo la supervisión obligatoria de un exégeta, o con un permiso dado por la cabeza
       del
       <span>CERT</span>, lo cual suele ocurrir para retirar orbes negativos y utilizarlos en
-      estudios científicos, o en entrenamientos para <span>expiadores</span> de máximo nivel.
+      estudios científicos, o en entrenamientos para <span>expiadores</span> de máximo
+      <span>nivel</span>.
     </p>
     <p></p>
     <h2 id="chrysalism">~ Crisalismo</h2>

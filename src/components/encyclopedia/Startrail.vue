@@ -67,10 +67,10 @@ const name = '☆ Estela ☆';
     </p>
     <p>
       Una <span class="style-branches">rama</span> puede aprender las
-      <span class="style-roots">raíces</span> de otras, pero durante su primer nivel está limitada a
-      aprender de la suya o neutras. Los <span>mefrinos</span> son los únicos
-      <span class="style-folia">folia</span> que pueden aprender cualquier
-      <span class="style-roots">raíz</span> desde su nacimiento.
+      <span class="style-roots">raíces</span> de otras, pero durante su primer
+      <span>nivel</span> está limitada a aprender de la suya o neutras. Los
+      <span>mefrinos</span> son los únicos <span class="style-folia">folia</span> que pueden
+      aprender cualquier <span class="style-roots">raíz</span> desde su nacimiento.
     </p>
     <article class="background-winged">
       <h4 id="elemental-manipulation">- Manipulación elemental</h4>
@@ -114,8 +114,8 @@ const name = '☆ Estela ☆';
       <span class="style-essence">ánimo</span> que no requieren de estudios profundos. Similar a las
       <span class="style-roots">raíces</span>, un <span class="style-folia">folia</span> puede
       manejar hasta tres al mismo tiempo, y también aprender los de una
-      <span class="style-branches">rama</span> distinta a la suya, pero solo a partir del 2do nivel.
-      A continuación se muestran las reglas que rigen el funcionamiento de los
+      <span class="style-branches">rama</span> distinta a la suya, pero solo a partir del 2do
+      <span>nivel</span>. A continuación se muestran las reglas que rigen el funcionamiento de los
       <span class="style-nodes">nodos</span>, y luego una lista de los existentes:
     </p>
     <ol>
@@ -271,8 +271,8 @@ const name = '☆ Estela ☆';
       </li>
       <li>
         <h3 id="numb" class="background-flowering">- Entumecer</h3>
-        Entumece un sentimiento al azar del objetivo, o a elección si el usuario es nivel 3. Puede
-        usarse para cancelar la activación de un espírio, o incluso una
+        Entumece un sentimiento al azar del objetivo, o a elección si el usuario es
+        <span>nivel</span> 3. Puede usarse para cancelar la activación de un espírio, o incluso una
         <span class="style-anthesis">antesis</span> si esta usa
         <span class="style-essence">ánimo</span>.
       </li>
@@ -300,7 +300,7 @@ const name = '☆ Estela ☆';
       <li>
         <h3 id="climate-manipulation" class="background-winged">- Manipulación climática</h3>
         Evoca lluvia, tormenta, ventisca, tornado, granizo, o nieve. Si un
-        <span class="style-folia">folia</span> de nivel menor a 3 usa este
+        <span class="style-folia">folia</span> de <span>nivel</span> menor a 3 usa este
         <span class="style-nodes">nodo</span>, el resultado será al azar a menos que sea apoyado de
         uno o más <span class="style-winged">alados</span>, o de un compañero
         <span class="style-natur">nátur</span>.

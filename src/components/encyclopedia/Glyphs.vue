@@ -13,8 +13,9 @@ const name = '⊙ Glifos ⊙';
       menos que estos abran sus núcleos.
     </p>
     <p>
-      La cantidad total de glifos que puede aprender un caudado es su nivel multiplicado por 3. Si
-      otro rama está aprendiendo estos, el multiplicador se reduce a 2.
+      La cantidad total de glifos que puede aprender un caudado es su
+      <span>nivel</span> multiplicado por 3. Si otro rama está aprendiendo estos, el multiplicador
+      se reduce a 2.
     </p>
     <ol>
       <li><b>Zygzos:</b> compatibilidad acuática; branquias y aletas.</li>

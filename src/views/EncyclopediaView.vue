@@ -15,7 +15,7 @@
   </main>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { ref, onMounted } from 'vue';
 import Introduction from '@/components/encyclopedia/Introduction.vue';
 import Folia from '@/components/encyclopedia/Folia.vue';
@@ -36,6 +36,7 @@ const dictionary = [
   { href: '#cosmos', pattern: /^lytflos$/ },
   { href: '#triadia', pattern: /^(ecocracia de triadia|triadia)$/ },
   { href: '#folia', pattern: /^folia$/ },
+  { href: '#levels', pattern: /^nivel(es)?$/ },
   // branches
   { href: '#branches', pattern: /^ramas?$/ },
   { href: '#winged', pattern: /^alad[oa]s?$/ },
@@ -63,6 +64,7 @@ const dictionary = [
   { href: '#startrail-systems', pattern: /^sistemas? estela$/ },
   { href: '#iris-fragments', pattern: /^fragmentos de iris$/ },
   { href: '#golden-bubbles', pattern: /^burbujas de oro$/ },
+  { href: '#fusion', pattern: /^fusión|fusionarse$/ },
   // essence
   { href: '#essence', pattern: /^(ánimo|negatividad|positividad|lucero|umbría)$/ },
   { href: '#natur', pattern: /^náturs?$/ },
@@ -96,20 +98,20 @@ const dictionary = [
 ];
 
 // auto-link terms logic
-const doc = ref(null);
+const doc = ref();
 onMounted(() => {
   // safety check
   if (!doc.value) return;
   // keep track of seen terms
-  let seen;
+  let seen: Set<string>;
   // loop through all sections
   const sections = doc.value.querySelectorAll('section');
-  sections.forEach((section) => {
+  sections.forEach((section: HTMLElement) => {
     // clear seen terms
-    seen = new Set();
+    seen = new Set<string>();
     // loop through all spans inside the current section
     const spans = section.querySelectorAll('span');
-    spans.forEach((span) => {
+    spans.forEach((span: HTMLSpanElement) => {
       // ensure accurate mapping (e.g., "Lytflos" -> "lytflos")
       const text = span.textContent.trim().toLowerCase();
       // find the first dictionary entry whose regex matches the text

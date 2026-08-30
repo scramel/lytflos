@@ -61,7 +61,8 @@ const name = '☘ Folia ☘';
       Cada <span class="style-folia">folia</span> cuenta con un talento —un
       <span class="style-nodes">nodo</span> asociado a su <span class="style-branches">rama</span>—
       que pueden utilizar sin necesidad de aprenderlo de antemano. Este no cuenta al momento de
-      <a href="#levels">completar un nivel</a>.
+      <a href="#levels">completar un <span>nivel</span></a
+      >.
     </p>
     <h3 id="winged">- Alado</h3>
     <p>
@@ -143,12 +144,14 @@ const name = '☘ Folia ☘';
         </small>
       </p>
     </article>
-    <h2>~ <text id="hybrids">Híbridos</text> y <text id="levels">niveles</text></h2>
+    <h2>
+      ~ <text id="hybrids">Híbridos</text> y <text id="levels"><span>nivel</span>es</text>
+    </h2>
     <p>
       La primera <span class="style-roots">raíz</span> y <span class="style-nodes">nodo</span> de un
       <span class="style-folia">folia</span> están atados al de su
-      <span class="style-branches">rama</span> durante su primer nivel, y solamente después de subir
-      de nivel este puede aprender las habilidades de una
+      <span class="style-branches">rama</span> durante su primer <span>nivel</span>, y solamente
+      después de subir de <span>nivel</span> este puede aprender las habilidades de una
       <span class="style-branches">rama</span> distinta. Al aprenderlas, el
       <span class="style-folia">folia</span> obtiene las características físicas de la
       <span class="style-branches">rama</span> a la que pertenecen las habilidades, y este estaría
@@ -160,20 +163,20 @@ const name = '☘ Folia ☘';
       de sus vidas.
     </p>
     <p>
-      Cada nivel está conformado por una <span class="style-roots">raíz</span>, un
+      Cada <span>nivel</span> está conformado por una <span class="style-roots">raíz</span>, un
       <span class="style-nodes">nodo</span>, y una mejora de
       <span class="style-anthesis">antesis</span>. No se puede aprender un segundo
       <span class="style-nodes">nodo</span> sin antes aprender una primera
-      <span class="style-roots">raíz</span> que complete el primer nivel, y viceversa. Este
-      principio incluye la mejora de <span class="style-anthesis">antesis</span> también, por lo que
-      los tres elementos son requeridos para completar cada nivel.
+      <span class="style-roots">raíz</span> que complete el primer <span>nivel</span>, y viceversa.
+      Este principio incluye la mejora de <span class="style-anthesis">antesis</span> también, por
+      lo que los tres elementos son requeridos para completar cada <span>nivel</span>.
     </p>
     <p>
       Aunque un <span class="style-folia">folia</span> puede aprender cuantas habilidades quiera,
       solo tiene dos oportunidades para elegir aprender las de una
       <span class="style-branches">rama</span> distinta a la suya, que es por cada vez que completa
-      un nivel, lo cual deja un total de 3 niveles. Una vez alcanzado el nivel 3, los
-      <span class="style-folia">folia</span> ya no pueden mejorar sus
+      un <span>nivel</span>, lo cual deja un total de 3 <span>nivel</span>es. Una vez alcanzado el
+      <span>nivel</span> 3, los <span class="style-folia">folia</span> ya no pueden mejorar sus
       <span class="style-anthesis">antesis</span> pero les es posible continuar aprendiendo
       <span class="style-roots">raíces</span> y <span class="style-nodes">nodos</span>, aunque
       normalmente ellos deciden dejar de aprender nuevas habilidades una vez llegados a ese punto.
