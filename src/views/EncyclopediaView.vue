@@ -31,7 +31,12 @@ import History from '@/components/encyclopedia/History.vue';
 import Glyphs from '@/components/encyclopedia/Glyphs.vue';
 
 // terms links map
-const dictionary = [
+interface DictionaryEntry {
+  href: string;
+  pattern: RegExp;
+}
+
+const dictionary: DictionaryEntry[] = [
   // generalities
   { href: '#cosmos', pattern: /^lytflos$/ },
   { href: '#triadia', pattern: /^(ecocracia de triadia|triadia)$/ },
@@ -76,6 +81,8 @@ const dictionary = [
   { href: '#expiator', pattern: /^expiador(a|[ea]s)?$/ },
   { href: '#exegete', pattern: /^exégetas?$/ },
   { href: '#negative-orb', pattern: /^(orbe negativo|orbes negativos)$/ },
+  // cosmos
+  { href: '#cosmos', pattern: /^níblom$/ },
   // organizations
   { href: '#cert', pattern: /^cert$/ },
   { href: '#type-ii', pattern: /^tipo-ii$/ },
@@ -98,22 +105,20 @@ const dictionary = [
 ];
 
 // auto-link terms logic
-const doc = ref();
+const doc = ref<HTMLElement | null>(null);
 onMounted(() => {
   // safety check
   if (!doc.value) return;
-  // keep track of seen terms
-  let seen: Set<string>;
   // loop through all sections
   const sections = doc.value.querySelectorAll('section');
   sections.forEach((section: HTMLElement) => {
-    // clear seen terms
-    seen = new Set<string>();
+    // keep track of seen terms
+    const seen = new Set<string>();
     // loop through all spans inside the current section
     const spans = section.querySelectorAll('span');
     spans.forEach((span: HTMLSpanElement) => {
       // ensure accurate mapping (e.g., "Lytflos" -> "lytflos")
-      const text = span.textContent.trim().toLowerCase();
+      const text = (span.textContent || '').trim().toLowerCase();
       // find the first dictionary entry whose regex matches the text
       const match = dictionary.find((entry) => entry.pattern.test(text));
       // only handle match if not previously used in the current section

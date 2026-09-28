@@ -26,7 +26,8 @@ const name = '✾ Flora ✾';
       <span class="style-iris-fragments">fragmentos de iris</span> durante el día, y expulsan los
       restos en forma de burbujas de estela durante la noche. Tienen muchas propiedades, desde
       iluminativas hasta curativas, y sus pétalos son tan dorados como tan expuestos al sol han
-      estado. Se dice que el primer solaris nació de un trozo de semilla níblom caída en la tierra.
+      estado. Se dice que el primer solaris nació de un trozo de semilla <span>níblom</span> caída
+      en la tierra.
     </p>
     <h2 id="black-clover">~ Trébol negro</h2>
     <p>

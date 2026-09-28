@@ -99,7 +99,7 @@ const name = '❦ Criaturas ❦';
       Las criaturas con esta condición pueden vivir perfectamente bien siempre y cuando se alimenten
       adecuadamente: en comidas masivas espaciadas por ciclos de semanas o incluso meses. Una
       misteriosa anomalía en <span>Península Carúlea</span> causa que sean más comúnes allí que en
-      cualquier otra parte.
+      cualquier otro sitio.
     </p>
     <h2 id="summoning">~ Invocación</h2>
     <p>

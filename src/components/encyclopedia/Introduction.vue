@@ -45,48 +45,98 @@ const name = '✾ Introducción ✾';
     <p>
       Le dedico este escrito a aquellos quienes quieran dejar volar su imaginación con mi creación.
     </p>
-    <h2 id="usage-guidelines">~ Pautas de uso</h2>
+    <h2 id="usage-guidelines">~ Pautas de uso para fans de Folia</h2>
+    <p style="margin-top: -2rem">
+      <i>
+        <small>Última actualización: 2026-09-28</small>
+      </i>
+    </p>
+    <p style="margin-top: -2rem">
+      <i>
+        <small>Versión: 1.0</small>
+      </i>
+    </p>
     <p>
-      Permito a cualquiera disponer de los recursos utilizados en
+      <b>¡Haz tu propio jardín!</b>
+    </p>
+    <p>
+      Si eres un creador de contenido o grupo independiente, tienes permitido crear obras derivadas
+      (fanarts, fangames, fanfics, covers, etc.), distribuirlas, e incluso monetizarlas.
+    </p>
+    <p>
+      También puedes utilizar los recursos empleados en
       <span class="style-folia style-folia--game">Folia</span> (ilustraciones, música, diseños,
-      personajes, worldbuilding, código fuente, etc.) para crear contenido propio, distribuirlo, e
-      incluso monetizarlo,
-      <strong>siempre y cuando sea acreditado apropiadamente y hecho en buena fe:</strong>
+      personajes, worldbuilding, código fuente, etc.) como parte de tus propios proyectos,
+      <strong
+        >siempre y cuando sean hechos en buena fe y cumplan con las pautas a continuación:</strong
+      >
     </p>
     <ul>
       <li>
         Acredita tu contenido como basado en la novela visual
         <span class="style-folia style-folia--game">Folia</span>.
       </li>
+      <li>Acredita apropiadamente a los creadores de los recursos que utilices.</li>
       <li>
-        Incluye enlaces oficiales a la novela visual
-        <span class="style-folia style-folia--game">Folia</span>, los recursos disponibles al
-        público que utilices de este, y/o mis redes sociales.
-      </li>
-      <li>
-        Si utilizas recursos que no son de mi creación, acredita apropiadamente a su creador
-        original.
+        Incluye <a href="#">enlaces oficiales</a> a la novela visual
+        <span class="style-folia style-folia--game">Folia</span>, los
+        <a href="#">recursos disponibles al público</a> que utilices de este, y/o
+        <a href="#">mis redes sociales</a>.
       </li>
       <li>¡Incluye una advertencia de spoilers si aplica!</li>
       <li>¡Crea lo más genial y divertido que haya visto este mundo!</li>
     </ul>
-    <p><strong>Tu contenido será considerado hecho en mala fe si:</strong></p>
+    <p><strong>Tu contenido NO estará permitido si:</strong></p>
     <ul>
+      <li>Daña la reputación de <span class="style-folia">Folia</span> o de sus creadores.</li>
       <li>Infringe propiedades intelectuales o leyes del país donde sea distribuido.</li>
       <li>Promueve el odio o conductas inapropiadas fuera de la ficción.</li>
       <li>Utiliza contenido de terceros sin el permiso de sus respectivos creadores.</li>
-      <li>Intenta hacerse pasar como contenido oficial.</li>
       <li>
-        Monetiza los recursos de la novela visual
-        <span class="style-folia style-folia--game">Folia</span> por sí solos (ej. venta de la banda
-        sonora).
+        Intenta hacerse pasar como contenido oficial de <span class="style-folia">Folia</span>.
       </li>
-      <li>¡¿Es mid?!</li>
+      <li>No etiqueta o restringe contenido adulto (si aplica).</li>
+      <li>
+        Monetiza recursos de
+        <span class="style-folia style-folia--game">Folia</span> por sí solos (por ejemplo, mediante
+        la venta de la banda sonora original).
+      </li>
+      <li>Relega trabajos creativos a IAs generativas.</li>
+      <li>Entrena modelos de IA con los recursos de <span class="style-folia">Folia</span>.</li>
+      <li>Usa recursos de <span class="style-folia">Folia</span> en NFTs o blockchains.</li>
+      <li>¡¿Es aburrido?!</li>
     </ul>
-    <p>
-      Estas pautas pueden recibir cambios si lo considero necesario, incluso sin previo aviso. Todo
-      contenido creado, así como responsabilidad sobre el mismo, pertenece a sus respectivos
-      autores.
-    </p>
+    <article class="background-neutral">
+      <p>
+        Estas pautas representan un resumen informal y fácil de leer. Para conocer los términos
+        legales completos y vinculantes sobre el uso de la propiedad intelectual, por favor lee la
+        <a href="#">Licencia de Contenido para Fans</a>.
+      </p>
+      <br />
+      <p>
+        Si representas una corporación o entidad legal y deseas utilizar
+        <span class="style-folia">Folia</span> con fines comerciales, por favor
+        <a href="#">contacta conmigo</a> para discutir un acuerdo.
+      </p>
+    </article>
+    <article class="background-warning">
+      <p>
+        Estas pautas pueden recibir cambios si lo considero necesario, incluso sin previo aviso.
+      </p>
+    </article>
+    <article class="background-warning">
+      <p>
+        Los derechos sobre las obras derivadas pertenecen a sus respectivos autores, sin perjuicio
+        de mis derechos sobre <span class="style-folia">Folia</span> y sus recursos.
+      </p>
+    </article>
+    <article class="background-caudate">
+      <p>
+        <strong>
+          Me reservo el derecho de exigir la eliminación de cualquier contenido derivado si
+          considero que representa una violación grave a estas pautas.
+        </strong>
+      </p>
+    </article>
   </section>
 </template>

@@ -2,7 +2,7 @@
 
 set -e
 
-yarn build
+pnpm build
 
 cd dist
 
