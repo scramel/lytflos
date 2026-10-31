@@ -159,6 +159,11 @@
   color: var(--color-chrysalism);
   text-decoration-color: var(--color-chrysalism);
 }
+// if link is redundant, this can be applied to hide the visual change
+.no-decoration {
+  color: var(--color-text);
+  text-decoration: none;
+}
 
 /* backgrounds */
 .background {

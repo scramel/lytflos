@@ -69,7 +69,7 @@ const dictionary: DictionaryEntry[] = [
   { href: '#startrail-systems', pattern: /^sistemas? estela$/ },
   { href: '#iris-fragments', pattern: /^fragmentos de iris$/ },
   { href: '#golden-bubbles', pattern: /^burbujas de oro$/ },
-  { href: '#fusion', pattern: /^fusión|fusionarse$/ },
+  { href: '#fusion', pattern: /^(fusión|fusionarse)$/ },
   // essence
   { href: '#essence', pattern: /^(ánimo|negatividad|positividad|lucero|umbría)$/ },
   { href: '#natur', pattern: /^náturs?$/ },

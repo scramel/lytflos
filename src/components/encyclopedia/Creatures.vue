@@ -172,9 +172,9 @@ const name = '❦ Criaturas ❦';
       La armonía entre estas criaturas causan los fenómenos que mantienen la vida en constante
       movimiento, y sus riñas ocasionan los cataclismos que los
       <span class="style-folia">folia</span> tanto se esfuerzan en evitar. Ya que su existencia está
-      ligada a la propia naturaleza, en cuanto el <span class="style-elements">elemento</span> que
-      representan se extingue, los <span class="style-natur">náturs</span> desaparecen también. No
-      está claro si la naturaleza origina de los <span class="style-natur">náturs</span>, o si los
+      ligada a la propia naturaleza, los <span class="style-natur">náturs</span> desaparecen cuando
+      el <span class="style-elements">elemento</span> que representan se extingue. No está claro si
+      la naturaleza origina de los <span class="style-natur">náturs</span>, o si los
       <span class="style-natur">náturs</span> originan de la naturaleza.
     </p>
     <p>
@@ -191,11 +191,11 @@ const name = '❦ Criaturas ❦';
       lenguaje: el <span class="style-natur">natúreo</span>, que los
       <span class="style-folia">folia</span> pueden aprender y los
       <span class="style-winged">alados</span> entienden intuitivamente. El
-      <span class="style-natur">nátur</span> típico prefiere que lo dejen en paz, por lo que quienes
+      <span class="style-natur">nátur</span> típico prefiere estar solo, por lo que quienes
       conversan a menudo con los <span class="style-folia">folia</span> son una minoría; aun así,
-      les es posible formar un vínculo fuerte entre ellos, e incluso <span>fusionarse</span> para
-      combinar sus poderes y proteger el mundo. No es posible forzar una <span>fusión</span>, sino
-      que el <span class="style-natur">nátur</span> decide cuándo realizarlo.
+      les es posible formar un vínculo fuerte, e incluso <span>fusionarse</span> para combinar sus
+      poderes. No es posible forzar una <span>fusión</span>, sino que el
+      <span class="style-natur">nátur</span> decide cuándo realizarlo.
     </p>
     <h2 id="thamo">~ Thámo</h2>
     <p>
@@ -204,9 +204,8 @@ const name = '❦ Criaturas ❦';
       thámo son amigables, aunque muy molestos si se enfurecen.
     </p>
     <p>
-      Miden alrededor de 50cm, su piel es dura, y se pueden domesticar, aunque normalmente nadie les
-      quiere cerca. Son comunes, y en algunos sitios numerosos. Aunque son herbívoros, no comen
-      folia.
+      Miden alrededor de 40cm, su piel es dura, y se pueden domesticar, aunque normalmente nadie les
+      quiere cerca. Son comunes, y en algunos sitios numerosos.
     </p>
   </section>
 </template>

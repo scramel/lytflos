@@ -45,7 +45,7 @@ const name = '✾ Introducción ✾';
     <p>
       Le dedico este escrito a aquellos quienes quieran dejar volar su imaginación con mi creación.
     </p>
-    <h2 id="usage-guidelines">~ Pautas de uso para fans de Folia</h2>
+    <h2 id="usage-guidelines">~ Pautas de uso para fans</h2>
     <p style="margin-top: -2rem">
       <i>
         <small>Última actualización: 2026-09-28</small>
