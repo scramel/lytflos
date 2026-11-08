@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 const name = '⛿ Triadia ⛿';
 </script>
 
@@ -7,64 +7,83 @@ const name = '⛿ Triadia ⛿';
     <h1 id="triadia" :name="name">{{ name }}</h1>
     <hr />
     <p>
-      La <b>Ecocracia de <span class="style-triadia">Triadia</span></b> es el gobierno más
-      importante y grande de <span class="style-lytflos">Lytflos</span>. Es dirigido por cuatro
-      representantes —uno por cada <span class="style-branches">rama</span> y uno para su armonía—,
-      seleccionados por sus méritos y luego elegidos democráticamente a través del sistema
-      <span>VUT</span>, que toman decisiones ejecutivas tomando en cuenta los intereses de los
-      <span class="style-folia">folia</span>, el equilibrio entre sus
-      <span class="style-branches">ramas</span>, su protección, y el cuidado de la naturaleza.
+      La <span class="no-decoration"><b>Ecocracia de Triadia</b></span> es el gobierno más grande e
+      importante de <span class="style-lytflos">Lytflos</span>, y está constituida por siete grandes
+      ciudades: Artids, Ftéryon, Dasódis, Érimos, Ptéryon, Rérecros e Ýperos. Cada ciudad cuenta con
+      un alcalde elegido democráticamente, encargado de administrar la economía local, gestionar
+      proyectos municipales y satisfacer las necesidades de sus ciudadanos.
     </p>
     <p>
-      La ecocracia está conformada por siete grandes ciudades: Artids, Ftéryon, Dassódils, Érimos,
-      Ptéryon, Rérecros, e Ýperos, todas administradas por alcaldes y con numerosos pueblos y villas
-      que las conforman. Cada ciudad funciona mayormente de forma autónoma y comunitaria; la
-      ecocracia provee una estructura económica y social sin buscar homogenizar todo su territorio,
-      por lo que culturamente varían enormemente unas de otras.
+      Aunque las ciudades gozan de una considerable autonomía administrativa, mantienen una relación
+      de cooperación e interdependencia, compartiendo recursos, conocimientos e inversiones según
+      sus necesidades y posibilidades. Por ello, cada mes las Siete Ciudades presentan un informe de
+      sus avances y hallazgos a los cuatro representantes de Triadia, quienes simbolizan las tres
+      <span class="style-branches">ramas</span> de la sociedad y la armonía entre ellas: tres
+      representantes pertenecen obligatoriamente a
+      <span class="style-branches">ramas</span> distintas, mientras que el cuarto puede pertenecer a
+      cualquiera de las tres.
     </p>
     <p>
-      Para traversar de una ciudad a otra se utilizan
-      <span>plataformas transmutadoras</span>, lo cual facilita a los
-      <span class="style-folia">folia</span> viajar o incluso trabajar entre regiones sin
+      Los representantes de Triadia velan por el bienestar de la nación en su conjunto, considerando
+      los intereses de sus habitantes, la seguridad colectiva y la protección de la naturaleza.
+      Estos no ejercen autoridad sobre las ciudades, sino que ofrecen orientación, recomendaciones y
+      mediación, procurando mantener una visión compartida entre las comunidades. Su influencia
+      reside principalmente en la confianza y el respaldo de la gente que representan, por lo que
+      sus opiniones tienen un peso considerable —aunque no absoluto— en las decisiones locales.
+    </p>
+    <p>
+      Tanto los representantes como los alcaldes son elegidos democráticamente a través del
+      <a href="https://es.wikipedia.org/wiki/Voto_aprobatorio">voto por aprobación</a>, tras un
+      proceso de nominación en el que un comité evalúa los méritos, la trayectoria personal y las
+      contribuciones sociales de los candidatos. Tanto el voto como las decisiones del comité son
+      públicas, y estas últimas pueden ser apeladas democráticamente por la población.
+    </p>
+    <p>
+      La cooperación entre las Siete Ciudades constituye una necesidad para el bienestar y la
+      estabilidad de toda la nación, ya que cada una representa una parte de la seguridad, la
+      riqueza natural y el valor de Triadia. De este modo, la Ecocracia procura equilibrar los
+      intereses individuales y comunitarios con las responsabilidades colectivas, permitiendo que
+      cada ciudad conserve su identidad sin perder de vista su sentido de pertenencia a un conjunto.
+    </p>
+    <p>
+      Para traversar entre ciudades se utilizan
+      <span>plataformas transmutadoras</span>, que facilitan a los
+      <span class="style-folia">folia</span> viajar e incluso trabajar entre regiones sin
       preocuparse por largas distancias. El <span>expreso dendrón</span> también conecta todas las
-      ciudades, pero este está a punto de abandonar sus funciones a favor de las plataformas.
+      ciudades, pero está cerca de descontinuar sus operaciones a favor de dichas plataformas.
+    </p>
+    <h2 id="artids">~ Ártids 🏛</h2>
+    <p>
+      Del Frisio <i>eartiids</i> (lit. «en el pasado»), es la ciudad mejor conservada tras el
+      <span>Día de la Expiación</span>. Aquí se encuentran numerosos talleres de sistemas estela,
+      las mejores fuentes de información acerca de los <span>Años Anteriores</span>, y el mayor
+      yacimiento arqueológico de tecnología antigua conocido.
     </p>
     <p>
-      Los sitios inexplorados de
-      <span class="style-lytflos">Lytflos</span> no son parte de la ecocracia.
-    </p>
-    <h2 id="artids">~ Artids 🏛</h2>
-    <p>
-      Del frisio eartiids (lit. «antes»), es la primera ciudad descubierta en decente estado después
-      del Día de la Expiación. Aquí se ha encontrado la mayor información acerca del pasado del
-      mundo y se estudia el funcionamiento de la tecnología. Si un dispositivo es considerado dañino
-      a la naturaleza, su metal es reutilizado para reconstruir la misma ciudad, y de otra forma es
-      enviado al Taller Ibelle para medir su valor y evaluar la posibilidad de reproducirlo en masa
-      para aumentar la calidad de vida de los folia.
+      Cada dispositivo encontrado por los arqueólogos es estudiado por ingenieros de la localidad,
+      quienes evalúan la posibilidad de adaptar su funcionamiento a un sistema estela si no está
+      prohibido (no armas, no contaminantes, etc.). De lo contrario, los metales son reutilizados
+      para reconstruir la ciudad. En cualquier caso, se prioriza aumentar la calidad de vida de los
+      <span class="style-folia">folia</span>.
     </p>
     <p>
-      Recientemente se ha abierto Artids al público para ser poblada, la cual la convierte en la
-      séptima ciudad de
-      <span class="style-triadia">Triadia</span> , pero aún existen zonas peligrosas y prohibidas a
-      las que solo es permitido ir con la compañía de un arqueólogo o un expiador. Una sede de
-      <span>Tipo-II</span> solía funcionar aquí, pero en el presente sus funciones han sido
-      suspendidas y el edificio ha sido convertido en un almacén.
+      A pesar de su inmensa infraestructura, Ártids tiene la población más pequeña de las Siete
+      Ciudades. Su valor histórico, su inestabilidad estructural y su estado de abandono han
+      dificultado su repoblación, hasta que algunas zonas fueron restauradas y abiertas al público.
+      Para explorar áreas más profundas se requiere la compañía de un arqueólogo o un expiador.
     </p>
-    <b>Habitantes:</b>
-    <ul>
-      <li v-for="name in ['Stella Ibelle', 'Kaisha'].sort()">{{ name }}</li>
-    </ul>
     <b>Localizaciones:</b>
     <ul>
       <li
         v-for="name in [
           'Garage de <span>Tipo-II</span>',
           'Zona residencial abandonada',
+          'Zona arqueológica',
           'Taller Ibelle',
         ].sort()"
-      >
-        {{ name }}
-      </li>
+        :key="name"
+        v-html="name"
+      ></li>
     </ul>
     <h2 id="livadi">~ Caminos de Livádi</h2>
     <p>
@@ -89,17 +108,17 @@ const name = '⛿ Triadia ⛿';
     <p>
       En el prado se encuentran flores gigantescas, tan grandes y sólidas que sus pétalos sostienen
       tierra por sobre la que se puede caminar y construir. Localizaciones de interés: Expreso
-      Dendrón. Monumento al 2636. Ruinas: Central Eléctrica.
+      Dendrón.
     </p>
     <b>Localizaciones:</b>
     <ul>
-      <li v-for="name in ['Monumento al 2636', 'Ruinas (Central Eléctrica)'].sort()">
+      <li v-for="name in ['Monumento al 2636', 'Ruinas (Central Eléctrica)'].sort()" :key="name">
         {{ name }}
       </li>
     </ul>
-    <h2 id="dasodis">~ Dassódils 🏛</h2>
+    <h2 id="dasodis">~ Dasódis 🏛</h2>
     <p>
-      Proveniente del griego δασώδης (Dassódils, lit. «arbolado»), esta ciudad es una de las más
+      Proveniente del griego δασώδης (Dasódis, lit. «arbolado»), esta ciudad es una de las más
       importantes del mundo, pues aquí crece y se produce la mayoría de las flores y té del mundo
       para ser exportados a otras ciudades. Conocido también por sus especialistas talentosos y
       especialmente la familia Ōrora, progenitores de la transmutación, sembradores del árbol
@@ -117,7 +136,7 @@ const name = '⛿ Triadia ⛿';
     </p>
     <p>
       Por desgracia, esta ciudad es también conocida por ser el lugar donde ocurrió la Masacre de
-      Dassódils, un incidente donde decenas de pacientes del Hospital Doshi fueron asesinados. La
+      Dasódis, un incidente donde decenas de pacientes del Hospital Doshi fueron asesinados. La
       naturaleza misteriosa y sangrienta del caso trajo mucha conmoción y llevó a las personas a
       cuestionar la seguridad de la ecocracia.
     </p>
@@ -132,6 +151,7 @@ const name = '⛿ Triadia ⛿';
           'Ōrora Theod',
           'Ōrora Díanys',
         ].sort()"
+        :key="name"
       >
         {{ name }}
       </li>
@@ -141,11 +161,12 @@ const name = '⛿ Triadia ⛿';
       <li
         v-for="name in [
           'Árbol Astronómico',
-          'Bosque de Dassódils',
+          'Bosque de Dasódis',
           'Hospital Mídiki',
           'Mansión Ōrora',
           'Casa de Té Retsyo',
         ].sort()"
+        :key="name"
       >
         {{ name }}
       </li>
@@ -174,6 +195,7 @@ const name = '⛿ Triadia ⛿';
           'Wilger Reeves',
           'Wren',
         ].sort()"
+        :key="name"
       >
         {{ name }}
       </li>
@@ -187,6 +209,7 @@ const name = '⛿ Triadia ⛿';
           'Sello Discográfico Chordyline',
           'Subsuelo de Abbso',
         ].sort()"
+        :key="name"
       >
         {{ name }}
       </li>
@@ -229,7 +252,10 @@ const name = '⛿ Triadia ⛿';
     </p>
     <b>Habitantes:</b>
     <ul>
-      <li v-for="name in ['Nakoshi Mai', 'Nakoshi Nai', 'Nakoshi Wai', 'Lifrei Nicaul'].sort()">
+      <li
+        v-for="name in ['Nakoshi Mai', 'Nakoshi Nai', 'Nakoshi Wai', 'Lifrei Nicaul'].sort()"
+        :key="name"
+      >
         {{ name }}
       </li>
     </ul>
@@ -242,6 +268,7 @@ const name = '⛿ Triadia ⛿';
           'Palacio de Glaen',
           'Sede Central de Control Climático (SCCC)',
         ].sort()"
+        :key="name"
       >
         {{ name }}
       </li>
@@ -254,7 +281,7 @@ const name = '⛿ Triadia ⛿';
     </p>
     <b>Habitantes:</b>
     <ul>
-      <li v-for="name in ['N3V-10K'].sort()">
+      <li v-for="name in ['N3V-10K'].sort()" :key="name">
         {{ name }}
       </li>
     </ul>
@@ -272,7 +299,7 @@ const name = '⛿ Triadia ⛿';
     </p>
     <b>Habitantes:</b>
     <ul>
-      <li v-for="name in ['Nieve'].sort()">
+      <li v-for="name in ['Nieve'].sort()" :key="name">
         {{ name }}
       </li>
     </ul>
@@ -305,7 +332,7 @@ const name = '⛿ Triadia ⛿';
     </p>
     <h2 id="carulean-peninsula">~ Península Carúlea</h2>
     <p>
-      Al noreste de Dassódils se encuentra una península el cual comprende un atolón que contiene la
+      Al noreste de Dasódis se encuentra una península el cual comprende un atolón que contiene la
       pequeña isla. Una inusual cantidad de criaturas, flora, y árboles de tamaños colosales reside
       allí. Una iniciativa para plantar un segundo árbol astronómico en el lugar es considerada,
       pero la poca población junto a la naturaleza salvaje de la zona retienen tal propuesta.
@@ -319,7 +346,10 @@ const name = '⛿ Triadia ⛿';
     </p>
     <b>Habitantes:</b>
     <ul>
-      <li v-for="name in ['Eialagn Kyria', 'Teri el Vagante', 'Hermanas Merosa'].sort()">
+      <li
+        v-for="name in ['Eialagn Kyria', 'Teri el Vagante', 'Hermanas Merosa'].sort()"
+        :key="name"
+      >
         {{ name }}
       </li>
     </ul>
@@ -340,6 +370,7 @@ const name = '⛿ Triadia ⛿';
     <ul>
       <li
         v-for="name in ['Zoelia', 'Terygios Seirina', 'Eimi', 'Feles Thalasa', 'Nero Gida'].sort()"
+        :key="name"
       >
         {{ name }}
       </li>
@@ -380,6 +411,7 @@ const name = '⛿ Triadia ⛿';
           'Foster Xias',
           'Foster Meteoro',
         ].sort()"
+        :key="name"
       >
         {{ name }}
       </li>

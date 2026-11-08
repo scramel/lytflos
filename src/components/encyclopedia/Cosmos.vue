@@ -39,8 +39,8 @@ const name = '❂ Cosmos ❂';
     </p>
     <h2 id="astros">~ Astros</h2>
     <p>
-      Ya que el universo de <span>Lytflos</span> es tan distinto al de los humanos, palabras como
-      «Sol» y «Luna» guardan un significado distinto para los
+      Ya que el universo de <span class="style-lytflos">Lytflos</span> es tan distinto al de los
+      humanos, palabras como «Sol» y «Luna» guardan un significado distinto para los
       <span class="style-folia">folia</span>. Algunos ejemplos son:
     </p>
     <ul>
@@ -66,8 +66,8 @@ const name = '❂ Cosmos ❂';
       </li>
       <li>
         <p>
-          <b>«Sol»:</b> <span>Skyseed</span> de un <span>níblom</span>, ej.: «Lytflos tiene tres
-          soles». Término poco común.
+          <b>«Sol»:</b> <span>Skyseed</span> de un <span>níblom</span>, ej.:
+          <span class="style-lytflos">Lytflos</span> tiene tres soles». Término poco común.
         </p>
       </li>
       <li>

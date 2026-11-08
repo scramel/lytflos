@@ -69,7 +69,7 @@ const name = '🕮 Historia 🕮';
       en encontrar refugio de criaturas salvajes, especialmente náturs y negativos. Con el tiempo se
       formaron algunas comunidades, y estas alzaron villas y pueblos, algunas que después se
       convertirían en parte una de las siete ciudades de
-      <span class="style-triadia">Triadia</span> , como Dassódils.
+      <span class="style-triadia">Triadia</span> , como Dasódis.
     </p>
     <p>
       Existió una intención por restaurar algunas de las ciudades perdidas, pero en vez de
@@ -117,7 +117,7 @@ const name = '🕮 Historia 🕮';
       incompetencia de los demás, e incluso hubo sospechas de abuso del poder de los anillos
       septenarios. Con el tiempo, ciudades fueron formándose, cada una exclusiva para cada rama: los
       alados alzaron Angelonia (ahora Ftéryon), los caudados levantaron Rérecros (entonces llamado
-      Dúacos), y los florecidos se quedaron con Dassódils.
+      Dúacos), y los florecidos se quedaron con Dasódis.
     </p>
     <h3 id="third-millenium">- Tercer milenio</h3>
     <p>
@@ -130,7 +130,7 @@ const name = '🕮 Historia 🕮';
     <p>
       En algún punto durante la primera mitad de este milenio, Dúacos cambió a Rérecros, pasando a
       ser un gobierno meritocrático. Angelosia cambió a Ftéryon, que se transformó en una monarquía.
-      Mientras tanto, Dassódils fue una república durante este tiempo. Las ciudades, ahora pequeños
+      Mientras tanto, Dasódis fue una república durante este tiempo. Las ciudades, ahora pequeños
       países, buscaban expandirse, pero nadie se ponía de acuerdo en qué era justo conquistar y qué
       no. Las tensiones ya existentes finalmente explotaron en una guerra territorial que comenzó a
       partir del 2626 y duró 9 años, finalizando el 2635. A este período de tiempo se le conoce como

@@ -6,7 +6,7 @@
     <Essence />
     <Creatures />
     <Cosmos />
-    <Republic />
+    <Triadia />
     <Culture />
     <Organizations />
     <Flora />
@@ -23,7 +23,7 @@ import Startrail from '@/components/encyclopedia/Startrail.vue';
 import Essence from '@/components/encyclopedia/Essence.vue';
 import Creatures from '@/components/encyclopedia/Creatures.vue';
 import Cosmos from '@/components/encyclopedia/Cosmos.vue';
-import Republic from '@/components/encyclopedia/Republic.vue';
+import Triadia from '@/components/encyclopedia/Triadia.vue';
 import Culture from '@/components/encyclopedia/Culture.vue';
 import Organizations from '@/components/encyclopedia/Organizations.vue';
 import Flora from '@/components/encyclopedia/Flora.vue';
@@ -89,7 +89,7 @@ const dictionary: DictionaryEntry[] = [
   { href: '#ivlis', pattern: /^ivlis$/ },
   // history
   { href: '#former-years', pattern: /^años anteriores$/ },
-  { href: '#day-0', pattern: /^día 0$/ },
+  { href: '#day-0', pattern: /^(día 0|día de la expiación)$/ },
   { href: '#later-years', pattern: /^años posteriores$/ },
   { href: '#first-millenium', pattern: /^primer milenio$/ },
   { href: '#second-millenium', pattern: /^segundo milenio$/ },
