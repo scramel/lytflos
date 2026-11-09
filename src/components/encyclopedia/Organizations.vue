@@ -27,7 +27,7 @@ const name = '⚐ Organizaciones ⚐';
       especialmente en Ýperos, dando lugar a sistemas de alumbrado público, gestión de residuos,
       almacenamiento masivo de estela, entre otros aportes. Actualmente se encuentra casi en
       bancarrota debido a la súbita caída de demanda de medios de transporte público en los últimos
-      años causada por la invención de plataformas transmutadoras.
+      años causada por la invención de plataformas de transmutación.
     </p>
     <h2 id="ivlis">~ Ivich Libben Sykjen (IVLIS)</h2>
     <p>

@@ -80,7 +80,7 @@ const name = '🙒 Cultura 🙒';
     <p>
       Ruinas de la civilización previa al Día 0. Sin contar las que han sido restauradas (como
       Ptéryon e Ýperos), hay tres en el mapa: una cerca de Lykófos, otra en la superficie de
-      Ptéryon, y Artids, que se la considera casi restaurada.
+      Ptéryon, y Ártids, que se la considera casi restaurada.
     </p>
     <h3 id="currency">- Moneda</h3>
     <p>
@@ -233,7 +233,7 @@ const name = '🙒 Cultura 🙒';
       la redención y no desperdiciar vidas que pueden potencialmente cambiar el mundo para bien,
       especialmente alentando el uso de talento y aprendizaje durante el aprisionamiento.
     </p>
-    <h3 id="transmutation-platforms">- Plataformas transmutadoras</h3>
+    <h3 id="transmutation-platforms">- Plataformas de transmutación</h3>
     <p>
       Un medio de transporte moderno, diseñado por Theod Ōrora, que consiste en utilizar raíces que
       conectan entre sí diversas localizaciones del mundo, de modo que para accionarlas una persona

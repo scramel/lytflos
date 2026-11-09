@@ -81,8 +81,17 @@ const dictionary: DictionaryEntry[] = [
   { href: '#expiator', pattern: /^expiador(a|[ea]s)?$/ },
   { href: '#exegete', pattern: /^exégetas?$/ },
   { href: '#negative-orb', pattern: /^(orbe negativo|orbes negativos)$/ },
+  { href: '#anima-quartz', pattern: /^(cuarzos de ánima|cuarzo de ánima)$/ },
   // cosmos
   { href: '#cosmos', pattern: /^níblom$/ },
+  // cities
+  { href: '#artids', pattern: /^ártids$/ },
+  { href: '#dasodis', pattern: /^dasódis$/ },
+  { href: '#fteryon', pattern: /^ftéryon$/ },
+  { href: '#erimos', pattern: /^érimos$/ },
+  { href: '#ptéryon', pattern: /^ptéryon$/ },
+  { href: '#rerecros', pattern: /^rérecros$/ },
+  { href: '#yperos', pattern: /ýperos$/ },
   // organizations
   { href: '#cert', pattern: /^cert$/ },
   { href: '#type-ii', pattern: /^tipo-ii$/ },

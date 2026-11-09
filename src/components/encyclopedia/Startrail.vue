@@ -284,7 +284,7 @@ const name = '☆ Estela ☆';
       <li>
         <h3 id="teleport" class="background-caudate">- Teleportación</h3>
         Hace aparecer al usuario en una localización arbitraria dentro de su capacidad. Las
-        <span>plataformas transmutadoras</span> usan un principio parecido.
+        <span>plataformas de transmutación</span> usan un principio parecido.
       </li>
       <li>
         <h3 id="auxiliary-snack" class="background-neutral">- Tentempié auxiliar</h3>

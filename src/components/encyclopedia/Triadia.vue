@@ -9,9 +9,10 @@ const name = '⛿ Triadia ⛿';
     <p>
       La <span class="no-decoration"><b>Ecocracia de Triadia</b></span> es el gobierno más grande e
       importante de <span class="style-lytflos">Lytflos</span>, y está constituida por siete grandes
-      ciudades: Artids, Ftéryon, Dasódis, Érimos, Ptéryon, Rérecros e Ýperos. Cada ciudad cuenta con
-      un alcalde elegido democráticamente, encargado de administrar la economía local, gestionar
-      proyectos municipales y satisfacer las necesidades de sus ciudadanos.
+      ciudades: <span>Ártids</span>, <span>Ftéryon</span>, <span>Dasódis</span>,
+      <span>Érimos</span>, <span>Ptéryon</span>, <span>Rérecros</span> e <span>Ýperos</span>. Cada
+      ciudad cuenta con un alcalde elegido democráticamente, encargado de administrar la economía
+      local, gestionar proyectos municipales y satisfacer las necesidades de sus ciudadanos.
     </p>
     <p>
       Aunque las ciudades gozan de una considerable autonomía administrativa, mantienen una relación
@@ -47,7 +48,7 @@ const name = '⛿ Triadia ⛿';
     </p>
     <p>
       Para traversar entre ciudades se utilizan
-      <span>plataformas transmutadoras</span>, que facilitan a los
+      <span>plataformas de transmutación</span>, que facilitan a los
       <span class="style-folia">folia</span> viajar e incluso trabajar entre regiones sin
       preocuparse por largas distancias. El <span>expreso dendrón</span> también conecta todas las
       ciudades, pero está cerca de descontinuar sus operaciones a favor de dichas plataformas.
@@ -72,7 +73,7 @@ const name = '⛿ Triadia ⛿';
       dificultado su repoblación, hasta que algunas zonas fueron restauradas y abiertas al público.
       Para explorar áreas más profundas se requiere la compañía de un arqueólogo o un expiador.
     </p>
-    <b>Localizaciones:</b>
+    <b>Puntos de interés:</b>
     <ul>
       <li
         v-for="name in [
@@ -87,89 +88,84 @@ const name = '⛿ Triadia ⛿';
     </ul>
     <h2 id="livadi">~ Caminos de Livádi</h2>
     <p>
-      Del griego λιβάδι (livádi, lit. «prado»), se trata de un gigantesco campo cuyo centro tiene
-      una inmensa cama flores, ubicado cerca del centro de
-      <span class="style-triadia">Triadia</span> . Desde Livádi se puede llegar a cualquiera de las
-      Siete Ciudades a pie, aunque el viaje tomaría días. Aquí se libró la última batalla de la Era
-      de Conquista en el año 2636
+      Del griego <i>λιβάδι</i> (livádi, lit. «pradera»), se trata de una inmensa colina cubierta de
+      flores, situada geográficamente en el centro mismo de Triadia. Se extiende a lo largo de
+      cientos de kilómetros y cuenta con senderos de piedra que conducen a cada una de las Siete
+      Ciudades, aunque recorrer a pie la distancia hasta cualquiera de ellas llevaría días, o tal
+      vez incluso semanas.
+    </p>
+    <p>
+      Los senderos parten del Monumento a la Compasión: una columnata circular con una
+      <span>plataforma de transmutación</span> en su centro, que marca el punto de inicio de estas
+      rutas. Dicho monumento fue erigido debido a que Livádi fue el escenario de la batalla final de
+      la <span>Era de la Conquista</span>, librada entre
       <span class="spoiler">
-        entre la alianza de los Nobles de Glaen y la Caballería de Aricontes contra los Caudados de
-        Rérecros. Una vez Arqheid Keyes derrocó a Arthe Rérecros y se hizo con el Anillo Septenario
-        de la ciudadela, lo llevó a Livádi como prueba del fin de su tiranía
+        la alianza de Nobles y Caballeros contra los Caudados de Rérecros. Tras hacerse con el
+        Anillo Septenario de Rérecros —derrocando en el proceso al tirano Arthe—, Arqheid Keyes lo
+        llevó a Livádi como prueba de que el régimen del tirano había llegado a su fin
       </span>
       .
     </p>
     <p>
-      Hay algunas ruinas esparcidas en el espacio que comprende Livádi, pero la mayoría son
-      estructuras que no tienen valor alguno en el presente, excepto por uno: un especie de búnker
-      subterráneo que contiene una central eléctrica. Aunque los generadores en sí se ven
-      insalvables, es posible que las instalaciones contengan pistas sobre los Años Anteriores.
+      También es posible encontrar ruinas, en su mayoría estructuras gravemente dañadas, cubiertas
+      de vegetación y carentes de valor científico o académico. Sin embargo, un búnker único y
+      misterioso permanece intacto en el lugar. Aunque ha sido investigado numerosas veces, es
+      posible que aún contenga pistas sobre los <span>Años Anteriores</span>.
     </p>
-    <p>
-      En el prado se encuentran flores gigantescas, tan grandes y sólidas que sus pétalos sostienen
-      tierra por sobre la que se puede caminar y construir. Localizaciones de interés: Expreso
-      Dendrón.
-    </p>
-    <b>Localizaciones:</b>
     <ul>
-      <li v-for="name in ['Monumento al 2636', 'Ruinas (Central Eléctrica)'].sort()" :key="name">
+      <li
+        v-for="name in ['Monumento a la Compasión', 'Búnker misterioso', 'Villa Livádi'].sort()"
+        :key="name"
+      >
         {{ name }}
       </li>
     </ul>
     <h2 id="dasodis">~ Dasódis 🏛</h2>
     <p>
-      Proveniente del griego δασώδης (Dasódis, lit. «arbolado»), esta ciudad es una de las más
-      importantes del mundo, pues aquí crece y se produce la mayoría de las flores y té del mundo
-      para ser exportados a otras ciudades. Conocido también por sus especialistas talentosos y
-      especialmente la familia Ōrora, progenitores de la transmutación, sembradores del árbol
-      planetario, e inventores de las plataformas transmutadoras. Completamente opuesto a la
-      capital, aquí la ciudad se identifica por su verdor y sus hogares de aspecto más rural; casi
-      todas las viviendas están cubiertas por los árboles de la zona, y algunas son parte de los
-      mismos.
+      Del griego δασώδης (dasódis, lit. «arbolado»). En esta ciudad crece el Árbol Estela: un
+      ejemplar del tamaño de una montaña que alcanzó su tamaño actual mediante
+      <span class="style-dendrites">dendritas</span>. Esta hazaña fue obra de Koari Awa, lideresa de
+      los <span>Vagantes de Rérecros</span>, inventora de la transmutación y madre de la familia
+      Ōrora, quienes han continuado su legado a través de desarrollar técnicas derivadas. Un ejemplo
+      del presente es el de Theod Ōrora, quien inventó las plataformas de transmutación que permiten
+      a los <span class="style-folia">folia</span>
+      moverse entre ciudades en un instante.
     </p>
     <p>
-      Al inicio del año 2997 ocurrió una explosión de luz en la copa del árbol planetario que fue
-      directamente visible para al menos la mitad de los habitantes del mundo. La teoría más popular
-      es que se trató de una muestra de la energía contenida en los cuarzos de ánima, mas nadie está
-      seguro de qué causó realmente tal fenómeno, y la mayoría desacredita la existencia de dichos
-      cuarzos.
+      El abrumador verdor del bosque de pinos, la producción de té mágico, y los hogares de estilo
+      rústico arropados en la sombra del Árbol Estela son la identidad de la ciudad. Algunas
+      viviendas incluso forman parte del mismo árbol, como la de Ílios Quercus, el actual
+      representante de <span class="style-caudate">caudados</span>.
     </p>
     <p>
-      Por desgracia, esta ciudad es también conocida por ser el lugar donde ocurrió la Masacre de
-      Dasódis, un incidente donde decenas de pacientes del Hospital Doshi fueron asesinados. La
-      naturaleza misteriosa y sangrienta del caso trajo mucha conmoción y llevó a las personas a
-      cuestionar la seguridad de la ecocracia.
+      En el primer segundo del año 2997, justo por encima del Árbol Estela ocurrió una explosión de
+      luz la cual generó una colorida onda expansiva que fue visible en toda Triadia. Aunque asustó
+      a muchos habitantes, no causó ningún daño, y es comúnmente descrito como el fenómeno más
+      hermoso jamás presenciado. Se rumorea que la misteriosa explosión está relacionada con los
+      <span>cuarzos de ánima</span>.
     </p>
-    <b>Habitantes:</b>
+    <p>
+      Lamentablemente, en el presente también tiene la fama de ser el sitio donde ocurrió la Masacre
+      del Hospital Midiki, un incidente en el que decenas de pacientes perdieron la vida,
+      presuntamente a manos de la última descendiente de la familia de transmutadores: Koizu Ōrora,
+      hija de Theod. La perturbadora naturaleza de este macabro suceso conmocionó al mundo entero,
+      lo que llevó a los Triadios a cuestionar la seguridad de la Ecocracia.
+    </p>
+    <b>Puntos de interés:</b>
     <ul>
       <li
         v-for="name in [
-          'Sucreuq Ílyos',
-          'Retsyo Ochamo',
-          'Retsyo Rowe',
-          'Diz Elial',
-          'Ōrora Theod',
-          'Ōrora Díanys',
-        ].sort()"
-        :key="name"
-      >
-        {{ name }}
-      </li>
-    </ul>
-    <b>Localizaciones:</b>
-    <ul>
-      <li
-        v-for="name in [
-          'Árbol Astronómico',
+          'Árbol Estela',
           'Bosque de Dasódis',
           'Hospital Mídiki',
           'Mansión Ōrora',
           'Casa de Té Retsyo',
+          'Colinas de Dasódis',
+          'Cripta Umbrática',
         ].sort()"
         :key="name"
-      >
-        {{ name }}
-      </li>
+        v-html="name"
+      ></li>
     </ul>
     <h2 id="erimos">~ Érimos 🏛</h2>
     <p>
@@ -200,7 +196,7 @@ const name = '⛿ Triadia ⛿';
         {{ name }}
       </li>
     </ul>
-    <b>Localizaciones:</b>
+    <b>Puntos de interés:</b>
     <ul>
       <li
         v-for="name in [
@@ -220,7 +216,7 @@ const name = '⛿ Triadia ⛿';
       ciudades de <span class="style-triadia">Triadia</span> . Fue construído por
       <span>Tipo-II</span> usando nada más que sistemas estela, lo cual le permite funcionar
       exclusivamente a base de estela sin necesidad de generar energía eléctrica. En el presente es
-      mayormente ignorado a favor de las plataformas transmutadoras.
+      mayormente ignorado a favor de las plataformas de transmutación.
     </p>
     <p>
       Debido a su prácticamente nula clientela, solo un único maquinista está a cargo de los viajes:
@@ -259,7 +255,7 @@ const name = '⛿ Triadia ⛿';
         {{ name }}
       </li>
     </ul>
-    <b>Localizaciones:</b>
+    <b>Puntos de interés:</b>
     <ul>
       <li
         v-for="name in [
