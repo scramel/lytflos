@@ -55,7 +55,7 @@ const name = '⛿ Triadia ⛿';
     </p>
     <h2 id="artids">~ Ártids 🏛</h2>
     <p>
-      Del Frisio <i>eartiids</i> (lit. «en el pasado»), es la ciudad mejor conservada tras el
+      Del Frisio <i>eartiids</i> (lit. «en el pasado»). Es la ciudad mejor conservada tras el
       <span>Día de la Expiación</span>. Aquí se encuentran numerosos talleres de sistemas estela,
       las mejores fuentes de información acerca de los <span>Años Anteriores</span>, y el mayor
       yacimiento arqueológico de tecnología antigua conocido.
@@ -88,7 +88,7 @@ const name = '⛿ Triadia ⛿';
     </ul>
     <h2 id="livadi">~ Caminos de Livádi</h2>
     <p>
-      Del griego <i>λιβάδι</i> (livádi, lit. «pradera»), se trata de una inmensa colina cubierta de
+      Del griego <i>λιβάδι</i> (livádi, lit. «pradera»). Se trata de una inmensa colina cubierta de
       flores, situada geográficamente en el centro mismo de Triadia. Se extiende a lo largo de
       cientos de kilómetros y cuenta con senderos de piedra que conducen a cada una de las Siete
       Ciudades, aunque recorrer a pie la distancia hasta cualquiera de ellas llevaría días, o tal
@@ -122,7 +122,7 @@ const name = '⛿ Triadia ⛿';
     </ul>
     <h2 id="dasodis">~ Dasódis 🏛</h2>
     <p>
-      Del griego δασώδης (dasódis, lit. «arbolado»). En esta ciudad crece el Árbol Estela: un
+      Del griego <i>δασώδης</i> (dasódis, lit. «arbolado»). En esta ciudad crece el Árbol Estela: un
       ejemplar del tamaño de una montaña que alcanzó su tamaño actual mediante
       <span class="style-dendrites">dendritas</span>. Esta hazaña fue obra de Koari Awa, lideresa de
       los <span>Vagantes de Rérecros</span>, inventora de la transmutación y madre de la familia
@@ -134,7 +134,7 @@ const name = '⛿ Triadia ⛿';
     <p>
       El abrumador verdor del bosque de pinos, la producción de té mágico, y los hogares de estilo
       rústico arropados en la sombra del Árbol Estela son la identidad de la ciudad. Algunas
-      viviendas incluso forman parte del mismo árbol, como la de Ílios Quercus, el actual
+      edificaciones incluso forman parte del mismo árbol, como la de Íryos Quercus, el actual
       representante de <span class="style-caudate">caudados</span>.
     </p>
     <p>
@@ -145,11 +145,12 @@ const name = '⛿ Triadia ⛿';
       <span>cuarzos de ánima</span>.
     </p>
     <p>
-      Lamentablemente, en el presente también tiene la fama de ser el sitio donde ocurrió la Masacre
-      del Hospital Midiki, un incidente en el que decenas de pacientes perdieron la vida,
-      presuntamente a manos de la última descendiente de la familia de transmutadores: Koizu Ōrora,
-      hija de Theod. La perturbadora naturaleza de este macabro suceso conmocionó al mundo entero,
-      lo que llevó a los Triadios a cuestionar la seguridad de la Ecocracia.
+      Lamentablemente, en el presente también tiene la fama de ser el sitio donde ocurrió la
+      <span>Masacre del Hospital Midiki</span>, un incidente en el que decenas de pacientes
+      perdieron la vida, presuntamente a manos de la última descendiente de la familia de
+      transmutadores: Koizu Ōrora, hija de Theod. La perturbadora naturaleza de este macabro suceso
+      conmocionó al mundo entero, lo que llevó a los Triadios a cuestionar la seguridad de la
+      Ecocracia.
     </p>
     <b>Puntos de interés:</b>
     <ul>
@@ -169,41 +170,35 @@ const name = '⛿ Triadia ⛿';
     </ul>
     <h2 id="erimos">~ Érimos 🏛</h2>
     <p>
-      Una ciudad bajo un cañón, cuidadosamente tallada de piedra a través de los años, sostenida por
-      el techo de la cueva donde se encuentra. Muchas personas aquí venden piedras preciosas gracias
-      a su cercanía a la Mina Prohibida. Por su lugar en el mundo (médanos del sur) y la unicidad de
-      sus vistas, es un lugar popular entre los turistas.
+      Del griego <i>έρημος</i> (érimos, lit. «desierto»). Una ciudad invertida situada en las
+      cavernas debajo del <span>Cañón del Sur</span>, cuidadosamente esculpida por
+      <span class="style-flowering">florecidos</span> a lo largo de siglos; es prácticamente una
+      obra de arte transitable, y costosa de habitar. Aquí prospera el comercio de piedras preciosas
+      gracias a su proximidad a la Mina Prohibida, y es un punto de turismo popular gracias a su
+      ubicación en los Médanos del Sur y su distintiva arquitectura, única en el mundo.
     </p>
     <p>
-      En la superficie está Pueblo Cañón, un pequeño y caluroso lugar. No muchos visitan este pueblo
-      excepto inversionistas interesados en exportar cerezas aparisivas a otras ciudades, y otros
-      que están de paso para invertir en piedras preciosas. Existen rumores de tratos de naturaleza
-      no muy legal: contrabando de espírios y objetos raros. Este lugar es constantemente vigilado
-      por el sheriff.
+      Justo sobre la superficie de Érimos se encuentra Pueblo Cañón, un pequeño, caluroso y humilde
+      sitio en comparación. No es muy visitado excepto por inversionistas interesados en el comercio
+      de <span>cerezas aparisivas</span> y oficiales con asuntos privados que atender en el
+      <span>Subsuelo de Abbso</span>, la prisión más peligrosa de Triadia.
     </p>
-    <b>Habitantes:</b>
-    <ul>
-      <li
-        v-for="name in [
-          'Dewa Oroke',
-          'Faumiller Cadence',
-          'Faumiller Clamare',
-          'Wilger Reeves',
-          'Wren',
-        ].sort()"
-        :key="name"
-      >
-        {{ name }}
-      </li>
-    </ul>
+    <p>
+      Se rumorea que en Érimos y sus cercanías se contrabandean espírios y objetos raros. Por
+      suerte, el siempre malhumorado aunque servicial Sheriff constantemente patrulla la región, y
+      captura a cualquier malhechor con el que se topa.
+    </p>
     <b>Puntos de interés:</b>
     <ul>
       <li
         v-for="name in [
           'Estanque Turquesa',
           'Observatorio Falso',
-          'Sello Discográfico Chordyline',
+          'Granja Chordyline',
           'Subsuelo de Abbso',
+          'Pueblo Cañón',
+          'Mina Prohibida',
+          'Zona residencial',
         ].sort()"
         :key="name"
       >
@@ -212,30 +207,31 @@ const name = '⛿ Triadia ⛿';
     </ul>
     <h2 id="dendron-express">~ Expreso Dendrón</h2>
     <p>
-      También conocido como solamente Dendrón, es un sistema ferroviario que conecta con todas las
-      ciudades de <span class="style-triadia">Triadia</span> . Fue construído por
-      <span>Tipo-II</span> usando nada más que sistemas estela, lo cual le permite funcionar
-      exclusivamente a base de estela sin necesidad de generar energía eléctrica. En el presente es
-      mayormente ignorado a favor de las plataformas de transmutación.
+      El sistema ferroviario que conecta todas las ciudades de
+      <span>Triadia</span>. Fue desarrollado por <span>Tipo-II</span> utilizando exclusivamente
+      <span>sistemas estela</span>, lo que elimina cualquier necesidad de energía eléctrica. Aunque
+      fue la maravilla del momento durante su inauguración, su popularidad duró poco, ya que hoy en
+      día la gente prefiere utilizar <span>plataformas de transmutación</span>.
     </p>
     <p>
-      Debido a su prácticamente nula clientela, solo un único maquinista está a cargo de los viajes:
-      Roserv Karsoni, un amargado, socialmente torpe, y conformista sujeto. Él viaja diligentemente
-      todos los días alrededor del mundo para cumplir su cuota, incluso si no lleva pasajeros. El
-      tren puede flotar por los aires y moverse a velocidades exorbitantes, lo cual toma
-      desprevenidos a los clientes ignorantes de este hecho.
+      Debido a su, en esencia, nula clientela, solo queda un operador a cargo de los trayectos:
+      Roserv Karsoni, un amargado, socialmente torpe y resignado individuo. Cada día, Roserv
+      diligentemente recorre todas las estaciones de <span>Triadia</span> para cumplir con su cuota,
+      incluso cuando no lleva pasajeros a bordo. El tren es capaz de flotar por los aires y
+      desplazarse a velocidades extraordinarias, algo que a menudo toma por sorpresa a los pasajeros
+      desprevenidos.
     </p>
 
     <h2 id="fteryon">~ Ftéryon 🏛</h2>
     <p>
-      Del griego φτερωτός (fterotós, lit. «plumados»), es un conjunto de islas flotantes al norte de
-      <span class="style-triadia">Triadia</span> que se han envuelto en concreto para dar lugar a la
-      ciudad de los alados. El peso del concreto ha superado la capacidad de las islas, por lo que
-      un gran motor que mueve alas giratorias en el fondo de las mismas han sido instalados. Aquí
-      reside el Palacio de Glaen, el cual se ha mantenido sin dueño desde el fin de la Era de
-      Conquista. Es considerada la ciudad más hermosa del mundo por sus vistas, arquitectura, y
-      cascadas. A pesar de ello, el costo de vivienda es bajo dado que normalmente solo los alados
-      soportan el clima frío.
+      Del Griego <i>φτερωτός</i> (fterotós, lit. «plumados»). Ftéryon es un conjunto de islas
+      flotantes al norte de <span class="style-triadia">Triadia</span> que se han envuelto en
+      concreto para dar lugar a la ciudad de los alados. El peso del concreto ha superado la
+      capacidad de las islas, por lo que un gran motor que mueve alas giratorias en el fondo de las
+      mismas han sido instalados. Aquí reside el Palacio de Glaen, el cual se ha mantenido sin dueño
+      desde el fin de la Era de Conquista. Es considerada la ciudad más hermosa del mundo por sus
+      vistas, arquitectura, y cascadas. A pesar de ello, el costo de vivienda es bajo dado que
+      normalmente solo los alados soportan el clima frío.
     </p>
     <p>
       La Sede Central de Control Climático se encuentra aquí: un lugar donde no solo se estudia la

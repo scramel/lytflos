@@ -24,11 +24,11 @@ const name = '☘ Folia ☘';
       semi-antropomórfica bastante pronunciada, mientras que en la adultez su anatomía asemeja un
       poco más al humano. Los <span class="style-folia">folia</span> más altos pueden llegar a medir
       alrededor de un metro y medio —excepto algunas figuras importantes, que pueden ser más altos—,
-      y viven en promedio trescientos años dado el calendario de
-      <span class="style-lytflos">Lytflos</span>. Entre otras características: tienen 4 dedos en
-      cada mano y pie; el color de su tejido epitelial (su «piel») no se limita al verde, sino que
-      puede contener manchas y patrones; y dependiendo de sus familias, en sus cabezas les crecen
-      hojas, pétalos, u hongos, que parecen cabellos.
+      y viven en promedio 300 años dado el calendario de <span class="style-lytflos">Lytflos</span>.
+      Entre otras características: tienen 4 dedos en cada mano y pie; el color de su tejido
+      epitelial (su «piel») no se limita al verde, sino que puede contener manchas y patrones; y
+      dependiendo de sus familias, en sus cabezas les crecen hojas, pétalos u hongos que asemejan
+      cabellos.
     </p>
     <img src="/images/folia-concept-art.webp" alt="Folia concept art" loading="lazy" />
     <p style="text-align: center">
