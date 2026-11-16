@@ -81,7 +81,7 @@ const name = '⛿ Triadia ⛿';
           'Zona residencial abandonada',
           'Zona arqueológica',
           'Taller Ibelle',
-        ].sort()"
+        ].sorten()"
         :key="name"
         v-html="name"
       ></li>
@@ -114,7 +114,7 @@ const name = '⛿ Triadia ⛿';
     </p>
     <ul>
       <li
-        v-for="name in ['Monumento a la Compasión', 'Búnker misterioso', 'Villa Livádi'].sort()"
+        v-for="name in ['Monumento a la Compasión', 'Búnker misterioso', 'Villa Livádi'].sorten()"
         :key="name"
       >
         {{ name }}
@@ -163,7 +163,7 @@ const name = '⛿ Triadia ⛿';
           'Casa de Té Retsyo',
           'Colinas de Dasódis',
           'Cripta Umbrática',
-        ].sort()"
+        ].sorten()"
         :key="name"
         v-html="name"
       ></li>
@@ -199,7 +199,7 @@ const name = '⛿ Triadia ⛿';
           'Pueblo Cañón',
           'Mina Prohibida',
           'Zona residencial',
-        ].sort()"
+        ].sorten()"
         :key="name"
       >
         {{ name }}
@@ -224,56 +224,61 @@ const name = '⛿ Triadia ⛿';
 
     <h2 id="fteryon">~ Ftéryon 🏛</h2>
     <p>
-      Del Griego <i>φτερωτός</i> (fterotós, lit. «plumados»). Ftéryon es un conjunto de islas
-      flotantes al norte de <span class="style-triadia">Triadia</span> que se han envuelto en
-      concreto para dar lugar a la ciudad de los alados. El peso del concreto ha superado la
-      capacidad de las islas, por lo que un gran motor que mueve alas giratorias en el fondo de las
-      mismas han sido instalados. Aquí reside el Palacio de Glaen, el cual se ha mantenido sin dueño
-      desde el fin de la Era de Conquista. Es considerada la ciudad más hermosa del mundo por sus
-      vistas, arquitectura, y cascadas. A pesar de ello, el costo de vivienda es bajo dado que
-      normalmente solo los alados soportan el clima frío.
+      Del Griego <i>φτερωτός</i> (fterotós, lit. «con alas»). Un conjunto de islas flotantes
+      situadas al norte de <span class="style-triadia">Triadia</span>, envueltas en arquitectura de
+      piedra de estilo medieval y gótico. Sus empinadas montañas obligaron a erigir estructuras de
+      gran verticalidad: los edificios se apilan unos sobre otros, interconectados mediante puentes
+      y pasadizos, similar a <span>Rérecros</span>. Recorrer <span>Ftéryon</span> sin alas es en sí
+      mismo un reto, pero hay quienes lo han convertido en un juego de parkour: los más ágiles
+      aprovechan cada tejado, barandilla y atajo para desplazarse con rapidez. Son pocos los
+      no-<span class="style-winged">alados</span>
+      que soportan el frío de Ftéryon.
     </p>
     <p>
-      La Sede Central de Control Climático se encuentra aquí: un lugar donde no solo se estudia la
-      manipulación climática y sus efectos en la naturaleza y náturs, sino que también es la sede
-      donde a los alados les asignan misiones de estabilización climática en el mundo. En otras
-      palabras, aquí las personas se reúnen para evitar desastres naturales en el mundo. Ftéryon es
-      también donde se lleva a cabo el Torneo de Vuelos Trienal, donde los alados más veloces se dan
-      a conocer. Localizaciones de interés: Biblioteca de Ftéryon. Coliseo Celestial. Expreso
-      Dendrón. Palacio de Glaen. Residencias. SCCC: Sede Central de Control Climático.
+      La Central de Control Climático se encuentra aquí, una instalación dedicada al estudio
+      meteorológico, entrenamiento de <span class="style-winged">alados</span>, y despliegue de
+      misiones de intervención climática. En pocas palabras, aquí los
+      <span class="style-folia">folia</span> se reúnen para identificar, evitar y detener desastres
+      naturales alrededor del mundo.
     </p>
-    <b>Habitantes:</b>
-    <ul>
-      <li
-        v-for="name in ['Nakoshi Mai', 'Nakoshi Nai', 'Nakoshi Wai', 'Lifrei Nicaul'].sort()"
-        :key="name"
-      >
-        {{ name }}
-      </li>
-    </ul>
+    <p>
+      Otros puntos de interés incluyen: el <span>Palacio Glaen</span>, hogar de quien fue alguna vez
+      la princesa de Ftéryon durante la <span>Era de Conquista</span>; la Biblioteca de Ftéryon, el
+      archivo más grande de Triadia; el Coliseo Celestial, escenario de todo tipo de eventos,
+      especialmente competiciones deportivas; y las islas abandonadas, que albergan edificios
+      completamente distintos al resto de la ciudad.
+    </p>
     <b>Puntos de interés:</b>
     <ul>
       <li
         v-for="name in [
-          'Biblioteca',
+          'Biblioteca de Ftéryon',
           'Coliseo Celestial',
-          'Palacio de Glaen',
-          'Sede Central de Control Climático (SCCC)',
-        ].sort()"
+          'Palacio Glaen',
+          'Central de Control Climático (CCC)',
+          'Zona residencial',
+          'Edificios de antaño',
+          'Generador de poder',
+        ].sorten()"
         :key="name"
       >
         {{ name }}
       </li>
     </ul>
-    <h2 id="lykofos-lost-city">~ Lykófos (ciudad perdida)</h2>
+    <h2 id="lykofos-lost-city">~ Lykófos (zona inexplorada)</h2>
     <p>
-      Al norte de Lykófos se encuentran los restos de una ciudad de los Años Anteriores. Se
-      considera inadecuado para vivir, pero algunos pobladores de la villa lo exploran a menudo e
-      incluso se han establecido algunos como residentes. Los árboles tapan el cielo, cual cúpula.
+      Al norte de <span>Lykófos</span> se encuentra un bosque aterrador que contiene restos de una
+      ciudad de los <span>Años Anteriores</span>. Aunque se considera peligroso y es objeto de
+      cuentos de terror, algunos pobladores de la villa lo exploran a menudo e incluso acampan allí.
+      Algunos no han vuelto.
     </p>
-    <b>Habitantes:</b>
+    <p>
+      Los árboles del bosque forman una cúpula nútural, por lo que aún de día la zona es oscura por
+      dentro.
+    </p>
+    <b>Puntos de interés:</b>
     <ul>
-      <li v-for="name in ['N3V-10K'].sort()" :key="name">
+      <li v-for="name in ['Búnker sellado', 'Conjunto de apartamentos'].sorten()" :key="name">
         {{ name }}
       </li>
     </ul>
@@ -289,12 +294,6 @@ const name = '⛿ Triadia ⛿';
       pueden llevarse náturs si ocurre que se encariñan entre sí, pero solo bajo supervisión de un
       guarda que asegure la seguridad de los visitantes y la pureza del sitio.
     </p>
-    <b>Habitantes:</b>
-    <ul>
-      <li v-for="name in ['Nieve'].sort()" :key="name">
-        {{ name }}
-      </li>
-    </ul>
     <h2 id="novinsoul">~ Novinsoul</h2>
     <p>
       Una academia en una isla al sureste de <span class="style-triadia">Triadia</span> dirigida por
@@ -339,7 +338,7 @@ const name = '⛿ Triadia ⛿';
     <b>Habitantes:</b>
     <ul>
       <li
-        v-for="name in ['Eialagn Kyria', 'Teri el Vagante', 'Hermanas Merosa'].sort()"
+        v-for="name in ['Eialagn Kyria', 'Teri el Vagante', 'Hermanas Merosa'].sorten()"
         :key="name"
       >
         {{ name }}
@@ -361,7 +360,13 @@ const name = '⛿ Triadia ⛿';
     <b>Habitantes:</b>
     <ul>
       <li
-        v-for="name in ['Zoelia', 'Terygios Seirina', 'Eimi', 'Feles Thalasa', 'Nero Gida'].sort()"
+        v-for="name in [
+          'Zoelia',
+          'Terygios Seirina',
+          'Eimi',
+          'Feles Thalasa',
+          'Nero Gida',
+        ].sorten()"
         :key="name"
       >
         {{ name }}
@@ -402,7 +407,7 @@ const name = '⛿ Triadia ⛿';
           'Foster Ília',
           'Foster Xias',
           'Foster Meteoro',
-        ].sort()"
+        ].sorten()"
         :key="name"
       >
         {{ name }}
